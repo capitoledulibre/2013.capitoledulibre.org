@@ -224,3 +224,23 @@ footer {
 	padding: 1em 0;
 	border-top: 1px solid #CCC;
 }
+
+/* Sponsors *
+ * -------- */
+
+#sidebar #sponsors .logos,
+#partenaires-or,
+#partenaires-argent,
+#partenaires-bronze {
+	text-align: center;
+}
+
+#partenaires-or h2,
+#partenaires-argent h2,
+#partenaires-bronze h2{
+	text-align: left;
+}
+
+#sidebar #sponsors .logos li {
+	display: inline-block;
+}
