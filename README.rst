@@ -33,7 +33,7 @@ Installation
 ::
 
 	cd cdl2012
-	pelican-theme -s cdltheme-2012
+	pelican-themes -s cdltheme-2012
 
 Générer le site
 ----------------

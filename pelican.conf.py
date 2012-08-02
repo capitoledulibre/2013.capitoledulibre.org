@@ -3,23 +3,23 @@
 
 AUTHOR = u"numahell"
 SITENAME = u"Capitole du Libre"
-SITEURL = '/'
+SITEURL = ''
 THEME = 'cdltheme-2012'
 CSS_FILE = 'styles.css'
 
-#~ 
-#~ ARTICLE_DIR = 'blog'
-#~ ARTICLE_EXCLUDES = ('','blog',)
-#~ PAGE_DIR = ''
-#~ PAGE_EXCLUDES = ('blog',)
-#~ ARTICLE_URL = 'blog/{date:%Y}/{date:%b}/{date:%d}/{slug}.html'
-#~ ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%b}/{date:%d}/{slug}.html'
-#~ ARTICLE_LANG_URL = 'blog/{date:%Y}/{date:%b}/{date:%d}/{slug}-{lang}.html'
-#~ ARTICLE_LANG_SAVE_AS = 'blog/{date:%Y}/{date:%b}/{date:%d}/{slug}-{lang}.html'
-#~ PAGE_URL = '{slug}.html'
-#~ PAGE_SAVE_AS = '{slug}.html'
-#~ PAGE_LANG_URL = '{slug}-{lang}.html'
-#~ PAGE_LANG_SAVE_AS = '{slug}-{lang}.html'
+
+ARTICLE_DIR = 'blog'
+ARTICLE_EXCLUDES = ('','blog',)
+PAGE_DIR = ''
+PAGE_EXCLUDES = ('blog',)
+ARTICLE_URL = 'blog/{date:%Y}/{date:%b}/{date:%d}/{slug}.html'
+ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%b}/{date:%d}/{slug}.html'
+ARTICLE_LANG_URL = 'blog/{date:%Y}/{date:%b}/{date:%d}/{slug}-{lang}.html'
+ARTICLE_LANG_SAVE_AS = 'blog/{date:%Y}/{date:%b}/{date:%d}/{slug}-{lang}.html'
+PAGE_URL = '{slug}.html'
+PAGE_SAVE_AS = '{slug}.html'
+PAGE_LANG_URL = '{slug}-{lang}.html'
+PAGE_LANG_SAVE_AS = '{slug}-{lang}.html'
 
 TIMEZONE = 'Europe/Paris'
 DATE_FORMAT = {
