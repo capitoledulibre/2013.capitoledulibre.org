@@ -5,13 +5,24 @@ Sponsors
 Partenaires Or
 ===============
 
+.. image:: logos/makina-corpus.png
+  :width: 250px
 
 
 Partenaires Argent
 ==================
 
+.. image:: https://static.alwaysdata.com/v3/css/../images/alwaysdata.png
+  :width: 180px
+
 Partenaires Bronze
 ==================
+
+.. image:: logos/logo-solulibre.png
+  :width: 120px
+
+.. image:: logos/logo-free-electrons.png
+  :width: 120px
 
 Pourquoi devenir sponsor
 ==========================
