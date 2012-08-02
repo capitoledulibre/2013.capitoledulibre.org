@@ -8,27 +8,43 @@ Il suffit d'installer pelican dans un virtualenv en local pour générer le site
 Installation
 -------------
 
-1. créer un dossier virtualenv
+#. créer un dossier virtualenv
 
 ::
 
 	virtualenv pelican-sites
+
+#. installer pelican
+
 	cd pelican-sites
 	source bin/activate
 	easy_install pelican
 
-2. Cloner le repository
+#. cloner le repository
 
 ::
 
 	git clone ...
-	
-3. Générer le site à l'aide de la commande make
+
+#. lier le thème dans système de fichiers
+
+::
+
+	cd cdl2012
+	pelican-theme -s cdltheme-2012
+
+Générer le site
+----------------
+
+#. Générer le site à l'aide de la commande make
 
 ::
 
 	make html
 
-4. Ensuite, envoyer les fichiers situés dans "output" sur le serveur
+Mettre en ligne le site
+-------------------------
+
+#. Ensuite, envoyer les fichiers situés dans "output" sur le serveur
   Vous pouvez vous aider de la commande make ssh_upload
  
