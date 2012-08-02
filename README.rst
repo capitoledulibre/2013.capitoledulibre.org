@@ -13,12 +13,14 @@ Installation
 ::
 
 	virtualenv pelican-sites
+	cd pelican-sites
+	source bin/activate
+	easy_install pelican
 
 2. Cloner le repository
 
 ::
 
-	cd pelican-sites
 	git clone ...
 	
 3. Générer le site à l'aide de la commande make
