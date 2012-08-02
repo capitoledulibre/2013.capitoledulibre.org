@@ -8,25 +8,27 @@ Il suffit d'installer pelican dans un virtualenv en local pour générer le site
 Installation
 -------------
 
-#. créer un dossier virtualenv
+1. créer un dossier virtualenv
 
 ::
 
 	virtualenv pelican-sites
 
-#. installer pelican
+2. installer pelican
+
+::
 
 	cd pelican-sites
 	source bin/activate
 	easy_install pelican
 
-#. cloner le repository
+3. cloner le repository
 
 ::
 
 	git clone ...
 
-#. lier le thème dans système de fichiers
+4. lier le thème dans système de fichiers
 
 ::
 
@@ -36,7 +38,7 @@ Installation
 Générer le site
 ----------------
 
-#. Générer le site à l'aide de la commande make
+Générer le site à l'aide de la commande make
 
 ::
 
@@ -45,6 +47,9 @@ Générer le site
 Mettre en ligne le site
 -------------------------
 
-#. Ensuite, envoyer les fichiers situés dans "output" sur le serveur
-  Vous pouvez vous aider de la commande make ssh_upload
+Pour envoyer les fichiers situés dans "output" sur le serveur, vous pouvez vous aider de la commande 
+
+::
+
+	make ssh_upload
  
