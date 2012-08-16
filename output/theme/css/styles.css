@@ -228,10 +228,7 @@ footer {
 /* Sponsors *
  * -------- */
 
-#sidebar #sponsors .logos,
-#partenaires-or,
-#partenaires-argent,
-#partenaires-bronze {
+#sidebar #sponsors .logos {
 	text-align: center;
 }
 
