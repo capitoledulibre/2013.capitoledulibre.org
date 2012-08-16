@@ -11,10 +11,13 @@ FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
-SSH_HOST=winterfell.tetaneutral.net
-SSH_USER=root
-SSH_PORT=2222
-SSH_TARGET_DIR=/var/www/cdl2012
+#SSH_HOST=winterfell.tetaneutral.net
+SSH_HOST=toulibre.org
+#SSH_USER=root
+SSH_USER=toulibre
+#SSH_PORT=2222
+SSH_PORT=22
+SSH_TARGET_DIR=/home/toulibre/cdl2012
 
 DROPBOX_DIR=~/Dropbox/Public/
 

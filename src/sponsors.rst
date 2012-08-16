@@ -8,7 +8,7 @@ Partenaires Or
 Makina Corpus
 --------------
 
-.. image:: logos/makina-corpus.png
+.. image:: static/logos/makina-corpus.png
   :width: 250px
 
 
@@ -28,10 +28,10 @@ Alwaysdata est une plateforme d'hébergement mutualisé/dédié dont les princip
 Partenaires Bronze
 ==================
 
-.. image:: logos/logo-solulibre.png
+.. image:: static/logos/solulibre.png
   :width: 120px
 
-.. image:: logos/logo-free-electrons.png
+.. image:: static/logos/free-electrons.png
   :width: 120px
 
 Pourquoi devenir sponsor
@@ -53,4 +53,4 @@ Devenir sponsors de « Capitole du Libre », c'est :
 
 Affiches, flyers, articles dans la presse grand public et spécialisée, interview sur des radios locales/nationales et réseaux sociaux permettront de relayer très largement l'information sur cet évènement.
 
-`Télécharger le dossier de sponsoring <files/capitole-du-libre-sponsoring.pdf>`_
+`Télécharger le dossier de sponsoring <static/files/capitole-du-libre-sponsoring.pdf>`_

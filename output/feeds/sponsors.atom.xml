@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Capitole du Libre</title><link href="http://www.capitoledulibre.org/" rel="alternate"></link><link href="http://www.capitoledulibre.org/feeds/sponsors.atom.xml" rel="self"></link><id>http://www.capitoledulibre.org/</id><updated>2012-08-16T00:00:00+02:00</updated><entry><title>Nouveaux sponsors</title><link href="http://www.capitoledulibre.org/blog/2012/08/16/nouveaux-sponsors.html" rel="alternate"></link><updated>2012-08-16T00:00:00+02:00</updated><author><name>numahell</name></author><id>tag:www.capitoledulibre.org,2012-08-16:blog/2012/08/16/nouveaux-sponsors.html</id><summary type="html">&lt;p&gt;Déjà quatre entreprises soutiennent le Capitole du libre.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Capitole du Libre</title><link href="http://www.capitoledulibre.org/2012/" rel="alternate"></link><link href="http://www.capitoledulibre.org/2012/feeds/sponsors.atom.xml" rel="self"></link><id>http://www.capitoledulibre.org/2012/</id><updated>2012-08-16T00:00:00+02:00</updated><entry><title>Nouveaux sponsors</title><link href="http://www.capitoledulibre.org/2012/blog/2012/08/16/nouveaux-sponsors.html" rel="alternate"></link><updated>2012-08-16T00:00:00+02:00</updated><author><name>Toulibre</name></author><id>tag:www.capitoledulibre.org/2012,2012-08-16:blog/2012/08/16/nouveaux-sponsors.html</id><summary type="html">&lt;p&gt;Déjà quatre entreprises soutiennent le Capitole du libre.&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Makina Corpus&lt;/li&gt;
 &lt;li&gt;Always Data&lt;/li&gt;
 &lt;li&gt;Free Electrons&lt;/li&gt;
 &lt;li&gt;Solulibre&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Merci à eux ! Vous trouverez plus de détails sur &lt;a class="reference external" href="http://www.capitoledulibre.org/sponsors.html"&gt;la page dédiée aux sponsors&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Merci à eux ! Vous trouverez plus de détails sur &lt;a class="reference external" href="http://www.capitoledulibre.org/2012/sponsors.html"&gt;la page dédiée aux sponsors&lt;/a&gt;.&lt;/p&gt;
 </summary></entry></feed>

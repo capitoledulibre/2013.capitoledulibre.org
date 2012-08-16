@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
-AUTHOR = u"numahell"
+AUTHOR = u"Toulibre"
 SITENAME = u"Capitole du Libre"
-SITEURL = 'http://www.capitoledulibre.org'
+SITEURL = 'http://www.capitoledulibre.org/2012'
 THEME = 'cdltheme-2012'
 CSS_FILE = 'styles.css'
 
@@ -44,6 +44,6 @@ DEFAULT_PAGINATION = 4
 
 # static paths will be copied under the same name
 STATIC_PATHS = ["files","logos",] 
-
+RELATIVE_URLS = False
 
 DIRECT_TEMPLATE = ('index', 'tags', 'categories', 'archives')
