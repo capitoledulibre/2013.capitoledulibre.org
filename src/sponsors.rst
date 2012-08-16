@@ -1,9 +1,12 @@
-===========
+========
 Sponsors
-===========
+========
 
 Partenaires Or
 ===============
+
+Makina Corpus
+--------------
 
 .. image:: logos/makina-corpus.png
   :width: 250px
@@ -12,8 +15,15 @@ Partenaires Or
 Partenaires Argent
 ==================
 
+Alwaysdata
+-----------
+
 .. image:: https://static.alwaysdata.com/v3/css/../images/alwaysdata.png
   :width: 180px
+
+https://www.alwaysdata.com/
+
+Alwaysdata est une plateforme d'hébergement mutualisé/dédié dont les principales valeurs sont la qualité technique, le support des technologies les plus récentes et une équipe proche de ses clients, apportant un support réactif, efficace et des interfaces intuitives et accessibles. En plus d'héberger de nombreuses applications Python/Django, l'architecture d'alwaysdata s'appuie à 90% sur Python. 
 
 Partenaires Bronze
 ==================
@@ -31,16 +41,16 @@ Le Capitole du Libre a regroupé plus de 800 participants en 2011 et, grâce à 
 
 Devenir sponsors de « Capitole du Libre », c'est :
 
-	- Valoriser votre image de marque en tant qu'utilisateurs de Logiciels Libres auprès :
-	 
-	 - des communautés,
-	 - du grand public.
+- Valoriser votre image de marque en tant qu'utilisateurs de Logiciels Libres auprès :
 
-	- Créer des liens de proximité avec les communautés,
-	- Participer à la diffusion du libre vers un large public,
-	- Contribuer au mouvement du libre,
-	- Apporter de la visibilité à l'échelle locale grâce à une campagne de communication dédiée.
+  - des communautés,
+  - du grand public.
+
+- Créer des liens de proximité avec les communautés,
+- Participer à la diffusion du libre vers un large public,
+- Contribuer au mouvement du libre,
+- Apporter de la visibilité à l'échelle locale grâce à une campagne de communication dédiée.
 
 Affiches, flyers, articles dans la presse grand public et spécialisée, interview sur des radios locales/nationales et réseaux sociaux permettront de relayer très largement l'information sur cet évènement.
 
-Télécharger le dossier de sponsoring
+`Télécharger le dossier de sponsoring <files/capitole-du-libre-sponsoring.pdf>`_
