@@ -3,7 +3,7 @@
 
 AUTHOR = u"numahell"
 SITENAME = u"Capitole du Libre"
-SITEURL = ''
+SITEURL = 'http://www.capitoledulibre.org'
 THEME = 'cdltheme-2012'
 CSS_FILE = 'styles.css'
 
@@ -30,14 +30,13 @@ DEFAULT_LANG='fr'
 
 # Blogroll
 LINKS =  (
-    ('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
-    ('Python.org', 'http://python.org'),
-    ('Jinja2', 'http://jinja.pocoo.org'),
+    ('Toulibre', 'http://www.toulibre.org/'),
+    ('Ubuntu-fr', 'http://www.ubuntu-fr.org/'),
          )
 
 # Social widget
 SOCIAL = (
-          ('You can add links in your config file', '#'),
+          ('toulibreorg', 'https://twitter.com/toulibreorg'),
          )
 
 DEFAULT_PAGINATION = 4
@@ -45,3 +44,6 @@ DEFAULT_PAGINATION = 4
 
 # static paths will be copied under the same name
 STATIC_PATHS = ["files","logos",] 
+
+
+DIRECT_TEMPLATE = ('index', 'tags', 'categories', 'archives')
