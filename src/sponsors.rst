@@ -10,7 +10,8 @@ Makina Corpus
 
 .. image:: static/logos/makina-corpus.png
   :width: 250px
-
+  :alt: Makina Corpus
+  :target: http://www.makina-corpus.com/
 
 Partenaires Argent
 ==================
@@ -20,19 +21,32 @@ Alwaysdata
 
 .. image:: https://static.alwaysdata.com/v3/css/../images/alwaysdata.png
   :width: 180px
+  :alt: Alwaysdata
+  :target: https://www.alwaysdata.com/
 
-https://www.alwaysdata.com/
+`Alwaysdata <https://www.alwaysdata.com/>`_ est une plateforme d'hébergement mutualisé/dédié dont les principales valeurs sont la qualité technique, le support des technologies les plus récentes et une équipe proche de ses clients, apportant un support réactif, efficace et des interfaces intuitives et accessibles. En plus d'héberger de nombreuses applications Python/Django, l'architecture d'alwaysdata s'appuie à 90% sur Python. 
 
-Alwaysdata est une plateforme d'hébergement mutualisé/dédié dont les principales valeurs sont la qualité technique, le support des technologies les plus récentes et une équipe proche de ses clients, apportant un support réactif, efficace et des interfaces intuitives et accessibles. En plus d'héberger de nombreuses applications Python/Django, l'architecture d'alwaysdata s'appuie à 90% sur Python. 
+C-S
+----
+
+.. image:: static/logos/c-s.png
+  :width: 180px
+  :alt: C-S
+  :target: https://http://www.c-s.fr/
+
 
 Partenaires Bronze
 ==================
 
 .. image:: static/logos/solulibre.png
   :width: 120px
+  :alt: solulibre
+  :target: http://www.solulibre.com/
 
 .. image:: static/logos/free-electrons.png
   :width: 120px
+  :alt: Free Electrons
+  :target: http://free-electrons.com/
 
 Pourquoi devenir sponsor
 ==========================
