@@ -34,6 +34,13 @@ C-S
   :alt: C-S
   :target: https://http://www.c-s.fr/
 
+Objectif Libre
+--------------
+
+.. image:: static/logos/objectif-libre.png
+  :width: 180px
+  :alt: Objectif Libre
+  :target: http://www.objectif-libre.com/
 
 Partenaires Bronze
 ==================
