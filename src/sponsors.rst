@@ -23,6 +23,7 @@ Alwaysdata
   :width: 180px
   :alt: Alwaysdata
   :target: https://www.alwaysdata.com/
+  :class: logo
 
 `Alwaysdata <https://www.alwaysdata.com/>`_ est une plateforme d'hébergement mutualisé/dédié dont les principales valeurs sont la qualité technique, le support des technologies les plus récentes et une équipe proche de ses clients, apportant un support réactif, efficace et des interfaces intuitives et accessibles. En plus d'héberger de nombreuses applications Python/Django, l'architecture d'alwaysdata s'appuie à 90% sur Python. 
 
@@ -33,6 +34,7 @@ C-S
   :width: 180px
   :alt: C-S
   :target: https://http://www.c-s.fr/
+  :class: logo
 
 Objectif Libre
 --------------
@@ -41,6 +43,14 @@ Objectif Libre
   :width: 180px
   :alt: Objectif Libre
   :target: http://www.objectif-libre.com/
+  
+Sierra Wireless
+---------------
+
+.. image:: static/logos/sierra-wireless.gif
+  :width: 180px
+  :alt: Sierra Wireless
+  :target: http://www.sierrawireless.com/
 
 Partenaires Bronze
 ==================
