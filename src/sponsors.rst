@@ -84,4 +84,11 @@ Devenir sponsors de « Capitole du Libre », c'est :
 
 Affiches, flyers, articles dans la presse grand public et spécialisée, interview sur des radios locales/nationales et réseaux sociaux permettront de relayer très largement l'information sur cet évènement.
 
-`Télécharger le dossier de sponsoring <static/files/capitole-du-libre-sponsoring.pdf>`_
+.. role:: raw-html(raw)
+	:format: html
+
+:raw-html:`<a class='btn' href='static/files/capitole-du-libre-sponsoring.pdf'>
+Télécharger le dossier de sponsoring
+</a>`
+
+
