@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Capitole du Libre</title><link href="http://www.capitoledulibre.org/2012/" rel="alternate"></link><link href="http://www.capitoledulibre.org/2012/feeds/all.atom.xml" rel="self"></link><id>http://www.capitoledulibre.org/2012/</id><updated>2012-08-16T00:00:00+02:00</updated><entry><title>Nouveaux sponsors</title><link href="http://www.capitoledulibre.org/2012/blog/2012/08/16/nouveaux-sponsors.html" rel="alternate"></link><updated>2012-08-16T00:00:00+02:00</updated><author><name>Toulibre</name></author><id>tag:www.capitoledulibre.org/2012,2012-08-16:blog/2012/08/16/nouveaux-sponsors.html</id><summary type="html">&lt;p&gt;Déjà quatre entreprises soutiennent le Capitole du libre.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Capitole du Libre</title><link href="http://www.capitoledulibre.org/2012/" rel="alternate"></link><link href="http://www.capitoledulibre.org/2012/feeds/all.atom.xml" rel="self"></link><id>http://www.capitoledulibre.org/2012/</id><updated>2012-09-11T00:00:00+02:00</updated><entry><title>Appel à conférence</title><link href="http://www.capitoledulibre.org/2012/blog/2012/09/11/appel-a-conference.html" rel="alternate"></link><updated>2012-09-11T00:00:00+02:00</updated><author><name>Thomas Petazzoni</name></author><id>tag:www.capitoledulibre.org/2012,2012-09-11:blog/2012/09/11/appel-a-conference.html</id><summary type="html">&lt;p&gt;Dans le cadre du Capitole du Libre aura lieu le &lt;strong&gt;samedi 24 novembre 2012&lt;/strong&gt; une série de &lt;em&gt;lightning talks&lt;/em&gt;, pour lequel nous lançons un appel à conférences.&lt;/p&gt;
+&lt;p&gt;Les sujets acceptés doivent présenter un lien avec le monde du Logiciel Libre au sens large (logiciel libre, culture libre, open hardware, neutralité du Net). Il peut s'agir de la présentation d'un projet de Logiciel Libre, d'un retour d'expérience, etc.&lt;/p&gt;
+&lt;p&gt;La durée des lightning talks sera de 15 ou 20 minutes, selon le nombre de propositions intéressantes que nous recevrons. Les orateurs sont donc invités à prévoir des interventions courtes mais percutantes.&lt;/p&gt;
+&lt;p&gt;Les personnes intéressées doivent soumettre d'ici au &lt;strong&gt;30 septembre 2012&lt;/strong&gt;, leur proposition de conférence à l'adresse &lt;a class="reference external" href="mailto:contact&amp;#64;toulibre.org"&gt;contact&amp;#64;toulibre.org&lt;/a&gt;, comportant:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Un résumé de leur intervention (5 à 10 lignes)&lt;/li&gt;
+&lt;li&gt;Une mini-biographie de l'intervenant (3 à 5 lignes)&lt;/li&gt;
+&lt;li&gt;Une photographie de l'intervenant&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;L'acceptation ou le rejet des propositions sera notifiée au plus le &lt;strong&gt;15 octobre 2012&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Nous comptons sur la participation de tous, en particulier de la communauté du Logiciel Libre de Toulouse et de sa région. Si vous êtes développeur sur un projet de Logiciel Libre, n'hésitez pas à venir en faire une courte présentation: il est très intéressant dans le cadre d'un événement comme Capitole du Libre de montrer le dynamisme des acteurs du Logiciel Libre sur la région, et la diversité des projets sur lesquels ils travaillent.&lt;/p&gt;
+&lt;p&gt;N'hésitez pas à faire circuler cet appel à conférence auprès des diverses communautés de la région.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;Thomas Petazzoni, pour l'association Toulibre&lt;/p&gt;
+</summary></entry><entry><title>Nouveaux sponsors</title><link href="http://www.capitoledulibre.org/2012/blog/2012/08/16/nouveaux-sponsors.html" rel="alternate"></link><updated>2012-08-16T00:00:00+02:00</updated><author><name>Toulibre</name></author><id>tag:www.capitoledulibre.org/2012,2012-08-16:blog/2012/08/16/nouveaux-sponsors.html</id><summary type="html">&lt;p&gt;Déjà quatre entreprises soutiennent le Capitole du libre.&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Makina Corpus&lt;/li&gt;
 &lt;li&gt;Always Data&lt;/li&gt;
