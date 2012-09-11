@@ -2,9 +2,9 @@
 {% block indextitle %}{% endblock %}
 {% block content %}
 	<div class='article'>
-		<div class="page-header"><h1>{{ article.title }}</h1></div>
+		<h1>{{ article.title }}</h1>
 		<div>{{ article.content }}</div>
-		<div class="well small">{% include "metadata.html" %}</div>
+		<div><em>{% include "metadata.html" %}</em></div>
 		<div>
 			<h2>Comments</h2>
 		 	{% include "twitter.html" %}
