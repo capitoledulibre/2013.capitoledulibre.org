@@ -44,7 +44,8 @@ LINKS =  (
 
 # Social widget
 SOCIAL = (
-          ('toulibreorg', 'https://twitter.com/toulibreorg'),
+          ('Twitter', 'https://twitter.com/toulibreorg'),
+          ('Lanyrd', 'http://lanyrd.com/2012/capitole-du-libre/'),
          )
 
 DEFAULT_PAGINATION = 4

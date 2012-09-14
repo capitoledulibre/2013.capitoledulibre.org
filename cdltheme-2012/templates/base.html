@@ -62,10 +62,12 @@
         <section id="sponsors">
                 <h2>Sponsors</h2>
 
+                <h3 class="hide">Sponsors Or</h3>
                 <ul class="logos thumbnails row-fluid">
                     <li class="span12"><a class="thumbnail" href="http://makina-corpus.com/" target="_blank">
                         <img src="{{ SITEURL }}/static/logos/makina-corpus.png" alt="Logo Makina Corpus" /></a></li>
                 </ul>
+                <h3 class="hide">Sponsors Argent</h3>
                 <ul class="logos thumbnails row-fluid">
                     <li class="span9"><a class="thumbnail" href="https://www.alwaysdata.com/" target="_blank">
                         <img src="{{ SITEURL }}/static/logos/alwaysdata.png" alt="Logo Alwaysdata" /></a></li>
@@ -76,30 +78,43 @@
                     <li class="span9"><a class="thumbnail" href="http://www.sierrawireless.com/" target="_blank">
                         <img src="{{ SITEURL }}/static/logos/sierra-wireless.gif" alt="Logo Sierra Wireless" /></a></li>
                 </ul>
+                <h3 class="hide">Sponsors Bronze</h3>
                 <ul class="logos thumbnails row-fluid">
                     <li class="span6"><a class="thumbnail" href="http://free-electrons.com/" target="_blank">
                         <img src="{{ SITEURL }}/static/logos/free-electrons.png" alt="Free Electrons" /></a></li>
                     <li class="span6"><a class="thumbnail" href="http://www.solulibre.com/" target="_blank">
                         <img src="{{ SITEURL }}/static/logos/solulibre.png" alt="SoluLibre" /></a></li>
                 </ul>
-                <h2>Devenez Sponsors</h2>
-                <p>Téléchargez le <a href="{{ SITEURL }}/static/files/capitole-du-libre-sponsoring.pdf" title="Dossier de sponsoring du Capitole du libre" alt="Dossier de sponsoring du Capitole du libre">dossier de sponsoring</a></p>
-            </section>
-            
-            <section id="partners">
-                <h2>Partenaires</h2>
+                <h3 class="hide">Partenaires</h3>
                 <ul class="logos thumbnails row-fluid">
 
                     <li class="span6"><a class="thumbnail" href="http://www.enseeiht.fr/" target="_blank">
                         <img src="{{ SITEURL }}/static/logos/enseeiht.png" width="155" height="27" alt="Logo ENSEEIHT" /></a></li>
+<!--
                     <li class="span6"><a class="thumbnail" href="http://www.toulouse.fr/" target="_blank">
                         <img src="{{ SITEURL }}/static/logos/logo-toulouse.png" width="150" height="22" alt="Logo Toulouse" /></a></li>
+-->
                 </ul>
+                <h3 class="hide">Devenez Sponsors</h3>
+                <p><a class='btn btn-info' href="{{ SITEURL }}/static/files/capitole-du-libre-sponsoring.pdf" title="Dossier de sponsoring du Capitole du libre" alt="Dossier de sponsoring du Capitole du libre">Téléchargez le dossier de sponsoring</a></p>
             </section>
             
             <section id="communiquer">
                 <h2>Communiquez !</h2>
-				<p>Suivez <a alt="Suivez l'événement sur Lanyrd" target="_blank" href="http://lanyrd.com/2012/capitole-du-libre/">le capitole du libre sur Lanyrd.com</a></p>
+                
+            {% if SOCIAL %}
+                            <ul>
+                                <li><a href="{{ FEED_DOMAIN }}/{{ FEED_ATOM }}" type="application/atom+xml" rel="alternate">atom feed</a></li>
+                                {% if FEED_RSS %}
+                                <li><a href="{{ FEED_DOMAIN }}/{{ FEED_RSS }}" type="application/rss+xml" rel="alternate">rss feed</a></li>
+                                {% endif %}
+
+                            {% for name, link in SOCIAL %}
+                                <li><a href="{{ link }}" target="_blank" >{{ name }}</a></li>
+                            {% endfor %}
+                            </ul>
+            {% endif %}
+        
             </section>
             
             <section id="editions-precedentes">
