@@ -4,13 +4,15 @@
 AUTHOR = u"Toulibre"
 SITENAME = u"Capitole du Libre"
 SITEURL = 'http://www.capitoledulibre.org/2012'
+#~ SITEURL = ''
 THEME = 'cdltheme-2012'
 CSS_FILE = 'styles.css'
 
+DELETE_OUTPUT_DIRECTORY = True
 
 ARTICLE_DIR = 'blog'
 ARTICLE_EXCLUDES = ('','blog',)
-PAGE_DIR = ''
+PAGE_DIR = 'pages'
 PAGE_EXCLUDES = ('blog',)
 ARTICLE_URL = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}.html'
 ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}.html'
@@ -20,6 +22,12 @@ PAGE_URL = '{slug}.html'
 PAGE_SAVE_AS = '{slug}.html'
 PAGE_LANG_URL = '{slug}-{lang}.html'
 PAGE_LANG_SAVE_AS = '{slug}-{lang}.html'
+
+DISPLAY_PAGES_ON_MENU = False
+MENUITEMS = (('Programme', SITEURL + '/programme.html'),
+             ('Sponsors', SITEURL + '/sponsors.html'),
+             ('Informations pratiques', SITEURL + '/informations-pratiques.html'),)
+SOCIAL = (('twitter', 'http://twitter.com/Toulibreorg'),)
 
 TIMEZONE = 'Europe/Paris'
 DATE_FORMAT = {
