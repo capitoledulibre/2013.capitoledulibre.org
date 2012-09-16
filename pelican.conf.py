@@ -48,6 +48,8 @@ SOCIAL = (
           ('Lanyrd', 'http://lanyrd.com/2012/capitole-du-libre/'),
          )
 
+TWITTER_USERNAME = 'Toulibreorg'
+
 DEFAULT_PAGINATION = 4
 
 
