@@ -65,6 +65,11 @@ Partenaires Bronze
   :alt: Free Electrons
   :target: http://free-electrons.com/
 
+.. image:: static/logos/polyconseil.png
+  :width: 120px
+  :alt: Polyconseil
+  :target: http://www.polyconseil.fr/
+
 Pourquoi devenir sponsor
 ==========================
 
