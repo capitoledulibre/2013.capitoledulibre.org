@@ -12,6 +12,9 @@ Makina Corpus
   :width: 250px
   :alt: Makina Corpus
   :target: http://www.makina-corpus.com/
+  :align: left
+
+`Makina Corpus <http://www.makina-corpus.com/>`_ conçoit, développe et intègre des solutions innovantes s'appuyant exclusivement sur des logiciels libres. La société a développé une expertise particulière en applications web complexes, dans le domaine des portails, le traitement de données géographiques (SIG) et l'analyse décisionnelle (Business Intelligence). 
 
 Partenaires Argent
 ==================
@@ -81,6 +84,16 @@ AFPY
 L’`Association Francophone Python <http://afpy.org>`_ est une association à but non lucratif dont les objectifs sont la promotion du langage Python et la création d'une communauté autour de cet outil, dans l'esprit des logiciels libres.
 
 Elle organise (entre autres) notamment tous les ans une `PyCon <http://pycon.fr>`_, des `AFPyros <http://afpy.ro>`_ et tout ce que vous viendrez y apporter :).
+
+Novapost
+---------
+
+.. image:: static/logos/novapost.png
+  :width: 180px
+  :alt: Novapost
+  :target: http://www.novapost.fr/
+
+`Novapost <http://www.novapost.fr/>`_ est une société française, proposant des services en ligne permettant aux entreprises et aux particuliers de simplifier la gestion de leurs documents. Des solutions simples, écologiques et sécurisées permettant de passer au zéro papier. 
 
 Partenaires Bronze
 ==================
