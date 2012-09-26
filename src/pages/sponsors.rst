@@ -33,8 +33,10 @@ C-S
 .. image:: static/logos/c-s.png
   :width: 180px
   :alt: C-S
-  :target: https://http://www.c-s.fr/
+  :target: http://www.c-s.fr/
   :class: logo
+
+CS, Concepteur, Intégrateur, Opérateur de Systèmes Critiques.
 
 Objectif Libre
 --------------
@@ -43,7 +45,11 @@ Objectif Libre
   :width: 180px
   :alt: Objectif Libre
   :target: http://www.objectif-libre.com/
-  
+
+Créée en 2009, `Objectif Libre <http://www.objectif-libre.com/>`_ est par vocation une société de services spécialisée en Logiciels Libres.
+
+Nous accompagnons tous les jours des TPE et PME pour les aider à choisir, intégrer et maîtriser LA solution Open Source qui s'adaptera le mieux à l'architecture existante.
+
 Sierra Wireless
 ---------------
 
@@ -51,6 +57,30 @@ Sierra Wireless
   :width: 180px
   :alt: Sierra Wireless
   :target: http://www.sierrawireless.com/
+
+`Sierra Wireless <http://www.sierrawireless.com/>`_ provides mobile broadband modems, wireless modules, wireless gateways and routers, and an M2M Cloud platform.
+
+MFI
+---
+
+.. image:: static/logos/mfi.png
+  :width: 180px
+  :alt: MFI
+  :target: http://www.mfi.fr/
+
+`Météo France International <http://www.mfi.fr/>`_ : With you for weather
+
+AFPY
+----
+
+.. image:: static/logos/afpy.png
+  :width: 180px
+  :alt: AFPY
+  :target: http://www.afpy.org/
+
+L’`Association Francophone Python <http://afpy.org>`_ est une association à but non lucratif dont les objectifs sont la promotion du langage Python et la création d'une communauté autour de cet outil, dans l'esprit des logiciels libres.
+
+Elle organise (entre autres) notamment tous les ans une `PyCon <http://pycon.fr>`_, des `AFPyros <http://afpy.ro>`_ et tout ce que vous viendrez y apporter :).
 
 Partenaires Bronze
 ==================
