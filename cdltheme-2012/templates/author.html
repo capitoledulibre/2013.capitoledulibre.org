@@ -1,2 +1,17 @@
-{% extends "index.html" %}
-{% block title %}{{ SITENAME }} <small>{{ author }}</small>{% endblock %}
+{% extends "base.html" %}
+{% block title %}{{ SITENAME }} - {{ author }}{% endblock %}
+
+{% block content %}
+
+		{% if articles %}
+	<section id="actus">
+        <h2>Billets de <em>{{ author }}</em></h2>
+		{% for article in (articles_page.object_list if articles_page else articles) %}
+		<div class='article'>
+			<h3><span class="date">{{ article.date.strftime('%d %b %Y') }} : </span><a href={{ article.url }} >{{ article.title }}</a></h3>
+			<p>{{ article.summary }}</p>
+		</div>	
+		{% endfor %}
+	</section>
+		{%endif%}
+{% endblock %}
