@@ -4,7 +4,7 @@ Trois nouveaux sponsors
 
 :date: 2012-09-26
 :category: sponsors
-:author: Emmanuelle Helly, Mathieu Leplâtre
+:author: Emmanuelle Helly
 
 Merci aux nouveaux sponsors du Capitole du Libre qui nous ont rejoint cette semaine :
 
