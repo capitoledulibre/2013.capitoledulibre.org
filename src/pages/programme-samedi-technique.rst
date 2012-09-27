@@ -3,7 +3,7 @@ Conférences techniques, samedi 24 novembre
 ==========================================
 
 "HTML5 et ses amis", Paul Rouget, Mozilla
----
+------------------------------------------
 
 HTML5 est partout. Tout le monde en parle. Mais exploite-t-on toutes
 les possibilités offertes par cette technologie? Que nous attend-il
@@ -11,18 +11,18 @@ demain?  Qu'est-ce que les navigateurs web sont en train de
 construire?
 
 *Paul Rouget is a Firefox engineer and a technology evangelist at
- Mozilla. He is instrumental in combining the latest and greatest open
- Web technologies. His goal is to push the boundaries of the Web and
- ensure that it continues to develop into an open and accessible
- platform for all. Paul works closely with the platform team at
- Mozilla to explore how new technologies can continue to improve
- Firefox. He has been involved with the Mozilla project since 2003
- both as a volunteer and as staff.*
+Mozilla. He is instrumental in combining the latest and greatest open
+Web technologies. His goal is to push the boundaries of the Web and
+ensure that it continues to develop into an open and accessible
+platform for all. Paul works closely with the platform team at
+Mozilla to explore how new technologies can continue to improve
+Firefox. He has been involved with the Mozilla project since 2003
+both as a volunteer and as staff.*
 
 **Conférence de 14h à 15h**
 
 "Internet haut débit citoyen en zone blanche ADSL : l'expérience de l'association tetaneutral.net", Laurent Guerby, Tetaneutral.net
----
+---------------------------------------------------------------------------------------------------------------------------------------
 
 L'association `tetaneutral.net <http://tetaneutral.net>` fondée en
 janvier 2011 est fournisseur d'acces internet, hebergeur et operateur
@@ -48,12 +48,12 @@ libres.*
 **Conférence de 15h à 16h**
 
 "TODO: Titre à définir", Xavier Raffin, Tisséo
----
+-----------------------------------------------
 
 **Conférence de 16h à 17h**
 
 "Pourquoi Git ?", Sébastien Douche
----
+-----------------------------------
 
 Utilisateur de SVN pendant de nombreuses années, j'avais la sensation
 croissante de me battre avec mon outil de travail. Pire, il s'adaptait
@@ -77,9 +77,9 @@ d'organisation. Engagé depuis 15 dans l'action communautaire
 principalement autour de l'Agilité, Python,le Logiciel Libre et
 récemment Go et Dart.*
 
-**Conférence de 17h30 à 18h30*
+**Conférence de 17h30 à 18h30**
 
 "TODO: Conférence à définir"
----
+---------------------------------------------
 
 **Conférence de 18h30 à 19h30**

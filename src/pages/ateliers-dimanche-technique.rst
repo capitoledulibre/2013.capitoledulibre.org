@@ -1,9 +1,12 @@
-===============================================
-Ateliers techniques, dimanche 25 novembre matin
-===============================================
+==========================================
+Ateliers techniques, dimanche 25 novembre
+==========================================
+
+Dimanche matin
+===============
 
 "Débuter avec Git", Sébastien Douche
----
+------------------------------------
 
 Vous voulez apprendre les bases de Git ? C'est session est pour
 vous. Mixant théorie et pratique, cette sesion de 3 heures vous
@@ -43,7 +46,7 @@ récemment Go et Dart.*
 Les inscriptions seront prochainement ouvertes
 
 "A la découverte d'OpenStack, un cloud libre", Christophe Sauthier, Lionel Porcheron
----
+-------------------------------------------------------------------------------------
 
 Lors de cet atelier, vous apprendrez à utiliser OpenStack, le logiciel
 d'Infrastructure as a Service (IaaS) libre qui est derrière les cloud
@@ -72,12 +75,12 @@ machines virtuelles.*
 
 Les inscriptions seront prochainement ouvertes
 
-====================================================
-Ateliers techniques, dimanche 25 novembre après-midi
-====================================================
+
+dimanche après-midi
+=====================
 
 "Se perfectionner avec Git", Sébastien Douche
----
+------------------------------------------------
 
 Vous utilisez Git de manière minimale et souhaiteriez aller plus loin
 ? Nous passerons en revue dans cette atelier de 3h différentes

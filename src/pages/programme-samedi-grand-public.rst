@@ -3,12 +3,12 @@ Conférences grand public, samedi 24 novembre
 ============================================
 
 "Utiliser le Logiciel Libre au quotidien", Alexis Kauffmann, Framasoft
-----
+------------------------------------------------------------------------
 
 **Conférence de 14h à 15h.**
 
 "Libérer Internet: Sexe, alcool et vie privée", Julien Vaubourg et Sébastien Jean, LDN
-----
+---------------------------------------------------------------------------------------
 
 Bob et Carole sont deux jeunes gens qui vous ressemblent.  Une
 aventure, une tromperie, un secret inavouable, voici le synopsys
@@ -41,7 +41,7 @@ neutre et participatif.*
 **Conférence de 15h à 16h**
 
 "TODO: Titre à définir", Jean-Pierre Archambault, CNDP-CDRP
----
+------------------------------------------------------------
 
 Les débuts des logiciels libres dans l'Education nationale remontent à
 Octobre 1998 avec la signature d'un accord-cadre entre le ministère et
@@ -94,14 +94,14 @@ de la création d'une discipline informatique au lycée.*
 **Conférence de 16h à 17h**
 
 "TODO: Titre à définir", Adrienne Alix, Wikimedia France
----
+------------------------------------------------------------
 
 À venir.
 
 **Conférence de 17h30 à 18h30**
 
 "TODO: Titre à définir", Sylvain Wallez
----
+---------------------------------------
 
 "La prochaine révolution sera celle de l'impression 3D
 personnelle". Ce titre vu dans la presse grand public est la partie
