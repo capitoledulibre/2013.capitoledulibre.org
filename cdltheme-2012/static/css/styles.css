@@ -33,14 +33,14 @@ p small {
 }
 h1 {
   font-size: 187.5%;
-  line-height: 2em;
+  line-height: 1.75em;
 }
 h1 small {
   font-size: 112.5%;
 }
 h2 {
   font-size: 150%;
-  line-height: 2em;
+  line-height: 1.5em;
 }
 h2 small {
   font-size: 112.5%;
@@ -93,6 +93,13 @@ h3 { color: #333333; }
 }
 .navbar {
   margin-bottom: 0;
+}
+.align-left {
+  text-align: left;
+}
+img.align-left {
+  float: left;
+  margin: 0 10px 10px 0;
 }
 .align-right {
   text-align: right;
@@ -245,4 +252,20 @@ footer {
 }
 #content .logo {
     margin-bottom: 0.75em;
+}
+
+/* Programm *
+ * -------- */
+ 
+img.photo {
+    -webkit-box-shadow: 6px 6px 8px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    6px 6px 8px rgba(50, 50, 50, 0.75);
+    box-shadow:       6px 6px 8px rgba(50, 50, 50, 0.75);
+}
+
+h2 {
+    clear: left;
+}
+h2 em {
+    font-size: smaller;
 }
