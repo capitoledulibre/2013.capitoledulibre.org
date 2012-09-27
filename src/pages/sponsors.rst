@@ -93,7 +93,29 @@ Novapost
   :alt: Novapost
   :target: http://www.novapost.fr/
 
-`Novapost <http://www.novapost.fr/>`_ est une société française, proposant des services en ligne permettant aux entreprises et aux particuliers de simplifier la gestion de leurs documents. Des solutions simples, écologiques et sécurisées permettant de passer au zéro papier. 
+`Novapost <http://www.novapost.fr/>`_ est une société française, proposant des services en ligne permettant aux entreprises et aux particuliers de simplifier la gestion de leurs documents. Des solutions simples, écologiques et sécurisées permettant de passer au zéro papier.
+
+KDAB
+-----
+
+.. image:: static/logos/kdab.png
+  :width: 180px
+  :alt: KDAB
+  :target: http://www.kdab.com/
+
+`KDAB <http://www.kdab.com/>`_ est composée d'experts Qt, et propose formations, développement, 
+migrations et assistance technique.
+
+Python Software Foundation
+---------------------------
+
+.. image:: static/logos/psf.png
+  :width: 180px
+  :alt: Python Software Foundation
+  :target: http://python.org/psf
+
+L'objectif de la `Python Software Foundation <http://python.org/psf>`_ est de 
+promovoir, défendre et améliorer le langage de programmation Python, et de soutenir les communautés de développeurs Python. 
 
 Partenaires Bronze
 ==================
