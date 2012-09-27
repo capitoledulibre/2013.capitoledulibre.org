@@ -12,7 +12,7 @@ Makina Corpus
   :width: 250px
   :alt: Makina Corpus
   :target: http://www.makina-corpus.com/
-  :align: left
+  :class: logo
 
 `Makina Corpus <http://www.makina-corpus.com/>`_ conçoit, développe et intègre des solutions innovantes s'appuyant exclusivement sur des logiciels libres. La société a développé une expertise particulière en applications web complexes, dans le domaine des portails, le traitement de données géographiques (SIG) et l'analyse décisionnelle (Business Intelligence). 
 
@@ -48,6 +48,7 @@ Objectif Libre
   :width: 180px
   :alt: Objectif Libre
   :target: http://www.objectif-libre.com/
+  :class: logo
 
 Créée en 2009, `Objectif Libre <http://www.objectif-libre.com/>`_ est par vocation une société de services spécialisée en Logiciels Libres.
 
@@ -60,6 +61,7 @@ Sierra Wireless
   :width: 180px
   :alt: Sierra Wireless
   :target: http://www.sierrawireless.com/
+  :class: logo
 
 `Sierra Wireless <http://www.sierrawireless.com/>`_ provides mobile broadband modems, wireless modules, wireless gateways and routers, and an M2M Cloud platform.
 
@@ -70,6 +72,7 @@ MFI
   :width: 180px
   :alt: MFI
   :target: http://www.mfi.fr/
+  :class: logo
 
 `Météo France International <http://www.mfi.fr/>`_ : With you for weather
 
@@ -80,6 +83,7 @@ AFPY
   :width: 180px
   :alt: AFPY
   :target: http://www.afpy.org/
+  :class: logo
 
 L’`Association Francophone Python <http://afpy.org>`_ est une association à but non lucratif dont les objectifs sont la promotion du langage Python et la création d'une communauté autour de cet outil, dans l'esprit des logiciels libres.
 
@@ -92,6 +96,7 @@ Novapost
   :width: 180px
   :alt: Novapost
   :target: http://www.novapost.fr/
+  :class: logo
 
 `Novapost <http://www.novapost.fr/>`_ est une société française, proposant des services en ligne permettant aux entreprises et aux particuliers de simplifier la gestion de leurs documents. Des solutions simples, écologiques et sécurisées permettant de passer au zéro papier.
 
@@ -102,6 +107,7 @@ KDAB
   :width: 180px
   :alt: KDAB
   :target: http://www.kdab.com/
+  :class: logo
 
 `KDAB <http://www.kdab.com/>`_ est composée d'experts Qt, et propose formations, développement, 
 migrations et assistance technique.
@@ -113,6 +119,7 @@ Python Software Foundation
   :width: 180px
   :alt: Python Software Foundation
   :target: http://python.org/psf
+  :class: logo
 
 L'objectif de la `Python Software Foundation <http://python.org/psf>`_ est de 
 promovoir, défendre et améliorer le langage de programmation Python, et de soutenir les communautés de développeurs Python. 
@@ -124,16 +131,19 @@ Partenaires Bronze
   :width: 120px
   :alt: solulibre
   :target: http://www.solulibre.com/
+  :class: logo
 
 .. image:: static/logos/free-electrons.png
   :width: 120px
   :alt: Free Electrons
   :target: http://free-electrons.com/
+  :class: logo
 
 .. image:: static/logos/polyconseil.png
   :width: 120px
   :alt: Polyconseil
   :target: http://www.polyconseil.fr/
+  :class: logo
 
 Pourquoi devenir sponsor
 ==========================
