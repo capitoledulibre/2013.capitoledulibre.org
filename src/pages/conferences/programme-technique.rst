@@ -2,13 +2,19 @@
 Conférences techniques, samedi 24 novembre
 ==========================================
 
-"HTML5 et ses amis", Paul Rouget, Mozilla
-------------------------------------------
+"HTML5 et ses amis", *Paul Rouget, Mozilla*
+-------------------------------------------
 
 HTML5 est partout. Tout le monde en parle. Mais exploite-t-on toutes
 les possibilités offertes par cette technologie? Que nous attend-il
 demain?  Qu'est-ce que les navigateurs web sont en train de
 construire?
+
+.. image:: static/photos/paul-rouget.png
+  :width: 150px
+  :alt: Paul Rouget
+  :align: left
+  :class: photo
 
 *Paul Rouget is a Firefox engineer and a technology evangelist at
 Mozilla. He is instrumental in combining the latest and greatest open
@@ -21,7 +27,7 @@ both as a volunteer and as staff.*
 
 **Conférence de 14h à 15h**
 
-"Internet haut débit citoyen en zone blanche ADSL : l'expérience de l'association tetaneutral.net", Laurent Guerby, Tetaneutral.net
+"Internet haut débit citoyen en zone blanche ADSL : l'expérience de l'association tetaneutral.net", *Laurent Guerby, Tetaneutral.net*
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 L'association `tetaneutral.net <http://tetaneutral.net>` fondée en
@@ -37,6 +43,12 @@ que ces solutions sont accessibles aux bonnes volontés citoyennes pour
 fabriquer de l'internet entre voisins en respectant la neutralité du
 réseau.
 
+.. image:: static/photos/laurent-guerby.jpg
+  :width: 180px
+  :alt: Laurent GUERBY
+  :align: left
+  :class: photo
+
 *Laurent GUERBY est le président de l'association `tetaneutral.net
 <http://tetaneutral.net>`, developpeur `GCC <http://gcc.gnu.org>` et
 fondateur du projet `GCC Compile Farm
@@ -47,13 +59,13 @@ libres.*
 
 **Conférence de 15h à 16h**
 
-"TODO: Titre à définir", Xavier Raffin, Tisséo
------------------------------------------------
+"TODO: Titre à définir", *Xavier Raffin, Tisséo*
+------------------------------------------------
 
 **Conférence de 16h à 17h**
 
-"Pourquoi Git ?", Sébastien Douche
------------------------------------
+"Pourquoi Git ?", *Sébastien Douche*
+------------------------------------
 
 Utilisateur de SVN pendant de nombreuses années, j'avais la sensation
 croissante de me battre avec mon outil de travail. Pire, il s'adaptait
@@ -66,6 +78,12 @@ de cette session est de montrer toutes les qualités de Git qui est un
 outil souple et puissant qui peut s'adapter aux besoins et contraintes
 de chacun. Nous aborderons les techniques de travail individuelles et
 collectives, comme l'intégration continue ou le déploiement continu.
+
+.. image:: static/photos/sebastien-douche.jpg
+  :width: 150px
+  :alt: Sébastien Douche
+  :align: left
+  :class: photo
 
 *Développeur amateur depuis 84, utilisateur de logiciel libre depuis
 95, Sébastien Douche est un vieux Geek. Fainéant par nature, il est à

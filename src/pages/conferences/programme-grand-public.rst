@@ -2,13 +2,14 @@
 Conférences grand public, samedi 24 novembre
 ============================================
 
-"Utiliser le Logiciel Libre au quotidien", Alexis Kauffmann, Framasoft
+
+"Utiliser le Logiciel Libre au quotidien", *Alexis Kauffmann, Framasoft*
 ------------------------------------------------------------------------
 
 **Conférence de 14h à 15h.**
 
-"Libérer Internet: Sexe, alcool et vie privée", Julien Vaubourg et Sébastien Jean, LDN
----------------------------------------------------------------------------------------
+"Libérer Internet: Sexe, alcool et vie privée", *Julien Vaubourg et Sébastien Jean, LDN*
+----------------------------------------------------------------------------------------
 
 Bob et Carole sont deux jeunes gens qui vous ressemblent.  Une
 aventure, une tromperie, un secret inavouable, voici le synopsys
@@ -17,6 +18,12 @@ lors que l'eau de rose est diluée dans un océan commercial, l'intimité
 de nos propagandistes n'est plus qu'une information à vendre. Bob et
 Carole ont un secret, mais les requins ont aussi les leurs. C'est
 l'heure des révélations.
+
+.. image:: static/photos/sebastien-jean.jpg
+  :width: 150px
+  :alt: Sébastien Jean
+  :align: left
+  :class: photo
 
 *Sébastien Jean, passionné tant par les aspects techniques que
 stratégiques d'un Internet neutre et de solutions logicielles libres,
@@ -27,6 +34,12 @@ cadre de la licence Administration système et réseau à base de
 logiciels libre de l'IUT Charlemagne). Il est vice-président et
 cofondateur de l'association FAI Lorraine Data Network, qui défend un
 Internet libre neutre et décentralisé en Lorraine.*
+
+.. image:: static/photos/julien-vaubourg.jpg
+  :width: 150px
+  :alt: Julien Vaubourg
+  :align: left
+  :class: photo
 
 *Julien Vaubourg, militant depuis des années pour le Logiciel Libre
 (et issu de la formation ASRALL), est actuellement étudiant à TELECOM
@@ -40,8 +53,8 @@ neutre et participatif.*
 
 **Conférence de 15h à 16h**
 
-"TODO: Titre à définir", Jean-Pierre Archambault, CNDP-CDRP
-------------------------------------------------------------
+"TODO: Titre à définir", *Jean-Pierre Archambault, CNDP-CDRP*
+-------------------------------------------------------------
 
 Les débuts des logiciels libres dans l'Education nationale remontent à
 Octobre 1998 avec la signature d'un accord-cadre entre le ministère et
@@ -73,6 +86,12 @@ On peut dégager trois types d'enjeux :
     point de vue, le libre constitue un outil de réflexion pour penser
     les problématiques de l'immatériel.
 
+.. image:: static/photos/jean-pierre-archambault.jpg
+  :width: 150px
+  :alt: Jean-Pierre Archambault
+  :align: left
+  :class: photo
+
 *Jean-Pierre Archambault est professeur agrégé de
 mathématiques. Chargé de mission au CNDP-CRDP de Paris dans les années
 1990 et 2000, il a créé puis coordonné le pôle de compétences
@@ -93,15 +112,15 @@ de la création d'une discipline informatique au lycée.*
 
 **Conférence de 16h à 17h**
 
-"TODO: Titre à définir", Adrienne Alix, Wikimedia France
+"TODO: Titre à définir", *Adrienne Alix, Wikimedia France*
 ------------------------------------------------------------
 
 À venir.
 
 **Conférence de 17h30 à 18h30**
 
-"TODO: Titre à définir", Sylvain Wallez
----------------------------------------
+"TODO: Titre à définir", *Sylvain Wallez*
+-----------------------------------------
 
 "La prochaine révolution sera celle de l'impression 3D
 personnelle". Ce titre vu dans la presse grand public est la partie
@@ -114,6 +133,11 @@ complexes. Comment fonctionne l'Open Hardware ? Quels sont les modèles
 sociaux et économiques de ses acteurs ? Quels impacts sur la société
 et sur la "vieille" industrie ?  Nous verrons que l'Open Hardware peut
 conduire à une nouvelle révolution industrielle.
+
+.. image:: static/photos/sylvain-wallez.png
+  :alt: Sylvain Wallez
+  :align: left
+  :class: photo
 
 *Sylvain Wallez est architecte logiciel et développeur freelance,
 expert dans les architectures Web. Membre de la Fondation Apache
