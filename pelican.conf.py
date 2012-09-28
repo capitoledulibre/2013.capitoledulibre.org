@@ -3,8 +3,8 @@
 
 AUTHOR = u"Toulibre"
 SITENAME = u"Capitole du Libre"
-#~ SITEURL = 'http://www.capitoledulibre.org/2012'
-SITEURL = 'http://manue.local'
+SITEURL = 'http://www.capitoledulibre.org/2012'
+#~ SITEURL = 'http://manue.local'
 THEME = 'cdltheme-2012'
 CSS_FILE = 'styles.css'
 
