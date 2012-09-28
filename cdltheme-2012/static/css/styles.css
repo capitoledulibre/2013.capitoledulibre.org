@@ -71,6 +71,12 @@ h6 {
   color: #999999;
   text-transform: uppercase;
 }
+h2, h3 {
+    clear: left;
+}
+h2 em {
+    font-size: smaller;
+}
 li {
   font-size: 100%;
 }
@@ -263,9 +269,3 @@ img.photo {
     box-shadow:       6px 6px 8px rgba(50, 50, 50, 0.75);
 }
 
-h2 {
-    clear: left;
-}
-h2 em {
-    font-size: smaller;
-}

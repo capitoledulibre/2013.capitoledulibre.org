@@ -13,6 +13,7 @@ Makina Corpus
   :alt: Makina Corpus
   :target: http://www.makina-corpus.com/
   :class: logo
+  :align: left
 
 `Makina Corpus <http://www.makina-corpus.com/>`_ conçoit, développe et intègre des solutions innovantes s'appuyant exclusivement sur des logiciels libres. La société a développé une expertise particulière en applications web complexes, dans le domaine des portails, le traitement de données géographiques (SIG) et l'analyse décisionnelle (Business Intelligence). 
 
@@ -27,6 +28,7 @@ Alwaysdata
   :alt: Alwaysdata
   :target: https://www.alwaysdata.com/
   :class: logo
+  :align: left
 
 `Alwaysdata <https://www.alwaysdata.com/>`_ est une plateforme d'hébergement mutualisé/dédié dont les principales valeurs sont la qualité technique, le support des technologies les plus récentes et une équipe proche de ses clients, apportant un support réactif, efficace et des interfaces intuitives et accessibles. En plus d'héberger de nombreuses applications Python/Django, l'architecture d'alwaysdata s'appuie à 90% sur Python. 
 
@@ -38,6 +40,7 @@ C-S
   :alt: C-S
   :target: http://www.c-s.fr/
   :class: logo
+  :align: left
 
 CS, Concepteur, Intégrateur, Opérateur de Systèmes Critiques.
 
@@ -49,6 +52,7 @@ Objectif Libre
   :alt: Objectif Libre
   :target: http://www.objectif-libre.com/
   :class: logo
+  :align: left
 
 Créée en 2009, `Objectif Libre <http://www.objectif-libre.com/>`_ est par vocation une société de services spécialisée en Logiciels Libres.
 
@@ -62,6 +66,7 @@ Sierra Wireless
   :alt: Sierra Wireless
   :target: http://www.sierrawireless.com/
   :class: logo
+  :align: left
 
 `Sierra Wireless <http://www.sierrawireless.com/>`_ provides mobile broadband modems, wireless modules, wireless gateways and routers, and an M2M Cloud platform.
 
@@ -73,6 +78,7 @@ MFI
   :alt: MFI
   :target: http://www.mfi.fr/
   :class: logo
+  :align: left
 
 `Météo France International <http://www.mfi.fr/>`_ : With you for weather
 
@@ -84,6 +90,7 @@ AFPY
   :alt: AFPY
   :target: http://www.afpy.org/
   :class: logo
+  :align: left
 
 L’`Association Francophone Python <http://afpy.org>`_ est une association à but non lucratif dont les objectifs sont la promotion du langage Python et la création d'une communauté autour de cet outil, dans l'esprit des logiciels libres.
 
@@ -97,6 +104,7 @@ Novapost
   :alt: Novapost
   :target: http://www.novapost.fr/
   :class: logo
+  :align: left
 
 `Novapost <http://www.novapost.fr/>`_ est une société française, proposant des services en ligne permettant aux entreprises et aux particuliers de simplifier la gestion de leurs documents. Des solutions simples, écologiques et sécurisées permettant de passer au zéro papier.
 
@@ -108,29 +116,7 @@ KDAB
   :alt: KDAB
   :target: http://www.kdab.com/
   :class: logo
-
-`KDAB <http://www.kdab.com/>`_ est composée d'experts Qt, et propose formations, développement, 
-migrations et assistance technique.
-
-Python Software Foundation
----------------------------
-
-.. image:: static/logos/psf.png
-  :width: 180px
-  :alt: Python Software Foundation
-  :target: http://python.org/psf
-  :class: logo
-
-L'objectif de la `Python Software Foundation <http://python.org/psf>`_ est de 
-promovoir, défendre et améliorer le langage de programmation Python, et de soutenir les communautés de développeurs Python. 
-
-KDAB
-----
-
-.. image:: static/logos/kdab.png
-  :width: 180px
-  :alt: KDAB
-  :target: http://www.kdab.com/
+  :align: left
 
 `KDAB <http://www.kdab.com/>`_ est composée d'experts Qt, et propose formations, développement, 
 migrations et assistance technique.
@@ -142,6 +128,8 @@ Django Software Foundation
   :width: 180px
   :alt: Django Software Foundation
   :target: https://www.djangoproject.com/foundation/
+  :class: logo
+  :align: left
 
 Like most open-source foundations, the goal of the `Django Software 
 Foundation <https://www.djangoproject.com/foundation/>`_ is to promote, support, and advance its open-source project: in our case, the Django Web framework. 
@@ -155,18 +143,21 @@ Partenaires Bronze
   :alt: solulibre
   :target: http://www.solulibre.com/
   :class: logo
+  :align: left
 
 .. image:: static/logos/free-electrons.png
   :width: 120px
   :alt: Free Electrons
   :target: http://free-electrons.com/
   :class: logo
+  :align: left
 
 .. image:: static/logos/polyconseil.png
   :width: 120px
   :alt: Polyconseil
   :target: http://www.polyconseil.fr/
   :class: logo
+  :align: left
 
 Pourquoi devenir sponsor
 ==========================
