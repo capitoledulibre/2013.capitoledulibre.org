@@ -124,6 +124,29 @@ Python Software Foundation
 L'objectif de la `Python Software Foundation <http://python.org/psf>`_ est de 
 promovoir, défendre et améliorer le langage de programmation Python, et de soutenir les communautés de développeurs Python. 
 
+KDAB
+----
+
+.. image:: static/logos/kdab.png
+  :width: 180px
+  :alt: KDAB
+  :target: http://www.kdab.com/
+
+`KDAB <http://www.kdab.com/>`_ est composée d'experts Qt, et propose formations, développement, 
+migrations et assistance technique.
+
+Django Software Foundation
+---------------------------
+
+.. image:: static/logos/dsf.png
+  :width: 180px
+  :alt: Django Software Foundation
+  :target: https://www.djangoproject.com/foundation/
+
+Like most open-source foundations, the goal of the `Django Software 
+Foundation <https://www.djangoproject.com/foundation/>`_ is to promote, support, and advance its open-source project: in our case, the Django Web framework. 
+ 
+
 Partenaires Bronze
 ==================
 
