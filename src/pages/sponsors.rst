@@ -95,6 +95,29 @@ Novapost
 
 `Novapost <http://www.novapost.fr/>`_ est une société française, proposant des services en ligne permettant aux entreprises et aux particuliers de simplifier la gestion de leurs documents. Des solutions simples, écologiques et sécurisées permettant de passer au zéro papier. 
 
+KDAB
+----
+
+.. image:: static/logos/kdab.png
+  :width: 180px
+  :alt: KDAB
+  :target: http://www.kdab.com/
+
+`KDAB <http://www.kdab.com/>`_ est composée d'experts Qt, et propose formations, développement, 
+migrations et assistance technique.
+
+Django Software Foundation
+---------------------------
+
+.. image:: static/logos/dsf.png
+  :width: 180px
+  :alt: Django Software Foundation
+  :target: https://www.djangoproject.com/foundation/
+
+Like most open-source foundations, the goal of the `Django Software 
+Foundation <https://www.djangoproject.com/foundation/>`_ is to promote, support, and advance its open-source project: in our case, the Django Web framework. 
+ 
+
 Partenaires Bronze
 ==================
 
