@@ -2,7 +2,7 @@
 Bientôt le programme en ligne
 ==============================
 
-:date: 2012-09-06
+:date: 2012-09-28
 :author: Emmanuelle Helly
 :category: conférences
 :status: draft
