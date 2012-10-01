@@ -9,8 +9,8 @@ body {
   background: url('../images/background.png') repeat center center transparent;
 }
 a:link, a:visited {
-  color: #333;
-  font-weight: bold;
+  color: #666;
+  text-decoration: underline;
 }
 a:hover {
   color: #E4401F;
@@ -110,6 +110,20 @@ img.align-left {
 }
 .align-right {
   text-align: right;
+}
+
+table, th, td {
+  vertical-align: top;
+  border: 1px solid #000;
+}
+td, th {
+  border-style: dotted;
+}
+th, td {
+  padding: 8px;
+}
+td.odd {
+  background-color: #F3F3F3;
 }
 
 /* homepage *
@@ -227,7 +241,8 @@ img.align-left {
 }
 
 .image-left {
-  float: left; 
+  float: left;
+  clear: left; 
   margin: 0 1em 0.5em 0;
   font-size: 85%;
   font-style: italic;
