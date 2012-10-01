@@ -105,6 +105,7 @@ h3 { color: #333333; }
 }
 img.align-left {
   float: left;
+  clear: left;
   margin: 0 10px 10px 0;
 }
 .align-right {
