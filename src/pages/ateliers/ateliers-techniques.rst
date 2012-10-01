@@ -5,6 +5,8 @@ Ateliers techniques, dimanche 25 novembre
 Dimanche matin
 ===============
 
+.. _atelier-git-debutant:
+
 "Débuter avec Git", Sébastien Douche
 ------------------------------------
 
@@ -45,6 +47,8 @@ récemment Go et Dart.*
 
 Les inscriptions seront prochainement ouvertes
 
+.. _atelier-openstack:
+
 "A la découverte d'OpenStack, un cloud libre", Christophe Sauthier, Lionel Porcheron
 -------------------------------------------------------------------------------------
 
@@ -79,6 +83,8 @@ Les inscriptions seront prochainement ouvertes
 dimanche après-midi
 =====================
 
+.. _atelier-git-perfectionnement:
+
 "Se perfectionner avec Git", Sébastien Douche
 ------------------------------------------------
 
@@ -105,8 +111,10 @@ récemment Go et Dart.*
 
 Les inscriptions seront prochainement ouvertes.
 
+.. _atelier-puppet:
+
 "Passer de 10 à 1000 machines sans effort avec puppet", Christophe Sauthier, Lionel Porcheron
----
+----------------------------------------------------------------------------------------------
 
 Lors de cet atelier, vous allez découvrir puppet, un outil qui permet
 de gérer de manière centralisée et très simplement un parc de machine.

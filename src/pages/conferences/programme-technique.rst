@@ -2,6 +2,8 @@
 Conférences techniques, samedi 24 novembre
 ==========================================
 
+.. _conf-html5:
+
 "HTML5 et ses amis", *Paul Rouget, Mozilla*
 -------------------------------------------
 
@@ -26,6 +28,8 @@ Firefox. He has been involved with the Mozilla project since 2003
 both as a volunteer and as staff.*
 
 **Conférence de 14h à 15h**
+
+.. _conf-tetaneutral:
 
 "Internet haut débit citoyen en zone blanche ADSL : l'expérience de l'association tetaneutral.net", *Laurent Guerby, Tetaneutral.net*
 ---------------------------------------------------------------------------------------------------------------------------------------
@@ -58,10 +62,14 @@ réseau.
 
 **Conférence de 15h à 16h**
 
+.. _conf-tisseo:
+
 "TODO: Titre à définir", *Xavier Raffin, Tisséo*
 ------------------------------------------------
 
 **Conférence de 16h à 17h**
+
+.. _conf-git:
 
 "Pourquoi Git ?", *Sébastien Douche*
 ------------------------------------

@@ -3,10 +3,14 @@ Conférences grand public, samedi 24 novembre
 ============================================
 
 
+.. _conf-framasoft:
+
 "Utiliser le Logiciel Libre au quotidien", *Alexis Kauffmann, Framasoft*
 ------------------------------------------------------------------------
 
 **Conférence de 14h à 15h.**
+
+.. _conf-liberer-internet:
 
 "Libérer Internet: Sexe, alcool et vie privée", *Julien Vaubourg et Sébastien Jean, LDN*
 ----------------------------------------------------------------------------------------
@@ -35,6 +39,7 @@ logiciels libre de l'IUT Charlemagne). Il est vice-président et
 cofondateur de l'association FAI Lorraine Data Network, qui défend un
 Internet libre neutre et décentralisé en Lorraine.*
 
+
 .. image:: static/photos/julien-vaubourg.jpg
   :width: 150px
   :alt: Julien Vaubourg
@@ -52,6 +57,8 @@ le principal moyen d'action de LDN est d'être également un FAI libre,
 neutre et participatif.*
 
 **Conférence de 15h à 16h**
+
+.. _conf-educ-libre:
 
 "TODO: Titre à définir", *Jean-Pierre Archambault, CNDP-CDRP*
 -------------------------------------------------------------
@@ -112,12 +119,16 @@ de la création d'une discipline informatique au lycée.*
 
 **Conférence de 16h à 17h**
 
+.. _conf-wikimedia:
+
 "TODO: Titre à définir", *Adrienne Alix, Wikimedia France*
 ------------------------------------------------------------
 
 À venir.
 
 **Conférence de 17h30 à 18h30**
+
+.. _conf-open-hardware:
 
 "TODO: Titre à définir", *Sylvain Wallez*
 -----------------------------------------
