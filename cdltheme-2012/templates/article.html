@@ -1,5 +1,6 @@
 {% extends "base.html" %}
 {% block indextitle %}{% endblock %}
+{% block title %}{{ SITENAME }} - {{ article.title }}{% endblock title %}
 {% block content %}
 	<div class='article'>
 		<h1>{{ article.title }}</h1>
