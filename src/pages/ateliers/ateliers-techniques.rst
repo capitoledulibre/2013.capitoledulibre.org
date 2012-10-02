@@ -140,6 +140,6 @@ l'infrastructure de l'offre SaaS de Sierra Wireless qui repose sur
 plusieurs instances OpenStack hébergeant plusieurs centaines de
 machines virtuelles.*
 
-**Atelier de 10h à 13h, gratuit, sur inscription**
+**Atelier de 14h à 17h, gratuit, sur inscription**
 
 Les inscriptions seront prochainement ouvertes
