@@ -60,8 +60,8 @@ neutre et participatif.*
 
 .. _conf-educ-libre:
 
-"TODO: Titre à définir", *Jean-Pierre Archambault, CNDP-CDRP*
--------------------------------------------------------------
+"Le libre dans l'éducation. Ses enjeux", *Jean-Pierre Archambault, CNDP-CDRP*
+-----------------------------------------------------------------------------
 
 Les débuts des logiciels libres dans l'Education nationale remontent à
 Octobre 1998 avec la signature d'un accord-cadre entre le ministère et
@@ -130,8 +130,8 @@ de la création d'une discipline informatique au lycée.*
 
 .. _conf-open-hardware:
 
-"TODO: Titre à définir", *Sylvain Wallez*
------------------------------------------
+"Open Hardware : quand le matériel devient libre", *Sylvain Wallez*
+-------------------------------------------------------------------
 
 "La prochaine révolution sera celle de l'impression 3D
 personnelle". Ce titre vu dans la presse grand public est la partie
