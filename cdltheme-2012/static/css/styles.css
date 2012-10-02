@@ -8,6 +8,9 @@ body {
   color: #333;
   background: url('../images/background.png') repeat center center transparent;
 }
+section, .section {
+  clear: left;
+}
 a:link, a:visited {
   color: #666;
   text-decoration: underline;
