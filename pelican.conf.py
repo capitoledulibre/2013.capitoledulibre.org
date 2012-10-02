@@ -3,8 +3,8 @@
 
 AUTHOR = u"Toulibre"
 SITENAME = u"Capitole du Libre"
-SITEURL = 'http://www.capitoledulibre.org/2012'
-#~ SITEURL = 'http://localhost:8000'
+#~ SITEURL = 'http://www.capitoledulibre.org/2012'
+SITEURL = 'http://localhost:8000/output'
 THEME = 'cdltheme-2012'
 CSS_FILE = 'styles.css'
 PLUGINS = ['pelican.plugins.html_rst_directive',]
