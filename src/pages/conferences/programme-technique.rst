@@ -34,10 +34,10 @@ both as a volunteer and as staff.*
 "Internet haut débit citoyen en zone blanche ADSL : l'expérience de l'association tetaneutral.net", *Laurent Guerby, Tetaneutral.net*
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-L'association `tetaneutral.net <http://tetaneutral.net>` fondée en
+L'association `tetaneutral.net <http://tetaneutral.net>`_ fondée en
 janvier 2011 est fournisseur d'acces internet, hebergeur et operateur
 sans but lucratif sur Toulouse et sa région, membre fondatrice de la
-`Féderation FDN <http://ffdn.org>` qui regroupe maintenant plus de
+`Féderation FDN <http://ffdn.org>`_ qui regroupe maintenant plus de
 1000 adhérent(e)s. En s'inspirant des travaux des pionniers
 tetaneutral.net a permis de connecter au haut débit des foyers
 inéligibles a l'ADSL ou au Wimax a Saint-Gaudens et Monès, et a
@@ -53,7 +53,10 @@ réseau.
   :align: left
   :class: photo
 
-*Laurent GUERBY est le président de l'association* `tetaneutral.net`_, *developpeur* `GCC`_ *et fondateur du projet* `GCC Compile Farm`_ *de la* `FSF France`_. *Ingénieur de formation, il est membre de plusieurs associations de promotion du logiciel et des reseaux libres.*
+*Laurent GUERBY est le président de l'association* `tetaneutral.net`_, 
+*developpeur* `GCC`_ *et fondateur du projet* `GCC Compile Farm`_ *de 
+la* `FSF France`_. *Ingénieur de formation, il est membre de plusieurs 
+associations de promotion du logiciel, materiel et reseaux libres.* 
 
 .. _`tetaneutral.net`: http://tetaneutral.net
 .. _`GCC`: http://gcc.gnu.org
