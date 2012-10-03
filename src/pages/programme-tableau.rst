@@ -37,7 +37,7 @@ Samedi 24 novembre, conférences
     <tr class="odd">
         <th>16h - 17h</th>
         <td><a href="conferences-grand-public-samedi-24-novembre.html#conf-educ-libre">Le libre dans l'éducation. Ses enjeux</a><br/>Jean-Pierre Archambault, CNDP-CDRP</td>
-        <td><a href="conferences-techniques-samedi-24-novembre.html#conf-tisseo">TODO: Titre à définir</a><br/>Xavier Raffin, Tisséo</td>
+        <td><a href="conferences-techniques-samedi-24-novembre.html#conf-tisseo">Logiciel libre et transport public : l'implication de Tisséo dans la communauté Synthèse</a><br/>Xavier Raffin, Tisséo et Hugues Romain, RCSMobility</td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#">AVLinux</a><br/>François Girault</td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#">Moteurs de rendu libres</a><br/>Henri Hebeisen</td>
         <td><a href="mini-conferences-samedi-24-novembre.html#"></a></td>
