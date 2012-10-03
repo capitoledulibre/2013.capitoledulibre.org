@@ -67,8 +67,53 @@ associations de promotion du logiciel, materiel et reseaux libres.*
 
 .. _conf-tisseo:
 
-"TODO: Titre à définir", *Xavier Raffin, Tisséo*
-------------------------------------------------
+"Logiciel libre et transport public : l'implication de Tisséo dans la communauté Synthèse", *Xavier Raffin, Tisséo*, *Hugues Romain, RCSMobility*
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+SYNTHESE est une suite logicielle libre interopérable réalisée par et
+pour les opérateurs de transport public.
+
+Elle permet la diffusion d'information voyageur temps réel, offre des
+fonctions de calcul d'itinéraire, de représentation cartographique et
+permet l'échange de donnée transport dans de nombreux formats ouverts.
+
+Sa communauté d'utilisateurs et de contributeurs regroupe des
+opérateurs de réseaux de transports comme Toulouse, Lausanne, Belfort,
+Clermont-Ferrand et bien d'autres.  Tisséo réseau de transport
+Toulousain, est l'un des principaux contributeur à cette communauté.
+
+Tisséo utilise SYNTHESE en association avec de nombreux autres
+logiciels libres pour ces différents systèmes d'information voyageur :
+tisseo.fr, mobi.tisseo.fr, API opendata, écrans, ...
+
+Son statut sous licence GPL et sa communauté de développement lui a
+permis une évolution très rapide, et quelques exclusivités
+fonctionnelles encore inégalées par les produits commerciaux. SYNTHESE
+est la solution métier transport public libre la plus avancée.
+
+.. image:: static/photos/xavier-raffin.jpg
+  :alt: Xavier Raffin
+  :align: left
+  :class: photo
+
+*Xavier Raffin ingénieur en mathématiques appliqués est architecte
+logiciel chez Tisséo.  Adepte du logiciel libre depuis des années, il
+travaille sur toute la chaine client-serveur avec des logiciels libres
+: Linux, Gcc, Apache, Drupal, OpenLayers, Firefox, etc. Il est l'un
+des principaux contributeur de SYNTHESE depuis 2010. Il est membre de
+l'April et de Toulibre.*
+
+.. image:: static/photos/hugues-romain.jpg
+  :alt: Hugues Romain
+  :align: left
+  :class: photo
+
+*Hugues Romain est le créateur de SYNTHESE. Il a créé une société qui
+ propose du service et du conseil autour de cette suite logicielle :
+ RCSMobility (http://www.rcsmobility.com/). Fortement impliqué dans
+ les groupes français de normalisation dédiés aux formats d'échange de
+ données de transport (GT7), il est président du sous-groupe GT7.4
+ dédié au thème du transport à la demande.*
 
 **Conférence de 16h à 17h**
 
