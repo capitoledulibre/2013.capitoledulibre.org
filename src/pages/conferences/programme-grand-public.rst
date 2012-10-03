@@ -13,6 +13,12 @@ pourquoi c'est effectivement bien et finalement pas si compliqué que
 ça des les utiliser au quotidien de sorte que la prochaine fois c'est
 vous qui ferez la conférence.
 
+.. image:: static/photos/alexis-kauffmann.jpg
+  :width: 150px
+  :alt: Alexis Kauffmann
+  :align: left
+  :class: photo
+
 *Alexis Kauffmann est le fondateur de Framasoft, réseau de sites et de
 projets visant à faire connaître et diffuser le logiciel libre, sa
 culture et son état d'esprit.*
@@ -141,6 +147,12 @@ d'amélioration et d'ouverture vers de nouveaux contributeurs sont
 envisagées et mises en place par le mouvement Wikimédia, de nombreux
 projets lancés dans les dernières années et pour le futur, sur
 Wikipédia et l'ensemble des projets Wikimédia
+
+.. image:: static/photos/adrienne-charmet-alix.jpg
+  :width: 150px
+  :alt: Adrienne Charmet-Alix
+  :align: left
+  :class: photo
 
 *Adrienne Charmet-Alix est directrice des programmes de Wikimédia
 France, association pour le libre partage de la connaissance qui
