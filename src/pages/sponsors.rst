@@ -133,7 +133,28 @@ Django Software Foundation
 
 Like most open-source foundations, the goal of the `Django Software 
 Foundation <https://www.djangoproject.com/foundation/>`_ is to promote, support, and advance its open-source project: in our case, the Django Web framework. 
- 
+
+Tisséo
+-------
+
+.. image:: static/logos/tisseo.png
+  :width: 180px
+  :alt: Tisséo
+  :target: http://www.tisseo.fr/
+  :class: logo
+  :align: left
+
+Blue Systems
+------------
+
+.. image:: static/logos/blue-systems.png
+  :width: 180px
+  :alt: Tisséo
+  :target: http://blue-systems.com/
+  :class: logo
+  :align: left
+
+
 
 Partenaires Bronze
 ==================
