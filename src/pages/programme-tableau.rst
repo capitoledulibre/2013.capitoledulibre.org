@@ -21,7 +21,7 @@ Samedi 24 novembre, conférences
         <td><a href="conferences-grand-public-samedi-24-novembre.html#conf-framasoft">
         Les logiciels libres c'est bien mais c'est trop compliqué pour moi</a><br/>Alexis Kauffmann, Framasoft</td>
         <td><a href="conferences-techniques-samedi-24-novembre.html#conf-html5">HTML5 et ses amis</a><br/>Paul Rouget, Mozilla</td>
-        <td><a href="conferences-multimedia-samedi-24-novembre.html#">Krita 2.5: Découverte et fonctionnalités</a><br/>David Revoy</a></td>
+        <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-krita">Krita 2.5: Découverte et fonctionnalités</a><br/>David Revoy</a></td>
         <td><a href="#"></a></td>
         <td><a href="mini-conferences-samedi-24-novembre.html#"></a></td>
     </tr>
@@ -30,32 +30,32 @@ Samedi 24 novembre, conférences
         <td><a href="conferences-grand-public-samedi-24-novembre.html#conf-liberer-internet">
         Libérer Internet: Sexe, alcool et vie privée</a><br/>Julien Vaubourg et Sébastien Jean, LDN</td>
         <td><a href="conferences-techniques-samedi-24-novembre.html#conf-tetaneutral">Internet haut débit citoyen en zone blanche ADSL : l'expérience de l'association tetaneutral.net</a><br/>Laurent Guerby, Tetaneutral.net</td>
-        <td><a href="conferences-multimedia-samedi-24-novembre.html#">Conférence Blender</a><br/>François Grassard</td>
-        <td><a href="conferences-multimedia-samedi-24-novembre.html#">MuseScore : Accès libre aux partitions, code source de la musique</a><br>Nicolas Froment</td>
+        <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-blender">Conférence Blender</a><br/>François Grassard</td>
+        <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-musecore">MuseScore : Accès libre aux partitions, code source de la musique</a><br>Nicolas Froment</td>
         <td><a href="mini-conferences-samedi-24-novembre.html#"></a></td>
     </tr>
     <tr class="odd">
         <th>16h - 17h</th>
         <td><a href="conferences-grand-public-samedi-24-novembre.html#conf-educ-libre">Le libre dans l'éducation. Ses enjeux</a><br/>Jean-Pierre Archambault, CNDP-CDRP</td>
         <td><a href="conferences-techniques-samedi-24-novembre.html#conf-tisseo">Logiciel libre et transport public : l'implication de Tisséo dans la communauté Synthèse</a><br/>Xavier Raffin, Tisséo et Hugues Romain, RCSMobility</td>
-        <td><a href="conferences-multimedia-samedi-24-novembre.html#">AVLinux</a><br/>François Girault</td>
-        <td><a href="conferences-multimedia-samedi-24-novembre.html#">Moteurs de rendu libres</a><br/>Henri Hebeisen</td>
+        <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-mao">Une brève histoire des musiques électroniques et ... Linux</a><br/>François Girault</td>
+        <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-moteur-rendu">Les moteurs de rendu libres : vers toujours plus de réalisme ?</a><br/>Henri Hebeisen</td>
         <td><a href="mini-conferences-samedi-24-novembre.html#"></a></td>
     </tr>
     <tr>
         <th>17h30 - 18h30</th>
         <td><a href="conferences-grand-public-samedi-24-novembre.html#conf-wikimedia">Wikipédia, Wikimédia, et après ?</a><br/>Adrienne Charmet-Alix, Wikimedia France</td>
         <td><a href="conferences-techniques-samedi-24-novembre.html#conf-git">Pourquoi Git ?</a><br/>Sébastien Douche</td>
-        <td><a href="conferences-multimedia-samedi-24-novembre.html#">Conférence Montage Vidéo</a><br/>Laurent Bellegarde</td>
-        <td><a href="conferences-multimedia-samedi-24-novembre.html#">Présentation de G'MIC</a><br/>David Tschumperlé</td>
+        <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-montage-video">Conférence Montage Vidéo</a><br/>Laurent Bellegarde</td>
+        <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-gmic">Le projet G'MIC : Naissance, évolution et démonstration</a><br/>David Tschumperlé</td>
         <td><a href="mini-conferences-samedi-24-novembre.html#"></a></td>
     </tr>
     <tr class="odd">
         <th>18h30 - 19h30</th>
         <td><a href="conferences-grand-public-samedi-24-novembre.html#conf-open-hardware">Open Hardware : quand le matériel devient libre</a><br/>Sylvain Wallez</td>
         <td><a href="conferences-techniques-samedi-24-novembre.html#"></a></td>
-        <td><a href="conferences-multimedia-samedi-24-novembre.html#">Outils libres pour l'architecture</a><br>Matthieu Dupont de Dinechin</td>
-        <td><a href="conferences-multimedia-samedi-24-novembre.html#">VideoLAN et tour d'horizon du Multimedia Libre</a><br/>Jean-Baptiste Kempf</td>
+        <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-archi-libre">Les outils libres pour les métiers de la construction et de l'ingénierie</a><br>Matthieu Dupont de Dinechin</td>
+        <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-vlc">VideoLAN et tour d'horizon du Multimedia Libre</a><br/>Jean-Baptiste Kempf</td>
         <td><a href="mini-conferences-samedi-24-novembre.html#"></a></td>
     </tr>
     </table>
