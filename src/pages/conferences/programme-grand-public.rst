@@ -5,8 +5,17 @@ Conférences grand public, samedi 24 novembre
 
 .. _conf-framasoft:
 
-"Utiliser le Logiciel Libre au quotidien", *Alexis Kauffmann, Framasoft*
-------------------------------------------------------------------------
+"Les logiciels libres c'est bien mais c'est trop compliqué pour moi", *Alexis Kauffmann, Framasoft*
+---------------------------------------------------------------------------------------------------
+
+Une conférence où l'on va vous expliquer ce qu'est un logiciel libre
+pourquoi c'est effectivement bien et finalement pas si compliqué que
+ça des les utiliser au quotidien de sorte que la prochaine fois c'est
+vous qui ferez la conférence.
+
+*Alexis Kauffmann est le fondateur de Framasoft, réseau de sites et de
+projets visant à faire connaître et diffuser le logiciel libre, sa
+culture et son état d'esprit.*
 
 **Conférence de 14h à 15h.**
 
@@ -121,10 +130,22 @@ de la création d'une discipline informatique au lycée.*
 
 .. _conf-wikimedia:
 
-"TODO: Titre à définir", *Adrienne Alix, Wikimedia France*
-------------------------------------------------------------
+"Wikipédia, Wikimédia, et après ?", *Adrienne Charmet-Alix, Wikimedia France*
+-----------------------------------------------------------------------------
 
-À venir.
+Wikipédia a près de 12 ans d'expérience, et une communauté de
+plusieurs centaines de milliers de contributeurs. Et après ? Quelles
+perspectives, quelles avancées pour l'encyclopédie en ligne ? Comment
+améliorer encore ce projet gigantesque ? De nombreuses pistes
+d'amélioration et d'ouverture vers de nouveaux contributeurs sont
+envisagées et mises en place par le mouvement Wikimédia, de nombreux
+projets lancés dans les dernières années et pour le futur, sur
+Wikipédia et l'ensemble des projets Wikimédia
+
+*Adrienne Charmet-Alix est directrice des programmes de Wikimédia
+France, association pour le libre partage de la connaissance qui
+soutient et promeut en France les projets Wikimédia, et notamment
+l'encyclopédie libre Wikipédia.*
 
 **Conférence de 17h30 à 18h30**
 
