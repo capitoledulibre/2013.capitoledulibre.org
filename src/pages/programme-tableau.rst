@@ -21,7 +21,7 @@ Samedi 24 novembre, conférences
         <td><a href="conferences-grand-public-samedi-24-novembre.html#conf-framasoft">
         Les logiciels libres c'est bien mais c'est trop compliqué pour moi</a><br/>Alexis Kauffmann, Framasoft</td>
         <td><a href="conferences-techniques-samedi-24-novembre.html#conf-html5">HTML5 et ses amis</a><br/>Paul Rouget, Mozilla</td>
-        <td><a href="conferences-multimedia-samedi-24-novembre.html#">Krita 2.5: Découverte et fonctionnalités</a><br/>, David Revoy</a></td>
+        <td><a href="conferences-multimedia-samedi-24-novembre.html#">Krita 2.5: Découverte et fonctionnalités</a><br/>David Revoy</a></td>
         <td><a href="#"></a></td>
         <td><a href="mini-conferences-samedi-24-novembre.html#"></a></td>
     </tr>
@@ -44,7 +44,7 @@ Samedi 24 novembre, conférences
     </tr>
     <tr>
         <th>17h30 - 18h30</th>
-        <td><a href="conferences-grand-public-samedi-24-novembre.html#conf-wikimedia">Wikipédia, Wikimédia, et après ?</a><br/>, Adrienne Charmet-Alix, Wikimedia France</td>
+        <td><a href="conferences-grand-public-samedi-24-novembre.html#conf-wikimedia">Wikipédia, Wikimédia, et après ?</a><br/>Adrienne Charmet-Alix, Wikimedia France</td>
         <td><a href="conferences-techniques-samedi-24-novembre.html#conf-git">Pourquoi Git ?</a><br/>Sébastien Douche</td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#">Conférence Montage Vidéo</a><br/>Laurent Bellegarde</td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#">Présentation de G'MIC</a><br/>David Tschumperlé</td>
@@ -52,7 +52,7 @@ Samedi 24 novembre, conférences
     </tr>
     <tr class="odd">
         <th>18h30 - 19h30</th>
-        <td><a href="conferences-grand-public-samedi-24-novembre.html#conf-open-hardware">Open Hardware : quand le matériel devient libre</a><br/>, Sylvain Wallez</td>
+        <td><a href="conferences-grand-public-samedi-24-novembre.html#conf-open-hardware">Open Hardware : quand le matériel devient libre</a><br/>Sylvain Wallez</td>
         <td><a href="conferences-techniques-samedi-24-novembre.html#"></a></td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#">Outils libres pour l'architecture</a><br>Matthieu Dupont de Dinechin</td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#">VideoLAN et tour d'horizon du Multimedia Libre</a><br/>Jean-Baptiste Kempf</td>
