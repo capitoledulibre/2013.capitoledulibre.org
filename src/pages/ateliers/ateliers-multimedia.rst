@@ -27,14 +27,14 @@ dimanche après-midi
 
 .. _atelier-crea-2d:
 
-Atelier de création professionnel 2D, David Revoy
+Atelier de création professionnel 2D, *David Revoy*
 ----------------------------------------------------
 
 Un atelier de 3 heures pour expliquer pas à pas et dans le détail comment réaliser une illustration en peinture numérique professionnel (qui sera réalisé en direct). Logiciel requis : Mypaint 1.0 (version PPA ou dev) -et- Krita 2.5 (ou dev) -et- Gimp 2.8 (ou dev) avec plugin G'Mic et une tablette graphique. Système Linux (Ubuntu ou dérivé) conseillé. L'atelier laissera les participants expérimenter sur leur matériel pendant le processus expliquer, ainsi d'interagir via des questions (L'atelier ne sera pas là pour régler des questions liés aux problèmes d'installations , merci.
 
 .. _atelier-mao:
 
-Mashup culture, François Girault
+Mashup culture, *François Girault*
 ----------------------------------
 
 Assembler des sons comme un puzzle, expérimenter des traitements et en développer une musicalité, telle est la donne de toute une génération. Cet atelier offre une initiation au montage audio-numérique sous Linux avec Ardour et un parcours des ressources sonores en licence ouverte
