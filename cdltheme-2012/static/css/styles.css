@@ -291,4 +291,7 @@ img.photo {
 table.programm .horaires {
 	width: 70px;
 }
-	
+
+table.programm td {
+    text-align: center;
+}
