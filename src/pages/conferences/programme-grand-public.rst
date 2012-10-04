@@ -13,6 +13,8 @@ pourquoi c'est effectivement bien et finalement pas si compliqué que
 ça des les utiliser au quotidien de sorte que la prochaine fois c'est
 vous qui ferez la conférence.
 
+.. include: ../intervenants/alexis-kauffman.rst
+
 .. image:: static/photos/alexis-kauffmann.jpg
   :width: 150px
   :alt: Alexis Kauffmann
