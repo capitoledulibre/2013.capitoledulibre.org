@@ -33,15 +33,7 @@ Les participants doivent apporter leur propre ordinateur, possédant
 une version récente de Git installée. Il est également recommandé
 d'amener une multiprise électrique.
 
-*Développeur amateur depuis 84, utilisateur de logiciel libre depuis
-95, Sébastien Douche est un vieux Geek. Fainéant par nature, il est à
-la recherche constante de tout moyen pour faire mieux avec moins
-d'effort. Il occupe les postes de directeur technique et de
-responsable R&D chez un éditeur Français, lui permettant d'assouvir
-ses passions pour le coaching technique et la gestion
-d'organisation. Engagé depuis 15 dans l'action communautaire
-principalement autour de l'Agilité, Python,le Logiciel Libre et
-récemment Go et Dart.*
+.. include:: ../../intervenants/sebastien-douche.rst
 
 **Atelier de 10h à 13h, gratuit, sur inscription**
 
@@ -64,16 +56,9 @@ Au delà d'OpenStack, vous serez amener à prendre en main les nombreux
 outils issus de la communauté qui viennent compléter les
 fonctionnalités de base.
 
-*Christophe Sauthier est président de l'association Ubuntu-fr et
-développeur officiel du projet Ubuntu. Il a créé il y a quelques
-années "Objectif Libre" société spécialisée dans Linux et les
-logiciels livre qui propose notamment des prestations et des
-formations autour de Puppet et OpenStack.*
+.. include:: ../../intervenants/christophe-sauthier.rst
 
-*Lionel Porcheron est développeur officiel du projet Ubuntu. Il gère
-l'infrastructure de l'offre SaaS de Sierra Wireless qui repose sur
-plusieurs instances OpenStack hébergeant plusieurs centaines de
-machines virtuelles.*
+.. include:: ../../intervenants/lionel-percheron.rst
 
 **Atelier de 10h à 13h, gratuit, sur inscription**
 
@@ -97,15 +82,7 @@ Les participants doivent apporter leur propre ordinateur, possédant
 une version récente de Git installée. Il est également recommandé
 d'amener une multiprise électrique.
 
-*Développeur amateur depuis 84, utilisateur de logiciel libre depuis
-95, Sébastien Douche est un vieux Geek. Fainéant par nature, il est à
-la recherche constante de tout moyen pour faire mieux avec moins
-d'effort. Il occupe les postes de directeur technique et de
-responsable R&D chez un éditeur Français, lui permettant d'assouvir
-ses passions pour le coaching technique et la gestion
-d'organisation. Engagé depuis 15 dans l'action communautaire
-principalement autour de l'Agilité, Python,le Logiciel Libre et
-récemment Go et Dart.*
+.. include:: ../../intervenants/sebastien-douche.rst
 
 **Atelier de 14h à 17h, gratuit, sur inscription**.
 
@@ -129,16 +106,9 @@ système Linux et de la ligne de commande est recommandée. Il faut
 lancer une machine virtuelle. Il est également recommandé d'amener une
 multiprise électrique.
 
-*Christophe Sauthier est président de l'association Ubuntu-fr et
-développeur officiel du projet Ubuntu. Il a créé il y a quelques
-années "Objectif Libre" société spécialisée dans Linux et les
-logiciels livre qui propose notamment des prestations et des
-formations autour de Puppet et OpenStack.*
+.. include:: ../../intervenants/christophe-sauthier.rst
 
-*Lionel Porcheron est développeur officiel du projet Ubuntu. Il gère
-l'infrastructure de l'offre SaaS de Sierra Wireless qui repose sur
-plusieurs instances OpenStack hébergeant plusieurs centaines de
-machines virtuelles.*
+.. include:: ../../intervenants/lionel-percheron.rst
 
 **Atelier de 14h à 17h, gratuit, sur inscription**
 

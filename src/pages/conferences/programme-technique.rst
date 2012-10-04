@@ -12,20 +12,7 @@ les possibilités offertes par cette technologie? Que nous attend-il
 demain?  Qu'est-ce que les navigateurs web sont en train de
 construire?
 
-.. image:: static/photos/paul-rouget.png
-  :width: 150px
-  :alt: Paul Rouget
-  :align: left
-  :class: photo
-
-*Paul Rouget is a Firefox engineer and a technology evangelist at
-Mozilla. He is instrumental in combining the latest and greatest open
-Web technologies. His goal is to push the boundaries of the Web and
-ensure that it continues to develop into an open and accessible
-platform for all. Paul works closely with the platform team at
-Mozilla to explore how new technologies can continue to improve
-Firefox. He has been involved with the Mozilla project since 2003
-both as a volunteer and as staff.*
+.. include:: ../../intervenants/paul-rouget.rst
 
 **Conférence de 14h à 15h**
 
@@ -47,21 +34,7 @@ que ces solutions sont accessibles aux bonnes volontés citoyennes pour
 fabriquer de l'internet entre voisins en respectant la neutralité du
 réseau.
 
-.. image:: static/photos/laurent-guerby.jpg
-  :width: 180px
-  :alt: Laurent GUERBY
-  :align: left
-  :class: photo
-
-*Laurent GUERBY est le président de l'association* `tetaneutral.net`_, 
-*developpeur* `GCC`_ *et fondateur du projet* `GCC Compile Farm`_ *de 
-la* `FSF France`_. *Ingénieur de formation, il est membre de plusieurs 
-associations de promotion du logiciel, materiel et reseaux libres.* 
-
-.. _`tetaneutral.net`: http://tetaneutral.net
-.. _`GCC`: http://gcc.gnu.org
-.. _`GCC Compile Farm`: http://gcc.gnu.org/wiki/CompileFarm
-.. _`FSF France`: http://fsffrance.org
+.. include:: ../../intervenants/laurent-guerby.rst
 
 **Conférence de 15h à 16h**
 
@@ -91,25 +64,9 @@ permis une évolution très rapide, et quelques exclusivités
 fonctionnelles encore inégalées par les produits commerciaux. SYNTHESE
 est la solution métier transport public libre la plus avancée.
 
-.. image:: static/photos/xavier-raffin.jpg
-  :alt: Xavier Raffin
-  :align: left
-  :class: photo
+.. include:: ../../intervenants/xavier-raffin.rst
 
-*Xavier Raffin ingénieur en mathématiques appliqués est architecte
-logiciel chez* `Tisséo <http://www.tisseo.fr>`_. *Adepte du logiciel
-libre depuis des années, il travaille sur toute la chaine
-client-serveur avec des logiciels libres : Linux, Gcc, Apache, Drupal,
-OpenLayers, Firefox, etc. Il est l'un des principaux contributeur de
-SYNTHESE depuis 2010. Il est membre de l'April et de Toulibre.*
-
-
-.. image:: static/photos/hugues-romain.jpg
-  :alt: Hugues Romain
-  :align: left
-  :class: photo
-
-*Hugues Romain est le créateur de SYNTHESE. Il a créé une société qui propose du service et du conseil autour de cette suite logicielle :* `RCSMobility <http://www.rcsmobility.com/>`_. *Fortement impliqué dans les groupes français de normalisation dédiés aux formats d'échange de données de transport (GT7), il est président du sous-groupe GT7.4 dédié au thème du transport à la demande.*
+.. include:: ../../intervenants/hugues-romain.rst
 
 **Conférence de 16h à 17h**
 
@@ -130,21 +87,7 @@ outil souple et puissant qui peut s'adapter aux besoins et contraintes
 de chacun. Nous aborderons les techniques de travail individuelles et
 collectives, comme l'intégration continue ou le déploiement continu.
 
-.. image:: static/photos/sebastien-douche.jpg
-  :width: 150px
-  :alt: Sébastien Douche
-  :align: left
-  :class: photo
-
-*Développeur amateur depuis 84, utilisateur de logiciel libre depuis
-95, Sébastien Douche est un vieux Geek. Fainéant par nature, il est à
-la recherche constante de tout moyen pour faire mieux avec moins
-d'effort. Il occupe les postes de directeur technique et de
-responsable R&D chez un éditeur Français, lui permettant d'assouvir
-ses passions pour le coaching technique et la gestion
-d'organisation. Engagé depuis 15 dans l'action communautaire
-principalement autour de l'Agilité, Python,le Logiciel Libre et
-récemment Go et Dart.*
+.. include:: ../../intervenants/sebastien-douche.rst
 
 **Conférence de 17h30 à 18h30**
 

@@ -13,7 +13,7 @@ pourquoi c'est effectivement bien et finalement pas si compliqué que
 ça des les utiliser au quotidien de sorte que la prochaine fois c'est
 vous qui ferez la conférence.
 
-.. include:: ../intervenants/alexis-kauffman.rst
+.. include:: ../../intervenants/alexis-kauffmann.rst
 
 **Conférence de 14h à 15h.**
 
@@ -30,38 +30,9 @@ de nos propagandistes n'est plus qu'une information à vendre. Bob et
 Carole ont un secret, mais les requins ont aussi les leurs. C'est
 l'heure des révélations.
 
-.. image:: static/photos/sebastien-jean.jpg
-  :width: 150px
-  :alt: Sébastien Jean
-  :align: left
-  :class: photo
+.. include:: ../../intervenants/sebastien-jean.rst
 
-*Sébastien Jean, passionné tant par les aspects techniques que
-stratégiques d'un Internet neutre et de solutions logicielles libres,
-est suis investi dans leur promotion au niveau local, en Lorraine, en
-tant que professionnel (administrateur système et réseau à
-l'Université de Lorraine), intervenant (chargé de cours Apache dans le
-cadre de la licence Administration système et réseau à base de
-logiciels libre de l'IUT Charlemagne). Il est vice-président et
-cofondateur de l'association FAI Lorraine Data Network, qui défend un
-Internet libre neutre et décentralisé en Lorraine.*
-
-
-.. image:: static/photos/julien-vaubourg.jpg
-  :width: 150px
-  :alt: Julien Vaubourg
-  :align: left
-  :class: photo
-
-*Julien Vaubourg, militant depuis des années pour le Logiciel Libre
-(et issu de la formation ASRALL), est actuellement étudiant à TELECOM
-Nancy. Il s'intéresse depuis de nombreuses années à l'influence de
-l'évolution du réseau Internet sur la protection de nos vies privées.
-Cet intérêt s'est concrétisé il y a deux ans par la création de
-l'association Lorraine Data Network (LDN), qui défend un Internet
-libre neutre et décentralisé. En tant que membre de la fédération FDN,
-le principal moyen d'action de LDN est d'être également un FAI libre,
-neutre et participatif.*
+.. include:: ../../intervenants/julien-vaubourg.rst
 
 **Conférence de 15h à 16h**
 
@@ -100,29 +71,7 @@ On peut dégager trois types d'enjeux :
     point de vue, le libre constitue un outil de réflexion pour penser
     les problématiques de l'immatériel.
 
-.. image:: static/photos/jean-pierre-archambault.jpg
-  :width: 150px
-  :alt: Jean-Pierre Archambault
-  :align: left
-  :class: photo
-
-*Jean-Pierre Archambault est professeur agrégé de
-mathématiques. Chargé de mission au CNDP-CRDP de Paris dans les années
-1990 et 2000, il a créé puis coordonné le pôle de compétences
-logiciels libres du SCEREN, contribuant ainsi au développement du
-libre (logiciels et ressources pédagogiques) dans le système
-éducatif. Dans les années 1980 et 1990, il a participé au pilotage du
-développement des TICE dans l’académie de Créteil : organisation du
-volet formation du plan IPT (Informatique Pour Tous), mise en oeuvre
-de la télématique scolaire et des réseaux locaux, expérimentation
-d'internet, formation des enseignants. Il organise et intervient  dans
-des colloques, forums, salons et séminaires. Il est l’auteur de
-nombreux articles sur les usages pédagogiques et les enjeux éducatifs
-et sociétaux de l'informatique et des TIC. Il a publié De la
-télématique à Internet aux éditions du CNDP. Jean-Pierre Archambault
-est président de l'association EPI (Enseignement Public et
-Informatique). A ce titre, il a mené de nombreuses actions en faveur
-de la création d'une discipline informatique au lycée.*
+.. include:: ../../intervenants/jean-pierre-archambault.rst
 
 **Conférence de 16h à 17h**
 
@@ -140,16 +89,7 @@ envisagées et mises en place par le mouvement Wikimédia, de nombreux
 projets lancés dans les dernières années et pour le futur, sur
 Wikipédia et l'ensemble des projets Wikimédia
 
-.. image:: static/photos/adrienne-charmet-alix.jpg
-  :width: 150px
-  :alt: Adrienne Charmet-Alix
-  :align: left
-  :class: photo
-
-*Adrienne Charmet-Alix est directrice des programmes de Wikimédia
-France, association pour le libre partage de la connaissance qui
-soutient et promeut en France les projets Wikimédia, et notamment
-l'encyclopédie libre Wikipédia.*
+.. include:: ../../intervenants/adrienne-charmet-alix.rst
 
 **Conférence de 17h30 à 18h30**
 
@@ -170,16 +110,6 @@ sociaux et économiques de ses acteurs ? Quels impacts sur la société
 et sur la "vieille" industrie ?  Nous verrons que l'Open Hardware peut
 conduire à une nouvelle révolution industrielle.
 
-.. image:: static/photos/sylvain-wallez.png
-  :alt: Sylvain Wallez
-  :align: left
-  :class: photo
-
-*Sylvain Wallez est architecte logiciel et développeur freelance,
-expert dans les architectures Web. Membre de la Fondation Apache
-depuis plus de 10 ans, il s'est intéressé à la dynamique des
-communautés open source.  Membre du hackerspace toulousain Tetalab, il
-y a découvert l'open hardware et la liberté de création et
-d'innovation qu'il apporte.*
+.. include:: ../../intervenants/sylvain-wallez.rst
 
 **Conférence de 18h30 à 19h30**

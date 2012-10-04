@@ -1,4 +1,3 @@
-
 .. image:: static/photos/alexis-kauffmann.jpg
   :width: 150px
   :alt: Alexis Kauffmann

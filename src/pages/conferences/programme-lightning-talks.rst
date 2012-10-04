@@ -19,33 +19,9 @@ communauté francophone, la façon dont elle se structure. Et sur le
 programme Reps, qui est une vraie opportunité pour gagner en
 visibilité, et pour voyager !
 
-.. image:: static/photos/theo-chevalier.jpg
-  :width: 150px
-  :alt: Théo Chevalier
-  :align: left
-  :class: photo
+.. include:: ../../intervenants/theo-chevalier.rst
 
-*Théo Chevalier a 21 ans, est étudiant en seconde année de BTS
-informatique à Carcassonne et contribue au projet Mozilla. Il réalise
-principalement les traductions des logiciels Mozilla en français,
-traduit des articles et participe au développement du navigateur web
-Firefox. Récemment devenu représentant Mozilla (programme Mozilla
-Reps), il s'implique de plus en plus dans la communication autour du
-projet et de sa communauté francophone.*
-
-.. image:: static/photos/clarista.png
-  :width: 150px
-  :alt: Clarista
-  :align: left
-  :class: photo
-
-*Clarista est rédactrice du* `Bonjour Mozilla
-<http://bonjourmozilla.fr/>`_ *et s'occupe de la communication pour la
-communauté francophone de Mozilla.  Elle est aussi représentante
-Mozilla (Mozilla Reps), et membre de WoMoz.  Elle se revendique comme
-une "Mme Michu", car pas du tout technique, ce qui ne l'empêche pas de
-contribuer, et de voyager dans différents pays pour donner des
-conférences sur Mozilla.*
+.. include:: ../../intervenants/clarista.rst
 
 Le logiciel éducatif GCompris fait le plein de nouveautés, *Bruno Coudoin*
 --------------------------------------------------------------------------
@@ -59,18 +35,7 @@ nouveautés.  L'objet de cette présentation est de parcourir les
 nouvelles activités d'éveil musical et scientifique développée dans le
 cadre du "Google Summer Of Code 2012".
 
-.. image:: static/photos/bruno-coudoin.jpg
-  :width: 150px
-  :alt: Bruno Coudoin
-  :align: left
-  :class: photo
-
-*En 2000, Bruno Coudoin ne trouvant pas de logiciel éducatif de
-qualité sur la plate-forme GNU/Linux commence à écrire GCompris. Il a
-dés le début choisi de le développer sous le modèle des Logiciels
-Libres en plaçant sa création sous la licence libre GNU/GPL. Plus
-localement il est co-fondateur de l'association Toulibre qui oeuvre à
-faire connaître le logiciel libre sur la région Toulousaine.*
+.. include:: ../../intervenants/bruno-coudoin.rst
 
 L'Open Source et les éditeurs de logiciel: avantage compétitif agressif ou développement durable?, *Gaël Blondelle, Obéo*
 -------------------------------------------------------------------------------------------------------------------------
@@ -95,40 +60,14 @@ Cette mini-conférence décrira, en se basant sur des exemples:
   - en quoi ces startups ressemblent ou diffèrent des éditeurs
     logiciels propriétaires
 
-.. image:: static/photos/gael-blondelle.png
-  :width: 150px
-  :alt: Gaël Blondelle
-  :align: left
-  :class: photo
-
-*Gaël Blondelle participe depuis 2002 aux communautés Open Source OW2
-puis Eclipse. Il est aujourd'hui Open Source Business Developper et
-responsable du projet de recherche européen OPEES chez Obeo. Gaël
-représente Obeo auprès de l'Industry Working Group Polarsys, au sein
-d'Eclipse, qui structure l'écosystème autour des outils pour le
-développement de systèmes embarqués. Gaël est également membre du
-Conseil d'Administration de Kagilum, la société qui commercialise une
-offre de service et d'hébergement pour le projet iceScrum.  Gaël a été
-le co-créateur du Java User Group de Toulouse et fait toujours partie
-du CA de l'association.*
+.. include:: ../../intervenants/gael-blondelle.rst
 
 OTB:  Librairie de traitement d'images spatiales, *Manuel Grizonnet, CNES*
 --------------------------------------------------------------------------
 
 Résumé à venir.
 
-.. image:: static/photos/manuel-grizonnet.png
-  :width: 150px
-  :alt: Manuel Grizonnet
-  :align: left
-  :class: photo
-
-*Manuel Grizonnet travaille au CNES à Toulouse comme ingénieur en
-traitements d'images spatiale.  Son travail consiste à développer des
-méthodes d'extractions d'information visant à valoriser et promouvoir
-les systèmes d'Observation de la Terre du CNES, en coopération avec la
-communauté scientifique nationale et internationale et dans le cadre
-du développement de la librairie ORFEO ToolBox.*
+.. include:: ../../intervenants/manuel-grizonnet.rst
 
 Diogène, logiciel libre de Biométrie et Génétique sous Linux, *Philippe Baradat, INRA*
 --------------------------------------------------------------------------------------
@@ -158,18 +97,4 @@ connexion au site de l'`UMR AMAP (Montpellier)
 client-serveur que sur périphérique USB (formule 'Linux embarqué'), ou
 bien après installation sur un PC sous Linux ou en 'double boot'.
 
-.. image:: static/photos/philippe-baradat.jpg
-  :width: 150px
-  :alt: Philippe Baradat
-  :align: left
-  :class: photo
-
-*Philippe Baradat est directeur de recherches honoraire à l'INRA. Il a
-travaillé notamment sur la génétique des terpènes (hydrocarbures
-présents dans la résine des conifère) ; il est à l'origine des
-variétés améliorées (pour la croissance et la forme) de pin maritime
-utilisées dans les reboisements des Landes de Gascogne. Le logiciel
-présenté était avant tout conçu à ses débuts comme un outil pour les
-études génétiques et les opérations de sélection. Il a maintenant des
-champs d'application beaucoup plus généraux, notamment par prise en
-compte des besoins de chercheurs de disciplines très variées.*
+.. include:: ../../intervenants/philippe-baradat.rst
