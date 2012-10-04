@@ -79,7 +79,7 @@ Dimanche 25 novembre, ateliers
         <td><a href="ateliers-techniques-dimanche-25-novembre.html#atelier-git-debutant">Débuter avec Git</a><br/>Sébastien Douche</td>
         <td><a href="ateliers-techniques-dimanche-25-novembre.html#atelier-openstack">A la découverte d'OpenStack, un cloud libre</a><br/>Christophe Sauthier, Lionel Porcheron</td>
         <td><a href="ateliers-multimedia-dimanche-25-novembre.html#atelier-affiche">Mon affiche de A à Z avec des logiciels libres</a><br/>Antoine Bardelli</td>
-        <td>Atelier Blender<br/>François Grassard</td>
+        <td><a href="ateliers-multimedia-dimanche-25-novembre.html#atelier-blender">Générique / "Flying logo" explosif avec Blender</a><br/>François Grassard</td>
         <td>Atelier Montage Vidéo<br/>Laurent Bellegarde</td>
     </tr>
     <tr>

@@ -21,6 +21,14 @@ Il est nécessaire d'avoir Inkscape, The Gimp et Scribus installé sur votre mac
 
 Les inscriptions seront prochainement ouvertes
 
+.. _atelier-blender:
+
+Générique / "Flying logo" explosif avec Blender, *François Grassard*
+----------------------------------------------------------------------
+
+Animations traditionnelle et Dynamique avec Blender, Cadrage, rendu et Compositing.
+
+**Atelier de 10h à 13h, gratuit, sur inscription**
 
 dimanche après-midi
 =====================
