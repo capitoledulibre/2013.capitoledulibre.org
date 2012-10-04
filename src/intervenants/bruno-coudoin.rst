@@ -1,4 +1,3 @@
-
 .. image:: static/photos/bruno-coudoin.jpg
   :width: 150px
   :alt: Bruno Coudoin

@@ -1,4 +1,3 @@
-
 .. image:: static/photos/julien-vaubourg.jpg
   :width: 150px
   :alt: Julien Vaubourg

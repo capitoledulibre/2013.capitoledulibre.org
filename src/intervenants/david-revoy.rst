@@ -1,4 +1,3 @@
-
 .. image:: static/photos/david-revoy.jpg
   :width: 150px
   :alt: David Revoy

@@ -1,4 +1,3 @@
-
 .. image:: static/photos/clarista.png
   :width: 150px
   :alt: Clarista

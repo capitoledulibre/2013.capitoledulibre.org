@@ -1,4 +1,3 @@
-
 .. image:: static/photos/jean-pierre-archambault.jpg
   :width: 150px
   :alt: Jean-Pierre Archambault
