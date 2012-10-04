@@ -13,17 +13,7 @@ pourquoi c'est effectivement bien et finalement pas si compliqué que
 ça des les utiliser au quotidien de sorte que la prochaine fois c'est
 vous qui ferez la conférence.
 
-.. include: ../intervenants/alexis-kauffman.rst
-
-.. image:: static/photos/alexis-kauffmann.jpg
-  :width: 150px
-  :alt: Alexis Kauffmann
-  :align: left
-  :class: photo
-
-*Alexis Kauffmann est le fondateur de Framasoft, réseau de sites et de
-projets visant à faire connaître et diffuser le logiciel libre, sa
-culture et son état d'esprit.*
+.. include:: ../intervenants/alexis-kauffman.rst
 
 **Conférence de 14h à 15h.**
 
