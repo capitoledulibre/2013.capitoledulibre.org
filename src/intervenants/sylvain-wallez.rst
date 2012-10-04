@@ -1,4 +1,3 @@
-
 .. image:: static/photos/sylvain-wallez.png
   :alt: Sylvain Wallez
   :align: left

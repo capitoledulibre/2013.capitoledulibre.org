@@ -1,4 +1,3 @@
-
 .. image:: static/photos/philippe-baradat.jpg
   :width: 150px
   :alt: Philippe Baradat

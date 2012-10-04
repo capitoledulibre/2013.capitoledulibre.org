@@ -1,4 +1,3 @@
-
 .. image:: static/photos/laurent-guerby.jpg
   :width: 180px
   :alt: Laurent GUERBY

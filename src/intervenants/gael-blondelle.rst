@@ -1,4 +1,3 @@
-
 .. image:: static/photos/gael-blondelle.png
   :width: 150px
   :alt: Gaël Blondelle

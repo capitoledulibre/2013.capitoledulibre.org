@@ -1,3 +1,9 @@
+.. image:: static/photos/christophe-sauthier.jpg
+  :width: 150px
+  :alt: Christophe Sauthier
+  :align: left
+  :class: photo
+
 *Christophe Sauthier est président de l'association Ubuntu-fr et
 développeur officiel du projet Ubuntu. Il a créé il y a quelques
 années "Objectif Libre" société spécialisée dans Linux et les

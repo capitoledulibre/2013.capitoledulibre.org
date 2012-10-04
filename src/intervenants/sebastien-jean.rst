@@ -1,4 +1,3 @@
-
 .. image:: static/photos/sebastien-jean.jpg
   :width: 150px
   :alt: Sébastien Jean

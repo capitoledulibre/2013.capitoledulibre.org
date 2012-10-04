@@ -1,4 +1,3 @@
-
 .. image:: static/photos/manuel-grizonnet.png
   :width: 150px
   :alt: Manuel Grizonnet

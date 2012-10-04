@@ -1,4 +1,3 @@
-
 .. image:: static/photos/xavier-raffin.jpg
   :width: 120px
   :alt: Xavier Raffin

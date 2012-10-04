@@ -1,4 +1,3 @@
-
 .. image:: static/photos/theo-chevalier.jpg
   :width: 150px
   :alt: Théo Chevalier

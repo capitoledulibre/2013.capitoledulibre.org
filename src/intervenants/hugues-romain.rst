@@ -1,4 +1,3 @@
-
 .. image:: static/photos/hugues-romain.jpg
   :alt: Hugues Romain
   :align: left

@@ -1,4 +1,3 @@
-
 .. image:: static/photos/francois-grassard.jpg
   :width: 150px
   :alt: François Grassard
