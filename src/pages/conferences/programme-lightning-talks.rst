@@ -65,7 +65,31 @@ Cette mini-conférence décrira, en se basant sur des exemples:
 OTB:  Librairie de traitement d'images spatiales, *Manuel Grizonnet, CNES*
 --------------------------------------------------------------------------
 
-Résumé à venir.
+La multiplication des capteurs et des satellites d’une part et
+l’amélioration des produits issus de la télédétection d’autre part se
+traduisent par des applications de plus en plus nombreuses dans les
+divers domaines de l’observation de la Terre. Depuis plus de 7ans le
+CNES développe l'OTB, une bibliothèque open source d'algorithmes de
+traitement d'images dédiée aux données de télédétection.
+
+L'OTB a pour vocation de démocratiser l'utilisation des données
+d'observation de la Terre et de rendre notamment accessible aux
+utilisateurs des méthodes récentes d'analyse et de traitements de ces
+images. La librairie participe à la valorisation des données satellite
+et fédère maintenant autour d'elle une large communauté d'utilisateurs
+et de contributeurs.
+
+Cette mini-conférence présentera brièvement le logiciel et sa
+philosophie:
+
+ - Le contexte générale du traitement d'images des données de
+   télédétection et les enjeux pour le suivi de l'environnement
+
+ - Présentation et illustration de la librairie
+
+ - Comment à l'avenir des outils open source comme l'OTB peuvent
+   permettre d'aider à une meilleure gouvernance des territoires et à
+   l'amélioration du dialogue avec les populations
 
 .. include:: ../../intervenants/manuel-grizonnet.rst
 
