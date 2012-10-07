@@ -27,10 +27,10 @@ PAGE_LANG_SAVE_AS = '{slug}-{lang}.html'
 DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = (('Sponsors', '/sponsors.html'),
              ('Informations pratiques', '/informations-pratiques.html'),)
-PROG_MENUITEMS = (('Capitole du Libre', '/programme-des-conferences-et-ateliers.html'),
-                  ('Akademy-fr', '/akademyfr.html'),
-                  ('DjangoCon', '/djangocon-toulouse.html'),
-                  ('Ubuntu Party', '/ubuntu-party-toulouse-2012.html'),)
+PROG_MENUITEMS = ((u'Conférences et ateliers du Capitole du Libre', '/programme-des-conferences-et-ateliers.html'),
+                  (u'Akademy-fr', '/akademy-fr.html'),
+                  (u'DjangoCon', '/djangocon-toulouse.html'),
+                  (u'Ubuntu Party', '/ubuntu-party-toulouse-2012.html'),)
              
 SOCIAL = (('twitter', 'http://twitter.com/Toulibreorg'),)
 
