@@ -82,7 +82,7 @@ Dimanche 25 novembre, ateliers
     <table  class="programm">
     <tbody>
     <tr>
-        <th></th>
+        <th class="horaires"></th>
         <th colspan="3">Ateliers</th>
     </tr>
     <tr>
