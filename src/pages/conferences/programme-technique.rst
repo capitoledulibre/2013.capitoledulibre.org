@@ -91,7 +91,16 @@ collectives, comme l'intégration continue ou le déploiement continu.
 
 **Conférence de 17h30 à 18h30**
 
-"TODO: Conférence à définir"
----------------------------------------------
+"La Freebox, un ensemble subtil de logiciels libres et propriétaires", *Florian Fainelli*
+-----------------------------------------------------------------------------------------
+
+La Freebox de l'opérateur Free est célèbre pour son utilisation d'un
+certain nombre de logiciels libres, lui valant une tristement célèbre
+controverse. En réalité la Freebox est constituée d'un ensemble subtil
+de logiciels libres et propriétaires soigneusement choisis et
+intégrés. Nous montrerons les différents composants matériels
+constitutifs des deux boitiers Freebox, dans quelle mesures ces
+derniers sont utilisables avec du logiciel libre, pour enfin présenter
+la couche logicielle complète et les choix qui ont été faits.
 
 **Conférence de 18h30 à 19h30**
