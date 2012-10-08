@@ -36,14 +36,17 @@ Installation
 	cd cdl2012
 	pelican-themes -s cdltheme-2012
 
-Générer le site
-----------------
+Générer le site en local
+-------------------------
 
-Générer le site à l'aide de la commande make
+Générer le site à l'aide du script de développement :
 
 ::
 
-	make html
+    cd cdl2012
+	./develop_server.sh start
+    
+Puis visiter la page http://localhost:8000/ pour visualiser le site.
 
 Mettre en ligne le site
 -------------------------
@@ -53,8 +56,11 @@ vous aider de la commande
 
 ::
 
-	make ssh_upload
- 
+	make rsync_upload
+
+Cette commande génère le site avec les paramètres pour la version de 
+production, puis synchronise les fichiers avec le serveur.
+
 Les paramètres de connexion sont dans le fichier Makefile, il faut une clé 
 ssh pour se connecter au serveur bien sûr :-)
 
