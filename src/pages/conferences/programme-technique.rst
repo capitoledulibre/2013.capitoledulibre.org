@@ -91,6 +91,8 @@ collectives, comme l'intégration continue ou le déploiement continu.
 
 **Conférence de 17h30 à 18h30**
 
+.. _conf-freebox:
+
 "La Freebox, un ensemble subtil de logiciels libres et propriétaires", *Florian Fainelli*
 -----------------------------------------------------------------------------------------
 
@@ -102,5 +104,7 @@ intégrés. Nous montrerons les différents composants matériels
 constitutifs des deux boitiers Freebox, dans quelle mesures ces
 derniers sont utilisables avec du logiciel libre, pour enfin présenter
 la couche logicielle complète et les choix qui ont été faits.
+
+.. include:: ../../intervenants/florian-fainelli.rst
 
 **Conférence de 18h30 à 19h30**

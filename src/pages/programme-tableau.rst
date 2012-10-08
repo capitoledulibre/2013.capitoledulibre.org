@@ -53,7 +53,7 @@ Samedi 24 novembre, conférences
     <tr class="odd">
         <th>18h30 - 19h30</th>
         <td><a href="conferences-grand-public-samedi-24-novembre.html#conf-open-hardware">Open Hardware : quand le matériel devient libre</a><br/>Sylvain Wallez</td>
-        <td><a href="conferences-techniques-samedi-24-novembre.html#">La Freebox, un ensemble subtil de logiciels libres et propriétaires</a><br/>Florian Fainelli</td>
+        <td><a href="conferences-techniques-samedi-24-novembre.html#conf-freebox">La Freebox, un ensemble subtil de logiciels libres et propriétaires</a><br/>Florian Fainelli</td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-archi-libre">Les outils libres pour les métiers de la construction et de l'ingénierie</a><br>Matthieu Dupont de Dinechin</td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-vlc">VideoLAN et tour d'horizon du Multimedia Libre</a><br/>Jean-Baptiste Kempf</td>
         <td><a href="mini-conferences-samedi-24-novembre.html#"></a></td>
