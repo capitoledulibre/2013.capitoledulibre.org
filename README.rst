@@ -87,8 +87,10 @@ Les pages source sont au format `restructured text
 
 L'essentiel à savoir est qu'il faut mettre un titre principal à toute page:
 
-\=================
-\Titre de la page
-\=================
+::
 
-et que les liens sont notés \`nom du lien <url>`_
+    =================
+    Titre de la page
+    =================
+
+et que les liens sont notés ```nom du lien <url>`_``
