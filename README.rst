@@ -94,3 +94,5 @@ L'essentiel à savoir est qu'il faut mettre un titre principal à toute page:
     =================
 
 et que les liens sont notés ```nom du lien <url>`_``
+
+Vous pouvez également utiliser le `convertisseur en ligne Pandoc <http://johnmacfarlane.net/pandoc/try>`_ de John Mc Farlane.
