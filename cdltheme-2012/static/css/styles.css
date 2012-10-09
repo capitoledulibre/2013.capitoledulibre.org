@@ -333,6 +333,7 @@ table.programm th {
 p.confhour {
     font-weight: bold;
     font-size: 120%;
+    clear: both;
 }
 
 p.biography {
