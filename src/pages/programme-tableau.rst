@@ -20,6 +20,18 @@ Samedi 24 novembre, conférences
 	<th>Akademy-fr</th>
     </tr>
     <tr class="odd">
+        <th>Salle</th>
+        <td>A001</td>
+        <td>A002</td>
+        <td>A201</td>
+        <td>A202</td>
+        <td>C002</td>
+	<td>C101</td>
+	<td>C102</td>
+	<td>A203</td>
+	<td>C102</td>
+    </tr>
+    <tr class="odd">
         <th>10h30<br/>-<br/>11h30</th>
         <td></td>
         <td></td>
