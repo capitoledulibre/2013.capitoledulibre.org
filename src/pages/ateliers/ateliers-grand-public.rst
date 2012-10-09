@@ -2,8 +2,38 @@
 Ateliers grand public, dimanche 25 novembre
 ===========================================
 
-Dimanche matin
-==============
+.. _atelier-arduino:
+
+"Arduino : initiation par l'exemple", *Rémi Boulle, Patrick Dedieu*
+-------------------------------------------------------------------
+
+Arduino est un circuit imprimé en matériel dit libre sur lequel se
+trouve un microcontrôleur programmable.
+
+Cela peut sembler être du sur-mesure pour des cracks en informatique
+mais détrompez-vous. Nous verrons des moyens simples et amusants
+d'utiliser cette plate-forme : avec Scratch, Squeak, Physical etoys...
+
+Les possibilités sont immenses : applications pédagogiques, robotique,
+détection diverses, serveur web, création artistique...
+
+Cet atelier est accessible à des débutants.
+
+Matériel requis :
+ - Un ordinateur tournant sous un système libre
+ - LinuxÉdu mettra à disposition du matériel (cartes, capteurs,
+   shields divers, moteurs) mais si vous en avez, surtout n'hésitez
+   pas à l'apporter
+ - Si possible, apporter une prise multiple électrique
+
+.. class:: confhour
+
+Cet atelier est prévu le dimanche 25 novembre de 10h à
+13h.
+
+.. include:: ../../intervenants/remi-boulle.rst
+
+.. include:: ../../intervenants/patrick-dedieu.rst
 
 .. _atelier-openstreetmap:
 
