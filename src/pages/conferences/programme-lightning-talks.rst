@@ -188,3 +188,35 @@ Résumé à venir.
 
 .. include:: ../../intervenants/sebastien-dinot.rst
 
+Scapy : Easy Packet Handling, *Etienne Maynier*
+-----------------------------------------------
+
+Scapy est un framework open-source de création et gestion de paquets
+réseau. Ecrit en python, il permet de manipuler des paquets très
+simplement et très rapidement.
+
+.. include:: ../../intervenants/etienne-maynier.rst
+
+Buildroot, un outil simple pour construire un système Linux embarqué, *Thomas Petazzoni*
+----------------------------------------------------------------------------------------
+
+Une partie important des systèmes embarqués reposant sur le noyau
+Linux ne peuvent pas utiliser les distributions GNU/Linux que nous
+connaissons sur les serveurs ou stations de travail. Ces plateformes
+embarquées nécessitent le plus souvent un système Linux construit à
+partir de zéro depuis les sources, souvent par compilation croisée.
+
+Buildroot est un outil simple et efficace pour générer des systèmes
+Linux embarqués: chaîne de compilation croisée, système de fichiers
+racine intégrant de nombreuses bibliothèques et applications, images
+du noyau et du chargeur de démarrage. Développé depuis presque 10 ans
+par une communauté très active, il est utilisé par de nombreux
+industriels pour leurs développements Linux embarqué.
+
+Au travers de cette présentation, nous proposerons de découvrir la
+problématique à laquelle Buildroot répond, les diverses
+fonctionnalités que cet outil propose, et les bases de son
+utilisation.
+
+.. include:: ../../intervenants/thomas-petazzoni.rst
+
