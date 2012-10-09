@@ -2,8 +2,8 @@
 Programme
 =========
 
-Samedi 24 novembre, conférences
-===============================
+Samedi 24 novembre
+==================
 
 
 .. html::
@@ -162,8 +162,8 @@ Samedi 24 novembre, conférences
     </tr>
     </table>
 
-Dimanche 25 novembre, ateliers
-===============================
+Dimanche 25 novembre
+====================
 
 .. html::
 
@@ -177,20 +177,20 @@ Dimanche 25 novembre, ateliers
     <tr>
         <th>10h-13h</th>
         <td></td>
-        <td></td>
-        <td><a href="ateliers-techniques-dimanche-25-novembre.html#atelier-git-debutant">Débuter avec Git</a><br/>Sébastien Douche</td>
-        <td><a href="ateliers-techniques-dimanche-25-novembre.html#atelier-openstack">A la découverte d'OpenStack, un cloud libre</a><br/>Christophe Sauthier, Lionel Porcheron</td>
-        <td><a href="ateliers-multimedia-dimanche-25-novembre.html#atelier-affiche">Mon affiche de A à Z avec des logiciels libres</a><br/>Antoine Bardelli</td>
-        <td><a href="ateliers-multimedia-dimanche-25-novembre.html#atelier-blender">Générique / "Flying logo" explosif avec Blender</a><br/>François Grassard</td>
+        <td><a href="ateliers-grand-public-dimanche-25-novembre.html#atelier-arduino">Atelier "Arduino : initiation par l'exemple"</a><br/>Rémi Boulle, Patrick Dedieu</td>
+        <td><a href="ateliers-techniques-dimanche-25-novembre.html#atelier-git-debutant">Atelier "Débuter avec Git"</a><br/>Sébastien Douche</td>
+        <td><a href="ateliers-techniques-dimanche-25-novembre.html#atelier-openstack">Atelier "A la découverte d'OpenStack, un cloud libre"</a><br/>Christophe Sauthier, Lionel Porcheron</td>
+        <td><a href="ateliers-multimedia-dimanche-25-novembre.html#atelier-affiche">Atelier "Mon affiche de A à Z avec des logiciels libres"</a><br/>Antoine Bardelli</td>
+        <td><a href="ateliers-multimedia-dimanche-25-novembre.html#atelier-blender">Atelier "Générique / Flying logo explosif avec Blender"</a><br/>François Grassard</td>
         <td>Atelier Montage Vidéo<br/>Laurent Bellegarde</td>
     </tr>
     <tr>
         <th>14h-17h</th>
         <td><a href="ateliers-grand-public-dimanche-25-novembre.html#atelier-ubuntu">Atelier "Initiation à Ubuntu Linux"</a><br/>Fabien Adam</td>
         <td><a href="ateliers-grand-public-dimanche-25-novembre.html#atelier-openstreetmap">Atelier "OpenStreetMap: sources de données, JOSM et autres outils du contributeur"</a><br/>Sébastien Dinot</td>
-        <td><a href="ateliers-techniques-dimanche-25-novembre.html#atelier-git-perfectionnement">Se perfectionner avec Git</a><br/>Sébastien Douche</td>
-        <td><a href="ateliers-techniques-dimanche-25-novembre.html#_atelier-puppet">Passer de 10 à 1000 machines sans effort avec puppet</a><br/>Christophe Sauthier, Lionel Porcheron</td>
-        <td><a href="ateliers-multimedia-dimanche-25-novembre.html#atelier-crea-2d">Atelier de dessin et de création avec MyPaint</a><br/>David Revoy</td>
-        <td><a href="ateliers-multimedia-dimanche-25-novembre.html#atelier-mao">Atelier AVLinux</a><br/>François Girault</td>
-        <td><a href="ateliers-multimedia-dimanche-25-novembre.html#atelier-archi-blender">Atelier logiciels libres et architecture ?</a><br/>Matthieu Dupont de Dinechin</td>
+        <td><a href="ateliers-techniques-dimanche-25-novembre.html#atelier-git-perfectionnement">Atelier "Se perfectionner avec Git"</a><br/>Sébastien Douche</td>
+        <td><a href="ateliers-techniques-dimanche-25-novembre.html#_atelier-puppet">Atelier "Passer de 10 à 1000 machines sans effort avec puppet"</a><br/>Christophe Sauthier, Lionel Porcheron</td>
+        <td><a href="ateliers-multimedia-dimanche-25-novembre.html#atelier-crea-2d">Atelier "Dessin et création avec MyPaint"</a><br/>David Revoy</td>
+        <td><a href="ateliers-multimedia-dimanche-25-novembre.html#atelier-mao">Atelier "AVLinux"</a><br/>François Girault</td>
+        <td><a href="ateliers-multimedia-dimanche-25-novembre.html#atelier-archi-blender">Atelier "Logiciels libres et architecture ?"</a><br/>Matthieu Dupont de Dinechin</td>
     </tr></table>
