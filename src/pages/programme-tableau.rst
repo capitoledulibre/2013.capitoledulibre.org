@@ -27,7 +27,7 @@ Samedi 24 novembre, conférences
         <td></td>
         <td></td>
 	<td></td>
-	<td>Install Party Ubuntu</td>
+	<td><a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a></td>
 	<td>11h<br/><a href="http://rencontres.django-fr.org/2012/tolosa/lightning-talks.html">Lightning talks</a></td>
 	<td><a href="http://toulibre.org/akademyfr#conf_complexite">La complexité informatique</a><br/>Sébastien Renard</td>
     </tr>
@@ -39,7 +39,7 @@ Samedi 24 novembre, conférences
         <td></td>
         <td></td>
 	<td></td>
-	<td>Install Party Ubuntu</td>
+	<td><a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a></td>
 	<td>Suite<br/><a href="http://rencontres.django-fr.org/2012/tolosa/lightning-talks.html">Lightning talks</a></td>
 	<td><a href="http://toulibre.org/akademyfr#conf_debug">Techniques générales de débogage</a><br/>David Faure</td>
     </tr>
@@ -51,7 +51,7 @@ Samedi 24 novembre, conférences
         <td></td>
         <td></td>
 	<td></td>
-	<td>Install Party Ubuntu</td>
+	<td><a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a></td>
 	<td>13h30<br/><a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html">Conférences</a></td>
 	<td></td>
     </tr>
@@ -63,8 +63,8 @@ Samedi 24 novembre, conférences
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-krita">Krita 2.5: Découverte et fonctionnalités</a><br/>David Revoy</a></td>
         <td><a href="#"></a></td>
         <td><a href="mini-conferences-samedi-24-novembre.html#"></a></td>
-	<td>Présentation Ubuntu</td>
-	<td>Install Party Ubuntu</td>
+	<td><a href="ubuntu-party-samedi-24-novembre.html#conf-ubuntu">Présentation "Installation et découverte d'Ubuntu"</a><br/>Fabien Adam</td>
+	<td><a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a></td>
 	<td><a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html">Conférences</a></td>
 	<td><a href="http://toulibre.org/akademyfr#conf_communaute">KDE: Communauté, Démocratie et Marketing</a><br/>Kévin Ottens</td>
     </tr>
@@ -80,8 +80,8 @@ Samedi 24 novembre, conférences
 	  15h20<br/><a href="mini-conferences-samedi-24-novembre.html#conf-gcompris">Le logiciel éducatif GCompris fait le plein de nouveautés</a><br/><br/>
 	  15h40<br/><a href="mini-conferences-samedi-24-novembre.html#conf-opensource">L'Open Source et les éditeurs de logiciel: avantage compétitif agressif ou développement durable?</a><br/><br/>
 	</td>
-	<td>Présentation Ubuntu</td>
-	<td>Install Party Ubuntu</td>
+	<td><a href="ubuntu-party-samedi-24-novembre.html#conf-ubuntu">Présentation "Installation et découverte d'Ubuntu"</a><br/>Fabien Adam</td>
+	<td><a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a></td>
 	<td><a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html">Conférences</a></td>
 	<td><a href="http://toulibre.org/akademyfr#conf_kdevelop">KDevelop: IDE Tout Terrain</a><br/>Lambert Clara</td>
     </tr>
@@ -96,8 +96,8 @@ Samedi 24 novembre, conférences
 	  16h20<br/><a href="mini-conferences-samedi-24-novembre.html#conf-diogene">Diogène, logiciel libre de Biométrie et Génétique sous Linux</a><br/><br/>
 	  16h40<br/><a href="mini-conferences-samedi-24-novembre.html#conf-cinemalibre">Vers un système de projection libre pour le cinéma numérique</a><br/><br/>
 	</td>
-	<td>Présentation Ubuntu</td>
-	<td>Install Party Ubuntu</td>
+	<td><a href="ubuntu-party-samedi-24-novembre.html#conf-ubuntu">Présentation "Installation et découverte d'Ubuntu"</a><br/>Fabien Adam</td>
+	<td><a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a></td>
 	<td><a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html">Conférences</a></td>
 	<td><a href="http://toulibre.org/akademyfr#conf_traduction">Comment faire des contrôles de qualité d'une traduction ?</a><br/>Sébastien Renard</td>
     </tr>
@@ -116,8 +116,8 @@ Samedi 24 novembre, conférences
 	  17h50<br/><a href="mini-conferences-samedi-24-novembre.html#conf-buildroot">Buildroot, un outil simple pour construire un système Linux embarqué</a><br/><br/>
 	  18h10<br/><a href="mini-conferences-samedi-24-novembre.html#conf-scapy">Scapy : Easy Packet Handling</a><br/><br/>
 	</td>
-	<td>Présentation Ubuntu</td>
-	<td>Install Party Ubuntu</td>
+	<td><a href="ubuntu-party-samedi-24-novembre.html#conf-ubuntu">Présentation "Installation et découverte d'Ubuntu"</a><br/>Fabien Adam</td>
+	<td><a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a></td>
 	<td><a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html">Conférences</a></td>
 	<td><a href="http://toulibre.org/akademyfr#conf_qa">Initiatives QA</a><br/>Anne-Marie Mahfouf et Aurélien Gâteau</td>
     </tr>
@@ -132,7 +132,7 @@ Samedi 24 novembre, conférences
 	  18h50<br/><a href="mini-conferences-samedi-24-novembre.html#conf-firewall">Réaliser votre firewall, sans aucune connaissance d'iptables</a><br/><br/>
         </td>
 	<td></td>
-	<td>Install Party Ubuntu</td>
+	<td><a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a></td>
 	<td><a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html">Conférences</a></td>
 	<td></td>
     </tr>
