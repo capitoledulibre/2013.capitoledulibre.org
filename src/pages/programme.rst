@@ -169,28 +169,43 @@ Dimanche 25 novembre
 
     <table class="programm">
     <tr>
-        <th class="horaires">Horaires</th>
-        <th class="grand-public" colspan="2">Grand public</th>
-        <th class="technique" colspan=2>Technique</th>
-        <th class="multimedia" colspan=3>Multimedia</th>
+        <th class="horaires"></th>
+        <th class="grand-public">Grand public</th>
+        <th class="technique" colspan="2">Technique</th>
+        <th class="multimedia" colspan="3">Multimedia</th>
+	<th class="ubuntuparty" colspan="2">Ubuntu Party</th>
+	<th class="djangocon">DjangoCon</th>
+	<th class="akademyfr" colspan=3>Akademy-fr</th>
     </tr>
     <tr>
-        <th>10h-13h</th>
-        <td></td>
+        <th>10h<br/>-<br/>13h</th>
         <td><a href="ateliers-grand-public-dimanche-25-novembre.html#atelier-arduino">Atelier "Arduino : initiation par l'exemple"</a><br/>Rémi Boulle, Patrick Dedieu</td>
         <td><a href="ateliers-techniques-dimanche-25-novembre.html#atelier-git-debutant">Atelier "Débuter avec Git"</a><br/>Sébastien Douche</td>
         <td><a href="ateliers-techniques-dimanche-25-novembre.html#atelier-openstack">Atelier "A la découverte d'OpenStack, un cloud libre"</a><br/>Christophe Sauthier, Lionel Porcheron</td>
         <td><a href="ateliers-multimedia-dimanche-25-novembre.html#atelier-affiche">Atelier "Mon affiche de A à Z avec des logiciels libres"</a><br/>Antoine Bardelli</td>
         <td><a href="ateliers-multimedia-dimanche-25-novembre.html#atelier-blender">Atelier "Générique / Flying logo explosif avec Blender"</a><br/>François Grassard</td>
         <td>Atelier Montage Vidéo<br/>Laurent Bellegarde</td>
+	<td></td>
+	<td><a href="ubuntu-party-dimanche-25-novembre.html#installparty">Install Party Ubuntu</a></td>
+	<td><a href="http://rencontres.django-fr.org/2012/tolosa/">Sprints et ateliers</a></td>
+	<td><a href="http://toulibre.org/akademyfr#atelier_ui_clinic">Chirurgie esthétique pour applications KDE</a><br/>Aurélien Gâteau</td>
+	<td><a href="http://toulibre.org/akademyfr#atelier_traduction">Mise en pratique des règles de contrôle qualité pour les traductions</a><br/>Sébastien Renard</td>
+	<td><a href="http://toulibre.org/akademyfr#atelier_kde">Ateliers KDE</a><br/>Equipe KDE France</td>
     </tr>
     <tr>
-        <th>14h-17h</th>
-        <td><a href="ateliers-grand-public-dimanche-25-novembre.html#atelier-ubuntu">Atelier "Initiation à Ubuntu Linux"</a><br/>Fabien Adam</td>
+        <th>13h<br/>-<br/>14h</th>
+        <td colspan="12">Repas<br/>Un repas au tarif de 3 EUR est proposé aux participants, voir <a href="http://toulibre.org/capitoledulibre2012:repas-dimanche-midi">cette page pour s'inscrire</a></td>
+    </tr>
+    <tr>
+        <th>14h<br/>-<br/>17h</th>
         <td><a href="ateliers-grand-public-dimanche-25-novembre.html#atelier-openstreetmap">Atelier "OpenStreetMap: sources de données, JOSM et autres outils du contributeur"</a><br/>Sébastien Dinot</td>
         <td><a href="ateliers-techniques-dimanche-25-novembre.html#atelier-git-perfectionnement">Atelier "Se perfectionner avec Git"</a><br/>Sébastien Douche</td>
         <td><a href="ateliers-techniques-dimanche-25-novembre.html#_atelier-puppet">Atelier "Passer de 10 à 1000 machines sans effort avec puppet"</a><br/>Christophe Sauthier, Lionel Porcheron</td>
         <td><a href="ateliers-multimedia-dimanche-25-novembre.html#atelier-crea-2d">Atelier "Dessin et création avec MyPaint"</a><br/>David Revoy</td>
         <td><a href="ateliers-multimedia-dimanche-25-novembre.html#atelier-mao">Atelier "AVLinux"</a><br/>François Girault</td>
         <td><a href="ateliers-multimedia-dimanche-25-novembre.html#atelier-archi-blender">Atelier "Logiciels libres et architecture ?"</a><br/>Matthieu Dupont de Dinechin</td>
+        <td><a href="ubuntu-party-dimanche-25-novembre.html#atelier-ubuntu">Atelier "Initiation à Ubuntu Linux"</a><br/>Fabien Adam</td>
+	<td><a href="ubuntu-party-dimanche-25-novembre.html#installparty">Install Party Ubuntu</a></td>
+	<td><a href="http://rencontres.django-fr.org/2012/tolosa/">Sprints et ateliers</a></td>
+	<td colspan="3"><a href="http://toulibre.org/akademyfr#atelier_kde">Ateliers KDE</a><br/>Equipe KDE France</td>
     </tr></table>
