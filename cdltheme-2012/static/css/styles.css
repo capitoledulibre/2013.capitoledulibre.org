@@ -186,6 +186,12 @@ td.odd {
   padding-top: 19px;
   background-color: White;
 }
+
+#content h2 {
+    padding-top: 1.5em;
+    border-bottom: 1px solid #999999;
+}
+
 #description {
   text-align: justify;
   line-height: 150%;
