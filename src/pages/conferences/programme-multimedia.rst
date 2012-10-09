@@ -14,7 +14,9 @@ logiciel ouvert.
 
 .. include:: ../../intervenants/david-revoy.rst
 
-**Conférence de 14h à 15h**
+.. class:: confhour
+
+Conférence de 14h à 15h.
 
 .. _conf-blender:
 
@@ -25,7 +27,9 @@ Destruction de bâtiments via l'utilisation d'effets dynamiques, de systèmes de
 
 .. include:: ../../intervenants/francois-grassard.rst
 
-**Conférence de 15h à 16h.**
+.. class:: confhour
+
+Conférence de 15h à 16h.
 
 .. _conf-musecore:
 
@@ -38,7 +42,9 @@ MuseScore est le logiciel libre multiplateforme de création de partitions de mu
 
 .. include:: ../../intervenants/nicolas-froment.rst
 
-**Conférence de 15h à 16h.**
+.. class:: confhour
+
+Conférence de 15h à 16h.
 
 .. _conf-mao:
 
@@ -49,7 +55,9 @@ Illustrée par des logiciels libres, cette intervention sera l'occasion d'un voy
 
 .. include:: ../../intervenants/francois-girault.rst
 
-**Conférence de 16h à 17h.**
+.. class:: confhour
+
+Conférence de 16h à 17h.
 
 .. _conf-moteur-rendu:
 
@@ -60,7 +68,9 @@ Dans le domaine de l'image de synthèse, les moteurs de rendus permettent de tra
 
 .. include:: ../../intervenants/henri-hebeisen.rst
 
-**Conférence de 16h à 17h.**
+.. class:: confhour
+
+Conférence de 16h à 17h.
 
 .. _conf-montage-video:
 
@@ -71,7 +81,9 @@ Montage vidéo, *Laurent Bellegarde*
 
 .. _conf-gmic:
 
-**Conférence de 17h30 à 18h30.**
+.. class:: confhour
+
+Conférence de 17h30 à 18h30.
 
 Le projet G'MIC : Naissance, évolution et démonstration, *David Tschumperlé*
 -----------------------------------------------------------------------------
@@ -81,7 +93,9 @@ Je montrerai également comment son architecture ouverte permet à tous de contr
 
 .. include:: ../../intervenants/david-tschumperle.rst
 
-**Conférence de 17h30 à 18h30.**
+.. class:: confhour
+
+Conférence de 17h30 à 18h30.
 
 .. _conf-archi-libre:
 
@@ -92,7 +106,9 @@ En plus des logiciels de bureautique, gestion et de graphisme, pour lesquelles d
 
 .. include:: ../../intervenants/matthieu-dupont-de-dinechin.rst
 
-**Conférence de 18h30 à 19h30.**
+.. class:: confhour
+
+Conférence de 18h30 à 19h30.
 
 .. _conf-vlc:
 
@@ -101,4 +117,6 @@ VideoLAN et tour d'horizon du Multimedia Libre, *Jean-Baptiste Kempf*
 
 .. include:: ../../intervenants/jean-baptiste-kempf.rst
 
-**Conférence de 18h30 à 19h30.**
+.. class:: confhour
+
+Conférence de 18h30 à 19h30.

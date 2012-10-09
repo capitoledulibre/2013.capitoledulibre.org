@@ -14,7 +14,9 @@ construire?
 
 .. include:: ../../intervenants/paul-rouget.rst
 
-**Conférence de 14h à 15h**
+.. class:: confhour
+
+Conférence de 14h à 15h.
 
 .. _conf-tetaneutral:
 
@@ -36,7 +38,52 @@ réseau.
 
 .. include:: ../../intervenants/laurent-guerby.rst
 
-**Conférence de 15h à 16h**
+.. class:: confhour
+
+Conférence de 15h à 16h.
+
+.. _conf-freebox:
+
+"La Freebox, un ensemble subtil de logiciels libres et propriétaires", *Florian Fainelli*
+-----------------------------------------------------------------------------------------
+
+La Freebox de l'opérateur Free est célèbre pour son utilisation d'un
+certain nombre de logiciels libres, lui valant une tristement célèbre
+controverse. En réalité la Freebox est constituée d'un ensemble subtil
+de logiciels libres et propriétaires soigneusement choisis et
+intégrés. Nous montrerons les différents composants matériels
+constitutifs des deux boitiers Freebox, dans quelle mesures ces
+derniers sont utilisables avec du logiciel libre, pour enfin présenter
+la couche logicielle complète et les choix qui ont été faits.
+
+.. include:: ../../intervenants/florian-fainelli.rst
+
+.. class:: confhour
+
+Conférence de 16h à 17h.
+
+.. _conf-git:
+
+"Pourquoi Git ?", *Sébastien Douche*
+------------------------------------
+
+Utilisateur de SVN pendant de nombreuses années, j'avais la sensation
+croissante de me battre avec mon outil de travail. Pire, il s'adaptait
+très mal à mes exigences collaboratives. De guerre las, nous en avons
+choisi un outil de gestion de source décentralisé (Hg puis Git)
+début 2008. La différence était flagrante, je me sentais comme libéré
+d'un poids qui me ralentissait, et la production de l'équipe s'est
+fortement améliorée (quantitativement et qualitativement). L'objectif
+de cette session est de montrer toutes les qualités de Git qui est un
+outil souple et puissant qui peut s'adapter aux besoins et contraintes
+de chacun. Nous aborderons les techniques de travail individuelles et
+collectives, comme l'intégration continue ou le déploiement continu.
+
+.. include:: ../../intervenants/sebastien-douche.rst
+
+.. class:: confhour
+
+Conférence de 17h30 à 18h30.
 
 .. _conf-tisseo:
 
@@ -68,43 +115,6 @@ est la solution métier transport public libre la plus avancée.
 
 .. include:: ../../intervenants/hugues-romain.rst
 
-**Conférence de 16h à 17h**
+.. class:: confhour
 
-.. _conf-git:
-
-"Pourquoi Git ?", *Sébastien Douche*
-------------------------------------
-
-Utilisateur de SVN pendant de nombreuses années, j'avais la sensation
-croissante de me battre avec mon outil de travail. Pire, il s'adaptait
-très mal à mes exigences collaboratives. De guerre las, nous en avons
-choisi un outil de gestion de source décentralisé (Hg puis Git)
-début 2008. La différence était flagrante, je me sentais comme libéré
-d'un poids qui me ralentissait, et la production de l'équipe s'est
-fortement améliorée (quantitativement et qualitativement). L'objectif
-de cette session est de montrer toutes les qualités de Git qui est un
-outil souple et puissant qui peut s'adapter aux besoins et contraintes
-de chacun. Nous aborderons les techniques de travail individuelles et
-collectives, comme l'intégration continue ou le déploiement continu.
-
-.. include:: ../../intervenants/sebastien-douche.rst
-
-**Conférence de 17h30 à 18h30**
-
-.. _conf-freebox:
-
-"La Freebox, un ensemble subtil de logiciels libres et propriétaires", *Florian Fainelli*
------------------------------------------------------------------------------------------
-
-La Freebox de l'opérateur Free est célèbre pour son utilisation d'un
-certain nombre de logiciels libres, lui valant une tristement célèbre
-controverse. En réalité la Freebox est constituée d'un ensemble subtil
-de logiciels libres et propriétaires soigneusement choisis et
-intégrés. Nous montrerons les différents composants matériels
-constitutifs des deux boitiers Freebox, dans quelle mesures ces
-derniers sont utilisables avec du logiciel libre, pour enfin présenter
-la couche logicielle complète et les choix qui ont été faits.
-
-.. include:: ../../intervenants/florian-fainelli.rst
-
-**Conférence de 18h30 à 19h30**
+Conférence de 18h30 à 19h30.

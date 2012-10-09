@@ -2,9 +2,6 @@
 Ateliers techniques, dimanche 25 novembre
 ==========================================
 
-Dimanche matin
-===============
-
 .. _atelier-git-debutant:
 
 "Débuter avec Git", Sébastien Douche
@@ -35,7 +32,9 @@ d'amener une multiprise électrique.
 
 .. include:: ../../intervenants/sebastien-douche.rst
 
-**Atelier de 10h à 13h, gratuit, sur inscription**
+.. class:: confhour
+
+Atelier de 10h à 13h, gratuit, sur inscription.
 
 Les inscriptions seront prochainement ouvertes
 
@@ -60,13 +59,11 @@ fonctionnalités de base.
 
 .. include:: ../../intervenants/lionel-percheron.rst
 
-**Atelier de 10h à 13h, gratuit, sur inscription**
+.. class:: confhour
+
+Atelier de 10h à 13h, gratuit, sur inscription.
 
 Les inscriptions seront prochainement ouvertes
-
-
-dimanche après-midi
-=====================
 
 .. _atelier-git-perfectionnement:
 
@@ -84,7 +81,9 @@ d'amener une multiprise électrique.
 
 .. include:: ../../intervenants/sebastien-douche.rst
 
-**Atelier de 14h à 17h, gratuit, sur inscription**.
+.. class:: confhour
+
+Atelier de 14h à 17h, gratuit, sur inscription.
 
 Les inscriptions seront prochainement ouvertes.
 
@@ -110,6 +109,8 @@ multiprise électrique.
 
 .. include:: ../../intervenants/lionel-percheron.rst
 
-**Atelier de 14h à 17h, gratuit, sur inscription**
+.. class:: confhour
+
+Atelier de 14h à 17h, gratuit, sur inscription.
 
 Les inscriptions seront prochainement ouvertes

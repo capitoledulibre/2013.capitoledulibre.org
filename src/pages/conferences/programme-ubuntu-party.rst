@@ -21,8 +21,10 @@ principaux:
 
 .. include:: ../../intervenants/fabien-adam.rst
 
-**Conférence répétée à plusieurs reprises, le samedi 24 novembre à
-14h, 15h, 16h et 17h30.**
+.. class:: confhour
+
+Conférence répétée à plusieurs reprises, le samedi 24 novembre à
+14h, 15h, 16h et 17h30.
 
 .. _installparty:
 
@@ -55,4 +57,6 @@ plusieurs reprises tout au long de l'après-midi le samedi 24
 novembre. Vous pourrez ensuite reproduire chacune des étapes chez
 vous, en toute sérénité.
 
-**L'install party se déroule le samedi 24 novembre de 10h30 à 18h30, puis le dimanche 25 novembre de 10h à 17h.**
+.. class:: confhour
+
+L'install party se déroule le samedi 24 novembre de 10h30 à 18h30, puis le dimanche 25 novembre de 10h à 17h.

@@ -15,7 +15,9 @@ vous qui ferez la conférence.
 
 .. include:: ../../intervenants/alexis-kauffmann.rst
 
-**Conférence de 14h à 15h.**
+.. class:: confhour
+
+Conférence de 14h à 15h.
 
 .. _conf-liberer-internet:
 
@@ -34,7 +36,9 @@ l'heure des révélations.
 
 .. include:: ../../intervenants/julien-vaubourg.rst
 
-**Conférence de 15h à 16h**
+.. class:: confhour
+
+Conférence de 15h à 16h.
 
 .. _conf-educ-libre:
 
@@ -73,7 +77,9 @@ On peut dégager trois types d'enjeux :
 
 .. include:: ../../intervenants/jean-pierre-archambault.rst
 
-**Conférence de 16h à 17h**
+.. class:: confhour
+
+Conférence de 16h à 17h.
 
 .. _conf-wikimedia:
 
@@ -91,7 +97,9 @@ Wikipédia et l'ensemble des projets Wikimédia
 
 .. include:: ../../intervenants/adrienne-charmet-alix.rst
 
-**Conférence de 17h30 à 18h30**
+.. class:: confhour
+
+Conférence de 17h30 à 18h30.
 
 .. _conf-open-hardware:
 
@@ -112,4 +120,6 @@ conduire à une nouvelle révolution industrielle.
 
 .. include:: ../../intervenants/sylvain-wallez.rst
 
-**Conférence de 18h30 à 19h30**
+.. class:: confhour
+
+Conférence de 18h30 à 19h30.

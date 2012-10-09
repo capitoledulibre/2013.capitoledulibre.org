@@ -2,9 +2,6 @@
 Ateliers multimedia, dimanche 25 novembre
 ==========================================
 
-Dimanche matin
-===============
-
 .. _atelier-affiche:
 
 
@@ -16,7 +13,9 @@ Il est nécessaire d'avoir Inkscape, The Gimp et Scribus installé sur votre mac
 
 .. include:: ../../intervenants/antoine-bardelli.rst
 
-**Atelier de 10h à 13h, gratuit, sur inscription**
+.. class:: confhour
+
+Atelier de 10h à 13h, gratuit, sur inscription.
 
 Les inscriptions seront prochainement ouvertes
 
@@ -29,10 +28,9 @@ Animations traditionnelle et Dynamique avec Blender, Cadrage, rendu et Compositi
 
 .. include:: ../../intervenants/francois-grassard.rst
 
-**Atelier de 10h à 13h, gratuit, sur inscription**
+.. class:: confhour
 
-dimanche après-midi
-=====================
+Atelier de 10h à 13h, gratuit, sur inscription.
 
 .. _atelier-crea-2d:
 
@@ -43,7 +41,9 @@ Un atelier de 3 heures pour expliquer pas à pas et dans le détail comment réa
 
 .. include:: ../../intervenants/david-revoy.rst
 
-**Atelier de 14h à 17h, gratuit, sur inscription**
+.. class:: confhour
+
+Atelier de 14h à 17h, gratuit, sur inscription.
 
 .. _atelier-mao:
 
@@ -54,7 +54,9 @@ Assembler des sons comme un puzzle, expérimenter des traitements et en dévelop
 
 .. include:: ../../intervenants/francois-girault.rst
 
-**Atelier de 14h à 17h, gratuit, sur inscription**
+.. class:: confhour
+
+Atelier de 14h à 17h, gratuit, sur inscription.
 
 .. _atelier-archi-blender:
 
@@ -65,6 +67,8 @@ Au cours de cet atelier, nous verrons comment modéliser un projet de bâtiment 
 
 .. include:: ../../intervenants/matthieu-dupont-de-dinechin.rst
 
-**Atelier de 14h à 17h, gratuit, sur inscription**
+.. class:: confhour
+
+Atelier de 14h à 17h, gratuit, sur inscription.
 
 Les inscriptions seront prochainement ouvertes
