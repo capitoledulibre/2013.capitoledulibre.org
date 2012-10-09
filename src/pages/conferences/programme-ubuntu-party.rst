@@ -24,7 +24,7 @@ principaux:
 **Conférence répétée à plusieurs reprises, le samedi 24 novembre à
 14h, 15h, 16h et 17h30.**
 
-.. _conf-installparty:
+.. _installparty:
 
 Install-party Ubuntu
 --------------------

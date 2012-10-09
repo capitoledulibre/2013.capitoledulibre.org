@@ -170,12 +170,13 @@ Dimanche 25 novembre, ateliers
     <table class="programm">
     <tr>
         <th class="horaires">Horaires</th>
-        <th class="grand-public">Grand public</th>
+        <th class="grand-public" colspan="2">Grand public</th>
         <th class="technique" colspan=2>Technique</th>
         <th class="multimedia" colspan=3>Multimedia</th>
     </tr>
     <tr>
         <th>10h-13h</th>
+        <td></td>
         <td></td>
         <td><a href="ateliers-techniques-dimanche-25-novembre.html#atelier-git-debutant">Débuter avec Git</a><br/>Sébastien Douche</td>
         <td><a href="ateliers-techniques-dimanche-25-novembre.html#atelier-openstack">A la découverte d'OpenStack, un cloud libre</a><br/>Christophe Sauthier, Lionel Porcheron</td>
@@ -185,7 +186,8 @@ Dimanche 25 novembre, ateliers
     </tr>
     <tr>
         <th>14h-17h</th>
-        <td></td>
+        <td><a href="ateliers-grand-public-dimanche-25-novembre.html#atelier-ubuntu">Atelier "Initiation à Ubuntu Linux"</a><br/>Fabien Adam</td>
+        <td><a href="ateliers-grand-public-dimanche-25-novembre.html#atelier-openstreetmap">Atelier "OpenStreetMap: sources de données, JOSM et autres outils du contributeur"</a><br/>Sébastien Dinot</td>
         <td><a href="ateliers-techniques-dimanche-25-novembre.html#atelier-git-perfectionnement">Se perfectionner avec Git</a><br/>Sébastien Douche</td>
         <td><a href="ateliers-techniques-dimanche-25-novembre.html#_atelier-puppet">Passer de 10 à 1000 machines sans effort avec puppet</a><br/>Christophe Sauthier, Lionel Porcheron</td>
         <td><a href="ateliers-multimedia-dimanche-25-novembre.html#atelier-crea-2d">Atelier de dessin et de création avec MyPaint</a><br/>David Revoy</td>
