@@ -310,22 +310,22 @@ table.programm th {
     vertical-align: middle;
 }
 
-.programme-des-conferences-et-ateliers #content,
-.programme-des-conferences-et-ateliers #main {
+.programme #content,
+.programme #main {
     margin-left: 0;
 }
-.programme-des-conferences-et-ateliers #content {
+.programme #content {
     width: 100%;
     margin-bottom: 1em;
 }
-.programme-des-conferences-et-ateliers #sidebar {
+.programme #sidebar {
     display: none;
 }
-.programme-des-conferences-et-ateliers #sidebar section {
+.programme #sidebar section {
     width: 25%;
     float: left;
     clear: none;
 }
-.programme-des-conferences-et-ateliers #sidebar section#sponsors {
+.programme #sidebar section#sponsors {
     width: 75%;
 }

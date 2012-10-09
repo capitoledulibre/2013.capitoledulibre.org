@@ -26,18 +26,6 @@
             <div class="container">
         <nav id="menu"><ul class="nav">
             <li><a href="{{ SITEURL }}/index.html" class="brand">Capitole du Libre 2012</a></li>
-			<li class="dropdown">
-                <a class="dropdown-toggle"
-                    data-toggle="dropdown"
-                    href="#">
-                    Programme
-                    <b class="caret"></b></a>
-                <ul class="dropdown-menu">
-                {% for title, link in PROG_MENUITEMS %}
-                    <li><a href="{{ link }}">{{ title }}</a></li>
-                {% endfor %}
-                </ul>
-            </li>
 			{% for title, link in MENUITEMS %}
 				<li><a href="{{ link }}">{{ title }}</a></li>
 			{% endfor %}
