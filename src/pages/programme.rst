@@ -5,6 +5,7 @@ Programme
 Samedi 24 novembre
 ==================
 
+L'entrée est libre et gratuite.
 
 .. html::
 
@@ -164,6 +165,9 @@ Samedi 24 novembre
 
 Dimanche 25 novembre
 ====================
+
+L'entrée est libre est gratuite, les ateliers nécessitent une
+inscription préalable, gratuite également.
 
 .. html::
 
