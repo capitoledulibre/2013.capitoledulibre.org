@@ -27,21 +27,9 @@ Samedi 24 novembre, conférences
         <td>A202</td>
         <td>C002</td>
 	<td>C101</td>
-	<td>C102</td>
+	<td>C103</td>
 	<td>A203</td>
 	<td>C102</td>
-    </tr>
-    <tr class="odd">
-        <th>10h30<br/>-<br/>11h30</th>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-	<td></td>
-	<td><a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a></td>
-	<td>11h<br/><a href="http://rencontres.django-fr.org/2012/tolosa/lightning-talks.html">Lightning talks</a></td>
-	<td><a href="http://toulibre.org/akademyfr#conf_complexite">La complexité informatique</a><br/>Sébastien Renard</td>
     </tr>
     <tr class="odd">
         <th>11h30<br/>-<br/>12h30</th>
@@ -52,7 +40,7 @@ Samedi 24 novembre, conférences
         <td></td>
 	<td></td>
 	<td><a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a></td>
-	<td>Suite<br/><a href="http://rencontres.django-fr.org/2012/tolosa/lightning-talks.html">Lightning talks</a></td>
+	<td><br/><a href="http://rencontres.django-fr.org/2012/tolosa/lightning-talks.html">Lightning talks</a></td>
 	<td><a href="http://toulibre.org/akademyfr#conf_debug">Techniques générales de débogage</a><br/>David Faure</td>
     </tr>
     <tr class="odd">
@@ -131,7 +119,7 @@ Samedi 24 novembre, conférences
 	<td><a href="ubuntu-party-samedi-24-novembre.html#conf-ubuntu">Présentation "Installation et découverte d'Ubuntu"</a><br/>Fabien Adam</td>
 	<td><a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a></td>
 	<td><a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html">Conférences</a></td>
-	<td><a href="http://toulibre.org/akademyfr#conf_qa">Initiatives QA</a><br/>Anne-Marie Mahfouf et Aurélien Gâteau</td>
+	<td><a href="http://toulibre.org/akademyfr#conf_debug">Techniques générales de débogage</a><br/>David Faure</td>
     </tr>
     <tr class="odd">
         <th>18h30<br/>-<br/>19h30</th>
@@ -146,7 +134,7 @@ Samedi 24 novembre, conférences
 	<td></td>
 	<td><a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a></td>
 	<td><a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html">Conférences</a></td>
-	<td></td>
+	<td><a href="http://toulibre.org/akademyfr#conf_complexite">La complexité informatique</a><br/>Sébastien Renard</td>
     </tr>
     <tr class="odd">
         <th>19h30<br/>-<br/>20h30</th>
