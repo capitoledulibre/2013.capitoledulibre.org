@@ -76,9 +76,9 @@ Samedi 24 novembre, conférences
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-blender">Conférence Blender</a><br/>François Grassard</td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-musecore">MuseScore : Accès libre aux partitions, code source de la musique</a><br>Nicolas Froment</td>
         <td>
-	  15h<a href="mini-conferences-samedi-24-novembre.html#conf-mozilla">Mozilla, c'est quoi, et comment y contribuer ?</a><br/>
-	  15h20<a href="mini-conferences-samedi-24-novembre.html#conf-gcompris">Le logiciel éducatif GCompris fait le plein de nouveautés</a><br/>
-	  15h40<a href="mini-conferences-samedi-24-novembre.html#conf-opensource">L'Open Source et les éditeurs de logiciel: avantage compétitif agressif ou développement durable?</a><br/>
+	  15h<br/><a href="mini-conferences-samedi-24-novembre.html#conf-mozilla">Mozilla, c'est quoi, et comment y contribuer ?</a><br/><br/>
+	  15h20<br/><a href="mini-conferences-samedi-24-novembre.html#conf-gcompris">Le logiciel éducatif GCompris fait le plein de nouveautés</a><br/><br/>
+	  15h40<br/><a href="mini-conferences-samedi-24-novembre.html#conf-opensource">L'Open Source et les éditeurs de logiciel: avantage compétitif agressif ou développement durable?</a><br/><br/>
 	</td>
 	<td>Présentation Ubuntu</td>
 	<td>Install Party Ubuntu</td>
@@ -92,9 +92,9 @@ Samedi 24 novembre, conférences
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-mao">Une brève histoire des musiques électroniques et ... Linux</a><br/>François Girault</td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-moteur-rendu">Les moteurs de rendu libres : vers toujours plus de réalisme ?</a><br/>Henri Hebeisen</td>
         <td>
-	  16h<a href="mini-conferences-samedi-24-novembre.html#conf-otb">OTB: Librairie de traitement d'images spatiales</a><br/>
-	  16h20<a href="mini-conferences-samedi-24-novembre.html#conf-diogene">Diogène, logiciel libre de Biométrie et Génétique sous Linux</a><br/>
-	  16h40<a href="mini-conferences-samedi-24-novembre.html#conf-orekit">Orekit, l'innovation libre comme pari industriel</a><br/>
+	  16h<br/><a href="mini-conferences-samedi-24-novembre.html#conf-otb">OTB: Librairie de traitement d'images spatiales</a><br/><br/>
+	  16h20<br/><a href="mini-conferences-samedi-24-novembre.html#conf-diogene">Diogène, logiciel libre de Biométrie et Génétique sous Linux</a><br/><br/>
+	  16h40<br/><a href="mini-conferences-samedi-24-novembre.html#conf-cinemalibre">Vers un système de projection libre pour le cinéma numérique</a><br/><br/>
 	</td>
 	<td>Présentation Ubuntu</td>
 	<td>Install Party Ubuntu</td>
@@ -112,9 +112,9 @@ Samedi 24 novembre, conférences
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-montage-video">Conférence Montage Vidéo</a><br/>Laurent Bellegarde</td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-gmic">Le projet G'MIC : Naissance, évolution et démonstration</a><br/>David Tschumperlé</td>
         <td>
-	  17h30<a href="mini-conferences-samedi-24-novembre.html#conf-cinemalibre">Vers un système de projection libre pour le cinéma numérique</a><br/>
-	  17h50<a href="mini-conferences-samedi-24-novembre.html#conf-buildroot">Buildroot, un outil simple pour construire un système Linux embarqué</a><br/>
-	  18h10<a href="mini-conferences-samedi-24-novembre.html#conf-scapy">Scapy : Easy Packet Handling</a><br/>
+	  17h30<br/><a href="mini-conferences-samedi-24-novembre.html#conf-orekit">Orekit, l'innovation libre comme pari industriel</a><br/><br/>
+	  17h50<br/><a href="mini-conferences-samedi-24-novembre.html#conf-buildroot">Buildroot, un outil simple pour construire un système Linux embarqué</a><br/><br/>
+	  18h10<br/><a href="mini-conferences-samedi-24-novembre.html#conf-scapy">Scapy : Easy Packet Handling</a><br/><br/>
 	</td>
 	<td>Présentation Ubuntu</td>
 	<td>Install Party Ubuntu</td>
@@ -128,8 +128,8 @@ Samedi 24 novembre, conférences
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-archi-libre">Les outils libres pour les métiers de la construction et de l'ingénierie</a><br>Matthieu Dupont de Dinechin</td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-vlc">VideoLAN et tour d'horizon du Multimedia Libre</a><br/>Jean-Baptiste Kempf</td>
         <td>
-	  18h30<a href="mini-conferences-samedi-24-novembre.html#conf-po4a">po4a, outil de traduction pour la documentation</a><br/>
-	  18h50<a href="mini-conferences-samedi-24-novembre.html#conf-firewall">Réaliser votre firewall, sans aucune connaissance d'iptables</a><br/>
+	  18h30<br/><a href="mini-conferences-samedi-24-novembre.html#conf-po4a">po4a, outil de traduction pour la documentation</a><br/><br/>
+	  18h50<br/><a href="mini-conferences-samedi-24-novembre.html#conf-firewall">Réaliser votre firewall, sans aucune connaissance d'iptables</a><br/><br/>
         </td>
 	<td></td>
 	<td>Install Party Ubuntu</td>
