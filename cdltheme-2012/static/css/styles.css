@@ -10,6 +10,7 @@ body {
 }
 section, .section {
   clear: left;
+  margin-bottom: 1.5em;
 }
 a:link, a:visited {
   color: #666;
@@ -188,7 +189,6 @@ td.odd {
 }
 
 #content h2 {
-    padding-top: 1.5em;
     border-bottom: 1px solid #999999;
 }
 
