@@ -303,3 +303,23 @@ table.programm td {
 table.programm th {
     vertical-align: middle;
 }
+
+.programme-des-conferences-et-ateliers #content,
+.programme-des-conferences-et-ateliers #main {
+    margin-left: 0;
+}
+.programme-des-conferences-et-ateliers #content {
+    width: 100%;
+    margin-bottom: 1em;
+}
+.programme-des-conferences-et-ateliers #sidebar {
+    display: none;
+}
+.programme-des-conferences-et-ateliers #sidebar section {
+    width: 25%;
+    float: left;
+    clear: none;
+}
+.programme-des-conferences-et-ateliers #sidebar section#sponsors {
+    width: 75%;
+}
