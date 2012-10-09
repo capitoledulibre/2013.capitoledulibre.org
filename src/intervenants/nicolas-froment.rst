@@ -4,4 +4,6 @@
   :align: left
   :class: photo
 
-*Nicolas Froment (@lasconic) contribue au projet MuseScore depuis début 2008. Batteur et développeur, il fait partie de la petite équipe de 3 personnes qui travaillent à plein temps sur le projet et il coordonne les différentes parties techniques.*
+.. class:: biography
+
+Nicolas Froment (@lasconic) contribue au projet MuseScore depuis début 2008. Batteur et développeur, il fait partie de la petite équipe de 3 personnes qui travaillent à plein temps sur le projet et il coordonne les différentes parties techniques.

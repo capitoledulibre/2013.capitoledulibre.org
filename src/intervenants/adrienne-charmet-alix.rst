@@ -4,7 +4,9 @@
   :align: left
   :class: photo
 
-*Adrienne Charmet-Alix est directrice des programmes de Wikimédia
+.. class:: biography
+
+Adrienne Charmet-Alix est directrice des programmes de Wikimédia
 France, association pour le libre partage de la connaissance qui
 soutient et promeut en France les projets Wikimédia, et notamment
-l'encyclopédie libre Wikipédia.*
+l'encyclopédie libre Wikipédia.

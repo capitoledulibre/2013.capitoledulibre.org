@@ -4,7 +4,9 @@
   :align: left
   :class: photo
 
-*Initié très tôt à l'informatique de par son père programmeur, 
+.. class:: biography
+
+Initié très tôt à l'informatique de par son père programmeur, 
 François Grassard s’intéresse aux logiciels libres dès leur 
 apparition afin de retrouver un peu de fraicheur dans cette hégémonie 
 logicielle. Graphiste 2D/3D, développeur et formateur, il pratique son 
@@ -17,4 +19,4 @@ production et les chaînes de télévision sur l'intégration de
 solutions libres et travaille sur le développement d'un système 
 dédié à l'habillage dynamique de chaîne, basé sur Blender. Il est 
 également l'auteur de nombreux articles, livres et CD de formation sur 
-le sujet.*
+le sujet.

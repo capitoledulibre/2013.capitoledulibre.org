@@ -35,7 +35,15 @@ La salle disposera d'un accès Wifi à Internet mais aucun PC ne sera
 mis à disposition, venez avec le vôtre, ainsi qu'avec une multiprise
 électrique si possible.
 
-**Cet atelier est prévu le dimanche 25 novembre de 14h à 17h.**
+.. class:: confhour
+
+Cet atelier est prévu le dimanche 25 novembre de 14h à
+17h.
+
+.. class:: confhour
+
+Inscription nécessaire à l'adresse
+`<http://toulibre.org/capitoledulibre2012:atelier-osm>`_.
 
 .. include:: ../../intervenants/sebastien-dinot.rst
 
@@ -70,7 +78,9 @@ Pour participer à cet atelier, vous devez apporter votre ordinateur
 souhaitez de l'aide pour l'installation d'Ubuntu, nous vous
 recommandons de venir le samedi 24 novembre lors de l'`Install Party <http://www.capitoledulibre.org/2012/ubuntu-party-samedi-24-novembre.html#installparty>`_ prévue dans le cadre de Capitole du Libre.
 
-**Une édition de cet atelier est prévue le dimanche 25 novembre de 14h à 17h.**
+.. class:: confhour
+
+Une édition de cet atelier est prévue le dimanche 25 novembre de 14h à 17h.
 
 Dans le cas où cet atelier serait complet, nous ouvrirons un créneau
 supplémentaire de 10h à 13h le même jour.

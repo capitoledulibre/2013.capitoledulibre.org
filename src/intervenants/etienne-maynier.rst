@@ -5,6 +5,8 @@
   :align: left
   :class: photo
 
-*Etienne Maynier est ingénieur ENSEEIHT spécialisé dans la sécurité de
+.. class:: biography
+
+Etienne Maynier est ingénieur ENSEEIHT spécialisé dans la sécurité de
 l'information. Il occupe aujourd'hui le poste de pentester/auditeur
-sécurité dans une PME toulousaine.*
+sécurité dans une PME toulousaine.

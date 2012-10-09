@@ -329,3 +329,12 @@ table.programm th {
 .programme #sidebar section#sponsors {
     width: 75%;
 }
+
+p.confhour {
+    font-weight: bold;
+    font-size: 120%;
+}
+
+p.biography {
+    font-style: italic;
+}

@@ -4,10 +4,12 @@
   :align: left
   :class: photo
 
-*Laurent GUERBY est le président de l'association* `tetaneutral.net`_, 
-*developpeur* `GCC`_ *et fondateur du projet* `GCC Compile Farm`_ *de 
-la* `FSF France`_. *Ingénieur de formation, il est membre de plusieurs 
-associations de promotion du logiciel, materiel et reseaux libres.* 
+.. class:: biography
+
+Laurent GUERBY est le président de l'association* `tetaneutral.net`_,
+developpeur `GCC`_ et fondateur du projet `GCC Compile Farm`_ de
+la `FSF France`_. Ingénieur de formation, il est membre de plusieurs
+associations de promotion du logiciel, materiel et reseaux libres.
 
 .. _`tetaneutral.net`: http://tetaneutral.net
 .. _`GCC`: http://gcc.gnu.org

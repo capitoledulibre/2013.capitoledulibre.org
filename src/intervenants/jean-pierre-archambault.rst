@@ -4,7 +4,9 @@
   :align: left
   :class: photo
 
-*Jean-Pierre Archambault est professeur agrégé de
+.. class:: biography
+
+Jean-Pierre Archambault est professeur agrégé de
 mathématiques. Chargé de mission au CNDP-CRDP de Paris dans les années
 1990 et 2000, il a créé puis coordonné le pôle de compétences
 logiciels libres du SCEREN, contribuant ainsi au développement du
@@ -20,4 +22,4 @@ et sociétaux de l'informatique et des TIC. Il a publié De la
 télématique à Internet aux éditions du CNDP. Jean-Pierre Archambault
 est président de l'association EPI (Enseignement Public et
 Informatique). A ce titre, il a mené de nombreuses actions en faveur
-de la création d'une discipline informatique au lycée.*
+de la création d'une discipline informatique au lycée.

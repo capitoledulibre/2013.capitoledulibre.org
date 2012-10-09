@@ -4,5 +4,7 @@
   :align: left
   :class: photo
 
-*David Revoy est Illustrateur/Concept artiste freelance travaillant 
-exclusivement avec des logicielles libres. Portfolio : www.davidrevoy.com* 
+.. class:: biography
+
+David Revoy est Illustrateur/Concept artiste freelance travaillant
+exclusivement avec des logicielles libres. Portfolio : `<www.davidrevoy.com>`_
