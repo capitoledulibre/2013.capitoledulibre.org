@@ -134,7 +134,7 @@ Samedi 24 novembre, conférences
 	<td></td>
 	<td>Install Party Ubuntu</td>
 	<td><a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html">Conférences</a></td>
-	<td><a href="http://toulibre.org/akademyfr#conf_opengl">Modern Shader-based OpenGL Techniques</a><br/>Sean Harmer</td>
+	<td></td>
     </tr>
     <tr class="odd">
         <th>19h30<br/>-<br/>20h30</th>
