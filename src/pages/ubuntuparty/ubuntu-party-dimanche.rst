@@ -37,6 +37,11 @@ recommandons de venir le samedi 24 novembre lors de l'`Install Party <http://www
 
 Une édition de cet atelier est prévue le dimanche 25 novembre de 14h à 17h.
 
+.. class:: confhour
+
+Inscription nécessaire à l'adresse
+`<http://toulibre.org/capitoledulibre2012:atelier-ubuntu-apres-midi>`_.
+
 Dans le cas où cet atelier serait complet, nous ouvrirons un créneau
 supplémentaire de 10h à 13h le même jour.
 

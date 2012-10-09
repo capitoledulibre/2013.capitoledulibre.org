@@ -208,7 +208,7 @@ inscription préalable, gratuite également.
         <td><a href="ateliers-multimedia-dimanche-25-novembre.html#atelier-crea-2d">Atelier "Dessin et création avec MyPaint"</a><br/>David Revoy<br/><i><a href="http://toulibre.org/capitoledulibre2012:atelier-mypaint">inscription</a></i></td>
         <td><a href="ateliers-multimedia-dimanche-25-novembre.html#atelier-mao">Atelier "M.A.O avec Ardour et ressources sonores ouvertes"</a><br/>François Girault<br/><i><a href="http://toulibre.org/capitoledulibre2012:atelier-mao">inscription</a></i></td>
         <td><a href="ateliers-multimedia-dimanche-25-novembre.html#atelier-archi-blender">Atelier "Logiciels libres et architecture ?"</a><br/>Matthieu Dupont de Dinechin<br/><i><a href="http://toulibre.org/capitoledulibre2012:atelier-architecture">inscription</a></i></td>
-        <td><a href="ubuntu-party-dimanche-25-novembre.html#atelier-ubuntu">Atelier "Initiation à Ubuntu Linux"</a><br/>Fabien Adam<br/><i><a href="http://toulibre.org/capitoledulibre2012:atelier-ubuntu">inscription</a></i></td>
+        <td><a href="ubuntu-party-dimanche-25-novembre.html#atelier-ubuntu">Atelier "Initiation à Ubuntu Linux"</a><br/>Fabien Adam<br/><i><a href="http://toulibre.org/capitoledulibre2012:atelier-ubuntu-apres-midi">inscription</a></i></td>
 	<td><a href="ubuntu-party-dimanche-25-novembre.html#installparty">Install Party Ubuntu</a></td>
 	<td><a href="http://rencontres.django-fr.org/2012/tolosa/">Sprints et ateliers</a></td>
 	<td colspan="3"><a href="http://toulibre.org/akademyfr#atelier_kde">Ateliers KDE</a><br/>Equipe KDE France</td>
