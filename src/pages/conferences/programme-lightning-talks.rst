@@ -96,29 +96,95 @@ philosophie:
 Diogène, logiciel libre de Biométrie et Génétique sous Linux, *Philippe Baradat, INRA*
 --------------------------------------------------------------------------------------
 
-Le logiciel DIOGENE (licence GPL) a été conçu et développé sous Unix à
-la Station de Recherches Forestières de Bordeaux (INRA) à la fin des
-années 1980 et au début des années 1990. De 2000 à 2012, il a été
-porté sous Linux et interfacé avec Gnuplot pour ses sorties
-graphiques. Développé en Fortran 90 et en C, il permet des calculs
-très rapides, notamment grâce à l'utilisation de fichiers de données
-binaires à accès direct, ce qui lui permet d'utiliser largement le
-rééchantillonnage (jackknife et bootstrap) pour le calcul des
-intervalles de confiance des paramètres estimés. Un analyseur
-syntaxique permet de définir n'importe quels caractères dérivés à
-partir des observations de base du fichier de données, sous forme de
-simple formules algébriques. Par ailleurs, DIOGENE est conçu comme une
-'suite', plusieurs modules concernant des modèles différents pouvant
-être combinés dans une même chaîne de traitement, pour réaliser des
-milliers de 'super-modèles' plus ou moins complexes. Enfin, il est
-multilingue (5 langues pour l'instant) et possède un système original
-de sélection de la langue des libellés, tant pour l'interface
-utilisateur que pour les sorties des programmes (le plus souvent
-lancés par des scripts en c-shell). Il manque pour l'instant une
-interface utilisateur graphique. Il est librement téléchargeable par
-connexion au site de l'`UMR AMAP (Montpellier)
-<http://amap.cirad.fr>`_. Il fonctionne aussi bien en mode
-client-serveur que sur périphérique USB (formule 'Linux embarqué'), ou
-bien après installation sur un PC sous Linux ou en 'double boot'.
+Le logiciel DIOGENE (licence GPL) a été conçu et développé en Fortran
+90 et en C sous Linux pour répondre aux besoins d'étudiants et de
+chercheurs dans les domaines de la Biométrie générale et de la
+Génétique des plantes annuelles ou pérennes.  Il peut être téléchargé
+depuis le site http://amap.cirad.fr. Ses caractéristiques principales
+sont les suivantes :
+
+ - Possibilité de traiter simultanément un très grand nombre de
+   variables (jusqu'à 9999) ;
+
+ - Utilisation de modèles non-orthogonaux (permettant de traiter des
+   fichiers ayant beaucoup de donnée manquantes) ;
+
+ - Présence d'un analyseur syntaxique autorisant la définition de
+   nouveaux caractères à partir de formules algébriques ;
+
+ - Calcul standardisé par rééchantillonnage des intervalles de
+   confiance de paramètres estimés (corrélations par exemple) ;
+
+ - Structure modulaire permettant de traiter des modèles complexes par
+   assemblage de modules de base ;
+
+ - Fonctionnement multilingue (Français, Anglais, Espagnol, Portugais
+   et italien). Ajout facile de nouvelles langues.
+
+Ce logiciel est interfacé avec Gnuplot (sorties graphiques 2-D ou
+3-D). En revanche, une interface utilisateur graphique reste à créer.
 
 .. include:: ../../intervenants/philippe-baradat.rst
+
+Vers un système de projection libre pour le cinéma numérique, *Nicolas Bertrand*
+--------------------------------------------------------------------------------
+
+La conversion des salles de cinéma françaises et européennes vers le
+cinéma numérique est en cours, et d'ici 2014 il n'y aura pratiquement
+plus de tirage en bobine 35 mm. Le matériel pour la projection
+numérique dans les salles est standardisé et amène de nouvelles
+contraintes de coût, de technologie et de sécurité.
+
+Pour continuer à produire, distribuer et diffuser des films, le cinéma
+Art et Essai doit pouvoir s'approprier le cinéma numérique, et adapter
+la technologie à la création et non le contraire. Le cinéma numérique
+actuel impose un modèle qui n'a pas été pensé pour le cinéma Art et
+Essai. Le modèle du logiciel libre peut fournir une solution adaptée
+à ce problème. Nous travaillons sur un système de création, diffusion
+et projection de copies numériques. Ce système sera ouvert et peu
+coûteux. Au delà du côté technique, le but est de permettre l'accès à
+toute œuvre aux salles obscures.
+
+.. include:: ../../intervenants/nicolas-bertrand.rst
+
+po4a, outil de traduction pour la documentation, *Denis Barbier*
+----------------------------------------------------------------
+
+Depuis 1995, les logiciels libres du projet GNU sont capables grâce à
+GNU gettext d'afficher leurs messages dans la langue de
+l'utilisateur. De nombreux projets s'en sont inspirés pour gérer des
+traductions dans des contextes non prévus initialement par gettext. En
+particulier, KDE et GNOME l'utilisent pour traduire leur documentation
+en format XML. Le programme `po4a <http://po4a.alioth.debian.org/>`_
+repose sur le même principe, mais accepte de nombreux autres formats
+d'entrée (pages de manuel groff, Texinfo, LaTeX, POD, HTML, Markdown,
+AsciiDoc). La conférence donnera une présentation rapide de la gestion
+de traduction de documentation avec des outils basés sur gettext,
+ainsi que des exemples pratiques avec po4a.
+
+.. include:: ../../intervenants/denis-barbier.rst
+
+Réaliser votre firewall, sans aucune connaissance d'iptables, *Frédéric Zulian*
+-------------------------------------------------------------------------------
+
+Iptables est un peu aride à configurer en mode console. Beaucoup de
+personnes se tournent donc vers des applications intermédiaires
+générant des rêgles iptables de manière plus conviviale. Au travers de
+cette présentation, nous vous proposons de découvrir différentes
+applications graphiques permettant de genérer la configuration d'un
+firewall. Elles sont souvent simples d'utilisation et ne demandent pas
+d'avoir une connaissance approfondie d'Iptables.
+
+Ces applications traduisent la syntaxe des régles Iptables en «
+langage » utilisé par le commun des mortels.  Voici quelques exemples:
+fwbuilder, modules iptables de webmin, kmyfirewall, gufw.
+
+.. include:: ../../intervenants/frederic-zulian.rst
+
+Orekit, l'innovation libre comme pari industriel, *Sébastien Dinot*
+-------------------------------------------------------------------
+
+Résumé à venir.
+
+.. include:: ../../intervenants/sebastien-dinot.rst
+
