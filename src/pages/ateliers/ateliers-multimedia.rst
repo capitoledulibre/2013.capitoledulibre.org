@@ -2,6 +2,10 @@
 Ateliers multimedia, dimanche 25 novembre
 ==========================================
 
+.. contents:: Liste des ateliers
+    :depth: 1
+    :backlinks: none
+
 .. _atelier-affiche:
 
 

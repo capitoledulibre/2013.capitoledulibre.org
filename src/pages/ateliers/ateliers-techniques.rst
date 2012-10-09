@@ -2,6 +2,10 @@
 Ateliers techniques, dimanche 25 novembre
 ==========================================
 
+.. contents:: Liste des ateliers
+    :depth: 1
+    :backlinks: none
+
 .. _atelier-git-debutant:
 
 "Débuter avec Git", Sébastien Douche

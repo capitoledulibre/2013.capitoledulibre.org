@@ -2,6 +2,10 @@
 Ubuntu Party, samedi 24 novembre
 ================================
 
+.. contents:: Liste des conférences
+    :depth: 1
+    :backlinks: none
+
 .. _conf-ubuntu:
 
 Présentation "Installation et découverte d'Ubuntu", *Fabien Adam*

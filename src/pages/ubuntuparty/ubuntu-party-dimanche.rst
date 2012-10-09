@@ -2,6 +2,10 @@
 Ubuntu Party, dimanche 25 novembre
 ==================================
 
+.. contents:: Liste des ateliers
+    :depth: 1
+    :backlinks: none
+
 .. _atelier-ubuntu:
 
 Atelier "Initiation à Ubuntu Linux", *Fabien Adam*

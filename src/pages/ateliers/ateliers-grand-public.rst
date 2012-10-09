@@ -2,6 +2,10 @@
 Ateliers grand public, dimanche 25 novembre
 ===========================================
 
+.. contents:: Liste des ateliers
+    :depth: 1
+    :backlinks: none
+
 .. _atelier-arduino:
 
 "Arduino : initiation par l'exemple", *Rémi Boulle, Patrick Dedieu*
@@ -37,6 +41,10 @@ Inscription nécessaire à l'adresse
 `<http://toulibre.org/capitoledulibre2012:atelier-arduino>`_.
 
 .. include:: ../../intervenants/remi-boulle.rst
+
+.. class:: clearfix
+
+|
 
 .. include:: ../../intervenants/patrick-dedieu.rst
 

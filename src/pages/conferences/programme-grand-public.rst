@@ -3,6 +3,10 @@ Conférences grand public, samedi 24 novembre
 ============================================
 
 
+.. contents:: Liste des conférences
+    :depth: 1
+    :backlinks: none
+
 .. _conf-framasoft:
 
 "Les logiciels libres c'est bien mais c'est trop compliqué pour moi", *Alexis Kauffmann, Framasoft*
@@ -65,19 +69,19 @@ la connaissance par tous.
 
 On peut dégager trois types d'enjeux :
 
- 1. informatiques proprement dits : coûts, qualité, sécurité,
-    indépendance, diversité, régulation de l'industrie informatique
-    grand public;
+1. informatiques proprement dits : coûts, qualité, sécurité,
+indépendance, diversité, régulation de l'industrie informatique
+grand public;
 
- 2. sur les ressources, la question étant posée du degré de
-    transférabilité de l'approche du libre à la réalisation des biens
-    informationnels en général, pédagogiques en particulier. On
-    mentionnera l'action et les productions de l'association Sésamath;
+2. sur les ressources, la question étant posée du degré de
+transférabilité de l'approche du libre à la réalisation des biens
+informationnels en général, pédagogiques en particulier. On
+mentionnera l'action et les productions de l'association Sésamath;
 
- 3. de société : l'on sait que les missions fondamentales de l'Ecole
-    sont de former « l »homme, le travailleur et le citoyen ». De ce
-    point de vue, le libre constitue un outil de réflexion pour penser
-    les problématiques de l'immatériel.
+3. de société : l'on sait que les missions fondamentales de l'Ecole
+sont de former « l »homme, le travailleur et le citoyen ». De ce
+point de vue, le libre constitue un outil de réflexion pour penser
+les problématiques de l'immatériel.
 
 .. include:: ../../intervenants/jean-pierre-archambault.rst
 

@@ -2,6 +2,10 @@
 Conférences techniques, samedi 24 novembre
 ==========================================
 
+.. contents:: Liste des conférences
+    :depth: 1
+    :backlinks: none
+
 .. _conf-html5:
 
 "HTML5 et ses amis", *Paul Rouget, Mozilla*

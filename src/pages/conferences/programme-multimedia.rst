@@ -2,6 +2,10 @@
 Conférences Multimédia, samedi 24 novembre
 ==========================================
 
+.. contents:: Liste des conférences
+    :depth: 1
+    :backlinks: none
+
 .. _conf-krita:
 
 Krita 2.5 découverte et fonctionnalités, *David Revoy*

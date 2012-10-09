@@ -339,3 +339,22 @@ p.confhour {
 p.biography {
     font-style: italic;
 }
+/*
+
+.contents {
+    background-color: #FFFFFF;
+    box-shadow: 0 0 8px #CCCCCC;
+    bottom: 10px;
+    position: fixed;
+    right: 10px;
+    width: 250px;
+    padding: 8px;
+}
+*/
+.contents ul {
+    list-style-image: url('../images/bullet.png');
+}
+
+.contents ul li {
+    margin-bottom: 0.5em;
+}
