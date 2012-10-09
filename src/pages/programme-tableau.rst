@@ -41,7 +41,7 @@ Samedi 24 novembre, conférences
 	<td></td>
 	<td><a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a></td>
 	<td><br/><a href="http://rencontres.django-fr.org/2012/tolosa/lightning-talks.html">Lightning talks</a></td>
-	<td><a href="http://toulibre.org/akademyfr#conf_debug">Techniques générales de débogage</a><br/>David Faure</td>
+	<td></td>
     </tr>
     <tr class="odd">
         <th>12h30<br/>-<br/>14h</th>
@@ -65,7 +65,10 @@ Samedi 24 novembre, conférences
         <td><a href="mini-conferences-samedi-24-novembre.html#"></a></td>
 	<td><a href="ubuntu-party-samedi-24-novembre.html#conf-ubuntu">Présentation "Installation et découverte d'Ubuntu"</a><br/>Fabien Adam</td>
 	<td><a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a></td>
-	<td><a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html">Conférences</a></td>
+	<td>
+          <a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html#c1">L'infatigable Poney</a><br/>Nicolas Ferrari<br/><br/>
+	  <a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html#c2">Retour d'expérience Django à Météo France</a><br/>Fabien Marty<br/>
+        </td>
 	<td><a href="http://toulibre.org/akademyfr#conf_communaute">KDE: Communauté, Démocratie et Marketing</a><br/>Kévin Ottens</td>
     </tr>
     <tr>
@@ -82,13 +85,16 @@ Samedi 24 novembre, conférences
 	</td>
 	<td><a href="ubuntu-party-samedi-24-novembre.html#conf-ubuntu">Présentation "Installation et découverte d'Ubuntu"</a><br/>Fabien Adam</td>
 	<td><a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a></td>
-	<td><a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html">Conférences</a></td>
+	<td>
+          <a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html#c3">Introduction à Circus, process watcher en Python</a><br/>Alexis Métaireau<br/><br/>
+	  <a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html#c4">Hacker la démocratie avec le mémoire politique de la Quadrature du Net</a><br/>Laurent Peuch<br/>
+        </td>
 	<td><a href="http://toulibre.org/akademyfr#conf_kdevelop">KDevelop: IDE Tout Terrain</a><br/>Lambert Clara</td>
     </tr>
     <tr class="odd">
         <th>16h<br/>-<br/>17h</th>
         <td><a href="conferences-grand-public-samedi-24-novembre.html#conf-educ-libre">Le libre dans l'éducation. Ses enjeux</a><br/>Jean-Pierre Archambault, CNDP-CDRP</td>
-        <td><a href="conferences-techniques-samedi-24-novembre.html#conf-tisseo">Logiciel libre et transport public : l'implication de Tisséo dans la communauté Synthèse</a><br/>Xavier Raffin, Tisséo et Hugues Romain, RCSMobility</td>
+        <td><a href="conferences-techniques-samedi-24-novembre.html#conf-freebox">La Freebox, un ensemble subtil de logiciels libres et propriétaires</a><br/>Florian Fainelli</td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-mao">Une brève histoire des musiques électroniques et ... Linux</a><br/>François Girault</td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-moteur-rendu">Les moteurs de rendu libres : vers toujours plus de réalisme ?</a><br/>Henri Hebeisen</td>
         <td>
@@ -98,7 +104,10 @@ Samedi 24 novembre, conférences
 	</td>
 	<td><a href="ubuntu-party-samedi-24-novembre.html#conf-ubuntu">Présentation "Installation et découverte d'Ubuntu"</a><br/>Fabien Adam</td>
 	<td><a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a></td>
-	<td><a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html">Conférences</a></td>
+	<td>
+          <a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html#c5">Conférence surprise !</a><br/>Julien Phalip<br/><br/>
+	  <a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html#c6">Et votre back-office ?</a><br/>Timothée Peignier<br/>
+        </td>
 	<td><a href="http://toulibre.org/akademyfr#conf_traduction">Comment faire des contrôles de qualité d'une traduction ?</a><br/>Sébastien Renard</td>
     </tr>
     <tr class="odd">
@@ -118,13 +127,16 @@ Samedi 24 novembre, conférences
 	</td>
 	<td><a href="ubuntu-party-samedi-24-novembre.html#conf-ubuntu">Présentation "Installation et découverte d'Ubuntu"</a><br/>Fabien Adam</td>
 	<td><a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a></td>
-	<td><a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html">Conférences</a></td>
+	<td>
+          <a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html#c7">Django pour les fainéants, le retour</a><br/>Mathieu Agopian<br/><br/>
+	  <a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html#c8">Pourquoi je ne veux plus utiliser Django</a><br/>David Larlet<br/>
+        </td>
 	<td><a href="http://toulibre.org/akademyfr#conf_debug">Techniques générales de débogage</a><br/>David Faure</td>
     </tr>
     <tr class="odd">
         <th>18h30<br/>-<br/>19h30</th>
         <td><a href="conferences-grand-public-samedi-24-novembre.html#conf-open-hardware">Open Hardware : quand le matériel devient libre</a><br/>Sylvain Wallez</td>
-        <td><a href="conferences-techniques-samedi-24-novembre.html#conf-freebox">La Freebox, un ensemble subtil de logiciels libres et propriétaires</a><br/>Florian Fainelli</td>
+        <td><a href="conferences-techniques-samedi-24-novembre.html#conf-tisseo">Logiciel libre et transport public : l'implication de Tisséo dans la communauté Synthèse</a><br/>Xavier Raffin, Tisséo et Hugues Romain, RCSMobility</td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-archi-libre">Les outils libres pour les métiers de la construction et de l'ingénierie</a><br>Matthieu Dupont de Dinechin</td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-vlc">VideoLAN et tour d'horizon du Multimedia Libre</a><br/>Jean-Baptiste Kempf</td>
         <td>
@@ -133,7 +145,7 @@ Samedi 24 novembre, conférences
         </td>
 	<td></td>
 	<td><a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a></td>
-	<td><a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html">Conférences</a></td>
+	<td><a href="http://rencontres.django-fr.org/2012/tolosa/">Présentation des sprints</a></td>
 	<td><a href="http://toulibre.org/akademyfr#conf_complexite">La complexité informatique</a><br/>Sébastien Renard</td>
     </tr>
     <tr class="odd">
