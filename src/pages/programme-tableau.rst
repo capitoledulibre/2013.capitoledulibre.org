@@ -10,56 +10,130 @@ Samedi 24 novembre, conférences
 
     <table class="programm">
     <tr>
-        <th class="horaires">Horaires</th>
+        <th class="horaires"></th>
         <th class="grand-public">Grand public</th>
         <th class="technique">Technique</th>
         <th colspan=2 class="multimedia">Multimedia</th>
-        <th>Mini-conférences</th>
+        <th>Mini conférences</th>
+	<th colspan=2 class="ubuntuparty">Ubuntu Party</th>
+	<th>DjangoCon</th>
+	<th>Akademy-fr</th>
     </tr>
     <tr class="odd">
-        <th>14h - 15h</th>
+        <th>10h30<br/>-<br/>11h30</th>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+	<td></td>
+	<td>Install Party Ubuntu</td>
+	<td>11h<br/><a href="http://rencontres.django-fr.org/2012/tolosa/lightning-talks.html">Lightning talks</a></td>
+	<td><a href="http://toulibre.org/akademyfr#conf_complexite">La complexité informatique</a><br/>Sébastien Renard</td>
+    </tr>
+    <tr class="odd">
+        <th>11h30<br/>-<br/>12h30</th>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+	<td></td>
+	<td>Install Party Ubuntu</td>
+	<td>Suite<br/><a href="http://rencontres.django-fr.org/2012/tolosa/lightning-talks.html">Lightning talks</a></td>
+	<td><a href="http://toulibre.org/akademyfr#conf_debug">Techniques générales de débogage</a><br/>David Faure</td>
+    </tr>
+    <tr class="odd">
+        <th>12h30<br/>-<br/>14h</th>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+	<td></td>
+	<td>Install Party Ubuntu</td>
+	<td>13h30<br/><a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html">Conférences</a></td>
+	<td></td>
+    </tr>
+    <tr class="odd">
+        <th>14h<br/>-<br/>15h</th>
         <td><a href="conferences-grand-public-samedi-24-novembre.html#conf-framasoft">
         Les logiciels libres c'est bien mais c'est trop compliqué pour moi</a><br/>Alexis Kauffmann, Framasoft</td>
         <td><a href="conferences-techniques-samedi-24-novembre.html#conf-html5">HTML5 et ses amis</a><br/>Paul Rouget, Mozilla</td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-krita">Krita 2.5: Découverte et fonctionnalités</a><br/>David Revoy</a></td>
         <td><a href="#"></a></td>
         <td><a href="mini-conferences-samedi-24-novembre.html#"></a></td>
+	<td>Présentation Ubuntu</td>
+	<td>Install Party Ubuntu</td>
+	<td><a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html">Conférences</a></td>
+	<td><a href="http://toulibre.org/akademyfr#conf_communaute">KDE: Communauté, Démocratie et Marketing</a><br/>Kévin Ottens</td>
     </tr>
     <tr>
-        <th>15h - 16h</th>
+        <th>15h<br/>-<br/>16h</th>
         <td><a href="conferences-grand-public-samedi-24-novembre.html#conf-liberer-internet">
         Libérer Internet: Sexe, alcool et vie privée</a><br/>Julien Vaubourg et Sébastien Jean, LDN</td>
         <td><a href="conferences-techniques-samedi-24-novembre.html#conf-tetaneutral">Internet haut débit citoyen en zone blanche ADSL : l'expérience de l'association tetaneutral.net</a><br/>Laurent Guerby, Tetaneutral.net</td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-blender">Conférence Blender</a><br/>François Grassard</td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-musecore">MuseScore : Accès libre aux partitions, code source de la musique</a><br>Nicolas Froment</td>
         <td><a href="mini-conferences-samedi-24-novembre.html#"></a></td>
+	<td>Présentation Ubuntu</td>
+	<td>Install Party Ubuntu</td>
+	<td><a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html">Conférences</a></td>
+	<td><a href="http://toulibre.org/akademyfr#conf_kdevelop">KDevelop: IDE Tout Terrain</a><br/>Lambert Clara</td>
     </tr>
     <tr class="odd">
-        <th>16h - 17h</th>
+        <th>16h<br/>-<br/>17h</th>
         <td><a href="conferences-grand-public-samedi-24-novembre.html#conf-educ-libre">Le libre dans l'éducation. Ses enjeux</a><br/>Jean-Pierre Archambault, CNDP-CDRP</td>
         <td><a href="conferences-techniques-samedi-24-novembre.html#conf-tisseo">Logiciel libre et transport public : l'implication de Tisséo dans la communauté Synthèse</a><br/>Xavier Raffin, Tisséo et Hugues Romain, RCSMobility</td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-mao">Une brève histoire des musiques électroniques et ... Linux</a><br/>François Girault</td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-moteur-rendu">Les moteurs de rendu libres : vers toujours plus de réalisme ?</a><br/>Henri Hebeisen</td>
         <td><a href="mini-conferences-samedi-24-novembre.html#"></a></td>
+	<td>Présentation Ubuntu</td>
+	<td>Install Party Ubuntu</td>
+	<td><a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html">Conférences</a></td>
+	<td><a href="http://toulibre.org/akademyfr#conf_traduction">Comment faire des contrôles de qualité d'une traduction ?</a><br/>Sébastien Renard</td>
+    </tr>
+    <tr class="odd">
+        <th>17h<br/>-<br/>17h30</th>
+	<td colspan="9">Pause</td>
     </tr>
     <tr>
-        <th>17h30 - 18h30</th>
+        <th>17h30<br/>-<br/>18h30</th>
         <td><a href="conferences-grand-public-samedi-24-novembre.html#conf-wikimedia">Wikipédia, Wikimédia, et après ?</a><br/>Adrienne Charmet-Alix, Wikimedia France</td>
         <td><a href="conferences-techniques-samedi-24-novembre.html#conf-git">Pourquoi Git ?</a><br/>Sébastien Douche</td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-montage-video">Conférence Montage Vidéo</a><br/>Laurent Bellegarde</td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-gmic">Le projet G'MIC : Naissance, évolution et démonstration</a><br/>David Tschumperlé</td>
         <td><a href="mini-conferences-samedi-24-novembre.html#"></a></td>
+	<td>Présentation Ubuntu</td>
+	<td>Install Party Ubuntu</td>
+	<td><a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html">Conférences</a></td>
+	<td><a href="http://toulibre.org/akademyfr#conf_qa">Initiatives QA</a><br/>Anne-Marie Mahfouf et Aurélien Gâteau</td>
     </tr>
     <tr class="odd">
-        <th>18h30 - 19h30</th>
+        <th>18h30<br/>-<br/>19h30</th>
         <td><a href="conferences-grand-public-samedi-24-novembre.html#conf-open-hardware">Open Hardware : quand le matériel devient libre</a><br/>Sylvain Wallez</td>
         <td><a href="conferences-techniques-samedi-24-novembre.html#conf-freebox">La Freebox, un ensemble subtil de logiciels libres et propriétaires</a><br/>Florian Fainelli</td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-archi-libre">Les outils libres pour les métiers de la construction et de l'ingénierie</a><br>Matthieu Dupont de Dinechin</td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-vlc">VideoLAN et tour d'horizon du Multimedia Libre</a><br/>Jean-Baptiste Kempf</td>
         <td><a href="mini-conferences-samedi-24-novembre.html#"></a></td>
+	<td></td>
+	<td>Install Party Ubuntu</td>
+	<td><a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html">Conférences</a></td>
+	<td><a href="http://toulibre.org/akademyfr#conf_opengl">Modern Shader-based OpenGL Techniques</a><br/>Sean Harmer</td>
+    </tr>
+    <tr class="odd">
+        <th>19h30<br/>-<br/>20h30</th>
+	<td colspan="9">Conférence de clôture<br/><b>Jérémie Zimmermann, co-fondateur et animateur de la Quadrature du Net</b></td>
+    </tr>
+    <tr class="odd">
+        <th>20h30<br/>-<br/>21h30</th>
+	<td colspan="9">Apéritif de clôture<br/>offert aux participants</td>
+    </tr>
+    <tr class="odd">
+        <th>21h30<br/>-<br/>0h</th>
+	<td colspan="9">Repas VIP<br/>(réservé aux intervenants et bénévoles)</td>
     </tr>
     </table>
-
 
 Dimanche 25 novembre, ateliers
 ===============================

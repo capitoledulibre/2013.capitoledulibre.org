@@ -297,4 +297,9 @@ table.programm .horaires {
 
 table.programm td {
     text-align: center;
+    vertical-align: middle;
+}
+
+table.programm th {
+    vertical-align: middle;
 }
