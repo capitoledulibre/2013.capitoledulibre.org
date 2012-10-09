@@ -17,7 +17,10 @@ Il est nécessaire d'avoir Inkscape, The Gimp et Scribus installé sur votre mac
 
 Atelier de 10h à 13h, gratuit, sur inscription.
 
-Les inscriptions seront prochainement ouvertes
+.. class:: confhour
+
+Inscription nécessaire à l'adresse
+`<http://toulibre.org/capitoledulibre2012:atelier-affiche>`_.
 
 .. _atelier-blender:
 
@@ -32,6 +35,11 @@ Animations traditionnelle et Dynamique avec Blender, Cadrage, rendu et Compositi
 
 Atelier de 10h à 13h, gratuit, sur inscription.
 
+.. class:: confhour
+
+Inscription nécessaire à l'adresse
+`<http://toulibre.org/capitoledulibre2012:atelier-blender>`_.
+
 .. _atelier-crea-2d:
 
 Atelier de création professionnel 2D, *David Revoy*
@@ -44,6 +52,11 @@ Un atelier de 3 heures pour expliquer pas à pas et dans le détail comment réa
 .. class:: confhour
 
 Atelier de 14h à 17h, gratuit, sur inscription.
+
+.. class:: confhour
+
+Inscription nécessaire à l'adresse
+`<http://toulibre.org/capitoledulibre2012:atelier-mypaint>`_.
 
 .. _atelier-mao:
 
@@ -58,6 +71,11 @@ Assembler des sons comme un puzzle, expérimenter des traitements et en dévelop
 
 Atelier de 14h à 17h, gratuit, sur inscription.
 
+.. class:: confhour
+
+Inscription nécessaire à l'adresse
+`<http://toulibre.org/capitoledulibre2012:atelier-mao>`_.
+
 .. _atelier-archi-blender:
 
 Un projet d'architecture avec Blender, *Dupont de Dinechin Matthieu*
@@ -71,4 +89,7 @@ Au cours de cet atelier, nous verrons comment modéliser un projet de bâtiment 
 
 Atelier de 14h à 17h, gratuit, sur inscription.
 
-Les inscriptions seront prochainement ouvertes
+.. class:: confhour
+
+Inscription nécessaire à l'adresse
+`<http://toulibre.org/capitoledulibre2012:atelier-architecture>`_.
