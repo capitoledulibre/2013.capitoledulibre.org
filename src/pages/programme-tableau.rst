@@ -66,8 +66,8 @@ Samedi 24 novembre, conférences
 	<td><a href="ubuntu-party-samedi-24-novembre.html#conf-ubuntu">Présentation "Installation et découverte d'Ubuntu"</a><br/>Fabien Adam</td>
 	<td><a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a></td>
 	<td>
-          <a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html#c1">L'infatigable Poney</a><br/>Nicolas Ferrari<br/><br/>
-	  <a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html#c2">Retour d'expérience Django à Météo France</a><br/>Fabien Marty<br/>
+          14h<br/><a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html#c1">L'infatigable Poney</a><br/>Nicolas Ferrari<br/><br/>
+	  14h30<br/><a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html#c2">Retour d'expérience Django à Météo France</a><br/>Fabien Marty<br/>
         </td>
 	<td><a href="http://toulibre.org/akademyfr#conf_communaute">KDE: Communauté, Démocratie et Marketing</a><br/>Kévin Ottens</td>
     </tr>
@@ -86,8 +86,8 @@ Samedi 24 novembre, conférences
 	<td><a href="ubuntu-party-samedi-24-novembre.html#conf-ubuntu">Présentation "Installation et découverte d'Ubuntu"</a><br/>Fabien Adam</td>
 	<td><a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a></td>
 	<td>
-          <a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html#c3">Introduction à Circus, process watcher en Python</a><br/>Alexis Métaireau<br/><br/>
-	  <a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html#c4">Hacker la démocratie avec le mémoire politique de la Quadrature du Net</a><br/>Laurent Peuch<br/>
+          15h<br/><a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html#c3">Introduction à Circus, process watcher en Python</a><br/>Alexis Métaireau<br/><br/>
+	  15h30<br/><a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html#c4">Hacker la démocratie avec le mémoire politique de la Quadrature du Net</a><br/>Laurent Peuch<br/>
         </td>
 	<td><a href="http://toulibre.org/akademyfr#conf_kdevelop">KDevelop: IDE Tout Terrain</a><br/>Lambert Clara</td>
     </tr>
@@ -105,8 +105,8 @@ Samedi 24 novembre, conférences
 	<td><a href="ubuntu-party-samedi-24-novembre.html#conf-ubuntu">Présentation "Installation et découverte d'Ubuntu"</a><br/>Fabien Adam</td>
 	<td><a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a></td>
 	<td>
-          <a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html#c5">Conférence surprise !</a><br/>Julien Phalip<br/><br/>
-	  <a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html#c6">Et votre back-office ?</a><br/>Timothée Peignier<br/>
+          16h<br/><a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html#c5">Conférence surprise !</a><br/>Julien Phalip<br/><br/>
+	  16h30<br/><a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html#c6">Et votre back-office ?</a><br/>Timothée Peignier<br/>
         </td>
 	<td><a href="http://toulibre.org/akademyfr#conf_traduction">Comment faire des contrôles de qualité d'une traduction ?</a><br/>Sébastien Renard</td>
     </tr>
@@ -128,8 +128,8 @@ Samedi 24 novembre, conférences
 	<td><a href="ubuntu-party-samedi-24-novembre.html#conf-ubuntu">Présentation "Installation et découverte d'Ubuntu"</a><br/>Fabien Adam</td>
 	<td><a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a></td>
 	<td>
-          <a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html#c7">Django pour les fainéants, le retour</a><br/>Mathieu Agopian<br/><br/>
-	  <a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html#c8">Pourquoi je ne veux plus utiliser Django</a><br/>David Larlet<br/>
+          17h30<br/><a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html#c7">Django pour les fainéants, le retour</a><br/>Mathieu Agopian<br/><br/>
+	  18h<br/><a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html#c8">Pourquoi je ne veux plus utiliser Django</a><br/>David Larlet<br/>
         </td>
 	<td><a href="http://toulibre.org/akademyfr#conf_debug">Techniques générales de débogage</a><br/>David Faure</td>
     </tr>
