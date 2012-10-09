@@ -2,7 +2,7 @@
 Conférences éclair, samedi 24 novembre
 ======================================
 
-.. _conf-mozilla1:
+.. _conf-mozilla:
 
 Mozilla, c'est quoi, et comment y contribuer ?, *Clarista, Mozilla*, *Théo Chevalier, Mozilla*
 ----------------------------------------------------------------------------------------------
@@ -23,6 +23,8 @@ visibilité, et pour voyager !
 
 .. include:: ../../intervenants/clarista.rst
 
+.. _conf-gcompris:
+
 Le logiciel éducatif GCompris fait le plein de nouveautés, *Bruno Coudoin*
 --------------------------------------------------------------------------
 
@@ -36,6 +38,8 @@ nouvelles activités d'éveil musical et scientifique développée dans le
 cadre du "Google Summer Of Code 2012".
 
 .. include:: ../../intervenants/bruno-coudoin.rst
+
+.. _conf-opensource:
 
 L'Open Source et les éditeurs de logiciel: avantage compétitif agressif ou développement durable?, *Gaël Blondelle, Obéo*
 -------------------------------------------------------------------------------------------------------------------------
@@ -61,6 +65,8 @@ Cette mini-conférence décrira, en se basant sur des exemples:
     logiciels propriétaires
 
 .. include:: ../../intervenants/gael-blondelle.rst
+
+.. _conf-otb:
 
 OTB:  Librairie de traitement d'images spatiales, *Manuel Grizonnet, CNES*
 --------------------------------------------------------------------------
@@ -93,7 +99,9 @@ philosophie:
 
 .. include:: ../../intervenants/manuel-grizonnet.rst
 
-Diogène, logiciel libre de Biométrie et Génétique sous Linux, *Philippe Baradat, INRA*
+.. _conf-diogene:
+
+Diogène, logiciel libre de Biométrie et Génétique sous Linux, *Philippe Baradat*
 --------------------------------------------------------------------------------------
 
 Le logiciel DIOGENE (licence GPL) a été conçu et développé en Fortran
@@ -126,6 +134,8 @@ Ce logiciel est interfacé avec Gnuplot (sorties graphiques 2-D ou
 
 .. include:: ../../intervenants/philippe-baradat.rst
 
+.. _conf-cinemalibre:
+
 Vers un système de projection libre pour le cinéma numérique, *Nicolas Bertrand*
 --------------------------------------------------------------------------------
 
@@ -147,6 +157,8 @@ toute œuvre aux salles obscures.
 
 .. include:: ../../intervenants/nicolas-bertrand.rst
 
+.. _conf-po4a:
+
 po4a, outil de traduction pour la documentation, *Denis Barbier*
 ----------------------------------------------------------------
 
@@ -163,6 +175,8 @@ de traduction de documentation avec des outils basés sur gettext,
 ainsi que des exemples pratiques avec po4a.
 
 .. include:: ../../intervenants/denis-barbier.rst
+
+.. _conf-firewall:
 
 Réaliser votre firewall, sans aucune connaissance d'iptables, *Frédéric Zulian*
 -------------------------------------------------------------------------------
@@ -181,12 +195,16 @@ fwbuilder, modules iptables de webmin, kmyfirewall, gufw.
 
 .. include:: ../../intervenants/frederic-zulian.rst
 
+.. _conf-orekit:
+
 Orekit, l'innovation libre comme pari industriel, *Sébastien Dinot*
 -------------------------------------------------------------------
 
 Résumé à venir.
 
 .. include:: ../../intervenants/sebastien-dinot.rst
+
+.. _conf-scapy:
 
 Scapy : Easy Packet Handling, *Etienne Maynier*
 -----------------------------------------------
@@ -196,6 +214,8 @@ réseau. Ecrit en python, il permet de manipuler des paquets très
 simplement et très rapidement.
 
 .. include:: ../../intervenants/etienne-maynier.rst
+
+.. _conf-buildroot:
 
 Buildroot, un outil simple pour construire un système Linux embarqué, *Thomas Petazzoni*
 ----------------------------------------------------------------------------------------
