@@ -34,6 +34,10 @@ l'heure des révélations.
 
 .. include:: ../../intervenants/sebastien-jean.rst
 
+.. class:: clearfix
+
+|
+
 .. include:: ../../intervenants/julien-vaubourg.rst
 
 .. class:: confhour

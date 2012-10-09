@@ -21,6 +21,10 @@ visibilité, et pour voyager !
 
 .. include:: ../../intervenants/theo-chevalier.rst
 
+.. class:: clearfix
+
+|
+
 .. include:: ../../intervenants/clarista.rst
 
 .. _conf-gcompris:

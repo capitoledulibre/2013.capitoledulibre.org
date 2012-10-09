@@ -16,15 +16,17 @@ Git. Nous terminerons par les commandes de base.
 
 Pré-requis:
 
- * Git déjà installé. Voir:
-   http://gitfr.net/blog/2010/11/01/installer-git-sur-windows/
-   http://gitfr.net/blog/2010/10/30/installer-git-sur-ubuntu/
-   http://gitfr.net/blog/2010/11/01/installer-git-sur-os-x/
+* Git déjà installé. Voir:
 
- * Avoir lu
-   http://gitfr.net/blog/2010/11/06/ameliorer-sa-productivite-avec-un-beau-shell/
-   http://gitfr.net/blog/2010/11/04/simplifiez-vous-la-vie-avec-les-alias/
-   http://gitfr.net/blog/2010/11/04/taper-plus-vite-avec-la-completion/
+  - http://gitfr.net/blog/2010/11/01/installer-git-sur-windows/
+  - http://gitfr.net/blog/2010/10/30/installer-git-sur-ubuntu/
+  - http://gitfr.net/blog/2010/11/01/installer-git-sur-os-x/
+
+* Avoir lu
+
+  - http://gitfr.net/blog/2010/11/06/ameliorer-sa-productivite-avec-un-beau-shell/
+  - http://gitfr.net/blog/2010/11/04/simplifiez-vous-la-vie-avec-les-alias/
+  - http://gitfr.net/blog/2010/11/04/taper-plus-vite-avec-la-completion/
 
 Les participants doivent apporter leur propre ordinateur, possédant
 une version récente de Git installée. Il est également recommandé
@@ -56,6 +58,10 @@ outils issus de la communauté qui viennent compléter les
 fonctionnalités de base.
 
 .. include:: ../../intervenants/christophe-sauthier.rst
+
+.. class:: clearfix
+
+|
 
 .. include:: ../../intervenants/lionel-percheron.rst
 
@@ -106,6 +112,10 @@ lancer une machine virtuelle. Il est également recommandé d'amener une
 multiprise électrique.
 
 .. include:: ../../intervenants/christophe-sauthier.rst
+
+.. class:: clearfix
+
+|
 
 .. include:: ../../intervenants/lionel-percheron.rst
 

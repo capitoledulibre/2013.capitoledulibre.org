@@ -113,6 +113,11 @@ est la solution métier transport public libre la plus avancée.
 
 .. include:: ../../intervenants/xavier-raffin.rst
 
+
+.. class:: clearfix
+
+|
+
 .. include:: ../../intervenants/hugues-romain.rst
 
 .. class:: confhour
