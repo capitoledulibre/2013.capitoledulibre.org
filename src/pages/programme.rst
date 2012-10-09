@@ -200,7 +200,7 @@ Dimanche 25 novembre
         <th>14h<br/>-<br/>17h</th>
         <td><a href="ateliers-grand-public-dimanche-25-novembre.html#atelier-openstreetmap">Atelier "OpenStreetMap: sources de données, JOSM et autres outils du contributeur"</a><br/>Sébastien Dinot</td>
         <td><a href="ateliers-techniques-dimanche-25-novembre.html#atelier-git-perfectionnement">Atelier "Se perfectionner avec Git"</a><br/>Sébastien Douche</td>
-        <td><a href="ateliers-techniques-dimanche-25-novembre.html#_atelier-puppet">Atelier "Passer de 10 à 1000 machines sans effort avec puppet"</a><br/>Christophe Sauthier, Lionel Porcheron</td>
+        <td><a href="ateliers-techniques-dimanche-25-novembre.html#atelier-puppet">Atelier "Passer de 10 à 1000 machines sans effort avec puppet"</a><br/>Christophe Sauthier, Lionel Porcheron</td>
         <td><a href="ateliers-multimedia-dimanche-25-novembre.html#atelier-crea-2d">Atelier "Dessin et création avec MyPaint"</a><br/>David Revoy</td>
         <td><a href="ateliers-multimedia-dimanche-25-novembre.html#atelier-mao">Atelier "AVLinux"</a><br/>François Girault</td>
         <td><a href="ateliers-multimedia-dimanche-25-novembre.html#atelier-archi-blender">Atelier "Logiciels libres et architecture ?"</a><br/>Matthieu Dupont de Dinechin</td>

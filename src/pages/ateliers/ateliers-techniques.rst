@@ -38,7 +38,10 @@ d'amener une multiprise électrique.
 
 Atelier de 10h à 13h, gratuit, sur inscription.
 
-Les inscriptions seront prochainement ouvertes
+.. class:: confhour
+
+Inscription nécessaire à l'adresse
+`<http://toulibre.org/capitoledulibre2012:atelier-git-debutant>`_.
 
 .. _atelier-openstack:
 
@@ -69,7 +72,10 @@ fonctionnalités de base.
 
 Atelier de 10h à 13h, gratuit, sur inscription.
 
-Les inscriptions seront prochainement ouvertes
+.. class:: confhour
+
+Inscription nécessaire à l'adresse
+`<http://toulibre.org/capitoledulibre2012:atelier-openstack>`_.
 
 .. _atelier-git-perfectionnement:
 
@@ -91,7 +97,10 @@ d'amener une multiprise électrique.
 
 Atelier de 14h à 17h, gratuit, sur inscription.
 
-Les inscriptions seront prochainement ouvertes.
+.. class:: confhour
+
+Inscription nécessaire à l'adresse
+`<http://toulibre.org/capitoledulibre2012:atelier-git-perfectionnement>`_.
 
 .. _atelier-puppet:
 
@@ -123,4 +132,7 @@ multiprise électrique.
 
 Atelier de 14h à 17h, gratuit, sur inscription.
 
-Les inscriptions seront prochainement ouvertes
+.. class:: confhour
+
+Inscription nécessaire à l'adresse
+`<http://toulibre.org/capitoledulibre2012:atelier-puppet>`_.

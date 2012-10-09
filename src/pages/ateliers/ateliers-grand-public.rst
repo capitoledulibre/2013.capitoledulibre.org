@@ -31,6 +31,11 @@ Matériel requis :
 Cet atelier est prévu le dimanche 25 novembre de 10h à
 13h.
 
+.. class:: confhour
+
+Inscription nécessaire à l'adresse
+`<http://toulibre.org/capitoledulibre2012:atelier-arduino>`_.
+
 .. include:: ../../intervenants/remi-boulle.rst
 
 .. include:: ../../intervenants/patrick-dedieu.rst
