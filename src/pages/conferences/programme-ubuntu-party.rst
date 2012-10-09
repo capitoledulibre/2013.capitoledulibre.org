@@ -19,6 +19,8 @@ principaux:
    De la découverte du « bureau » aux applications disponibles, quels
    différences et ressemblances avec votre système déjà présent ?
 
+.. include:: ../../intervenants/fabien-adam.rst
+
 **Conférence répétée à plusieurs reprises, le samedi 24 novembre à
 14h, 15h, 16h et 17h30.**
 
