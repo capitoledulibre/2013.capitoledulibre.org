@@ -15,13 +15,12 @@ Cette présentation, sous la forme de démonstrations, a pour objet de
 faire découvrir le système Ubuntu. Elle couvrira deux aspects
 principaux:
 
- - **l'installation d'Ubuntu** : à l'aide du cd d'Ubuntu dans
-   l'ordinateur, comment installer Ubuntu en conservant le système
-   déjà présent sur l'ordinateur ?
+- **l'installation d'Ubuntu** : 
+  à l'aide du cd d'Ubuntu dans l'ordinateur, comment installer Ubuntu en conservant le système déjà présent sur l'ordinateur ?
 
- - **la découverte d'Ubuntu** : comment utiliser ce nouveau système ?
-   De la découverte du « bureau » aux applications disponibles, quels
-   différences et ressemblances avec votre système déjà présent ?
+- **la découverte d'Ubuntu** : 
+  comment utiliser ce nouveau système ? 
+  De la découverte du « bureau » aux applications disponibles, quels différences et ressemblances avec votre système déjà présent ?
 
 .. include:: ../../intervenants/fabien-adam.rst
 
@@ -46,9 +45,9 @@ la découverte d'Ubuntu.
 Afin de rendre l'installation la plus agréable possible, nous vous
 demandons, si possible de :
 
- - Faire de la place sur votre disque dur. Au moins 10 Go.
- - Défragmenter votre disque dur à l'aide de l'utilitaire fourni avec Microsoft Windows prévu à cet effet
- - Sauvegarder vos données sensibles
+- Faire de la place sur votre disque dur. Au moins 10 Go.
+- Défragmenter votre disque dur à l'aide de l'utilitaire fourni avec Microsoft Windows prévu à cet effet
+- Sauvegarder vos données sensibles
 
 Si votre ordinateur est un ordinateur de bureau, vous pouvez
 n'apporter que la tour. Nous aurons écrans, claviers et souris à

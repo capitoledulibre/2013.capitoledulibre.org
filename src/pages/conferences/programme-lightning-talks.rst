@@ -96,14 +96,9 @@ et de contributeurs.
 Cette mini-conférence présentera brièvement le logiciel et sa
 philosophie:
 
- - Le contexte générale du traitement d'images des données de
-   télédétection et les enjeux pour le suivi de l'environnement
-
- - Présentation et illustration de la librairie
-
- - Comment à l'avenir des outils open source comme l'OTB peuvent
-   permettre d'aider à une meilleure gouvernance des territoires et à
-   l'amélioration du dialogue avec les populations
+- Le contexte générale du traitement d'images des données de télédétection et les enjeux pour le suivi de l'environnement
+- Présentation et illustration de la librairie
+- Comment à l'avenir des outils open source comme l'OTB peuvent permettre d'aider à une meilleure gouvernance des territoires et à l'amélioration du dialogue avec les populations
 
 .. include:: ../../intervenants/manuel-grizonnet.rst
 
@@ -119,23 +114,12 @@ Génétique des plantes annuelles ou pérennes.  Il peut être téléchargé
 depuis le site http://amap.cirad.fr. Ses caractéristiques principales
 sont les suivantes :
 
-- Possibilité de traiter simultanément un très grand nombre de
-variables (jusqu'à 9999) ;
-
-- Utilisation de modèles non-orthogonaux (permettant de traiter des
-fichiers ayant beaucoup de donnée manquantes) ;
-
-- Présence d'un analyseur syntaxique autorisant la définition de
-nouveaux caractères à partir de formules algébriques ;
-
-- Calcul standardisé par rééchantillonnage des intervalles de
-confiance de paramètres estimés (corrélations par exemple) ;
-
-- Structure modulaire permettant de traiter des modèles complexes par
-assemblage de modules de base ;
-
-- Fonctionnement multilingue (Français, Anglais, Espagnol, Portugais
-et italien). Ajout facile de nouvelles langues.
+- Possibilité de traiter simultanément un très grand nombre de variables (jusqu'à 9999) ;
+- Utilisation de modèles non-orthogonaux (permettant de traiter des fichiers ayant beaucoup de donnée manquantes) ;
+- Présence d'un analyseur syntaxique autorisant la définition de nouveaux caractères à partir de formules algébriques ;
+- Calcul standardisé par rééchantillonnage des intervalles de confiance de paramètres estimés (corrélations par exemple) ;
+- Structure modulaire permettant de traiter des modèles complexes par assemblage de modules de base ;
+- Fonctionnement multilingue (Français, Anglais, Espagnol, Portugais et italien). Ajout facile de nouvelles langues.
 
 Ce logiciel est interfacé avec Gnuplot (sorties graphiques 2-D ou
 3-D). En revanche, une interface utilisateur graphique reste à créer.
