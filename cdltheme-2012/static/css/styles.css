@@ -310,6 +310,11 @@ table.programm th {
     vertical-align: middle;
 }
 
+#main table.programm a {
+    font-weight: bold;
+    color: #E4401F;
+    text-decoration: none;
+}
 .programme #content,
 .programme #main {
     margin-left: 0;
