@@ -2,6 +2,8 @@
 Programme
 =========
 
+Retrouvez en un seul tableau les conférences et ateliers du Capitole du Libre, du DjangoCon et de l'Akademy-fr. Une install party est proposée pendant les deux jours.
+
 Samedi 24 novembre
 ==================
 
