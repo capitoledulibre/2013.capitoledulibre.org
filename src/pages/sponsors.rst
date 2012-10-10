@@ -154,6 +154,21 @@ Blue Systems
   :class: logo
   :align: left
 
+Blue Mind
+------------
+
+.. image:: static/logos/bluemind.jpg
+  :width: 180px
+  :alt: Blue-Mind
+  :target: http://www.blue-mind.net/
+  :class: logo
+  :align: left
+
+`Blue Mind <http://www.blue-mind.net/>`_ est éditeur de la solution Open Source de messagerie, 
+d’agendas, contacts et de collaboration de nouvelle génération Blue 
+Mind, apportant le mode web déconnecté, une gestion complète de la 
+mobilité, des interfaces rapides et intuitives ainsi qu’une API globale 
+pour exploiter les fonctionnalités via web services.
 
 
 Partenaires Bronze
@@ -180,6 +195,7 @@ Partenaires Bronze
   :class: logo
   :align: left
 
+  
 Pourquoi devenir sponsor
 ==========================
 
