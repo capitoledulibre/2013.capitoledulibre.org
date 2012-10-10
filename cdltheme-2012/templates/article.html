@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 {% block indextitle %}{% endblock %}
 {% block title %}{{ SITENAME }} - {{ article.title }}{% endblock title %}
-{% block description %}{{ article.title }} : {{ article.summary|striptags|truncate(40) }}{% endblock description %}
+{% block description %}{{ article.title }} : {{ article.summary|striptags|truncate(60) }}{% endblock description %}
 
 {% block content %}
 	<div class='article'>

@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 {% block indextitle %}{% endblock %}
 {% block title %}{{ SITENAME }} - {{ page.title }}{% endblock title %}
-{% block description %}{{ page.title }} : {{ page.summary|striptags|truncate(40) }}{% endblock description %}
+{% block description %}{{ page.title }} : {{ page.summary|striptags|truncate(60) }}{% endblock description %}
 
 {% block class %}{{ page.slug }}{% endblock class %}
 {% block content %}
