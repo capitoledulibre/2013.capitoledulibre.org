@@ -319,6 +319,9 @@ table.programm th {
     color: #E4401F;
     text-decoration: none;
 }
+#main table.programm a:hover {
+    text-decoration: underline;
+}
 .programme #content,
 .programme #main {
     margin-left: 0;
