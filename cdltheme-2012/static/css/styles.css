@@ -297,6 +297,10 @@ img.photo {
     box-shadow:       6px 6px 8px rgba(50, 50, 50, 0.75);
 }
 
+table.programm {
+    background-color: #FFFFFF;
+}
+
 table.programm .horaires {
 	width: 70px;
 }
