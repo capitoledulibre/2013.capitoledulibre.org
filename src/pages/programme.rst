@@ -65,7 +65,11 @@ L'entrée est libre et gratuite.
         <td><a href="conferences-techniques-samedi-24-novembre.html#conf-html5">HTML5 et ses amis</a><br/>Paul Rouget, Mozilla</td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-krita">Krita 2.5: Découverte et fonctionnalités</a><br/>David Revoy</a></td>
         <td></td>
-        <td></td>
+        <td>
+	  14h<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-videoenpoche">Vidéo en Poche: présentation et état des lieux</a><br/><br/>
+	  14h20<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-roman-cc-zero">Comment mettre mon romain dans le domaine public a fait de moi un auteur</a><br/><br/>
+	  14h40<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-mozilla">C'est quoi Mozilla ?</a><br/><br/>
+        </td>
 	<td><a href="ubuntu-party-samedi-24-novembre.html#conf-ubuntu">Présentation "Installation et découverte d'Ubuntu"</a><br/>Fabien Adam</td>
 	<td><a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a></td>
 	<td>
@@ -82,9 +86,9 @@ L'entrée est libre et gratuite.
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-blender">Conférence Blender</a><br/>François Grassard</td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-musecore">MuseScore : Accès libre aux partitions, code source de la musique</a><br>Nicolas Froment</td>
         <td>
-	  15h<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-mozilla">Mozilla, c'est quoi, et comment y contribuer ?</a><br/><br/>
-	  15h20<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-gcompris">Le logiciel éducatif GCompris fait le plein de nouveautés</a><br/><br/>
-	  15h40<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-opensource">L'Open Source et les éditeurs de logiciel: avantage compétitif agressif ou développement durable?</a><br/><br/>
+	  15h<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-gcompris">Le logiciel éducatif GCompris fait le plein de nouveautés</a><br/><br/>
+	  15h20<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-opensource">L'Open Source et les éditeurs de logiciel: avantage compétitif agressif ou développement durable?</a><br/><br/>
+	  15h40<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-software-defined-network">Quand le Software prend le contrôle des réseaux et que l’Open Hardware est une solution pour aller plus loin</a><br/><br/>
 	</td>
 	<td><a href="ubuntu-party-samedi-24-novembre.html#conf-ubuntu">Présentation "Installation et découverte d'Ubuntu"</a><br/>Fabien Adam</td>
 	<td><a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a></td>
@@ -145,6 +149,7 @@ L'entrée est libre et gratuite.
         <td>
 	  18h30<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-po4a">po4a, outil de traduction pour la documentation</a><br/><br/>
 	  18h50<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-firewall">Réaliser votre firewall, sans aucune connaissance d'iptables</a><br/><br/>
+	  19h10<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-contribuer-mozilla">Comment contribuer à Mozilla</a><br/><br/>
         </td>
 	<td></td>
 	<td><a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a></td>
