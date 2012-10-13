@@ -47,7 +47,9 @@ LINKS =  (
 
 # Social widget
 SOCIAL = (
+          ('Identica', 'http://identi.ca/group/toulibre'),
           ('Twitter', 'https://twitter.com/toulibreorg'),
+          ('Google+', 'https://plus.google.com/b/109128243242581226442/109128243242581226442/posts'),
           ('Lanyrd', 'http://lanyrd.com/2012/capitole-du-libre/'),
          )
 
