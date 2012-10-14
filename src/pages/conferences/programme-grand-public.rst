@@ -23,26 +23,21 @@ vous qui ferez la conférence.
 
 Conférence de 14h à 15h.
 
-.. _conf-liberer-internet:
+.. _conf-wikimedia:
 
-"Libérer Internet: Sexe, alcool et vie privée", *Julien Vaubourg et Sébastien Jean, LDN*
-----------------------------------------------------------------------------------------
+"Wikipédia, Wikimédia, et après ?", *Adrienne Charmet-Alix, Wikimedia France*
+-----------------------------------------------------------------------------
 
-Bob et Carole sont deux jeunes gens qui vous ressemblent.  Une
-aventure, une tromperie, un secret inavouable, voici le synopsys
-parfait d'un Harlequin pour jeunes filles en fleur. Et pourtant, dès
-lors que l'eau de rose est diluée dans un océan commercial, l'intimité
-de nos propagandistes n'est plus qu'une information à vendre. Bob et
-Carole ont un secret, mais les requins ont aussi les leurs. C'est
-l'heure des révélations.
+Wikipédia a près de 12 ans d'expérience, et une communauté de
+plusieurs centaines de milliers de contributeurs. Et après ? Quelles
+perspectives, quelles avancées pour l'encyclopédie en ligne ? Comment
+améliorer encore ce projet gigantesque ? De nombreuses pistes
+d'amélioration et d'ouverture vers de nouveaux contributeurs sont
+envisagées et mises en place par le mouvement Wikimédia, de nombreux
+projets lancés dans les dernières années et pour le futur, sur
+Wikipédia et l'ensemble des projets Wikimédia
 
-.. include:: ../../intervenants/sebastien-jean.rst
-
-.. class:: clearfix
-
-|
-
-.. include:: ../../intervenants/julien-vaubourg.rst
+.. include:: ../../intervenants/adrienne-charmet-alix.rst
 
 .. class:: confhour
 
@@ -89,26 +84,6 @@ les problématiques de l'immatériel.
 
 Conférence de 16h à 17h.
 
-.. _conf-wikimedia:
-
-"Wikipédia, Wikimédia, et après ?", *Adrienne Charmet-Alix, Wikimedia France*
------------------------------------------------------------------------------
-
-Wikipédia a près de 12 ans d'expérience, et une communauté de
-plusieurs centaines de milliers de contributeurs. Et après ? Quelles
-perspectives, quelles avancées pour l'encyclopédie en ligne ? Comment
-améliorer encore ce projet gigantesque ? De nombreuses pistes
-d'amélioration et d'ouverture vers de nouveaux contributeurs sont
-envisagées et mises en place par le mouvement Wikimédia, de nombreux
-projets lancés dans les dernières années et pour le futur, sur
-Wikipédia et l'ensemble des projets Wikimédia
-
-.. include:: ../../intervenants/adrienne-charmet-alix.rst
-
-.. class:: confhour
-
-Conférence de 17h30 à 18h30.
-
 .. _conf-open-hardware:
 
 "Open Hardware : quand le matériel devient libre", *Sylvain Wallez*
@@ -127,6 +102,31 @@ et sur la "vieille" industrie ?  Nous verrons que l'Open Hardware peut
 conduire à une nouvelle révolution industrielle.
 
 .. include:: ../../intervenants/sylvain-wallez.rst
+
+.. class:: confhour
+
+Conférence de 17h30 à 18h30.
+
+.. _conf-liberer-internet:
+
+"Libérer Internet: Sexe, alcool et vie privée", *Julien Vaubourg et Sébastien Jean, LDN*
+----------------------------------------------------------------------------------------
+
+Bob et Carole sont deux jeunes gens qui vous ressemblent.  Une
+aventure, une tromperie, un secret inavouable, voici le synopsys
+parfait d'un Harlequin pour jeunes filles en fleur. Et pourtant, dès
+lors que l'eau de rose est diluée dans un océan commercial, l'intimité
+de nos propagandistes n'est plus qu'une information à vendre. Bob et
+Carole ont un secret, mais les requins ont aussi les leurs. C'est
+l'heure des révélations.
+
+.. include:: ../../intervenants/sebastien-jean.rst
+
+.. class:: clearfix
+
+|
+
+.. include:: ../../intervenants/julien-vaubourg.rst
 
 .. class:: confhour
 

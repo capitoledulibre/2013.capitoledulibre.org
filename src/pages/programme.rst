@@ -80,8 +80,7 @@ L'entrée est libre et gratuite.
     </tr>
     <tr>
         <th>15h<br/>-<br/>16h</th>
-        <td><a href="conferences-grand-public-samedi-24-novembre.html#conf-liberer-internet">
-        Libérer Internet: Sexe, alcool et vie privée</a><br/>Julien Vaubourg et Sébastien Jean, LDN</td>
+        <td><a href="conferences-grand-public-samedi-24-novembre.html#conf-wikimedia">Wikipédia, Wikimédia, et après ?</a><br/>Adrienne Charmet-Alix, Wikimedia France</td>
         <td><a href="conferences-techniques-samedi-24-novembre.html#conf-tetaneutral">Internet haut débit citoyen en zone blanche ADSL : l'expérience de l'association tetaneutral.net</a><br/>Laurent Guerby, Tetaneutral.net</td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-blender">Conférence Blender</a><br/>François Grassard</td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-musecore">MuseScore : Accès libre aux partitions, code source de la musique</a><br>Nicolas Froment</td>
@@ -123,7 +122,7 @@ L'entrée est libre et gratuite.
     </tr>
     <tr>
         <th>17h30<br/>-<br/>18h30</th>
-        <td><a href="conferences-grand-public-samedi-24-novembre.html#conf-wikimedia">Wikipédia, Wikimédia, et après ?</a><br/>Adrienne Charmet-Alix, Wikimedia France</td>
+        <td><a href="conferences-grand-public-samedi-24-novembre.html#conf-open-hardware">Open Hardware : quand le matériel devient libre</a><br/>Sylvain Wallez</td>
         <td><a href="conferences-techniques-samedi-24-novembre.html#conf-git">Pourquoi Git ?</a><br/>Sébastien Douche</td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-montage-video">Conférence Montage Vidéo</a><br/>Laurent Bellegarde</td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-gmic">Le projet G'MIC : Naissance, évolution et démonstration</a><br/>David Tschumperlé</td>
@@ -142,7 +141,8 @@ L'entrée est libre et gratuite.
     </tr>
     <tr class="odd">
         <th>18h30<br/>-<br/>19h30</th>
-        <td><a href="conferences-grand-public-samedi-24-novembre.html#conf-open-hardware">Open Hardware : quand le matériel devient libre</a><br/>Sylvain Wallez</td>
+        <td><a href="conferences-grand-public-samedi-24-novembre.html#conf-liberer-internet">
+        Libérer Internet: Sexe, alcool et vie privée</a><br/>Julien Vaubourg et Sébastien Jean, LDN</td>
         <td><a href="conferences-techniques-samedi-24-novembre.html#conf-tisseo">Logiciel libre et transport public : l'implication de Tisséo dans la communauté Synthèse</a><br/>Xavier Raffin, Tisséo et Hugues Romain, RCSMobility</td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-archi-libre">Les outils libres pour les métiers de la construction et de l'ingénierie</a><br>Matthieu Dupont de Dinechin</td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-vlc">VideoLAN et tour d'horizon du Multimedia Libre</a><br/>Jean-Baptiste Kempf</td>
