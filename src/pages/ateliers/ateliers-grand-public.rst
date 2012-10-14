@@ -12,23 +12,45 @@ Ateliers grand public, dimanche 25 novembre
 -------------------------------------------------------------------
 
 Arduino est un circuit imprimé en matériel dit libre sur lequel se
-trouve un microcontrôleur programmable.
+trouve un microcontrôleur programmable. C'est le type de circuit
+intégré que l'on retrouve en abondance dans nos véhicules,
+ordinateurs, téléphones... tout ce qui comporte un peu d'électronique
+embarquée.
 
-Cela peut sembler être du sur-mesure pour des cracks en informatique
-mais détrompez-vous. Nous verrons des moyens simples et amusants
-d'utiliser cette plate-forme : avec Scratch, Squeak, Physical etoys...
+Cela peut vous sembler être du domaine réservé de quelques geeks
+œuvrant dans un garage mais détrompez-vous ! C'est là toute la magie
+d'Arduino : révolutionner le domaine de l’électronique. Pour la
+première fois tout le monde peut essayer facilement et découvrir qu’il
+aime ça ! Avec "do it yourself" comme slogan, le "hacking" devient
+accessible à toutes et à tous.
 
-Les possibilités sont immenses : applications pédagogiques, robotique,
-détection diverses, serveur web, création artistique...
+Les recettes de ce succès ? Le choix de licences libres pour diffuser
+la connaissance et un fonctionnement communautaire pour l'enrichir et
+la partager. Nous sommes ici loin d'une approche simplement "open
+source" par opportunisme.
+
+Nous verrons des moyens simples, graphiques et amusants d'utiliser
+cette plate-forme : avec Scratch, Squeak, Physical etoys et d'autres
+moins graphiques qui feront appel à quelques notions simples de
+programmation que vous découvrirez.
+
+Les possibilités sont immenses : applications pédagogiques en collège
+ou lycée (technologie, mathématiques, physique, ISN, Exao...) voire au
+delà, robotique ludo-éducative (trophées de robotique), système
+embarqués, station météo, détections et interactions diverses, serveur
+web, création artistique... Une seule limite, votre créativité.
 
 Cet atelier est accessible à des débutants.
 
 Matériel requis :
- - Un ordinateur tournant sous un système libre
- - LinuxÉdu mettra à disposition du matériel (cartes, capteurs,
-   shields divers, moteurs) mais si vous en avez, surtout n'hésitez
-   pas à l'apporter
- - Si possible, apporter une prise multiple électrique
+
+ * Un ordinateur tournant sous un système libre
+
+ * LinuxÉdu mettra à disposition du matériel (cartes, capteurs,
+   shields divers, moteurs) mais si vous en avez, il est préférable
+   que vous l'apportiez
+
+ * Si possible, apportez une prise multiple électrique
 
 .. class:: confhour
 
