@@ -48,6 +48,44 @@ Inscription nécessaire à l'adresse
 
 .. include:: ../../intervenants/patrick-dedieu.rst
 
+.. _atelier-bon-internaute:
+
+Le bon internaute par la pratique, *Julien Vaubourg, Sébastien Jean*
+--------------------------------------------------------------------
+
+La concentration oppressante du réseau Internet de ces dernières
+années est en train de lui faire perdre les trois valeurs qui ont fait
+son succès : liberté, neutralité, décentralisation. Que l'on soit
+acteur ou non de cette évolution, notre vie privée est baffouée ou
+quotidien, par une surveillance permanente de la part des fournisseurs
+de services comme des fournisseurs d'accès à Internet. Un certain
+nombre de bonnes pratiques sont à la disposition des internautes pour
+s'en prémunir. Cet atelier est l'occasion de les découvrir, depuis les
+réflexes accessibles à tous jusqu'aux solutions d'autohébergement.
+
+L'atelier sera progressif : il commencera avec des manipulations
+accessibles à tous, et terminera sur des aspects plus pointus. Pour la
+fin de l'atelier, il sera recommandé d'avoir une installation de Linux
+bidouillable (par exemple une distribution Debian ou Ubuntu installée
+dans un Virtualbox).
+
+.. include:: ../../intervenants/sebastien-jean.rst
+
+.. class:: clearfix
+
+|
+
+.. include:: ../../intervenants/julien-vaubourg.rst
+
+.. class:: confhour
+
+Cet atelier est prévu le dimanche 25 novembre de 10h à 13h.
+
+.. class:: confhour
+
+Inscription nécessaire à l'adresse
+`<http://toulibre.org/capitoledulibre2012:atelier-bon-internaute>`_.
+
 .. _atelier-openstreetmap:
 
 "OpenStreetMap : sources de données, JOSM et autres outils du contributeur", *Sébastien Dinot*

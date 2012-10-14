@@ -181,7 +181,7 @@ inscription préalable, gratuite également.
     <table class="programm">
     <tr>
         <th class="horaires"></th>
-        <th class="grand-public">Grand public</th>
+        <th class="grand-public" colspan="2">Grand public</th>
         <th class="technique" colspan="2">Technique</th>
         <th class="multimedia" colspan="3">Multimedia</th>
 	<th class="ubuntuparty" colspan="2">Ubuntu Party</th>
@@ -191,6 +191,7 @@ inscription préalable, gratuite également.
     <tr>
         <th>10h<br/>-<br/>13h</th>
         <td><a href="ateliers-grand-public-dimanche-25-novembre.html#atelier-arduino">Atelier "Arduino : initiation par l'exemple"</a><br/>Rémi Boulle, Patrick Dedieu<br/><i><a href="http://toulibre.org/capitoledulibre2012:atelier-arduino">inscription</a></i></td>
+	<td><a href="ateliers-grand-public-dimanche-25-novembre.html#atelier-bon-internaute">Atelier "Le bon internaute par la pratique"</a><br/>Julien Vaubourg, Sébastien Jean<br/><i><a href="http://toulibre.org/capitoledulibre2012:atelier-bon-internaute">inscription</a></i></td></td>
         <td><a href="ateliers-techniques-dimanche-25-novembre.html#atelier-git-debutant">Atelier "Débuter avec Git"</a><br/>Sébastien Douche<br/><i><a href="http://toulibre.org/capitoledulibre2012:atelier-git-debutant">inscription</a></i></td>
         <td><a href="ateliers-techniques-dimanche-25-novembre.html#atelier-openstack">Atelier "A la découverte d'OpenStack, un cloud libre"</a><br/>Christophe Sauthier, Lionel Porcheron<br/><i><a href="http://toulibre.org/capitoledulibre2012:atelier-openstack">inscription</a></i></td>
         <td><a href="ateliers-multimedia-dimanche-25-novembre.html#atelier-affiche">Atelier "Mon affiche de A à Z avec des logiciels libres"</a><br/>Antoine Bardelli<br/><i><a href="http://toulibre.org/capitoledulibre2012:atelier-affiche">inscription</a></i></td>
@@ -210,6 +211,7 @@ inscription préalable, gratuite également.
     <tr>
         <th>14h<br/>-<br/>17h</th>
         <td><a href="ateliers-grand-public-dimanche-25-novembre.html#atelier-openstreetmap">Atelier "OpenStreetMap: sources de données, JOSM et autres outils du contributeur"</a><br/>Sébastien Dinot<br/><i><a href="http://toulibre.org/capitoledulibre2012:atelier-osm">inscription</a></i></td>
+	<td></td>
         <td><a href="ateliers-techniques-dimanche-25-novembre.html#atelier-git-perfectionnement">Atelier "Se perfectionner avec Git"</a><br/>Sébastien Douche<br/><i><a href="http://toulibre.org/capitoledulibre2012:atelier-git-perfectionnement">inscription</a></i></td>
         <td><a href="ateliers-techniques-dimanche-25-novembre.html#atelier-puppet">Atelier "Passer de 10 à 1000 machines sans effort avec puppet"</a><br/>Christophe Sauthier, Lionel Porcheron<br/><i><a href="http://toulibre.org/capitoledulibre2012:atelier-puppet">inscription</a></i></td>
         <td><a href="ateliers-multimedia-dimanche-25-novembre.html#atelier-crea-2d">Atelier "Dessin et création avec MyPaint"</a><br/>David Revoy<br/><i><a href="http://toulibre.org/capitoledulibre2012:atelier-mypaint">inscription</a></i></td>
