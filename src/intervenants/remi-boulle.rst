@@ -7,4 +7,12 @@
 
 .. class:: biography
 
-Rémi Boulle.
+Rémi Boulle est professeur et utilise les logiciels et ressources
+libres depuis presque 10 ans. Il est membre fondateur de l'association
+LinuxÉdu qui travaille en réseau avec Planète Sciences et organise des
+conférences, ateliers et formations sur le thème du libre pour
+l'éducation (logiciels, ressources éducatives libres, arduino,
+robotique, réseaux en milieu scolaire...)
+
+Il est également vice-président de l'April et suit particulièrement
+les dossiers en rapport avec l'éducation et la formation.
