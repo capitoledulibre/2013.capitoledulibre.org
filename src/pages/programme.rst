@@ -67,7 +67,7 @@ L'entrée est libre et gratuite.
         <td></td>
         <td>
 	  14h<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-videoenpoche">Vidéo en Poche: présentation et état des lieux</a><br/><br/>
-	  14h20<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-roman-cc-zero">Comment mettre mon romain dans le domaine public a fait de moi un auteur</a><br/><br/>
+	  14h20<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-roman-cc-zero">Comment mettre mon roman dans le domaine public a fait de moi un auteur</a><br/><br/>
 	  14h40<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-mozilla">C'est quoi Mozilla ?</a><br/><br/>
         </td>
 	<td><a href="ubuntu-party-samedi-24-novembre.html#conf-ubuntu">Présentation "Installation et découverte d'Ubuntu"</a><br/>Fabien Adam</td>
