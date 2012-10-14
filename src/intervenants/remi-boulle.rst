@@ -14,5 +14,7 @@ conférences, ateliers et formations sur le thème du libre pour
 l'éducation (logiciels, ressources éducatives libres, arduino,
 robotique, réseaux en milieu scolaire...)
 
+.. class:: biography
+
 Il est également vice-président de l'April et suit particulièrement
 les dossiers en rapport avec l'éducation et la formation.
