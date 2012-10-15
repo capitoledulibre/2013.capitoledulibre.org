@@ -81,9 +81,9 @@ L'entrée est libre et gratuite.
     <tr>
         <th>15h<br/>-<br/>16h</th>
         <td><a href="conferences-grand-public-samedi-24-novembre.html#conf-wikimedia">Wikipédia, Wikimédia, et après ?</a><br/>Adrienne Charmet-Alix, Wikimedia France</td>
-        <td><a href="conferences-techniques-samedi-24-novembre.html#conf-tetaneutral">Internet haut débit citoyen en zone blanche ADSL : l'expérience de l'association tetaneutral.net</a><br/>Laurent Guerby, Tetaneutral.net</td>
+        <td><a href="conferences-techniques-samedi-24-novembre.html#conf-tetaneutral">Internet haut débit citoyen en zone blanche ADSL&nbsp;: l'expérience de l'association tetaneutral.net</a><br/>Laurent Guerby, Tetaneutral.net</td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-blender">Conférence Blender</a><br/>François Grassard</td>
-        <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-musecore">MuseScore : Accès libre aux partitions, code source de la musique</a><br>Nicolas Froment</td>
+        <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-musecore">MuseScore&nbsp;: Accès libre aux partitions, code source de la musique</a><br>Nicolas Froment</td>
         <td>
 	  15h<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-gcompris">Le logiciel éducatif GCompris fait le plein de nouveautés</a><br/><br/>
 	  15h20<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-opensource">L'Open Source et les éditeurs de logiciel: avantage compétitif agressif ou développement durable?</a><br/><br/>
@@ -102,7 +102,7 @@ L'entrée est libre et gratuite.
         <td><a href="conferences-grand-public-samedi-24-novembre.html#conf-educ-libre">Le libre dans l'éducation. Ses enjeux</a><br/>Jean-Pierre Archambault, CNDP-CDRP</td>
         <td><a href="conferences-techniques-samedi-24-novembre.html#conf-freebox">La Freebox, un ensemble subtil de logiciels libres et propriétaires</a><br/>Florian Fainelli</td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-mao">Une brève histoire des musiques électroniques et ... Linux</a><br/>François Girault</td>
-        <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-moteur-rendu">Les moteurs de rendu libres : vers toujours plus de réalisme ?</a><br/>Henri Hebeisen</td>
+        <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-moteur-rendu">Les moteurs de rendu libres&nbsp;: vers toujours plus de réalisme ?</a><br/>Henri Hebeisen</td>
         <td>
 	  16h<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-otb">OTB: Librairie de traitement d'images spatiales</a><br/><br/>
 	  16h20<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-diogene">Diogène, logiciel libre de Biométrie et Génétique sous Linux</a><br/><br/>
@@ -122,14 +122,14 @@ L'entrée est libre et gratuite.
     </tr>
     <tr>
         <th>17h30<br/>-<br/>18h30</th>
-        <td><a href="conferences-grand-public-samedi-24-novembre.html#conf-open-hardware">Open Hardware : quand le matériel devient libre</a><br/>Sylvain Wallez</td>
+        <td><a href="conferences-grand-public-samedi-24-novembre.html#conf-open-hardware">Open Hardware&nbsp;: quand le matériel devient libre</a><br/>Sylvain Wallez</td>
         <td><a href="conferences-techniques-samedi-24-novembre.html#conf-git">Pourquoi Git ?</a><br/>Sébastien Douche</td>
-        <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-montage-video">Conférence Montage Vidéo</a><br/>Laurent Bellegarde</td>
-        <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-gmic">Le projet G'MIC : Naissance, évolution et démonstration</a><br/>David Tschumperlé</td>
+        <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-montage-video">Conférence multimédia&nbsp;:<br> 1, 2, 3, silence, ça tourne sous GNU/Linux...</a><br/>Laurent Bellegarde</td>
+        <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-gmic">Le projet G'MIC&nbsp;: Naissance, évolution et démonstration</a><br/>David Tschumperlé</td>
         <td>
 	  17h30<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-orekit">Orekit, l'innovation libre comme pari industriel</a><br/><br/>
 	  17h50<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-buildroot">Buildroot, un outil simple pour construire un système Linux embarqué</a><br/><br/>
-	  18h10<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-scapy">Scapy : Easy Packet Handling</a><br/><br/>
+	  18h10<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-scapy">Scapy&nbsp;: Easy Packet Handling</a><br/><br/>
 	</td>
 	<td><a href="ubuntu-party-samedi-24-novembre.html#conf-ubuntu">Présentation "Installation et découverte d'Ubuntu"</a><br/>Fabien Adam</td>
 	<td><a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a></td>
@@ -143,7 +143,7 @@ L'entrée est libre et gratuite.
         <th>18h30<br/>-<br/>19h30</th>
         <td><a href="conferences-grand-public-samedi-24-novembre.html#conf-liberer-internet">
         Libérer Internet: Sexe, alcool et vie privée</a><br/>Julien Vaubourg et Sébastien Jean, LDN</td>
-        <td><a href="conferences-techniques-samedi-24-novembre.html#conf-tisseo">Logiciel libre et transport public : l'implication de Tisséo dans la communauté Synthèse</a><br/>Xavier Raffin, Tisséo et Hugues Romain, RCSMobility</td>
+        <td><a href="conferences-techniques-samedi-24-novembre.html#conf-tisseo">Logiciel libre et transport public&nbsp;: l'implication de Tisséo dans la communauté Synthèse</a><br/>Xavier Raffin, Tisséo et Hugues Romain, RCSMobility</td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-archi-libre">Les outils libres pour les métiers de la construction et de l'ingénierie</a><br>Matthieu Dupont de Dinechin</td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-vlc">VideoLAN et tour d'horizon du Multimedia Libre</a><br/>Jean-Baptiste Kempf</td>
         <td>
@@ -190,7 +190,7 @@ inscription préalable, gratuite également.
     </tr>
     <tr>
         <th>10h<br/>-<br/>13h</th>
-        <td><a href="ateliers-grand-public-dimanche-25-novembre.html#atelier-arduino">Atelier "Arduino : initiation par l'exemple"</a><br/>Rémi Boulle, Patrick Dedieu<br/><i><a href="http://toulibre.org/capitoledulibre2012:atelier-arduino">inscription</a></i></td>
+        <td><a href="ateliers-grand-public-dimanche-25-novembre.html#atelier-arduino">Atelier "Arduino&nbsp;: initiation par l'exemple"</a><br/>Rémi Boulle, Patrick Dedieu<br/><i><a href="http://toulibre.org/capitoledulibre2012:atelier-arduino">inscription</a></i></td>
 	<td><a href="ateliers-grand-public-dimanche-25-novembre.html#atelier-bon-internaute">Atelier "Le bon internaute par la pratique"</a><br/>Julien Vaubourg, Sébastien Jean<br/><i><a href="http://toulibre.org/capitoledulibre2012:atelier-bon-internaute">inscription</a></i></td></td>
         <td><a href="ateliers-techniques-dimanche-25-novembre.html#atelier-git-debutant">Atelier "Débuter avec Git"</a><br/>Sébastien Douche<br/><i><a href="http://toulibre.org/capitoledulibre2012:atelier-git-debutant">inscription</a></i></td>
         <td><a href="ateliers-techniques-dimanche-25-novembre.html#atelier-openstack">Atelier "A la découverte d'OpenStack, un cloud libre"</a><br/>Christophe Sauthier, Lionel Porcheron<br/><i><a href="http://toulibre.org/capitoledulibre2012:atelier-openstack">inscription</a></i></td>

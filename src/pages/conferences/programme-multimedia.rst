@@ -78,8 +78,14 @@ Conférence de 16h à 17h.
 
 .. _conf-montage-video:
 
-Montage vidéo, *Laurent Bellegarde*
--------------------------------------
+Conférence multimédia : 1, 2, 3, silence, ça tourne sous GNU/Linux..., *Laurent Bellegarde*
+---------------------------------------------------------------------------------------------
+
+Venez découvrir la puissance des outils multimédia sous les logiciels libres GNU/Linux. Vous pourrez transformer votre ordinateur, même les modèles les moins puissants en véritables bêtes de courses pour réaliser vos montages vidéos, vos photo-montages et vos propres musiques. 
+
+Après une brève présentation des meileures distributions grand-public multimédia, GNU/Linux Ubuntu, Ubuntu Studio, Tango Studio, 64 studio, découvrez le meilleur des logiciels multimédia du monde du libre et trouvez une solution adaptée à votre pratique et vos besoins de producteur...
+
+Un exemple de montage vidéo en live sera réalisé avec différents logiciels libres comme Openshot Vidéo, Cinelerra, EKD, Audacity. Mp3, Avi, Mov, H264, autant de termes barbares qui seront décortiqués et expliqués pour les débutants.
 
 .. include:: ../../intervenants/laurent-bellegarde.rst
 
