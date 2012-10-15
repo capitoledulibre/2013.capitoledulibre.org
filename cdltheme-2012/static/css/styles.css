@@ -342,14 +342,17 @@ table.programm th {
     width: 75%;
 }
 
-p.confhour {
+.confhour {
     font-weight: bold;
     font-size: 120%;
     clear: both;
 }
 
-p.biography {
+.biography {
     font-style: italic;
+}
+ul.biography {
+    list-style-position: inside;
 }
 /*
 
