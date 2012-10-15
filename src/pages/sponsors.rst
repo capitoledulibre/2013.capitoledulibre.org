@@ -11,11 +11,13 @@ Makina Corpus
 .. image:: static/logos/makina-corpus.png
   :width: 250px
   :alt: Makina Corpus
-  :target: http://www.makina-corpus.com/
+  :target: `Makina Corpus`_
   :class: logo
   :align: left
 
-`Makina Corpus <http://www.makina-corpus.com/>`_ conçoit, développe et intègre des solutions innovantes s'appuyant exclusivement sur des logiciels libres. La société a développé une expertise particulière en applications web complexes, dans le domaine des portails, le traitement de données géographiques (SIG) et l'analyse décisionnelle (Business Intelligence). 
+`Makina Corpus`_ conçoit, développe et intègre des solutions innovantes s'appuyant exclusivement sur des logiciels libres. La société a développé une expertise particulière en applications web complexes, dans le domaine des portails, le traitement de données géographiques (SIG) et l'analyse décisionnelle (Business Intelligence). 
+
+.. _Makina Corpus: http://www.makina-corpus.com/
 
 Partenaires Argent
 ==================
@@ -26,11 +28,13 @@ Alwaysdata
 .. image:: https://static.alwaysdata.com/v3/css/../images/alwaysdata.png
   :width: 180px
   :alt: Alwaysdata
-  :target: https://www.alwaysdata.com/
+  :target: `Alwaysdata`_
   :class: logo
   :align: left
 
-`Alwaysdata <https://www.alwaysdata.com/>`_ est une plateforme d'hébergement mutualisé/dédié dont les principales valeurs sont la qualité technique, le support des technologies les plus récentes et une équipe proche de ses clients, apportant un support réactif, efficace et des interfaces intuitives et accessibles. En plus d'héberger de nombreuses applications Python/Django, l'architecture d'alwaysdata s'appuie à 90% sur Python. 
+`Alwaysdata`_ est une plateforme d'hébergement mutualisé/dédié dont les principales valeurs sont la qualité technique, le support des technologies les plus récentes et une équipe proche de ses clients, apportant un support réactif, efficace et des interfaces intuitives et accessibles. En plus d'héberger de nombreuses applications Python/Django, l'architecture d'alwaysdata s'appuie à 90% sur Python. 
+
+.. _Alwaysdata: https://www.alwaysdata.com/
 
 C-S
 ----
@@ -38,11 +42,13 @@ C-S
 .. image:: static/logos/c-s.png
   :width: 180px
   :alt: C-S
-  :target: http://www.c-s.fr/
+  :target: `CS`_
   :class: logo
   :align: left
 
-CS, Concepteur, Intégrateur, Opérateur de Systèmes Critiques.
+`CS`_, Concepteur, Intégrateur, Opérateur de Systèmes Critiques.
+
+.. _CS: http://www.c-s.fr/
 
 Objectif Libre
 --------------
@@ -50,13 +56,15 @@ Objectif Libre
 .. image:: static/logos/objectif-libre.png
   :width: 180px
   :alt: Objectif Libre
-  :target: http://www.objectif-libre.com/
+  :target: `Objectif Libre`_
   :class: logo
   :align: left
 
-Créée en 2009, `Objectif Libre <http://www.objectif-libre.com/>`_ est par vocation une société de services spécialisée en Logiciels Libres.
+Créée en 2009, `Objectif Libre`_ est par vocation une société de services spécialisée en Logiciels Libres.
 
 Nous accompagnons tous les jours des TPE et PME pour les aider à choisir, intégrer et maîtriser LA solution Open Source qui s'adaptera le mieux à l'architecture existante.
+
+.. _Objectif Libre: http://www.objectif-libre.com/
 
 Sierra Wireless
 ---------------
@@ -64,11 +72,13 @@ Sierra Wireless
 .. image:: static/logos/sierra-wireless.gif
   :width: 180px
   :alt: Sierra Wireless
-  :target: http://www.sierrawireless.com/
+  :target: `Sierra Wireless`_
   :class: logo
   :align: left
 
-`Sierra Wireless <http://www.sierrawireless.com/>`_ provides mobile broadband modems, wireless modules, wireless gateways and routers, and an M2M Cloud platform.
+`Sierra Wireless`_ provides mobile broadband modems, wireless modules, wireless gateways and routers, and an M2M Cloud platform.
+
+.. _Sierra Wireless: http://www.sierrawireless.com/
 
 MFI
 ---
@@ -76,11 +86,13 @@ MFI
 .. image:: static/logos/mfi.png
   :width: 180px
   :alt: MFI
-  :target: http://www.mfi.fr/
+  :target: `Météo France International`_
   :class: logo
   :align: left
 
-`Météo France International <http://www.mfi.fr/>`_ : With you for weather
+`Météo France International`_ : With you for weather
+
+.. _Météo France International: http://www.mfi.fr/
 
 AFPY
 ----
@@ -88,13 +100,15 @@ AFPY
 .. image:: static/logos/afpy.png
   :width: 180px
   :alt: AFPY
-  :target: http://www.afpy.org/
+  :target: `Association Francophone Python`_
   :class: logo
   :align: left
 
-L’`Association Francophone Python <http://afpy.org>`_ est une association à but non lucratif dont les objectifs sont la promotion du langage Python et la création d'une communauté autour de cet outil, dans l'esprit des logiciels libres.
+L’`Association Francophone Python`_ est une association à but non lucratif dont les objectifs sont la promotion du langage Python et la création d'une communauté autour de cet outil, dans l'esprit des logiciels libres.
 
 Elle organise (entre autres) notamment tous les ans une `PyCon <http://pycon.fr>`_, des `AFPyros <http://afpy.ro>`_ et tout ce que vous viendrez y apporter :).
+
+.. _Association Francophone Python: http://www.afpy.org/
 
 Novapost
 ---------
@@ -102,11 +116,13 @@ Novapost
 .. image:: static/logos/novapost.png
   :width: 180px
   :alt: Novapost
-  :target: http://www.novapost.fr/
+  :target: `Novapost`_
   :class: logo
   :align: left
 
-`Novapost <http://www.novapost.fr/>`_ est une société française, proposant des services en ligne permettant aux entreprises et aux particuliers de simplifier la gestion de leurs documents. Des solutions simples, écologiques et sécurisées permettant de passer au zéro papier.
+`Novapost`_ est une société française, proposant des services en ligne permettant aux entreprises et aux particuliers de simplifier la gestion de leurs documents. Des solutions simples, écologiques et sécurisées permettant de passer au zéro papier.
+
+.. _Novapost: http://www.novapost.fr/
 
 KDAB
 -----
@@ -114,12 +130,14 @@ KDAB
 .. image:: static/logos/kdab.png
   :width: 180px
   :alt: KDAB
-  :target: http://www.kdab.com/
+  :target: `KDAB`_
   :class: logo
   :align: left
 
-`KDAB <http://www.kdab.com/>`_ est composée d'experts Qt, et propose formations, développement, 
+`KDAB`_ est composée d'experts Qt, et propose formations, développement, 
 migrations et assistance technique.
+
+.. _KDAB: http://www.kdab.com/
 
 Django Software Foundation
 ---------------------------
@@ -127,12 +145,14 @@ Django Software Foundation
 .. image:: static/logos/dsf.png
   :width: 180px
   :alt: Django Software Foundation
-  :target: https://www.djangoproject.com/foundation/
+  :target: `Django Software Foundation`_
   :class: logo
   :align: left
 
 Like most open-source foundations, the goal of the `Django Software 
-Foundation <https://www.djangoproject.com/foundation/>`_ is to promote, support, and advance its open-source project: in our case, the Django Web framework. 
+Foundation`_ is to promote, support, and advance its open-source project: in our case, the Django Web framework. 
+
+.. _Django Software Foundation: https://www.djangoproject.com/foundation/
 
 Tisséo
 -------
@@ -140,19 +160,26 @@ Tisséo
 .. image:: static/logos/tisseo.png
   :width: 180px
   :alt: Tisséo
-  :target: http://www.tisseo.fr/
+  :target: `Tisséo`_
   :class: logo
   :align: left
+
+`Tisséo`_, le réseau des transports en commun de l’agglomération
+toulousaine
+
+.. _Tisséo: http://www.tisseo.fr/
 
 Blue Systems
 ------------
 
 .. image:: static/logos/blue-systems.png
   :width: 180px
-  :alt: Tisséo
-  :target: http://blue-systems.com/
+  :alt: Blue Systems
+  :target: `Blue Systems`_
   :class: logo
   :align: left
+
+.. _Blue Systems: http://blue-systems.com/
 
 Blue Mind
 ------------
@@ -160,7 +187,7 @@ Blue Mind
 .. image:: static/logos/bluemind.jpg
   :width: 180px
   :alt: Blue-Mind
-  :target: http://www.blue-mind.net/
+  :target: `Blue Mind`_
   :class: logo
   :align: left
 
@@ -170,6 +197,7 @@ Mind, apportant le mode web déconnecté, une gestion complète de la
 mobilité, des interfaces rapides et intuitives ainsi qu’une API globale 
 pour exploiter les fonctionnalités via web services.
 
+.. _Blue Mind: http://www.blue-mind.net/
 
 Partenaires Bronze
 ==================
