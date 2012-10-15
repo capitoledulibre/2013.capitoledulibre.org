@@ -4,9 +4,9 @@ Le programme est en ligne
 
 :category: conferences
 :date: 2012-10-16
+:summary: Le `programme du Capitole du Libre`_ est en ligne et les inscriptions pour les ateliers du dimanche sont ouvertes.
 
-Le programme du Capitole du Libre est en ligne depuis presque une 
-semaine, les inscriptions pour les ateliers du dimanche sont ouvertes.
+Le `programme du Capitole du Libre`_ est en ligne depuis presque une semaine. Les inscriptions pour les ateliers du dimanche sont ouvertes.
 
 Samedi 24 novembre
 ===================
@@ -50,6 +50,7 @@ Akademy-fr et le DjangoCon proposent également des ateliers :
 -  `Akademy-fr`_ : `ateliers`_ autour de KDE
 -  `DjangoCon Toulouse`_ : sprints et ateliers
 
+.. _programme du Capitole du Libre: http://www.capitoledulibre.org/2012/programme.html
 .. _Conférences grand public: http://www.capitoledulibre.org/2012/conferences-grand-public-samedi-24-novembre.html
 .. _Conférences techniques: http://www.capitoledulibre.org/2012/conferences-techniques-samedi-24-novembre.html
 .. _Conférences multimédias: http://www.capitoledulibre.org/2012/conferences-multimedia-samedi-24-novembre.html
