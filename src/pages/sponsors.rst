@@ -2,6 +2,10 @@
 Sponsors
 ========
 
+Le Capitole du Libre fait venir des intervenants parfois de très loin, et nous tenons à ce que l'accès aux conférences et aux ateliers soit gratuit et ouvert à tous.
+
+Pour cela, **nous remercions nos sponsors pour le soutien qu'ils apportent à cette manifestation**. Certaines entreprises soutiennent le Capitole du Libre depuis le début ou presque : Makina Corpus, KDAB, C-S, Objectif Libre, Solulibre et Free Electrons.
+
 Partenaires Or
 ===============
 
@@ -191,7 +195,7 @@ Blue Mind
   :class: logo
   :align: left
 
-`Blue Mind <http://www.blue-mind.net/>`_ est éditeur de la solution Open Source de messagerie, 
+`Blue Mind`_ est éditeur de la solution Open Source de messagerie, 
 d’agendas, contacts et de collaboration de nouvelle génération Blue 
 Mind, apportant le mode web déconnecté, une gestion complète de la 
 mobilité, des interfaces rapides et intuitives ainsi qu’une API globale 
@@ -207,21 +211,18 @@ Partenaires Bronze
   :alt: solulibre
   :target: http://www.solulibre.com/
   :class: logo
-  :align: left
 
 .. image:: static/logos/free-electrons.png
   :width: 120px
   :alt: Free Electrons
   :target: http://free-electrons.com/
   :class: logo
-  :align: left
 
 .. image:: static/logos/polyconseil.png
   :width: 120px
   :alt: Polyconseil
   :target: http://www.polyconseil.fr/
   :class: logo
-  :align: left
 
   
 Pourquoi devenir sponsor
