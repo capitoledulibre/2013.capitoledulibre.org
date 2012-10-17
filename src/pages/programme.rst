@@ -186,7 +186,21 @@ inscription préalable, gratuite également.
         <th class="multimedia" colspan="3">Multimedia</th>
         <th class="ubuntuparty" colspan="2">Ubuntu Party</th>
         <th class="djangocon">DjangoCon</th>
-        <th class="akademyfr" colspan=3>Akademy-fr</th>
+        <th class="akademyfr" colspan="3">Akademy-fr</th>
+    </tr>
+    <tr>
+        <th>Salle</th>
+	<th>C001</th>
+	<th>C101</th>
+	<th>A001</th>
+	<th>A304</th>
+	<th>A201</th>
+	<th>A202</th>
+	<th>A203</th>
+	<th>C101</th>
+	<th>C102</th>
+	<th>A301, A302</th>
+	<th colspan="3">A303</th>
     </tr>
     <tr>
         <th>10h<br/>-<br/>13h</th>
