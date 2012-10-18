@@ -97,3 +97,46 @@ Atelier de 10h à 13h, gratuit, sur inscription.
 
 Inscription nécessaire à l'adresse
 `<http://toulibre.org/capitoledulibre2012:atelier-architecture>`_.
+
+.. _atelier-montage-audio-video:
+
+Montage audio et vidéo avec des Logiciels Libres, *Laurent Bellegarde*
+----------------------------------------------------------------------
+
+Laurent Bellegarde, de l'association LProd.org proposera au cours de
+cet atelier d'aborder au travers de mini-ateliers de 10/15 minutes un
+ensemble de Logiciels Libres relatifs au montage vidéo et audio. Au
+programme:
+
+ * Premier montage vidéo avec OpenShot
+ * Premier montage vidéo avec KDEnlive
+ * Premier montage vidéo avec Cinélerra
+ * Premier montage audio avec Audacity
+ * Premier montage audio avec Ardour, Hydrogen, zynaddsubfx
+ * Ma vidéo sur Youtube avec des outils libres
+ * Fabriquer mon CD Audio de musique libre
+ * Fabriquer mon DVD-Vidéo libre
+
+Les participants doivent apporter leur ordinateur équipé d'une
+distribution Linux récente, de préférence Ubuntu 12.04 ou
+ultérieure. Ils devront se munir d'un casque audio, et pour les
+ateliers relatifs à la réalisation de CD Audio et DVD Vidéo, d'un
+graveur de CD/DVD et de médias vierges. Enfin, l'animateur de
+l'atelier recommende d'avoir installé au préalable les paquets
+suivants: cinelerra, openshot, ekd, vlc, ffmpeg, mplayer, mencoder,
+audacity, gtk-recordmydesktop, gimp, inkscape, dvdstyler, k3b,
+kdenlive, kino, qjackctl, ardour, hydrogen, zynaddsubfx, blender.
+
+Les participants sont également invités à apporter une multiprise
+électrique.
+
+.. include:: ../../intervenants/laurent-bellegarde.rst
+
+.. class:: confhour
+
+Atelier de 14h à 17h, gratuit, sur inscription.
+
+.. class:: confhour
+
+Inscription nécessaire à l'adresse
+`<http://toulibre.org/capitoledulibre2012:atelier-montage-audio-video>`_.

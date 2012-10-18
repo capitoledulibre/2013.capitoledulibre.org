@@ -230,7 +230,7 @@ inscription préalable, gratuite également.
         <td><a href="ateliers-techniques-dimanche-25-novembre.html#atelier-puppet">Atelier "Passer de 10 à 1000 machines sans effort avec puppet"</a><br/>Christophe Sauthier, Lionel Porcheron<br/><i><a href="http://toulibre.org/capitoledulibre2012:atelier-puppet">inscription</a></i></td>
         <td><a href="ateliers-multimedia-dimanche-25-novembre.html#atelier-crea-2d">Atelier "Dessin et création avec MyPaint"</a><br/>David Revoy<br/><i><a href="http://toulibre.org/capitoledulibre2012:atelier-mypaint">inscription</a></i></td>
         <td><a href="ateliers-multimedia-dimanche-25-novembre.html#atelier-mao">Atelier "M.A.O avec Ardour et ressources sonores ouvertes"</a><br/>François Girault<br/><i><a href="http://toulibre.org/capitoledulibre2012:atelier-mao">inscription</a></i></td>
-        <td>Atelier Montage Vidéo<br/>Laurent Bellegarde<br/><i><a href="http://toulibre.org/capitoledulibre2012:atelier-video">inscription</a></i></td>
+        <td><a href="ateliers-multimedia-dimanche-25-novembre.html#atelier-montage-audio-video">Atelier Montage Audio/Vidéo</a><br/>Laurent Bellegarde<br/><i><a href="http://toulibre.org/capitoledulibre2012:atelier-video">inscription</a></i></td>
         <td><a href="ubuntu-party-dimanche-25-novembre.html#atelier-ubuntu">Atelier "Initiation à Ubuntu Linux"</a><br/>Fabien Adam<br/><i><a href="http://toulibre.org/capitoledulibre2012:atelier-ubuntu-apres-midi">inscription</a></i></td>
         <td><a href="ubuntu-party-dimanche-25-novembre.html#installparty">Install Party Ubuntu</a></td>
         <td><a href="http://rencontres.django-fr.org/2012/tolosa/">Sprints et ateliers</a></td>
