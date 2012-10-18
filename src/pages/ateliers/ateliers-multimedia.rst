@@ -91,7 +91,7 @@ Au cours de cet atelier, nous verrons comment modéliser un projet de bâtiment 
 
 .. class:: confhour
 
-Atelier de 14h à 17h, gratuit, sur inscription.
+Atelier de 10h à 13h, gratuit, sur inscription.
 
 .. class:: confhour
 
