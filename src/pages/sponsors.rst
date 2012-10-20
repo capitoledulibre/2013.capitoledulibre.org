@@ -224,7 +224,21 @@ Partenaires Bronze
   :target: http://www.polyconseil.fr/
   :class: logo
 
-  
+Partenaires presse
+==================
+
+.. image:: static/logos/toulouse-metropole.gif
+  :width: 150px
+  :alt: Toulouse Metropole
+  :target: http://www.toulouse-metropole.fr/
+  :class: logo
+
+.. image:: static/logos/toulouse-mairie.gif
+  :width: 150px
+  :alt: Mairie de Toulouse
+  :target: http://www.toulouse.fr/
+  :class: logo
+
 Pourquoi devenir sponsor
 ==========================
 
