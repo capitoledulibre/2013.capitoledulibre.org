@@ -2,7 +2,7 @@
 Le programme est en ligne
 ====================================
 
-:category: conferences
+:category: conférences
 :date: 2012-10-16
 :summary: Le `programme du Capitole du Libre`_ est en ligne et les inscriptions pour les ateliers du dimanche sont ouvertes.
 
