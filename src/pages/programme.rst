@@ -66,10 +66,10 @@ L'entrée est libre et gratuite.
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-krita">Krita 2.5&nbsp;: Découverte et fonctionnalités</a><br/>David Revoy</a></td>
         <td></td>
         <td>
-          14h<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-videoenpoche">Vidéo en Poche&nbsp;: présentation et état des lieux</a><br/><br/>
-          14h20<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-roman-cc-zero">Comment mettre mon roman dans le domaine public a fait de moi un auteur</a><br/><br/>
-          14h40<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-mozilla">C'est quoi Mozilla ?</a><br/><br/>
-            </td>
+          14h<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-firewall">Réaliser votre firewall, sans aucune connaissance d'iptables</a><br/><br/>
+          14h20<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-po4a">po4a, outil de traduction pour la documentation</a><br/><br/>
+          14h40<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-scapy">Scapy&nbsp;: Easy Packet Handling</a><br/><br/>
+        </td>
         <td><a href="ubuntu-party-samedi-24-novembre.html#conf-ubuntu">Présentation "Installation et découverte d'Ubuntu"</a><br/>Fabien Adam</td>
         <td><a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a></td>
         <td>
@@ -80,14 +80,14 @@ L'entrée est libre et gratuite.
     </tr>
     <tr>
         <th>15h<br/>-<br/>16h</th>
-        <td><a href="conferences-grand-public-samedi-24-novembre.html#conf-wikimedia">Wikipédia, Wikimédia, et après ?</a><br/>Adrienne Charmet-Alix, Wikimedia France</td>
+        <td><a href="conferences-grand-public-samedi-24-novembre.html#conf-educ-libre">Le libre dans l'éducation. Ses enjeux</a><br/>Jean-Pierre Archambault, CNDP-CDRP</td>
         <td><a href="conferences-techniques-samedi-24-novembre.html#conf-tetaneutral">Internet haut débit citoyen en zone blanche ADSL&nbsp;: l'expérience de l'association tetaneutral.net</a><br/>Laurent Guerby, Tetaneutral.net</td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-blender">Conférence Blender</a><br/>François Grassard</td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-musecore">MuseScore&nbsp;: Accès libre aux partitions, code source de la musique</a><br>Nicolas Froment</td>
         <td>
-          15h<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-gcompris">Le logiciel éducatif GCompris fait le plein de nouveautés</a><br/><br/>
-          15h20<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-opensource">L'Open Source et les éditeurs de logiciel&nbsp;: avantage compétitif agressif ou développement durable?</a><br/><br/>
-          15h40<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-software-defined-network">Quand le Software prend le contrôle des réseaux et que l’Open Hardware est une solution pour aller plus loin</a><br/><br/>
+          15h<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-otb">OTB&nbsp;: Librairie de traitement d'images spatiales</a><br/><br/>
+          15h20<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-diogene">Diogène, logiciel libre de Biométrie et Génétique sous Linux</a><br/><br/>
+          15h40<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-orekit">Orekit, l'innovation libre comme pari industriel</a><br/><br/>
         </td>
         <td><a href="ubuntu-party-samedi-24-novembre.html#conf-ubuntu">Présentation "Installation et découverte d'Ubuntu"</a><br/>Fabien Adam</td>
         <td><a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a></td>
@@ -99,14 +99,14 @@ L'entrée est libre et gratuite.
     </tr>
     <tr class="odd">
         <th>16h<br/>-<br/>17h</th>
-        <td><a href="conferences-grand-public-samedi-24-novembre.html#conf-educ-libre">Le libre dans l'éducation. Ses enjeux</a><br/>Jean-Pierre Archambault, CNDP-CDRP</td>
+        <td><a href="conferences-grand-public-samedi-24-novembre.html#conf-wikimedia">Wikipédia, Wikimédia, et après ?</a><br/>Adrienne Charmet-Alix, Wikimedia France</td>
         <td><a href="conferences-techniques-samedi-24-novembre.html#conf-freebox">La Freebox, un ensemble subtil de logiciels libres et propriétaires</a><br/>Florian Fainelli</td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-mao">Une brève histoire des musiques électroniques et ... Linux</a><br/>François Girault</td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-moteur-rendu">Les moteurs de rendu libres&nbsp;: vers toujours plus de réalisme ?</a><br/>Henri Hebeisen</td>
         <td>
-          16h<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-otb">OTB&nbsp;: Librairie de traitement d'images spatiales</a><br/><br/>
-          16h20<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-diogene">Diogène, logiciel libre de Biométrie et Génétique sous Linux</a><br/><br/>
-          16h40<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-cinemalibre">Vers un système de projection libre pour le cinéma numérique</a><br/><br/>
+          16h<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-opensource">L'Open Source et les éditeurs de logiciel&nbsp;: avantage compétitif agressif ou développement durable?</a><br/><br/>
+          16h20<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-software-defined-network">Quand le Software prend le contrôle des réseaux et que l’Open Hardware est une solution pour aller plus loin</a><br/><br/>
+          16h40<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-buildroot">Buildroot, un outil simple pour construire un système Linux embarqué</a><br/><br/>
         </td>
         <td><a href="ubuntu-party-samedi-24-novembre.html#conf-ubuntu">Présentation "Installation et découverte d'Ubuntu"</a><br/>Fabien Adam</td>
         <td><a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a></td>
@@ -127,9 +127,9 @@ L'entrée est libre et gratuite.
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-montage-video">Conférence multimédia&nbsp;:<br> 1, 2, 3, silence, ça tourne sous GNU/Linux...</a><br/>Laurent Bellegarde</td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-gmic">Le projet G'MIC&nbsp;: Naissance, évolution et démonstration</a><br/>David Tschumperlé</td>
         <td>
-          17h30<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-orekit">Orekit, l'innovation libre comme pari industriel</a><br/><br/>
-          17h50<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-buildroot">Buildroot, un outil simple pour construire un système Linux embarqué</a><br/><br/>
-          18h10<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-scapy">Scapy&nbsp;: Easy Packet Handling</a><br/><br/>
+	  17h30<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-gcompris">Le logiciel éducatif GCompris fait le plein de nouveautés</a><br/><br/>
+	  17h50<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-mozilla">C'est quoi Mozilla ?</a><br/><br/>
+	  18h10<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-videoenpoche">Vidéo en Poche&nbsp;: présentation et état des lieux</a><br/><br/>
         </td>
         <td><a href="ubuntu-party-samedi-24-novembre.html#conf-ubuntu">Présentation "Installation et découverte d'Ubuntu"</a><br/>Fabien Adam</td>
         <td><a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a></td>
@@ -147,9 +147,9 @@ L'entrée est libre et gratuite.
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-archi-libre">Les outils libres pour les métiers de la construction et de l'ingénierie</a><br>Matthieu Dupont de Dinechin</td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-vlc">VideoLAN et tour d'horizon du Multimedia Libre</a><br/>Jean-Baptiste Kempf</td>
         <td>
-          18h30<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-po4a">po4a, outil de traduction pour la documentation</a><br/><br/>
-          18h50<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-firewall">Réaliser votre firewall, sans aucune connaissance d'iptables</a><br/><br/>
-          19h10<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-contribuer-mozilla">Comment contribuer à Mozilla</a><br/><br/>
+          18h30<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-contribuer-mozilla">Comment contribuer à Mozilla</a><br/><br/>
+          18h50<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-roman-cc-zero">Comment mettre mon roman dans le domaine public a fait de moi un auteur</a><br/><br/>
+          19h10<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-cinemalibre">Vers un système de projection libre pour le cinéma numérique</a><br/><br/>
         </td>
         <td></td>
         <td><a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a></td>
