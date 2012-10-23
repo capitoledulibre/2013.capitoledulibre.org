@@ -60,7 +60,7 @@ DEFAULT_PAGINATION = 4
 
 
 # static paths will be copied under the same name
-STATIC_PATHS = ["files","logos","photos",] 
+STATIC_PATHS = ["files","logos","photos","icons",] 
 RELATIVE_URLS = False
 
 DIRECT_TEMPLATE = ('index', 'tags', 'categories', 'archives')

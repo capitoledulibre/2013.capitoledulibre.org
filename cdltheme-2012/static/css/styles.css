@@ -374,3 +374,10 @@ ul.biography {
 .contents ul li {
     margin-bottom: 0.5em;
 }
+
+/* Communication *
+ * ------------- */
+ 
+img.icon {
+    margin-right: 20px;
+}

@@ -5,11 +5,36 @@ Communication
 Nous suivre
 ============
 
-* `atom feed <http://www.capitoledulibre.org/2012/feeds/all.atom.xml>`_
-* `Identica <http://identi.ca/group/toulibre>`_
-* `Twitter <https://twitter.com/toulibreorg>`_
-* `Google+ <https://plus.google.com/b/109128243242581226442/109128243242581226442/posts>`_
-* `Lanyrd <http://lanyrd.com/2012/capitole-du-libre/>`_
+.. image:: static/icons/feed-48x48.png
+  :alt: Atom feed
+  :target: `atom feed`_
+  :class: icon
+
+.. image:: static/icons/identica-48x48.png
+  :alt: Identica
+  :target: `Identica`_
+  :class: icon
+
+.. image:: static/icons/twitter-48x48.png
+  :alt: Twitter
+  :target: `Twitter`_
+  :class: icon
+
+.. image:: static/icons/google+-48x48.png
+  :alt: Google+
+  :target: `Google+`_
+  :class: icon
+
+.. image:: static/icons/lanyrd-48x48.png
+  :alt: Lanyrd
+  :target: `Lanyrd`_ 
+  :class: icon
+  
+.. _atom feed: http://www.capitoledulibre.org/2012/feeds/all.atom.xml
+.. _Identica: http://identi.ca/group/toulibre
+.. _Twitter: https://twitter.com/toulibreorg
+.. _Google+: https://plus.google.com/b/109128243242581226442/109128243242581226442/posts
+.. _Lanyrd: http://lanyrd.com/2012/capitole-du-libre/
 
 Presse
 ======
