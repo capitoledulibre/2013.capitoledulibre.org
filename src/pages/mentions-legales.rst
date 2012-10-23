@@ -27,8 +27,16 @@ Crédits
 
 L'affiche du Capitole du Libre a été réalisé par Alexandre Druhet de `Pixopat`_.
 
-Les icones utilisés pour les liens sociaux proviennent de `ElegantThemes`_ et sont sous `licence MIT`_.
+Les photos de l'édition 2011 ont été prises par Guillaume Paumier et sont sous licence CC `Attribution 2.0`_
+
+Les icones utilisés pour les liens sociaux proviennent de `Paul Robert Lloyd`_ et sont sous licence CC `Attribution-Share Alike 2.0`_.
+
+Le site est généré par `pelican`_ créé par Alexis Metaireau et la base du thème est `twitter bootstrap`_
 
 .. _Pixopat: http://www.pixopat.com/
-.. _ElegantThemes: http://www.elegantthemes.com/blog/resources/free-social-media-icon-set
-.. _licence MIT: /static/files/icons/license.txt
+.. _Paul Robert Lloyd: http://paulrobertlloyd.com/2009/06/social_media_icons
+.. _ElegantThemes: http://paulrobertlloyd.com/2009/06/social_media_icons/
+.. _Attribution-Share Alike 2.0: http://creativecommons.org/licenses/by-sa/2.0/uk/
+.. _Attribution 2.0: http://creativecommons.org/licenses/by/2.0/deed.fr
+.. _pelican: http://docs.getpelican.com/en/latest/
+.. _twitter bootstrap: http://twitter.github.com/bootstrap/
