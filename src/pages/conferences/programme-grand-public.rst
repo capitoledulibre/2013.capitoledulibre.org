@@ -23,26 +23,6 @@ vous qui ferez la conférence.
 
 Conférence de 14h à 15h.
 
-.. _conf-wikimedia:
-
-"Wikipédia, Wikimédia, et après ?", *Adrienne Charmet-Alix, Wikimedia France*
------------------------------------------------------------------------------
-
-Wikipédia a près de 12 ans d'expérience, et une communauté de
-plusieurs centaines de milliers de contributeurs. Et après ? Quelles
-perspectives, quelles avancées pour l'encyclopédie en ligne ? Comment
-améliorer encore ce projet gigantesque ? De nombreuses pistes
-d'amélioration et d'ouverture vers de nouveaux contributeurs sont
-envisagées et mises en place par le mouvement Wikimédia, de nombreux
-projets lancés dans les dernières années et pour le futur, sur
-Wikipédia et l'ensemble des projets Wikimédia
-
-.. include:: ../../intervenants/adrienne-charmet-alix.rst
-
-.. class:: confhour
-
-Conférence de 15h à 16h.
-
 .. _conf-educ-libre:
 
 "Le libre dans l'éducation. Ses enjeux", *Jean-Pierre Archambault, CNDP-CDRP*
@@ -79,6 +59,26 @@ point de vue, le libre constitue un outil de réflexion pour penser
 les problématiques de l'immatériel.
 
 .. include:: ../../intervenants/jean-pierre-archambault.rst
+
+.. class:: confhour
+
+Conférence de 15h à 16h.
+
+.. _conf-wikimedia:
+
+"Wikipédia, Wikimédia, et après ?", *Adrienne Charmet-Alix, Wikimedia France*
+-----------------------------------------------------------------------------
+
+Wikipédia a près de 12 ans d'expérience, et une communauté de
+plusieurs centaines de milliers de contributeurs. Et après ? Quelles
+perspectives, quelles avancées pour l'encyclopédie en ligne ? Comment
+améliorer encore ce projet gigantesque ? De nombreuses pistes
+d'amélioration et d'ouverture vers de nouveaux contributeurs sont
+envisagées et mises en place par le mouvement Wikimédia, de nombreux
+projets lancés dans les dernières années et pour le futur, sur
+Wikipédia et l'ensemble des projets Wikimédia
+
+.. include:: ../../intervenants/adrienne-charmet-alix.rst
 
 .. class:: confhour
 
