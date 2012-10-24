@@ -8,7 +8,7 @@
 
 Sébastien Jean, passionné tant par les aspects techniques que
 stratégiques d'un Internet neutre et de solutions logicielles libres,
-est suis investi dans leur promotion au niveau local, en Lorraine, en
+il est investi dans leur promotion au niveau local, en Lorraine, en
 tant que professionnel (administrateur système et réseau à
 l'Université de Lorraine), intervenant (chargé de cours Apache dans le
 cadre de la licence Administration système et réseau à base de
