@@ -224,6 +224,12 @@ Partenaires Bronze
   :target: http://www.polyconseil.fr/
   :class: logo
 
+.. image:: static/logos/django-fr.png
+  :width: 180px
+  :alt: Django-fr
+  :target: http://www.django-fr.org/
+  :class: logo
+
 Partenaires presse
 ==================
 
