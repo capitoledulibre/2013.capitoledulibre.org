@@ -5,27 +5,27 @@ Communication
 Nous suivre
 ============
 
-.. image:: static/icons/feed-48x48.png
+.. image:: theme/images/icons/feed-48x48.png
   :alt: Atom feed
   :target: `atom feed`_
   :class: icon
 
-.. image:: static/icons/identica-48x48.png
+.. image:: theme/images/icons/identica-48x48.png
   :alt: Identica
   :target: `Identica`_
   :class: icon
 
-.. image:: static/icons/twitter-48x48.png
+.. image:: theme/images/icons/twitter-48x48.png
   :alt: Twitter
   :target: `Twitter`_
   :class: icon
 
-.. image:: static/icons/google+-48x48.png
+.. image:: theme/images/icons/google+-48x48.png
   :alt: Google+
   :target: `Google+`_
   :class: icon
 
-.. image:: static/icons/lanyrd-48x48.png
+.. image:: theme/images/icons/lanyrd-48x48.png
   :alt: Lanyrd
   :target: `Lanyrd`_ 
   :class: icon
