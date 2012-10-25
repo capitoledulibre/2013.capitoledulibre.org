@@ -133,6 +133,30 @@ td.odd {
   background-color: #F3F3F3;
 }
 
+/* social links *
+ * ------------ */
+
+.social-links a {
+  overflow: hidden;
+  text-indent: 100%;
+  white-space: nowrap;
+  font: 0/0 a;
+  padding: 16px;
+  background: url('../images/icons/feed-32x32.png') no-repeat 0 0;
+}
+.social-links a#identica {
+  background-image: url('../images/icons/identica-32x32.png');
+}
+.social-links a#twitter {
+  background-image: url('../images/icons/twitter-32x32.png');
+}
+.social-links a#google {
+  background-image: url('../images/icons/google+-32x32.png');
+}
+.social-links a#lanyrd {
+  background-image: url('../images/icons/lanyrd-32x32.png');
+}
+
 /* homepage *
   --------- */
 

@@ -48,10 +48,10 @@ LINKS =  (
 
 # Social widget
 SOCIAL = (
-          ('Identica', 'http://identi.ca/group/toulibre'),
-          ('Twitter', 'https://twitter.com/toulibreorg'),
-          ('Google+', 'https://plus.google.com/b/109128243242581226442/109128243242581226442/posts'),
-          ('Lanyrd', 'http://lanyrd.com/2012/capitole-du-libre/'),
+          ('Identica', 'identica', 'http://identi.ca/group/toulibre'),
+          ('Twitter', 'twitter', 'https://twitter.com/toulibreorg'),
+          ('Google+', 'google', 'https://plus.google.com/b/109128243242581226442/109128243242581226442/posts'),
+          ('Lanyrd', 'lanyrd', 'http://lanyrd.com/2012/capitole-du-libre/'),
          )
 
 TWITTER_USERNAME = 'Toulibreorg'

@@ -125,16 +125,16 @@
                 <h2>Communiquez !</h2>
                 
             {% if SOCIAL %}
-                            <ul>
-                                <li><a href="{{ FEED_DOMAIN }}/{{ FEED_ATOM }}" type="application/atom+xml" rel="alternate">atom feed</a></li>
-                                {% if FEED_RSS %}
-                                <li><a href="{{ FEED_DOMAIN }}/{{ FEED_RSS }}" type="application/rss+xml" rel="alternate">rss feed</a></li>
-                                {% endif %}
+                <div class="nav social-links">
+                    <a id="rss" href="{{ FEED_DOMAIN }}/{{ FEED_ATOM }}" type="application/atom+xml" rel="alternate">atom feed</a>
+                    {% if FEED_RSS %}
+                    <a id="rss" href="{{ FEED_DOMAIN }}/{{ FEED_RSS }}" type="application/rss+xml" rel="alternate">rss feed</a>
+                    {% endif %}
 
-                            {% for name, link in SOCIAL %}
-                                <li><a href="{{ link }}" target="_blank" >{{ name }}</a></li>
-                            {% endfor %}
-                            </ul>
+                {% for name, id, link in SOCIAL %}
+                    <a id='{{ id }}' href="{{ link }}" target="_blank" >{{ name }}</a>
+                {% endfor %}
+                </div>
             {% endif %}
         
             </section>
