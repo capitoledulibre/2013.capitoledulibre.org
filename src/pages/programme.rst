@@ -220,7 +220,7 @@ inscription préalable, gratuite également.
     </tr>
     <tr>
         <th>13h<br/>-<br/>14h</th>
-        <td colspan="12">Repas<br/>Un repas au tarif de 3 EUR est proposé aux participants, voir <a href="http://toulibre.org/capitoledulibre2012:repas-dimanche-midi">cette page pour s'inscrire</a></td>
+        <td colspan="13">Repas<br/>Un repas au tarif de 3 EUR est proposé aux participants, voir <a href="http://toulibre.org/capitoledulibre2012:repas-dimanche-midi">cette page pour s'inscrire</a></td>
     </tr>
     <tr>
         <th>14h<br/>-<br/>17h</th>
