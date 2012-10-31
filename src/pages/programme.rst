@@ -106,7 +106,7 @@ L'entrée est libre et gratuite.
         <td>
           16h<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-opensource">L'Open Source et les éditeurs de logiciel&nbsp;: avantage compétitif agressif ou développement durable?</a><br/><br/>
           16h20<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-software-defined-network">Quand le Software prend le contrôle des réseaux et que l’Open Hardware est une solution pour aller plus loin</a><br/><br/>
-          16h40<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-buildroot">Buildroot, un outil simple pour construire un système Linux embarqué</a><br/><br/>
+          16h40<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-mozilla">C'est quoi Mozilla ?</a><br/><br/>
         </td>
         <td><a href="ubuntu-party-samedi-24-novembre.html#conf-ubuntu">Présentation "Installation et découverte d'Ubuntu"</a><br/>Fabien Adam</td>
         <td><a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a></td>
@@ -128,8 +128,8 @@ L'entrée est libre et gratuite.
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-gmic">Le projet G'MIC&nbsp;: Naissance, évolution et démonstration</a><br/>David Tschumperlé</td>
         <td>
 	  17h30<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-gcompris">Le logiciel éducatif GCompris fait le plein de nouveautés</a><br/><br/>
-	  17h50<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-mozilla">C'est quoi Mozilla ?</a><br/><br/>
-	  18h10<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-videoenpoche">Vidéo en Poche&nbsp;: présentation et état des lieux</a><br/><br/>
+	  17h50<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-videoenpoche">Vidéo en Poche&nbsp;: présentation et état des lieux</a><br/><br/>
+	  18h10<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-cinemalibre">Vers un système de projection libre pour le cinéma numérique</a><br/><br/>
         </td>
         <td><a href="ubuntu-party-samedi-24-novembre.html#conf-ubuntu">Présentation "Installation et découverte d'Ubuntu"</a><br/>Fabien Adam</td>
         <td><a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a></td>
@@ -149,7 +149,7 @@ L'entrée est libre et gratuite.
         <td>
           18h30<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-contribuer-mozilla">Comment contribuer à Mozilla</a><br/><br/>
           18h50<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-roman-cc-zero">Comment mettre mon roman dans le domaine public a fait de moi un auteur</a><br/><br/>
-          19h10<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-cinemalibre">Vers un système de projection libre pour le cinéma numérique</a><br/><br/>
+          19h10<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-framazic">Framazic, et si on changeait la musique ?</a><br/><br/>
         </td>
         <td></td>
         <td><a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a></td>

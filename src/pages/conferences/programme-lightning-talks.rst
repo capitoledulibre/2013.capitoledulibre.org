@@ -218,30 +218,23 @@ une solution.
 
 Mini-conférence de 16h20 à 16h40.
 
-.. _conf-buildroot:
+.. _conf-mozilla:
 
-Buildroot, un outil simple pour construire un système Linux embarqué, *Thomas Petazzoni*
-----------------------------------------------------------------------------------------
+C'est quoi Mozilla ?, *Clarista, Théo Chevalier*
+------------------------------------------------
 
-Une partie important des systèmes embarqués reposant sur le noyau
-Linux ne peuvent pas utiliser les distributions GNU/Linux que nous
-connaissons sur les serveurs ou stations de travail. Ces plateformes
-embarquées nécessitent le plus souvent un système Linux construit à
-partir de zéro depuis les sources, souvent par compilation croisée.
+Mozilla est le premier navigateur en Europe. Mais il y a quoi au juste
+derrière Mozilla ? C'est une fondation, mais d'où vient l'argent? Quid
+de la concurrence de Chrome ? Cette conférence essaiera de répondre à
+toutes vos questions sur Firefox et sur les autres projets de Mozilla.
 
-Buildroot est un outil simple et efficace pour générer des systèmes
-Linux embarqués: chaîne de compilation croisée, système de fichiers
-racine intégrant de nombreuses bibliothèques et applications, images
-du noyau et du chargeur de démarrage. Développé depuis presque 10 ans
-par une communauté très active, il est utilisé par de nombreux
-industriels pour leurs développements Linux embarqué.
+.. include:: ../../intervenants/theo-chevalier.rst
 
-Au travers de cette présentation, nous proposerons de découvrir la
-problématique à laquelle Buildroot répond, les diverses
-fonctionnalités que cet outil propose, et les bases de son
-utilisation.
+.. class:: clearfix
 
-.. include:: ../../intervenants/thomas-petazzoni.rst
+|
+
+.. include:: ../../intervenants/clarista.rst
 
 .. class:: confhour
 
@@ -267,28 +260,6 @@ cadre du "Google Summer Of Code 2012".
 
 Mini-conférence de 17h30 à 17h50.
 
-.. _conf-mozilla:
-
-C'est quoi Mozilla ?, *Clarista, Théo Chevalier*
-------------------------------------------------
-
-Mozilla est le premier navigateur en Europe. Mais il y a quoi au juste
-derrière Mozilla ? C'est une fondation, mais d'où vient l'argent? Quid
-de la concurrence de Chrome ? Cette conférence essaiera de répondre à
-toutes vos questions sur Firefox et sur les autres projets de Mozilla.
-
-.. include:: ../../intervenants/theo-chevalier.rst
-
-.. class:: clearfix
-
-|
-
-.. include:: ../../intervenants/clarista.rst
-
-.. class:: confhour
-
-Mini-conférence de 17h50 à 18h10.
-
 .. _conf-videoenpoche:
 
 Vidéo en Poche : présentation et état des lieux, *Rodolphe Village*
@@ -303,6 +274,33 @@ support amovible type clé USB ou carte mémoire des spectateurs des
 films au format ouvert Matroska et sans DRM.
 
 .. include:: ../../intervenants/rodolphe-village.rst
+
+.. class:: confhour
+
+Mini-conférence de 17h50 à 18h10.
+
+.. _conf-cinemalibre:
+
+Vers un système de projection libre pour le cinéma numérique, *Nicolas Bertrand*
+--------------------------------------------------------------------------------
+
+La conversion des salles de cinéma françaises et européennes vers le
+cinéma numérique est en cours, et d'ici 2014 il n'y aura pratiquement
+plus de tirage en bobine 35 mm. Le matériel pour la projection
+numérique dans les salles est standardisé et amène de nouvelles
+contraintes de coût, de technologie et de sécurité.
+
+Pour continuer à produire, distribuer et diffuser des films, le cinéma
+Art et Essai doit pouvoir s'approprier le cinéma numérique, et adapter
+la technologie à la création et non le contraire. Le cinéma numérique
+actuel impose un modèle qui n'a pas été pensé pour le cinéma Art et
+Essai. Le modèle du logiciel libre peut fournir une solution adaptée
+à ce problème. Nous travaillons sur un système de création, diffusion
+et projection de copies numériques. Ce système sera ouvert et peu
+coûteux. Au delà du côté technique, le but est de permettre l'accès à
+toute œuvre aux salles obscures.
+
+.. include:: ../../intervenants/nicolas-bertrand.rst
 
 .. class:: confhour
 
@@ -367,28 +365,31 @@ culture partagée devienne la norme, non l'exception.
 
 Mini-conférence de 18h50 à 19h10.
 
-.. _conf-cinemalibre:
+.. _conf-framazic:
 
-Vers un système de projection libre pour le cinéma numérique, *Nicolas Bertrand*
---------------------------------------------------------------------------------
+Avez-vous déjà téléchargé illégalement de la musique sur Internet ?
+Feriez-vous partie de cette bande de vilains pirates qui pillent les
+gentils artistes ? Savez-vous qu'à chaque visite sur The Pirate Bay,
+un musicien meurt dans le monde ? Telles sont les questions qui
+reviennent sans cesse dans les débats autour du partage d'œuvres
+cultuelles sur Internet.
 
-La conversion des salles de cinéma françaises et européennes vers le
-cinéma numérique est en cours, et d'ici 2014 il n'y aura pratiquement
-plus de tirage en bobine 35 mm. Le matériel pour la projection
-numérique dans les salles est standardisé et amène de nouvelles
-contraintes de coût, de technologie et de sécurité.
+Alors que même la Hadopi a reconnu dans un rapport que ceux qui
+téléchargent illégalement sont ceux qui achètent le plus de musique,
+ne serait-il pas temps de repenser ces pratiques ? Et si justement la
+musique libre était un exemple qui montre que le téléchargement ne
+fait pas que tuer des bébés phoques, mais fait naître aussi des
+vocations, tout en défendant un modèle de société ? Et si le problème
+ne venait pas de mélomanes irresponsables, mais des personnes qui les
+désignent comme tel ? Et si l'industrie du divertissement utilisait ce
+prétexte pour dissimuler un vrai problème de modèle économique dépassé
+?  Face à de telles questions, il a paru important au sein de
+Framasoft d'apporter des éléments au débat grâce à Framazic. Un projet
+dédié à la promotion de la musique libre, essayant montrer aux
+mélomanes comme aux musiciens que l'ouverture aux licences libres ne
+signifie pas la fin du monde.
 
-Pour continuer à produire, distribuer et diffuser des films, le cinéma
-Art et Essai doit pouvoir s'approprier le cinéma numérique, et adapter
-la technologie à la création et non le contraire. Le cinéma numérique
-actuel impose un modèle qui n'a pas été pensé pour le cinéma Art et
-Essai. Le modèle du logiciel libre peut fournir une solution adaptée
-à ce problème. Nous travaillons sur un système de création, diffusion
-et projection de copies numériques. Ce système sera ouvert et peu
-coûteux. Au delà du côté technique, le but est de permettre l'accès à
-toute œuvre aux salles obscures.
-
-.. include:: ../../intervenants/nicolas-bertrand.rst
+.. include:: ../../intervenants/framartin.rst
 
 .. class:: confhour
 

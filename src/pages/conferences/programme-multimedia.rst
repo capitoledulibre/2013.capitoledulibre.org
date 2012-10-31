@@ -125,6 +125,10 @@ Conférence de 18h30 à 19h30.
 VideoLAN et tour d'horizon du Multimedia Libre, *Jean-Baptiste Kempf*
 ------------------------------------------------------------------------
 
+Cette conférence va introduire les concepts fondamentaux du multimédias en général (Codecs, Containers, Protocoles, Formats) et parler de l'état des logiciels libres dans le multimédias, aussi bien pour la production que pour la consommation multimédia.
+
+Cette conférence racontera aussi l'histoire de VideoLAN et de VLC media player, projets français commencés par des étudiants et aujourd'hui connus mondialement, et des difficultés que le monde du multimédia libre doit affronter...
+
 .. include:: ../../intervenants/jean-baptiste-kempf.rst
 
 .. class:: confhour
