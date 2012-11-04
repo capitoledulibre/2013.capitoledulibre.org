@@ -404,6 +404,82 @@ ul.biography {
 .contents ul li {
     margin-bottom: 0.5em;
 }
+/* Programm mobile *
+ * --------------- */
+
+#plan-wrapper {
+/*
+    position: relative;
+*/
+}
+.home .entry {
+    background-color: none;
+    margin-bottom:0px;
+}
+
+.entry {
+    padding: 10px;
+    margin: 0;
+    width: auto;
+    background-color: #F5F5F5;
+    margin-bottom:10px;
+}
+
+.entry-footer {
+    display: none;
+}
+
+.entry-content {
+    margin-left: 0;
+    line-height: 16px;
+}
+
+.entry-day {
+    border-bottom: 1px solid #333;
+    color: #fff;
+    background-color: #e4401f;
+    margin-bottom: 20px;
+    font-size: 24px;
+    line-height: 34px;
+}
+
+.entry-header {
+    border-bottom: 1px solid #e4401f;
+    color: #282828;
+    margin-bottom: 20px;
+    font-size: 24px;
+    line-height: 34px;
+}
+
+.entry-header a {
+    color: #282828;
+    text-decoration: none;
+
+    font-size: 24px;
+    line-height: 34px;
+}
+
+.home .entry-header, .home .entry-header a {
+    line-height: 28px;
+    font-size: 20px;
+}
+
+.entry-more-link a {
+    float: right;
+}
+
+.entry-more-link a, .content-nav a {
+    background-color: #0058A7;
+    color: #FFFFFF;
+    /*padding: 2px 4px;*/
+    font-weight: bold;
+}
+
+.room {
+    position: absolute;
+    border: 3px solid #e4401f;
+    border-radius: 5px;
+}
 
 /* Communication *
  * ------------- */

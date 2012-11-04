@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="{{ DEFAULT_LANG }}">
+<head>
+        {% block head %}
+        <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="{{ SITEURL }}/theme/css/{{ CSS_FILE }}" type="text/css" />
+		<link href="{{ SITEURL }}/theme/images/favicon.ico" rel="shortcut icon">
+        
+        <meta name="description" content="{% block description %}{{ SITEDESCRIPTION }}{% endblock description %}" lang="fr" xml:lang="fr"  xml:lang="fr" />
+        
+            {% block script %}{% endblock script %}
+        {% endblock head %}
+</head>
+
+<body id="index" class="home {% block class %}{% endblock class %}">
+<div class="container">
+
+	<div class="row">
+        <div id="header" class="body span12">
+            <a href="{{ SITEURL }}/index.html" alt="accueil">
+				<img src="{{ SITEURL }}/theme/images/logo-cdl2012.png" class="align-center" alt="Logo capitole du libre" /></a>
+                <h1 class="hidden"><a href="{{ SITEURL }}">{{ SITENAME }} <strong>{{ SITESUBTITLE }}</strong></a></h1>
+            <p class="hidden">24-25 novembre 2012</p>
+            <p class="hidden">ENSEEIHT, Toulouse</p>
+        </div><!-- /#banner -->
+    </div>
+    <div class="navbar">
+        <div class="navbar-inner">
+            <div class="container">
+        <nav id="menu">
+            <a href="{{ SITEURL }}/index.html" class="brand">Capitole du Libre 2012</a>
+        </nav><!-- /#menu -->
+        </div>
+       </div>
+      </div>
+      
+	<div id="main" class="row">
+        <div id="content">
+        {% block content %}
+        {% endblock %}
+        </div>
+        
+    </div><!-- end #main -->
+    
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard pull-left">
+					Pour tout renseignement : <a class="url org" href="mailto:contact@toulibre.org">contactez <span class="org">Toulibre</span></a>
+                </address>
+                 - <a href="{{ SITEURL }}/mentions-legales-et-credits.html">Mentions légales</a>
+                <p class="pull-right"><em>Proudly powered by <a href="http://docs.notmyidea.org/alexis/pelican/">pelican</a>,
+                and obviously <a href="http://python.org">python</a>!</em></p>
+        </footer><!-- /#contentinfo -->
+        
+        
+        <script type="text/javascript" src="{{ SITEURL }}/theme/js/jquery.js"></script>  
+        <script type="text/javascript" src="{{ SITEURL }}/theme/js/bootstrap-dropdown.js"></script>
+        <script type="text/javascript" src="{{ SITEURL }}/theme/js/bootstrap-tab.js"></script>
+</body>
+</html>

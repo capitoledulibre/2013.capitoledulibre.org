@@ -3,7 +3,6 @@
 
 AUTHOR = u"Toulibre"
 SITENAME = u"Capitole du Libre"
-#~ SITEURL = 'http://www.capitoledulibre.org/2012'
 SITEURL = 'http://localhost:8000'
 SITEDESCRIPTION = u'L\'événement autour de Logiciel Libre à Toulouse'
 THEME = 'cdltheme-2012'
@@ -57,10 +56,10 @@ SOCIAL = (
 TWITTER_USERNAME = 'Toulibreorg'
 
 DEFAULT_PAGINATION = 4
-
+SUMMARY_MAX_LENGTH = 50
 
 # static paths will be copied under the same name
 STATIC_PATHS = ["files","logos","photos","icons",] 
 RELATIVE_URLS = False
 
-DIRECT_TEMPLATE = ('index', 'tags', 'categories', 'archives')
+DIRECT_TEMPLATES = ('index', 'blog', 'tags', 'categories', 'archives', 'map')
