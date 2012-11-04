@@ -367,12 +367,15 @@ Mini-conférence de 18h50 à 19h10.
 
 .. _conf-framazic:
 
+"Framazic, et si on changeait la musique ?", *Framartin*
+---------------------------------------------------------------
+
 Avez-vous déjà téléchargé illégalement de la musique sur Internet ?
 Feriez-vous partie de cette bande de vilains pirates qui pillent les
 gentils artistes ? Savez-vous qu'à chaque visite sur The Pirate Bay,
 un musicien meurt dans le monde ? Telles sont les questions qui
 reviennent sans cesse dans les débats autour du partage d'œuvres
-cultuelles sur Internet.
+culturelles sur Internet.
 
 Alors que même la Hadopi a reconnu dans un rapport que ceux qui
 téléchargent illégalement sont ceux qui achètent le plus de musique,
