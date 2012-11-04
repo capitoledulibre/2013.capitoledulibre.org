@@ -61,7 +61,7 @@ Illustrée par des logiciels libres, cette intervention sera l'occasion d'un voy
 
 .. class:: confhour
 
-Conférence de 16h à 17h.
+Malheureusement cette conférence est annulée. Nous vous remercions de votre compréhension.
 
 .. _conf-moteur-rendu:
 

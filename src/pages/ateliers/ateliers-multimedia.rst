@@ -73,12 +73,7 @@ Assembler des sons comme un puzzle, expérimenter des traitements et en dévelop
 
 .. class:: confhour
 
-Atelier de 14h à 17h, gratuit, sur inscription.
-
-.. class:: confhour
-
-Inscription nécessaire à l'adresse
-`<http://toulibre.org/capitoledulibre2012:atelier-mao>`_.
+Malheureusement cet atelier est annulé. Nous vous remercions de votre compréhension.
 
 .. _atelier-archi-blender:
 

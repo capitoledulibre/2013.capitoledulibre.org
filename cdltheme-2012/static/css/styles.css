@@ -330,6 +330,10 @@ table.programm {
 table.programm .horaires {
 	width: 70px;
 }
+table.programm .cancelled del,
+#main table.programm .cancelled del a {
+    color: #AAA;
+} 
 
 table.programm td {
     text-align: center;
