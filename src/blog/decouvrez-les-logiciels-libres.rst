@@ -14,8 +14,8 @@ Avant d'installer un système libre complet sur votre ordinateur, vous voudrez s
 
 Si vous souhaitez aller plus loin et installer Ubuntu sur votre ordinateur, vous trouverez de l'aide pour le faire avec un des bénévoles de l'`install Party`_ samedi 24 et dimanche 25 novembre.
 
-.. _`"Les logiciels libres c'est bien mais c'est trop compliqué pour moi"`: /conferences-grand-public-samedi-24-novembre.html#conf-framasoft
+.. _`"Les logiciels libres c'est bien mais c'est trop compliqué pour moi"`: http://www.capitoledulibre.org/2012/conferences-grand-public-samedi-24-novembre.html#conf-framasoft
 .. _Framasoft: http://framasoft.org
-.. _`présentations de l'installation et l'utilisation d'Ubuntu`: /ubuntu-party-samedi-24-novembre.html#conf-ubuntu
-.. _`install Party`: /ubuntu-party-samedi-24-novembre.html#installparty
-.. _`atelier pratique`: /ubuntu-party-dimanche-25-novembre.html#atelier-ubuntu
+.. _`présentations de l'installation et l'utilisation d'Ubuntu`: http://www.capitoledulibre.org/2012/ubuntu-party-samedi-24-novembre.html#conf-ubuntu
+.. _`install Party`: http://www.capitoledulibre.org/2012/ubuntu-party-samedi-24-novembre.html#installparty
+.. _`atelier pratique`: http://www.capitoledulibre.org/2012/ubuntu-party-dimanche-25-novembre.html#atelier-ubuntu
