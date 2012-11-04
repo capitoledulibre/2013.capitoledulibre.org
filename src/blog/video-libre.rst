@@ -3,6 +3,7 @@ Le libre en vidéo !
 ==========================
 
 :status: draft
+:category: conférences
 
 Le thème de la vidéo est largement abordé au Capitole du Libre au travers des conférences du **samedi 24 novembre** :
 

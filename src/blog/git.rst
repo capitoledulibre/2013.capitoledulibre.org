@@ -3,6 +3,7 @@ Git
 ===
 
 :status: draft
+:category: conférences
 
 S'il y a bien un troll récurrent entre développeurs tous langages confondus, c'est bien les outils de version. à svn ont succédé plusieurs outils décentralisés (git, mercurial, bazaar...). 
 
