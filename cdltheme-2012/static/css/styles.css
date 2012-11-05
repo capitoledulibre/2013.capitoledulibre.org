@@ -407,11 +407,10 @@ ul.biography {
 /* Programm mobile *
  * --------------- */
 
-#plan-wrapper {
-/*
+.room-wrapper {
     position: relative;
-*/
 }
+
 .home .entry {
     background-color: none;
     margin-bottom:0px;
