@@ -407,10 +407,22 @@ ul.biography {
 /* Programm mobile *
  * --------------- */
 
-.room-wrapper {
-    position: relative;
+.mobile-map #content {
+    padding-top: 0;
 }
-
+.plan-wrapper {
+/*
+    position: relative;
+*/
+}
+.room-wrapper img#plan {
+}
+.room {
+    position: absolute;
+    border: 3px solid #e4401f;
+    border-radius: 5px;
+    z-index: 5;
+}
 .home .entry {
     background-color: none;
     margin-bottom:0px;
@@ -474,11 +486,6 @@ ul.biography {
     font-weight: bold;
 }
 
-.room {
-    position: absolute;
-    border: 3px solid #e4401f;
-    border-radius: 5px;
-}
 
 /* Communication *
  * ------------- */
