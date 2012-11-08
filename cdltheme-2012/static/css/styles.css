@@ -410,18 +410,11 @@ ul.biography {
 .mobile-map #content {
     padding-top: 0;
 }
-.plan-wrapper {
-/*
-    position: relative;
-*/
-}
-.room-wrapper img#plan {
-}
 .room {
     position: absolute;
     border: 3px solid #e4401f;
     border-radius: 5px;
-    z-index: 5;
+    display: none;
 }
 .home .entry {
     background-color: none;
