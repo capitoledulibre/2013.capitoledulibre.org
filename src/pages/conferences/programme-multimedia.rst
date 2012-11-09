@@ -50,14 +50,17 @@ MuseScore est le logiciel libre multiplateforme de création de partitions de mu
 
 Conférence de 15h à 16h.
 
-.. _conf-mao:
+.. _conf-html5:
 
-Une brève histoire des musiques électroniques et ... Linux, *François Girault*
--------------------------------------------------------------------------------
+"HTML5 et ses amis", *Paul Rouget, Mozilla*
+-------------------------------------------
 
-Illustrée par des logiciels libres, cette intervention sera l'occasion d'un voyage dans le temps, visant la compréhension de l'outillage technologique actuel par l'évocation de ses origines et des multiples révolutions traversées.
+HTML5 est partout. Tout le monde en parle. Mais exploite-t-on toutes
+les possibilités offertes par cette technologie? Que nous attend-il
+demain?  Qu'est-ce que les navigateurs web sont en train de
+construire?
 
-.. include:: ../../intervenants/francois-girault.rst
+.. include:: ../../intervenants/paul-rouget.rst
 
 .. class:: confhour
 

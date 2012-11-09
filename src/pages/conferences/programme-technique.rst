@@ -6,17 +6,20 @@ Conférences techniques, samedi 24 novembre
     :depth: 1
     :backlinks: none
 
-.. _conf-html5:
+.. _conf-pile-graphique:
 
-"HTML5 et ses amis", *Paul Rouget, Mozilla*
--------------------------------------------
+Introduction aux GPUs et à la pile graphique Linux, *Martin Peres*
+------------------------------------------------------------------
 
-HTML5 est partout. Tout le monde en parle. Mais exploite-t-on toutes
-les possibilités offertes par cette technologie? Que nous attend-il
-demain?  Qu'est-ce que les navigateurs web sont en train de
-construire?
+Cette présentation vise à expliquer aux plus novices l'architecture
+matérielle et logicielle qui permet à Gnome ou KDE de s'afficher à
+l'écran. Une rapide comparaison entre Wayland et X11 sera ensuite
+faite avec un point particulier sur la sécurité.  À l'issue de cette
+conférence, il devrait vous être possible de comprendre ce qu'est un
+GPU et le rôle de chaque composant ainsi que comment interagir avec
+celui-ci.
 
-.. include:: ../../intervenants/paul-rouget.rst
+.. include:: ../../intervenants/martin-peres.rst
 
 .. class:: confhour
 
