@@ -86,6 +86,7 @@ h2 em {
 }
 li {
   font-size: 100%;
+  margin-bottom: 0.5em;
 }
 ul ul {
 	list-style-type: circle;
@@ -119,7 +120,11 @@ img.align-left {
 .align-right {
   text-align: right;
 }
-
+img.align-right {
+  float: right;
+  clear: right;
+  margin: 0 10px 10px 0;
+}
 table, th, td {
   vertical-align: top;
   border: 1px solid #000;
@@ -401,9 +406,6 @@ ul.biography {
     list-style-image: url('../images/bullet.png');
 }
 
-.contents ul li {
-    margin-bottom: 0.5em;
-}
 /* Programm mobile *
  * --------------- */
 
