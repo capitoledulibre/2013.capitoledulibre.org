@@ -158,7 +158,7 @@ L'entrée est libre et gratuite.
         </tr>
         <tr class="odd">
         <th>19h30<br/>-<br/>20h30</th>
-        <td colspan="9">Conférence de clôture<br/><b>Jérémie Zimmermann, co-fondateur et animateur de la Quadrature du Net</b></td>
+        <td colspan="9">Conférence de clôture: <b>Improvisation sur l'actualité d'Internet, de la défense des libertés fondamentales sur Internet, de la vie, l'univers et tout le reste</b><br/><b>Jérémie Zimmermann, co-fondateur et animateur de la Quadrature du Net</b></td>
         </tr>
         <tr class="odd">
         <th>20h30<br/>-<br/>21h30</th>
