@@ -81,6 +81,28 @@ Atelier de 10h à 13h, gratuit, sur inscription.
 Inscription nécessaire à l'adresse
 `<http://toulibre.org/capitoledulibre2012:atelier-openstack>`_.
 
+.. _conf-pile-graphique:
+
+Plongeons dans le pipeline de rendu graphique, et questions/réponses sur la pile graphique, Martin Peres
+--------------------------------------------------------------------------------------------------------
+
+Cette présentation vise à mieux comprendre l'interconnexion entre les
+différents composants de la pile graphique. Nous étudierons rapidement
+le pipeline OpenGL puis le pipeline de rendu des des applications
+suivantes: Application graphique Qt/GTK, Jeu vidéo, VLC.  À l'issue de
+cette conférence, il devrait vous être possible de connaître les
+différents protocoles utilisés pour le rendu graphique.
+
+Enfin, en fin de présentation, l'orateur réservera un long moment pour
+répondre aux questions du public concernant le fonctionnement de la
+pile graphique Linux au sens large.
+
+.. include:: ../../intervenants/martin-peres.rst
+
+.. class:: confhour
+
+Conférence de 10h à 13h, pas d'inscription nécessaire.
+
 .. _atelier-git-perfectionnement:
 
 "Se perfectionner avec Git", Sébastien Douche
