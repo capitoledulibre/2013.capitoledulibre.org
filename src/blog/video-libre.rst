@@ -4,6 +4,7 @@ Le libre en vidéo !
 
 :date: 2012-11-09
 :category: conférences
+:summary: Le thème de la vidéo est largement abordé au Capitole du Libre. Des outils de montage vidéo à un système de projection libres en passant par **VideoLAN**, il y a de quoi faire. Pas moins de quatre conférences le **samedi 24 novembre** et un atelier pratique le **dimanche de 14h à 17h**.
 
 Le thème de la vidéo est largement abordé au Capitole du Libre. Des outils de montage vidéo à un système de projection libres en passant par **VideoLAN**, il y a de quoi faire. 
 
