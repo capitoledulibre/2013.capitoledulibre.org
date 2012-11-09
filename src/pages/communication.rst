@@ -76,3 +76,13 @@ Kit de communication
   :width: 200px
   :alt: bannière du Capitole du Libre
   :target: http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/graphisme/banniere-squared200.png
+
+Ils parlent de nous
+======================
+
+* `Capitole du Libre 2012, un plateau « Multimédia » d’exception! <http://www.linuxgraphic.org/wp/capitole-du-libre-2012-un-plateau-multimedia-dexception/>`_ [consulté 9 novembre 2012] | Linuxgraphic 
+* `Capitole du Libre - 24 et 25 novembre 2012 - Toulouse <https://www.projet-plume.org/breve/capitole-du-libre-24-et-25-novembre-2012-toulouse>`_  | PLUME [consulté 9 novembre 2012]
+* `Capitole du Libre : l’événement consacré aux logiciels libres <http://www.toulouse-metropole.fr/services-proximite/agenda/-/agenda/event/347734>`_  - Toulouse Métropole [consulté 9 novembre 2012]
+* `Interventions de LDN au Capitole du Libre : Lorraine Data Network <http://ldn-fai.net/671/>`_ [consulté 9 novembre 2012]
+* `Le Capitole du libre 2012 <http://www.cinemas-utopia.org/U-blog/toulouse/index.php?post/2012/11/02/Le-Capitole-du-libre-2012>`_ - U-BLOG 31 [consulté 9 novembre 2012]
+
