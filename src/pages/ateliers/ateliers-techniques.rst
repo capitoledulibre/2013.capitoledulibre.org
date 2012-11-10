@@ -97,6 +97,11 @@ Enfin, en fin de présentation, l'orateur réservera un long moment pour
 répondre aux questions du public concernant le fonctionnement de la
 pile graphique Linux au sens large.
 
+À noter que cette conférence fait suite à la conférence de Martin
+Peres le samedi de 14h à 15h. Il est recommandé d'avoir assisté à
+cette conférence introductive pour mieux comprendre les éléments de
+cette seconde conférence, plus appronfondie, donnée par Martin.
+
 .. include:: ../../intervenants/martin-peres.rst
 
 .. class:: confhour

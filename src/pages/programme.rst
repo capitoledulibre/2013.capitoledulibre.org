@@ -118,7 +118,7 @@ L'entrée est libre et gratuite.
         </tr>
         <tr class="odd">
             <th>17h<br/>-<br/>17h30</th>
-        <td colspan="9">Pause</td>
+        <td colspan="9"><b>Pause</b><br/>Dédicace du livre <a href="http://framabook.org/smartarded-le-cycle-des-noenautes-i">#Smartarded — Le cycle des NoéNautes</a> par son auteur, Pouhiou. Le livre est diffusé sous licence libre CC0 (domaine public volontaire)</td>
     </tr>
     <tr>
         <th>17h30<br/>-<br/>18h30</th>
