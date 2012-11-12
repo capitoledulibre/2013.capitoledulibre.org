@@ -55,7 +55,7 @@ L'entrée est libre et gratuite.
         <td></td>
         <td></td>
         <td><a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a></td>
-        <td>13h30<br/><a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html">Conférences</a></td>
+        <td></td>
         <td></td>
     </tr>
     <tr class="odd">
