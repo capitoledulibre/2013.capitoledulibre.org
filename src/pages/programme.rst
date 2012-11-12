@@ -80,7 +80,7 @@ L'entrée est libre et gratuite.
     </tr>
     <tr>
         <th>15h<br/>-<br/>16h</th>
-        <td><a href="conferences-grand-public-samedi-24-novembre.html#conf-educ-libre">Le libre dans l'éducation. Ses enjeux</a><br/>Jean-Pierre Archambault, CNDP-CDRP</td>
+        <td><a href="conferences-grand-public-samedi-24-novembre.html#conf-educ-libre">Le libre dans l'éducation. Ses enjeux</a><br/>Jean-Pierre Archambault, EPI</td>
         <td><a href="conferences-techniques-samedi-24-novembre.html#conf-tetaneutral">Internet haut débit citoyen en zone blanche ADSL&nbsp;: l'expérience de l'association tetaneutral.net</a><br/>Laurent Guerby, Tetaneutral.net</td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-blender">Conférence Blender</a><br/>François Grassard</td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-musecore">MuseScore&nbsp;: Accès libre aux partitions, code source de la musique</a><br>Nicolas Froment</td>
