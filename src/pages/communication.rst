@@ -85,4 +85,5 @@ Ils parlent de nous
 * `Capitole du Libre : l’événement consacré aux logiciels libres <http://www.toulouse-metropole.fr/services-proximite/agenda/-/agenda/event/347734>`_  - Toulouse Métropole [consulté 9 novembre 2012]
 * `Interventions de LDN au Capitole du Libre : Lorraine Data Network <http://ldn-fai.net/671/>`_ [consulté 9 novembre 2012]
 * `Le Capitole du libre 2012 <http://www.cinemas-utopia.org/U-blog/toulouse/index.php?post/2012/11/02/Le-Capitole-du-libre-2012>`_ - U-BLOG 31 [consulté 9 novembre 2012]
+* `Capitole du Libre : l’événement consacré aux logiciels libres <http://franckmen.tumblr.com/post/34984975120/capitole-du-libre-levenement-consacre-aux>`_ [consulté le 13 novembre 2012] | Tumblr de Franck Menigou
 
