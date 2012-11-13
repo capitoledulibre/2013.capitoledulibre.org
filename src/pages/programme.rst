@@ -101,7 +101,7 @@ L'entrée est libre et gratuite.
         <th>16h<br/>-<br/>17h</th>
         <td><a href="conferences-grand-public-samedi-24-novembre.html#conf-wikimedia">Wikipédia, Wikimédia, et après ?</a><br/>Adrienne Charmet-Alix, Wikimedia France</td>
         <td><a href="conferences-techniques-samedi-24-novembre.html#conf-freebox">La Freebox, un ensemble subtil de logiciels libres et propriétaires</a><br/>Florian Fainelli</td>
-        <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-html5"></a>HTML5 et ses amis<br/>Paul Rouget, Mozilla</td>
+        <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-html5">HTML5 et ses amis</a><br/>Paul Rouget, Mozilla</td>
         <td><a href="conferences-multimedia-samedi-24-novembre.html#conf-moteur-rendu">Les moteurs de rendu libres&nbsp;: vers toujours plus de réalisme ?</a><br/>Henri Hebeisen</td>
         <td>
           16h<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-opensource">L'Open Source et les éditeurs de logiciel&nbsp;: avantage compétitif agressif ou développement durable?</a><br/><i>Gaël Blondelle</i><br/><br/>

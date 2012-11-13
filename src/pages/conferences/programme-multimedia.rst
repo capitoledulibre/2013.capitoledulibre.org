@@ -64,7 +64,7 @@ construire?
 
 .. class:: confhour
 
-Malheureusement cette conférence est annulée. Nous vous remercions de votre compréhension.
+Conférence de 16h à 17h.
 
 .. _conf-moteur-rendu:
 
