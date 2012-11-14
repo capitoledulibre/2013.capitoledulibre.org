@@ -50,16 +50,24 @@
         
         <div id="sidebar" class="span3">
             <div class="well ">
-            <section id="orga">
-                <h2>Organisateurs</h2>
-                <ul class="logos thumbnails row-fluid">
-                    <li class="span6"><a class="thumbnail" href="http://www.toulibre.org/" target="_blank">
-                        <img src="{{ SITEURL }}/static/logos/toulibre.png" width="155" height="45" alt="logo Toulibre"></a></li>
-                    <li class="span6"><a class="thumbnail" href="http://www.ubuntu-fr.org/" target="_blank">
-                        <img src="{{ SITEURL }}/static/logos/ubuntu-fr.png" width="155" height="46" alt="logo ubuntu-fr"></a></li>
-                </ul>
+            <section id="communiquer">
+                <h2>Communiquez !</h2>
+                
+            {% if SOCIAL %}
+                <div class="nav social-links">
+                    <a id="rss" href="{{ FEED_DOMAIN }}/{{ FEED_ATOM }}" type="application/atom+xml" rel="alternate">atom feed</a>
+                    {% if FEED_RSS %}
+                    <a id="rss" href="{{ FEED_DOMAIN }}/{{ FEED_RSS }}" type="application/rss+xml" rel="alternate">rss feed</a>
+                    {% endif %}
 
+                {% for name, id, link in SOCIAL %}
+                    <a id='{{ id }}' href="{{ link }}" target="_blank" >{{ name }}</a>
+                {% endfor %}
+                </div>
+            {% endif %}
+        
             </section>
+            
            
             <section id="sponsors">
                 <h2>Sponsors</h2>
@@ -120,23 +128,15 @@
                 <h3 class="hide">Devenez Sponsors</h3>
                 <p><a class='btn btn-info' href="{{ SITEURL }}/static/files/capitole-du-libre-sponsoring.pdf" title="Dossier de sponsoring du Capitole du libre" alt="Dossier de sponsoring du Capitole du libre">Téléchargez le dossier de sponsoring</a></p>
             </section>
-            
-            <section id="communiquer">
-                <h2>Communiquez !</h2>
-                
-            {% if SOCIAL %}
-                <div class="nav social-links">
-                    <a id="rss" href="{{ FEED_DOMAIN }}/{{ FEED_ATOM }}" type="application/atom+xml" rel="alternate">atom feed</a>
-                    {% if FEED_RSS %}
-                    <a id="rss" href="{{ FEED_DOMAIN }}/{{ FEED_RSS }}" type="application/rss+xml" rel="alternate">rss feed</a>
-                    {% endif %}
+            <section id="orga">
+                <h2>Organisateurs</h2>
+                <ul class="logos thumbnails row-fluid">
+                    <li class="span6"><a class="thumbnail" href="http://www.toulibre.org/" target="_blank">
+                        <img src="{{ SITEURL }}/static/logos/toulibre.png" width="155" height="45" alt="logo Toulibre"></a></li>
+                    <li class="span6"><a class="thumbnail" href="http://www.ubuntu-fr.org/" target="_blank">
+                        <img src="{{ SITEURL }}/static/logos/ubuntu-fr.png" width="155" height="46" alt="logo ubuntu-fr"></a></li>
+                </ul>
 
-                {% for name, id, link in SOCIAL %}
-                    <a id='{{ id }}' href="{{ link }}" target="_blank" >{{ name }}</a>
-                {% endfor %}
-                </div>
-            {% endif %}
-        
             </section>
             
             <section id="editions-precedentes">
