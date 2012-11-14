@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+
+    {% block head %}
+	<title>Capitole du Libre - Questionnaire</title>
+	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+    
+    <meta http-equiv="refresh" content="0; URL=http://toulibre.limequery.org/17613/lang-fr">
+        <link rel="stylesheet" href="{{ SITEURL }}/theme/css/{{ CSS_FILE }}" type="text/css" />
+		<link href="{{ SITEURL }}/theme/images/favicon.ico" rel="shortcut icon">
+        
+        <meta name="description" content="{% block description %}{{ SITEDESCRIPTION }}{% endblock description %}" lang="fr" xml:lang="fr"  xml:lang="fr" />
+        
+    {% endblock head %}
+
+    {% block content %}
+        <p>vous allez être redirigé vers le questionnaire en ligne du Capitole du Libre. Si cela ne fonctionne pas, <a href="http://toulibre.limequery.org/17613/lang-fr" alt="Questionnaire">cliquez ici</a>.</p>
+    {% endblock %}
+
+</html>

@@ -62,4 +62,4 @@ SUMMARY_MAX_LENGTH = 50
 STATIC_PATHS = ["files","logos","photos","icons",] 
 RELATIVE_URLS = False
 
-DIRECT_TEMPLATES = ('index', 'blog', 'tags', 'categories', 'archives', 'map')
+DIRECT_TEMPLATES = ('index', 'blog', 'tags', 'categories', 'archives', 'map', 'questionnaire')
