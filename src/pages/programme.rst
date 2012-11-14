@@ -190,7 +190,7 @@ inscription préalable, gratuite également.
     </tr>
     <tr>
         <th>Salle</th>
-	<th>C001</th>
+	<th>C006</th>
 	<th>C101</th>
 	<th>A001</th>
 	<th>A002</th>
