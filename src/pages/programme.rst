@@ -4,8 +4,12 @@ Programme
 
 Retrouvez en un seul tableau les conférences et ateliers du Capitole du Libre, du DjangoCon et de l'Akademy-fr. Une install party est proposée pendant les deux jours.
 
-Samedi 24 novembre
-==================
+.. contents:: Accès direct
+    :depth: 2
+    :backlinks: none
+
+Samedi 24 novembre : conférences
+=================================
 
 L'entrée est libre et gratuite.
 
@@ -170,8 +174,8 @@ L'entrée est libre et gratuite.
     </tr>
     </table>
 
-Dimanche 25 novembre
-====================
+Dimanche 25 novembre : ateliers
+================================
 
 L'entrée est libre est gratuite, les ateliers nécessitent une
 inscription préalable, gratuite également.
