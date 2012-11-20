@@ -7,11 +7,10 @@ Le Libre, un enjeu pour l'entreprise
 :category: conférences
 :tags: Logiciel Libre, Open Source, entreprise, spatial, génétique, traitement image
 
-Non, le libre et l'entreprise ne sont pas incompatibles. Logiciel Libre est parfois même synonyme d'économie, d'efficacité et de retour sur investissement. 
+Oui, le libre et l'entreprise sont compatibles. Logiciel Libre est parfois même synonyme d'économie, d'efficacité et de retour sur investissement. 
 
-À l'heure actuelle de plus en plus d'exemples de logiciels développés par le privé pour des besoins métiers sont Open Source.
-
-De même des logiciels développés pour des applications spécifiques telles que la génétique sont 
+À l'heure actuelle de plus en plus d'exemples de logiciels développés par le privé pour des besoins métiers sont Open Source. 
+De même des logiciels utilisés pour des applications spécifiques telles que la génétique sont développés des laboratoires de recherche sous licence libre.
 
 Vous en aurez l'illustration au Capitole du Libre au travers de plusieurs conférences durant l'après-midi. D'abord quatre mini-conférences entre 15h et 16h20 :
 
