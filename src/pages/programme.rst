@@ -18,10 +18,10 @@ L'entrée est libre et gratuite.
     <table class="programm">
     <tr>
         <th class="horaires"></th>
-        <th class="grand-public">Grand public</th>
-        <th class="technique">Technique</th>
-        <th colspan=2 class="multimedia">Multimedia</th>
-        <th>Mini conférences</th>
+        <th class="grand-public"><a href="conferences-grand-public-samedi-24-novembre.html" alt="Conférences grand public">Grand public</a></th>
+        <th class="technique"><a href="conferences-techniques-samedi-24-novembre.html" alt="Conférences techniques">Technique</a></th>
+        <th colspan=2 class="multimedia"><a href="conferences-multimedia-samedi-24-novembre.html#" alt="Conférences multimedia">Multimedia</a></th>
+        <th><a href="conferences-eclair-samedi-24-novembre.html" alt="mini-conférences">Mini conférences</a></th>
         <th colspan=2 class="ubuntuparty">Ubuntu Party</th>
         <th>DjangoCon</th>
         <th>Akademy-fr</th>
@@ -185,9 +185,9 @@ inscription préalable, gratuite également.
     <table class="programm">
     <tr>
         <th class="horaires"></th>
-        <th class="grand-public" colspan="2">Grand public</th>
-        <th class="technique" colspan="3">Technique</th>
-        <th class="multimedia" colspan="3">Multimedia</th>
+        <th class="grand-public" colspan="2"><a href="ateliers-grand-public-dimanche-25-novembre.html" alt="ateliers grand public">Grand public</th>
+        <th class="technique" colspan="3"><a href="ateliers-techniques-dimanche-25-novembre.html" alt="ateliers techniques">Technique</th>
+        <th class="multimedia" colspan="3"><a href="ateliers-multimedia-dimanche-25-novembre.html" alt="atelier multimedia">Multimedia</th>
         <th class="ubuntuparty" colspan="2">Ubuntu Party</th>
         <th class="djangocon">DjangoCon</th>
         <th class="akademyfr" colspan="3">Akademy-fr</th>
