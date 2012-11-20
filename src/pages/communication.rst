@@ -80,7 +80,7 @@ Kit de communication
 Ils parlent de nous
 ======================
 
-* `Le Capitole du Libre 2012 <https://reps.mozilla.org/e/le-capitole-du-libre/>`_ (en) - Mozilla reps [consulté 19 novembre 2012]
+* `Mozilla - Le Capitole du Libre 2012 <https://reps.mozilla.org/e/le-capitole-du-libre/>`_ (en) - Mozilla reps [consulté 19 novembre 2012]
 * `2ÈME ÉDITION DE "CAPITOLE DU LIBRE" SUR LES LOGICIELS LIBRES <http://www.digitalplace.fr/fr/?task=item&item_id=975>`_ - Digital Place - 15/11/2012 [consulté 19 novembre 2012]
 * `Mozilla au Capitole du Libre à Toulouse <http://www.theochevalier.fr/index.php?page=6&article=8&lang=fr>`_ - Blog de Théo Chevalier - 14/11/2012 [consulté 19 novembre 2012]
 * `Capitole du Libre : l’événement consacré aux logiciels libres <http://www.toulouse-metropole.fr/services-proximite/agenda/-/agenda/event/347734>`_  - Toulouse Métropole [consulté 9 novembre 2012]
