@@ -411,6 +411,10 @@ ul.biography {
 
 .mobile-map #content {
     padding-top: 0;
+    position: relative;
+}
+img#plan {
+    margin-left: 20px;
 }
 .room {
     position: absolute;

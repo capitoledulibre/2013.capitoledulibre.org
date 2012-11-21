@@ -1,7 +1,7 @@
 
 {% extends "base-mobile.html" %}
 
-{% block title %}{{ SITENAME }} - Direct{% endblock title %}
+{% block title %}{{ SITENAME }} - Programme en cours{% endblock title %}
 {% block class %}mobile-map{% endblock class %}
 {% block script %}
 <script src="{{ SITEURL }}/theme/js/jquery-1.8.2.min.js"></script>
@@ -138,12 +138,11 @@
     <h3 class="entry-header">11h30 - 12h30</h3>
     <div class="entry-content">
       <div class="entry-body">
-        <h4 class="body-header">Salle C103 / Ubuntu Party&nbsp;:&nbsp;
-            <a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a>
-        </h4>
-        <h4 class="body-header">Salle A203 / DjangoCon&nbsp;:&nbsp;
-            <a href="http://rencontres.django-fr.org/2012/tolosa/lightning-talks.html">Lightning talks</a>
-        </h4>
+        <h4 class="body-header">Salle C103 / Ubuntu Party&nbsp;:&nbsp;</h4>
+            <p><a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a></p>
+        <h4 class="body-header">Salle A203 / DjangoCon&nbsp;:&nbsp;</h4>
+            <p><a href="http://rencontres.django-fr.org/2012/tolosa/lightning-talks.html">Lightning talks</a>
+
       </div>
     </div>
   </div>
@@ -152,12 +151,12 @@
     <h3 class="entry-header">12h30 - 14h00</h3>
     <div class="entry-content">
       <div class="entry-body">
-          <h4 class="body-header">Salle C103 / Ubuntu Party&nbsp;:&nbsp;
-            <a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a>
-          </h4>
-          <h4 class="body-header">Salle A203 / DjangoCon&nbsp;:&nbsp;
-            <a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html">Conférences</a>
-          </h4>
+          <h4 class="body-header">Salle C103 / Ubuntu Party&nbsp;:&nbsp;</h4>
+            <p><a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a>
+  
+          <h4 class="body-header">Salle A203 / DjangoCon&nbsp;:&nbsp;</h4>
+            <p><a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html">Conférences</a>
+  
       </div>
     </div>
   </div>
@@ -167,40 +166,44 @@
     <div class="entry-content">
       <div class="entry-body">
 
-        <h4 class="body-header">Salle A001 / Grand public&nbsp;:&nbsp;
-          <a href="conferences-grand-public-samedi-24-novembre.html#conf-framasoft">Les logiciels libres c'est bien mais c'est trop compliqué pour moi</a> par Alexis Kauffmann, Framasoft
-        </h4>
+        <h4 class="body-header">Salle A001 / Grand public&nbsp;:&nbsp;</h4>
+          <p><a href="conferences-grand-public-samedi-24-novembre.html#conf-framasoft">Les logiciels libres c'est bien mais c'est trop compliqué pour moi</a> par Alexis Kauffmann, Framasoft
 
-        <h4 class="body-header">Salle A002 / Technique&nbsp;:&nbsp;
-          <a href="conferences-techniques-samedi-24-novembre.html#conf-html5">HTML5 et ses amis</a> par Paul Rouget, Mozilla
-        </h4>
 
-        <h4 class="body-header">Salle A201 / Multimedia&nbsp;:&nbsp;
-          <a href="conferences-multimedia-samedi-24-novembre.html#conf-krita">Krita 2.5&nbsp;: Découverte et fonctionnalités</a> par David Revoy</a>
-        </h4>
+        <h4 class="body-header">Salle A002 / Technique&nbsp;:&nbsp;</h4>
+          <p><a href="conferences-techniques-samedi-24-novembre.html#conf-html5">HTML5 et ses amis</a> par Paul Rouget, Mozilla
 
-        <h4 class="body-header">Salle C002 / Mini conférences&nbsp;:&nbsp;<br/>
-          &nbsp;&nbsp;&nbsp;14h00&nbsp;:&nbsp;<a href="conferences-eclair-samedi-24-novembre.html#conf-firewall">Réaliser votre firewall, sans aucune connaissance d'iptables</a><br/>
-          &nbsp;&nbsp;&nbsp;14h20&nbsp;:&nbsp;<a href="conferences-eclair-samedi-24-novembre.html#conf-po4a">po4a, outil de traduction pour la documentation</a><br/>
-          &nbsp;&nbsp;&nbsp;14h40&nbsp;:&nbsp;<a href="conferences-eclair-samedi-24-novembre.html#conf-scapy">Scapy&nbsp;: Easy Packet Handling</a>
-        </h4>
 
-        <h4 class="body-header">Salle C101 / Ubuntu Party&nbsp;:&nbsp;
-          <a href="ubuntu-party-samedi-24-novembre.html#conf-ubuntu">Présentation "Installation et découverte d'Ubuntu"</a> par Fabien Adam
-        </h4>
+        <h4 class="body-header">Salle A201 / Multimedia&nbsp;:&nbsp;</h4>
+          <p><a href="conferences-multimedia-samedi-24-novembre.html#conf-krita">Krita 2.5&nbsp;: Découverte et fonctionnalités</a> par David Revoy</p>
 
-        <h4 class="body-header">Salle C103 / Ubuntu Party&nbsp;:&nbsp;
-          <a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a>
-        </h4>
 
-        <h4 class="body-header">Salle A203 / DjangoCon&nbsp;:&nbsp;<br/>
-          &nbsp;&nbsp;&nbsp;14h00&nbsp;:&nbsp;<a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html#c1">L'infatigable Poney</a> par Nicolas Ferrari<br/>
-          &nbsp;&nbsp;&nbsp;14h30&nbsp;:&nbsp;<a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html#c2">Retour d'expérience Django à Météo France</a> par Fabien Marty
-        </h4>
+        <h4 class="body-header">Salle C002 / Mini conférences&nbsp;:&nbsp;</h4>
+        <ul>
+          <li>14h&nbsp;:&nbsp;<a href="conferences-eclair-samedi-24-novembre.html#conf-firewall">Réaliser votre firewall, sans aucune connaissance d'iptables</a></li>
+          <li>14h20&nbsp;:&nbsp;<a href="conferences-eclair-samedi-24-novembre.html#conf-po4a">po4a, outil de traduction pour la documentation</a></li>
+          <li>14h40&nbsp;:&nbsp;<a href="conferences-eclair-samedi-24-novembre.html#conf-scapy">Scapy&nbsp;: Easy Packet Handling</a>
+        </ul>
 
-        <h4 class="body-header">Salle C102 / Akademy-fr&nbsp;:&nbsp;
-          <a href="http://toulibre.org/akademyfr#conf_communaute">KDE&nbsp;: Communauté, Démocratie et Marketing</a> par Kévin Ottens
-        </h4>
+
+        <h4 class="body-header">Salle C101 / Ubuntu Party&nbsp;:&nbsp;</h4>
+          <p><a href="ubuntu-party-samedi-24-novembre.html#conf-ubuntu">Présentation "Installation et découverte d'Ubuntu"</a> par Fabien Adam</p>
+
+
+        <h4 class="body-header">Salle C103 / Ubuntu Party&nbsp;:&nbsp;</h4>
+          <p><a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a></p>
+
+
+        <h4 class="body-header">Salle A203 / DjangoCon&nbsp;:&nbsp;</h4>
+        <ul>
+          <li>14h00&nbsp;:&nbsp;<a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html#c1">L'infatigable Poney</a> par Nicolas Ferrari</li>
+          <li>14h30&nbsp;:&nbsp;<a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html#c2">Retour d'expérience Django à Météo France</a> par Fabien Marty</li>
+        </ul>
+
+
+        <h4 class="body-header">Salle C102 / Akademy-fr&nbsp;:&nbsp;</h4>
+          <p><a href="http://toulibre.org/akademyfr#conf_communaute">KDE&nbsp;: Communauté, Démocratie et Marketing</a> par Kévin Ottens
+
 
       </div>
     </div>
@@ -211,35 +214,39 @@
     <div class="entry-content">
       <div class="entry-body">
 
-        <h4 class="body-header">Salle A001 / Grand public&nbsp;:&nbsp;
-          <a href="conferences-grand-public-samedi-24-novembre.html#conf-educ-libre">Le libre dans l'éducation. Ses enjeux</a> par Jean-Pierre Archambault, CNDP-CDRP
-        </h4>
-        <h4 class="body-header">Salle A002 / Technique&nbsp;:&nbsp;
-          <a href="conferences-techniques-samedi-24-novembre.html#conf-tetaneutral">Internet haut débit citoyen en zone blanche ADSL&nbsp;: l'expérience de l'association tetaneutral.net</a> par Laurent Guerby, Tetaneutral.net</h4>
-        <h4 class="body-header">Salle A201 / Multimedia&nbsp;:&nbsp;
-          <a href="conferences-multimedia-samedi-24-novembre.html#conf-blender">Conférence Blender</a> par FranÃ§ois Grassard
-        </h4>
-        <h4 class="body-header">Salle A202 / Multimedia&nbsp;:&nbsp;
-          <a href="conferences-multimedia-samedi-24-novembre.html#conf-musecore">MuseScore&nbsp;: Accès libre aux partitions, code source de la musique</a>par Nicolas Froment
-        </h4>
-        <h4 class="body-header">Salle C002 / Mini conférences&nbsp;:&nbsp;<br/>
-          &nbsp;&nbsp;&nbsp;15h00&nbsp;:&nbsp;<a href="conferences-eclair-samedi-24-novembre.html#conf-otb">OTB&nbsp;: Librairie de traitement d'images spatiales</a><br/>
-          &nbsp;&nbsp;&nbsp;15h20&nbsp;:&nbsp;<a href="conferences-eclair-samedi-24-novembre.html#conf-diogene">Diogène, logiciel libre de Biométrie et Génétique sous Linux</a><br/>
-          &nbsp;&nbsp;&nbsp;15h40&nbsp;:&nbsp;<a href="conferences-eclair-samedi-24-novembre.html#conf-orekit">Orekit, l'innovation libre comme pari industriel</a>
-        </h4>
-        <h4 class="body-header">Salle C101 / Ubuntu Party&nbsp;:&nbsp;
-          <a href="ubuntu-party-samedi-24-novembre.html#conf-ubuntu">Présentation "Installation et découverte d'Ubuntu"</a> par Fabien Adam
-        </h4>
-        <h4 class="body-header">Salle C103 / Ubuntu Party&nbsp;:&nbsp;
-          <a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a>
-        </h4>
-        <h4 class="body-header">Salle A203 / DjangoCon&nbsp;:&nbsp;<br/>
-          &nbsp;&nbsp;&nbsp;15h00&nbsp;:&nbsp;<a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html#c3">Introduction à Circus, process watcher en Python</a> par Alexis Métaireau<br/>
-          &nbsp;&nbsp;&nbsp;15h30&nbsp;:&nbsp;<a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html#c4">Hacker la démocratie avec le mémoire politique de la Quadrature du Net</a> par Laurent Peuch
-        </h4>
-        <h4 class="body-header">Salle C102 / Akademy-fr&nbsp;:&nbsp;
-          <a href="http://toulibre.org/akademyfr#conf_kdevelop">KDevelop&nbsp;: IDE Tout Terrain</a> par Lambert Clara
-        </h4>
+        <h4 class="body-header">Salle A001 / Grand public&nbsp;:&nbsp;</h4>
+          <p><a href="conferences-grand-public-samedi-24-novembre.html#conf-educ-libre">Le libre dans l'éducation. Ses enjeux</a> par Jean-Pierre Archambault, CNDP-CDRP</p>
+
+        <h4 class="body-header">Salle A002 / Technique&nbsp;:&nbsp;</h4>
+          <p><a href="conferences-techniques-samedi-24-novembre.html#conf-tetaneutral">Internet haut débit citoyen en zone blanche ADSL&nbsp;: l'expérience de l'association tetaneutral.net</a> par Laurent Guerby, Tetaneutral.net</p>
+        <h4 class="body-header">Salle A201 / Multimedia&nbsp;:&nbsp;</h4>
+          <p><a href="conferences-multimedia-samedi-24-novembre.html#conf-blender">Conférence Blender</a> par FranÃ§ois Grassard
+
+        <h4 class="body-header">Salle A202 / Multimedia&nbsp;:&nbsp;</h4>
+          <p><a href="conferences-multimedia-samedi-24-novembre.html#conf-musecore">MuseScore&nbsp;: Accès libre aux partitions, code source de la musique</a>par Nicolas Froment</p>
+
+        <h4 class="body-header">Salle C002 / Mini conférences&nbsp;:&nbsp;</h4>
+        <ul>
+          <li>15h00&nbsp;:&nbsp;<a href="conferences-eclair-samedi-24-novembre.html#conf-otb">OTB&nbsp;: Librairie de traitement d'images spatiales</a></li>
+          <li>15h20&nbsp;:&nbsp;<a href="conferences-eclair-samedi-24-novembre.html#conf-diogene">Diogène, logiciel libre de Biométrie et Génétique sous Linux</a></li>
+          <li>15h40&nbsp;:&nbsp;<a href="conferences-eclair-samedi-24-novembre.html#conf-orekit">Orekit, l'innovation libre comme pari industriel</a></li>
+        </ul>
+
+        <h4 class="body-header">Salle C101 / Ubuntu Party&nbsp;:&nbsp;</h4>
+          <p><a href="ubuntu-party-samedi-24-novembre.html#conf-ubuntu">Présentation "Installation et découverte d'Ubuntu"</a> par Fabien Adam</p>
+
+        <h4 class="body-header">Salle C103 / Ubuntu Party&nbsp;:&nbsp;</h4>
+          <p><a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a>
+
+        <h4 class="body-header">Salle A203 / DjangoCon&nbsp;:&nbsp;</h4>
+        <ul>
+          <li>15h00&nbsp;:&nbsp;<a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html#c3">Introduction à Circus, process watcher en Python</a> par Alexis Métaireau</li>
+          <li>15h30&nbsp;:&nbsp;<a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html#c4">Hacker la démocratie avec le mémoire politique de la Quadrature du Net</a> par Laurent Peuch</li>
+        </ul>
+
+        <h4 class="body-header">Salle C102 / Akademy-fr&nbsp;:&nbsp;</h4>
+          <p><a href="http://toulibre.org/akademyfr#conf_kdevelop">KDevelop&nbsp;: IDE Tout Terrain</a> par Lambert Clara
+
       </div>
     </div>
   </div>
@@ -249,45 +256,49 @@
     <div class="entry-content">
       <div class="entry-body">
 
-        <h4 class="body-header">Salle A001 / Grand public&nbsp;:&nbsp;
-          <a href="conferences-grand-public-samedi-24-novembre.html#conf-wikimedia">Wikipédia, Wikimédia, et après ?</a> par Adrienne Charmet-Alix, Wikimedia France
-        </h4>
-
-        <h4 class="body-header">Salle A002 / Technique&nbsp;:&nbsp;
-          <a href="conferences-techniques-samedi-24-novembre.html#conf-freebox">La Freebox, un ensemble subtil de logiciels libres et propriétaires</a> par Florian Fainelli
-        </h4>
-
-        <h4 class="body-header">Salle A201 / Multimedia&nbsp;:&nbsp;
-          <a href="conferences-multimedia-samedi-24-novembre.html#conf-mao">Une brève histoire des musiques électroniques et ... Linux</a> par FranÃ§ois Girault
-        </h4>
-
-        <h4 class="body-header">Salle A202 / Multimedia&nbsp;:&nbsp;
-          <a href="conferences-multimedia-samedi-24-novembre.html#conf-moteur-rendu">Les moteurs de rendu libres&nbsp;: vers toujours plus de réalisme ?</a> par Henri Hebeisen
-        </h4>
-
-        <h4 class="body-header">Salle C002 / Mini conférences&nbsp;:&nbsp;<br/>
-          &nbsp;&nbsp;&nbsp;16h00&nbsp;:&nbsp;<a href="conferences-eclair-samedi-24-novembre.html#conf-opensource">L'Open Source et les éditeurs de logiciel&nbsp;: avantage compétitif agressif ou développement durable?</a><br/>
-          &nbsp;&nbsp;&nbsp;16h20&nbsp;:&nbsp;<a href="conferences-eclair-samedi-24-novembre.html#conf-software-defined-network">Quand le Software prend le contrôle des réseaux et que l'Open Hardware est une solution pour aller plus loin</a><br/>
-          &nbsp;&nbsp;&nbsp;16h40&nbsp;:&nbsp;<a href="conferences-eclair-samedi-24-novembre.html#conf-buildroot">Buildroot, un outil simple pour construire un système Linux embarqué</a>
-        </h4>
+        <h4 class="body-header">Salle A001 / Grand public&nbsp;:&nbsp;</h4>
+          <p><a href="conferences-grand-public-samedi-24-novembre.html#conf-wikimedia">Wikipédia, Wikimédia, et après ?</a> par Adrienne Charmet-Alix, Wikimedia France
 
 
-        <h4 class="body-header">Salle C101 / Ubuntu Party&nbsp;:&nbsp;
-          <a href="ubuntu-party-samedi-24-novembre.html#conf-ubuntu">Présentation "Installation et découverte d'Ubuntu"</a> par Fabien Adam
-        </h4>
-        <h4 class="body-header">Salle C103 / Ubuntu Party&nbsp;:&nbsp;
-          <a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a>
-        </h4>
+        <h4 class="body-header">Salle A002 / Technique&nbsp;:&nbsp;</h4>
+          <p><a href="conferences-techniques-samedi-24-novembre.html#conf-freebox">La Freebox, un ensemble subtil de logiciels libres et propriétaires</a> par Florian Fainelli
 
 
-        <h4 class="body-header">Salle A203 / DjangoCon&nbsp;:&nbsp;<br/>
-          &nbsp;&nbsp;&nbsp;16h00&nbsp;:&nbsp;<a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html#c5">Conférence surprise !</a> par Julien Phalip<br/>
-          &nbsp;&nbsp;&nbsp;16h30&nbsp;:&nbsp;<a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html#c6">Et votre back-office ?</a> par Timothée Peignier
-        </h4>
+        <h4 class="body-header">Salle A201 / Multimedia&nbsp;:&nbsp;</h4>
+          <p><a href="conferences-multimedia-samedi-24-novembre.html#conf-mao">Une brève histoire des musiques électroniques et ... Linux</a> par FranÃ§ois Girault
 
-        <h4 class="body-header">Salle C102 / Akademy-fr&nbsp;:&nbsp;
-          <a href="http://toulibre.org/akademyfr#conf_traduction">Comment faire des contrôles de qualité d'une traduction ?</a> par Sébastien Renard
-        </h4>
+
+        <h4 class="body-header">Salle A202 / Multimedia&nbsp;:&nbsp;</h4>
+          <p><a href="conferences-multimedia-samedi-24-novembre.html#conf-moteur-rendu">Les moteurs de rendu libres&nbsp;: vers toujours plus de réalisme ?</a> par Henri Hebeisen
+
+
+        <h4 class="body-header">Salle C002 / Mini conférences&nbsp;:&nbsp;</h4>
+        <ul>
+          <li>16h00&nbsp;:&nbsp;<a href="conferences-eclair-samedi-24-novembre.html#conf-opensource">L'Open Source et les éditeurs de logiciel&nbsp;: avantage compétitif agressif ou développement durable?</a></li>
+          <li>16h20&nbsp;:&nbsp;<a href="conferences-eclair-samedi-24-novembre.html#conf-software-defined-network">Quand le Software prend le contrôle des réseaux et que l'Open Hardware est une solution pour aller plus loin</a></li>
+          <li>16h40&nbsp;:&nbsp;<a href="conferences-eclair-samedi-24-novembre.html#conf-buildroot">Buildroot, un outil simple pour construire un système Linux embarqué</a></li>
+        </ul>
+
+
+
+        <h4 class="body-header">Salle C101 / Ubuntu Party&nbsp;:&nbsp;</h4>
+          <p><a href="ubuntu-party-samedi-24-novembre.html#conf-ubuntu">Présentation "Installation et découverte d'Ubuntu"</a> par Fabien Adam</p>
+
+        <h4 class="body-header">Salle C103 / Ubuntu Party&nbsp;:&nbsp;</h4>
+          <p><a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a></p>
+
+
+
+        <h4 class="body-header">Salle A203 / DjangoCon&nbsp;:&nbsp;</h4>
+        <ul>
+          <li>16h00&nbsp;:&nbsp;<a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html#c5">Conférence surprise !</a> par Julien Phalip</li>
+          <li>16h30&nbsp;:&nbsp;<a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html#c6">Et votre back-office ?</a> par Timothée Peignier</li>
+        </ul>
+
+
+        <h4 class="body-header">Salle C102 / Akademy-fr&nbsp;:&nbsp;</h4>
+          <p><a href="http://toulibre.org/akademyfr#conf_traduction">Comment faire des contrôles de qualité d'une traduction ?</a> par Sébastien Renard</p>
+
 
 
       </div>
@@ -298,7 +309,9 @@
     <h3 class="entry-header">17h - 17h30</h3>
     <div class="entry-content">
       <div class="entry-body">
-
+        <h4>Pause</h4>
+        <h4>Accueil, stand Framasoft&nbsp;:&nbsp;</h4>
+        <p>Dédicace du livre #Smartarded — Le cycle des NoéNautes par son auteur, Pouhiou. Le livre est diffusé sous licence libre CC0 (domaine public volontaire)</p>
       </div>
     </div>
   </div>
@@ -308,42 +321,47 @@
     <div class="entry-content">
       <div class="entry-body">
 
-        <h4 class="body-header">Salle A001 / Grand public&nbsp;:&nbsp;
-          <a href="conferences-grand-public-samedi-24-novembre.html#conf-open-hardware">Open Hardware&nbsp;: quand le matériel devient libre</a> par Sylvain Wallez
-        </h4>
-
-        <h4 class="body-header">Salle A002 / Technique&nbsp;:&nbsp;<a href="conferences-techniques-samedi-24-novembre.html#conf-git">Pourquoi Git ?</a> par Sébastien Douche
-        </h4>
-
-        <h4 class="body-header">Salle A201 / Multimedia&nbsp;:&nbsp;<a href="conferences-multimedia-samedi-24-novembre.html#conf-montage-video">Conférence multimédia&nbsp;: 1, 2, 3, silence, Ã§a tourne sous GNU/Linux...</a> par Laurent Bellegarde
-        </h4>
-
-        <h4 class="body-header">Salle A202 / Multimedia&nbsp;:&nbsp;<a href="conferences-multimedia-samedi-24-novembre.html#conf-gmic">Le projet G'MIC&nbsp;: Naissance, évolution et démonstration</a> par David Tschumperlé
-        </h4>
-
-        <h4 class="body-header">Salle C002 / Mini conférences&nbsp;:&nbsp;<br/>
-        &nbsp;&nbsp;&nbsp;17h30&nbsp;:&nbsp;<a href="conferences-eclair-samedi-24-novembre.html#conf-gcompris">Le logiciel éducatif GCompris fait le plein de nouveautés</a><br/>
-        &nbsp;&nbsp;&nbsp;17h50<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-mozilla">C'est quoi Mozilla ?</a><br/>
-        &nbsp;&nbsp;&nbsp;18h10<br/><a href="conferences-eclair-samedi-24-novembre.html#conf-videoenpoche">Vidéo en Poche&nbsp;: présentation et état des lieux</a>
-        </h4>
-
-        <h4 class="body-header">Salle C101 / Ubuntu Party&nbsp;:&nbsp;
-          <a href="ubuntu-party-samedi-24-novembre.html#conf-ubuntu">Présentation "Installation et découverte d'Ubuntu"</a> par Fabien Adam
-        </h4>
-        <h4 class="body-header">Salle C103 / Ubuntu Party&nbsp;:&nbsp;
-          <a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a>
-        </h4>
+        <h4 class="body-header">Salle A001 / Grand public&nbsp;:&nbsp;</h4>
+          <p><a href="conferences-grand-public-samedi-24-novembre.html#conf-open-hardware">Open Hardware&nbsp;: quand le matériel devient libre</a> par Sylvain Wallez</p>
 
 
-        <h4 class="body-header">Salle A203 / DjangoCon&nbsp;:&nbsp;<br/>
-        &nbsp;&nbsp;&nbsp;17h30&nbsp;:&nbsp;<a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html#c7">Django pour les fainéants, le retour</a> par Mathieu Agopian<br/>
-        &nbsp;&nbsp;&nbsp;18h00&nbsp;:&nbsp;<a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html#c8">Pourquoi je ne veux plus utiliser Django</a> par David Larlet
-        </h4>
+        <h4 class="body-header">Salle A002 / Technique&nbsp;:&nbsp;</h4>
+        <p><a href="conferences-techniques-samedi-24-novembre.html#conf-git">Pourquoi Git ?</a> par Sébastien Douche</p>
 
 
-        <h4 class="body-header">Salle C102 / Akademy-fr&nbsp;:&nbsp;
-          <a href="http://toulibre.org/akademyfr#conf_debug">Techniques générales de débogage</a> par David Faure
-        </h4>
+        <h4 class="body-header">Salle A201 / Multimedia&nbsp;:&nbsp;</h4>
+        <p><a href="conferences-multimedia-samedi-24-novembre.html#conf-montage-video">Conférence multimédia&nbsp;: 1, 2, 3, silence, Ã§a tourne sous GNU/Linux...</a> par Laurent Bellegarde</p>
+
+
+        <h4 class="body-header">Salle A202 / Multimedia&nbsp;:&nbsp;</h4>
+        <p><a href="conferences-multimedia-samedi-24-novembre.html#conf-gmic">Le projet G'MIC&nbsp;: Naissance, évolution et démonstration</a> par David Tschumperlé</p>
+        
+
+        <h4 class="body-header">Salle C002 / Mini conférences&nbsp;:&nbsp;</h4>
+        <ul>
+        <li>17h30&nbsp;:&nbsp;<a href="conferences-eclair-samedi-24-novembre.html#conf-gcompris">Le logiciel éducatif GCompris fait le plein de nouveautés</a></li>
+        <li>17h50&nbsp;:&nbsp;<a href="conferences-eclair-samedi-24-novembre.html#conf-mozilla">C'est quoi Mozilla ?</a></li>
+        <li>18h10&nbsp;:&nbsp;<a href="conferences-eclair-samedi-24-novembre.html#conf-videoenpoche">Vidéo en Poche&nbsp;: présentation et état des lieux</a></li>
+        </ul>
+        
+
+        <h4 class="body-header">Salle C101 / Ubuntu Party&nbsp;:&nbsp;</h4>
+          <p><a href="ubuntu-party-samedi-24-novembre.html#conf-ubuntu">Présentation "Installation et découverte d'Ubuntu"</a> par Fabien Adam</p>
+        
+        <h4 class="body-header">Salle C103 / Ubuntu Party&nbsp;:&nbsp;</h4>
+          <p><a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a></p>
+        
+
+
+        <h4 class="body-header">Salle A203 / DjangoCon&nbsp;:</h4>
+        <ul>
+        <li>17h30&nbsp;:&nbsp;<a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html#c7">Django pour les fainéants, le retour</a> par Mathieu Agopian</li>
+        <li>18h00&nbsp;:&nbsp;<a href="http://rencontres.django-fr.org/2012/tolosa/conferences.html#c8">Pourquoi je ne veux plus utiliser Django</a> par David Larlet</li>
+        </ul>
+
+
+        <h4 class="body-header">Salle C102 / Akademy-fr&nbsp;:&nbsp;</h4>
+          <p><a href="http://toulibre.org/akademyfr#conf_debug">Techniques générales de débogage</a> par David Faure</p>
 
       </div>
     </div>
@@ -354,38 +372,41 @@
     <div class="entry-content">
       <div class="entry-body">
 
-        <h4 class="body-header">Salle A001 / Grand public&nbsp;:&nbsp;
-          <a href="conferences-grand-public-samedi-24-novembre.html#conf-liberer-internet">Libérer Internet&nbsp;: Sexe, alcool et vie privée</a> par Julien Vaubourg et Sébastien Jean, LDN
-        </h4>
-        <h4 class="body-header">Salle A002 / Technique&nbsp;:&nbsp;
-          <a href="conferences-techniques-samedi-24-novembre.html#conf-tisseo">Logiciel libre et transport public&nbsp;: l'implication de Tisséo dans la communauté Synthèse</a> par Xavier Raffin, Tisséo et Hugues Romain, RCSMobility
-        </h4>
+        <h4 class="body-header">Salle A001 / Grand public&nbsp;:&nbsp;</h4>
+          <p><a href="conferences-grand-public-samedi-24-novembre.html#conf-liberer-internet">Libérer Internet&nbsp;: Sexe, alcool et vie privée</a> par Julien Vaubourg et Sébastien Jean, LDN</p>
 
-        <h4 class="body-header">Salle A201 / Multimedia&nbsp;:&nbsp;
-          <a href="conferences-multimedia-samedi-24-novembre.html#conf-archi-libre">Les outils libres pour les métiers de la construction et de l'ingénierie</a> par Matthieu Dupont de Dinechin
-        </h4>
+        <h4 class="body-header">Salle A002 / Technique&nbsp;:&nbsp;</h4>
+          <p><a href="conferences-techniques-samedi-24-novembre.html#conf-tisseo">Logiciel libre et transport public&nbsp;: l'implication de Tisséo dans la communauté Synthèse</a> par Xavier Raffin, Tisséo et Hugues Romain, RCSMobility</p>
 
-        <h4 class="body-header">1Salle A202 / Multimedia&nbsp;:&nbsp;
-          <a href="conferences-multimedia-samedi-24-novembre.html#conf-vlc">VideoLAN et tour d'horizon du Multimedia Libre</a> par Jean-Baptiste Kempf
-        </h4>
 
-        <h4 class="body-header">Salle C002 / Mini conférences&nbsp;:&nbsp;<br/>
-        &nbsp;&nbsp;&nbsp;18h30&nbsp;:&nbsp;<a href="conferences-eclair-samedi-24-novembre.html#conf-contribuer-mozilla">Comment contribuer à Mozilla</a><br/>
-        &nbsp;&nbsp;&nbsp;18h50&nbsp;:&nbsp;<a href="conferences-eclair-samedi-24-novembre.html#conf-roman-cc-zero">Comment mettre mon roman dans le domaine public a fait de moi un auteur</a><br/>
-        &nbsp;&nbsp;&nbsp;19h10&nbsp;:&nbsp;<a href="conferences-eclair-samedi-24-novembre.html#conf-cinemalibre">Vers un système de projection libre pour le cinéma numérique</a>
-        </h4>
+        <h4 class="body-header">Salle A201 / Multimedia&nbsp;:&nbsp;</h4>
+          <p><a href="conferences-multimedia-samedi-24-novembre.html#conf-archi-libre">Les outils libres pour les métiers de la construction et de l'ingénierie</a> par Matthieu Dupont de Dinechin</p>
 
-        <h4 class="body-header">Salle C103 / Ubuntu Party&nbsp;:&nbsp;
-          <a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a>
-        </h4>
 
-        <h4 class="body-header">Salle A203 / DjangoCon&nbsp;:&nbsp;
-          <a href="http://rencontres.django-fr.org/2012/tolosa/">Présentation des sprints</a>
-        </h4>
+        <h4 class="body-header">1Salle A202 / Multimedia&nbsp;:&nbsp;</h4>
+          <p><a href="conferences-multimedia-samedi-24-novembre.html#conf-vlc">VideoLAN et tour d'horizon du Multimedia Libre</a> par Jean-Baptiste Kempf</p>
 
-        <h4 class="body-header">Salle C102 / Akademy-fr&nbsp;:&nbsp;
-          <a href="http://toulibre.org/akademyfr#conf_complexite">La complexité informatique</a> par Sébastien Renard
-        </h4>
+
+        <h4 class="body-header">Salle C002 / Mini conférences&nbsp;:</h4>
+        <ul>
+        <li>18h30&nbsp;:&nbsp;<a href="conferences-eclair-samedi-24-novembre.html#conf-contribuer-mozilla">Comment contribuer à Mozilla</a></li>
+        <li>18h50&nbsp;:&nbsp;<a href="conferences-eclair-samedi-24-novembre.html#conf-roman-cc-zero">Comment mettre mon roman dans le domaine public a fait de moi un auteur</a></li>
+        <li>19h10&nbsp;:&nbsp;<a href="conferences-eclair-samedi-24-novembre.html#conf-cinemalibre">Vers un système de projection libre pour le cinéma numérique</a></li>
+        
+        </ul>
+
+
+        <h4 class="body-header">Salle C103 / Ubuntu Party&nbsp;:&nbsp;</h4>
+          <p><a href="ubuntu-party-samedi-24-novembre.html#installparty">Install Party Ubuntu</a></p>
+
+
+        <h4 class="body-header">Salle A203 / DjangoCon&nbsp;:&nbsp;</h4>
+          <p><a href="http://rencontres.django-fr.org/2012/tolosa/">Présentation des sprints</a></p>
+
+
+        <h4 class="body-header">Salle C102 / Akademy-fr&nbsp;:&nbsp;</h4>
+          <p><a href="http://toulibre.org/akademyfr#conf_complexite">La complexité informatique</a> par Sébastien Renard</p>
+        
 
 
       </div>
@@ -397,7 +418,8 @@
     <div class="entry-content">
       <div class="entry-body">
 
-        <h4 class="body-header">Salle A001 / Grand public&nbsp;:&nbsp;Conférence de clôture par Jérémie Zimmermann, co-fondateur et animateur de la Quadrature du Net</h4>
+        <h4 class="body-header">Salle A001 / Grand public&nbsp;:&nbsp;</h4>
+        <p>Conférence de clôture par Jérémie Zimmermann, co-fondateur et animateur de la Quadrature du Net</p>
 
       </div>
     </div>
@@ -408,7 +430,8 @@
     <div class="entry-content">
       <div class="entry-body">
 
-        <h4 class="body-header">Accueil&nbsp;:&nbsp;Apéritif de clôture offert aux participants</h4>
+        <h4 class="body-header">Accueil&nbsp;:&nbsp;</h4>
+        <p>Apéritif de clôture offert aux participants</p>
 
       </div>
     </div>
@@ -416,8 +439,8 @@
 
 
 
-  <img id="plan" src="{{ SITEURL }}/theme/images/enseeiht-plan.png" border="0"/>
-
+  <img id="plan" alt="plan de l'ENSEEIHT" src="{{ SITEURL }}/theme/images/enseeiht-plan.png" border="0"/>
+</div>
 
 </div>
 {% endblock %}
