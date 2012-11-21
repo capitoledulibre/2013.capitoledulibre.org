@@ -36,7 +36,10 @@
 				<li{% if p == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
 			  {% endfor %}
 			{% endif %}
-        </ul></nav><!-- /#menu -->
+        </ul>
+        <ul class="nav pull-right">
+            <li><a alt="Programme par heure pour mobiles" title="Programme par heure pour les mobiles" href="{{ SITEURL }}/live.html" class="brand">Programme par heure</a></li></ul>
+        </nav><!-- /#menu -->
         </div>
        </div>
       </div>
@@ -65,7 +68,11 @@
                 {% endfor %}
                 </div>
             {% endif %}
-        
+            <div class="twitter">
+            <a class="twitter-timeline"  href="https://twitter.com/search?q=capitoledulibre" data-widget-id="271400879708577794">Tweets concernant "capitoledulibre"</a>
+            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+            </div>
             </section>
             
            
