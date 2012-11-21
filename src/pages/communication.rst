@@ -80,6 +80,7 @@ Kit de communication
 Ils parlent de nous
 ======================
 
+* `Makina Corpus sponsor du Capitole du Libre 2012 <http://makina-corpus.com/actualite/makina-corpus-sponsor-capitole-libre-2012>`_ - Makina Corpus - 
 * `Mozilla - Le Capitole du Libre 2012 <https://reps.mozilla.org/e/le-capitole-du-libre/>`_ (en) - Mozilla reps [consulté 19 novembre 2012]
 * `2ÈME ÉDITION DE "CAPITOLE DU LIBRE" SUR LES LOGICIELS LIBRES <http://www.digitalplace.fr/fr/?task=item&item_id=975>`_ - Digital Place - 15/11/2012 [consulté 19 novembre 2012]
 * `Mozilla au Capitole du Libre à Toulouse <http://www.theochevalier.fr/index.php?page=6&article=8&lang=fr>`_ - Blog de Théo Chevalier - 14/11/2012 [consulté 19 novembre 2012]
