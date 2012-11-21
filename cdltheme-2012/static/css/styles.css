@@ -488,3 +488,18 @@ ul.biography {
 img.icon {
     margin-right: 20px;
 }
+
+
+/* live *
+ * -----*/
+
+#track-menu {
+    width:100%;
+    font-size:16px;
+}
+
+#heure,
+#heure:hover {
+    color: white;
+}
+

@@ -3,6 +3,7 @@
 {% block title %}{{ SITENAME }} - Programme{% endblock title %}
 {% block class %}mobile-map{% endblock class %}
 {% block script %}
+<script src="{{ SITEURL }}/theme/js/jquery-1.8.2.min.js"></script>
 <script>
   var rooms = new Array('A304', 'A303', 'A302', 'A301', 'A203', 'A202', 'A201', 'A002', 'A001', 'C101', 'C102', 'C103', 'C002', 'C006');
 
@@ -10,31 +11,31 @@
     showPrgAndRoom('A001')
   });
 
-  function showRoom($room){
-    for ($i = 0; $i <= rooms.length; $i++) {
-      if ( rooms[$i] === $room ) {
-          $( "#r" + rooms[$i] ).show();
+  function showRoom(room){
+    for (i = 0; i <= rooms.length; i++) {
+      if ( rooms[i] === room ) {
+          $( "#r" + rooms[i] ).show();
       } else {
-          $( "#r" + rooms[$i] ).hide();
+          $( "#r" + rooms[i] ).hide();
       }
     }
   }
 
-  function showPrg($room){
-    for ($i = 0; $i <= rooms.length; $i++) {
-      if ( rooms[$i] === $room ) {
-          $( "#s" + rooms[$i] ).show();
-          $( "#d" + rooms[$i] ).show();
+  function showPrg(room){
+    for (i = 0; i <= rooms.length; i++) {
+      if ( rooms[i] === room ) {
+          $( "#s" + rooms[i] ).show();
+          $( "#d" + rooms[i] ).show();
       } else {
-          $( "#s" + rooms[$i] ).hide();
-          $( "#d" + rooms[$i] ).hide();
+          $( "#s" + rooms[i] ).hide();
+          $( "#d" + rooms[i] ).hide();
       }
     }
   }
 
-  function showPrgAndRoom($room){
-    showRoom($room);
-    showPrg($room);
+  function showPrgAndRoom(room){
+    showRoom(room);
+    showPrg(room);
   }
 
   </script>
