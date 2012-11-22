@@ -34,9 +34,9 @@ L'entrée est libre et gratuite.
         <td>A202</td>
         <td>C002</td>
 	<td>C101</td>
-	<td>C103</td>
-	<td>A203</td>
 	<td>C102</td>
+	<td>A203</td>
+	<td>C103</td>
     </tr>
     <tr class="odd">
         <th>11h30<br/>-<br/>12h30</th>
