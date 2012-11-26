@@ -25,7 +25,8 @@ PAGE_LANG_URL = '{slug}-{lang}.html'
 PAGE_LANG_SAVE_AS = '{slug}-{lang}.html'
 
 DISPLAY_PAGES_ON_MENU = False
-MENUITEMS = (('Programme', SITEURL + '/programme.html'),
+MENUITEMS = (('C\'est quoi ?', SITEURL + '/le-capitole-du-libre.html'),
+             ('Programme', SITEURL + '/programme.html'),
              ('Sponsors', SITEURL + '/sponsors.html'),
              ('Informations pratiques', SITEURL + '/informations-pratiques.html'),
              ('Communication', SITEURL + '/communication.html'),)
