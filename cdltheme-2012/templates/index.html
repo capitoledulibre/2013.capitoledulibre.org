@@ -2,10 +2,10 @@
 
 {% block content %}
 
-    {% for page in pages %}
-    {% if page.title == "Merci !" %}
-    <h1>{{ page.title }}</h1>
-    <div>{{page.content}}</div>
+    {% for article in articles %}
+    {% if article.title == "Merci !" %}
+    <h1>{{ article.title }}</h1>
+    <div>{{article.content}}</div>
     {% endif %}
     {% endfor %}
     

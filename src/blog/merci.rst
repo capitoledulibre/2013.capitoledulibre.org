@@ -2,6 +2,10 @@
 Merci !
 ===========
 
+:date: 2012-11-30
+:category: conférences
+:tags: capitole du libre
+
 Le Capitole du Libre 2012, c'est terminé pour cette année. C'est le 
 moment de remercier tous ceux grâce à qui cet événement a pu avoir 
 lieu, et a eu autant de succès :
@@ -32,7 +36,9 @@ quelques intervenants déjà arrivés, alors que nous étions pris par la mise
 en place dans les locaux de l'ENSEEIHT. Un clin de l'autre oeil à la `radio FMR`_ et `@dascritch`_ pour avoir fait le 
 `supplément week-end`_ en direct du Capitole du Libre.
 
-Donc vraiment: merci à vous tous!
+.. class:: well
+
+Donc vraiment: **merci à vous tous!**
 
 .. _`Toulibre`: http://toulibre.org/
 .. _`Ubuntu-fr`: http://ubuntu-fr.org/
