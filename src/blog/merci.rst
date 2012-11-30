@@ -5,6 +5,7 @@ Merci !
 :date: 2012-11-30
 :category: conférences
 :tags: capitole du libre
+:summary: Le Capitole du Libre 2012, c'est terminé pour cette année. C'est le moment de remercier tous ceux grâce à qui cet événement a pu avoir lieu, et a eu autant de succès : merci à tous !
 
 Le Capitole du Libre 2012, c'est terminé pour cette année. C'est le 
 moment de remercier tous ceux grâce à qui cet événement a pu avoir 
@@ -34,11 +35,15 @@ Un petit clin d'oeil aux membres de `@aperoweb_tlse`_ qui
 ont proposé pour le vendredi soir un rendez-vous convivial avec 
 quelques intervenants déjà arrivés, alors que nous étions pris par la mise 
 en place dans les locaux de l'ENSEEIHT. Un clin de l'autre oeil à la `radio FMR`_ et `@dascritch`_ pour avoir fait le 
-`supplément week-end`_ en direct du Capitole du Libre.
+`supplément week-end`_ en direct du Capitole du Libre. 
 
 .. class:: well
 
-Donc vraiment: **merci à vous tous!**
+Donc vraiment: **merci à vous tous**, en espérant n'avoir oublié personne !
+
+Vous retrouverez très bientôt sur ce site les liens vers les vidéos et les présentations qui ont eu lieu pendant le Capitole du Libre, le **club vidéo** de l'N7 travaille d'arrache pied pour cela.
+
+En attendant, vous pouvez donner votre avis sur le déroulement de cet événement en `répondant au questionnaire en ligne`_.
 
 .. _`Toulibre`: http://toulibre.org/
 .. _`Ubuntu-fr`: http://ubuntu-fr.org/
@@ -54,3 +59,4 @@ Donc vraiment: **merci à vous tous!**
 .. _`radio FMR`: http://radio-fmr.net/
 .. _`@dascritch`: https://twitter.com/dascritch
 
+.. _`répondant au questionnaire en ligne`: http://www.capitoledulibre.org/2012/sondage
