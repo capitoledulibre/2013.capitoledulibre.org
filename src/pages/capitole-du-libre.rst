@@ -5,12 +5,11 @@ Le Capitole du Libre
 À propos
 ========
 
-**Le Capitole du Libre** est un événement consacré au Logiciel Libre en
+**Le Capitole du Libre** est un événement consacré au ..Logiciel Libre.. en
 particulier, et au libre en général. Il est orienté à la fois vers le
-grand public et le public spécialisé.
+grand public et le public spécialisé et l'entrée est libre et gratuite.
 
-Il a lieu chaque année depuis 2011, et l'entrée est libre et gratuite.
-
+Organisé notemment par l'assocation `Toulibre`_, il a lieu chaque année en novembre depuis 2011.
 
 L’\ `édition 2012 du Capitole du Libre`_ a eu lieu les **24 et 25
 novembre** à `l’ENSEEIHT`_, à Toulouse. 
@@ -89,6 +88,18 @@ leurs événements.
             
         </div>
 
+Les éditions précédentes
+==========================
+
+Retrouvez `la première édition du Capitole du Libre`_.
+
+Et avant le Capitole du Libre, il y avait déjà un événement nommé **Ubuntu Party** : en `2009`_ et en `2010`_
+
+.. _la deuxième édition du Capitole du Libre: /2012
+.. _la première édition du Capitole du Libre: /2011
+.. _2009: http://www.toulibre.org/ubuntuparty2009
+.. _2010: http://www.toulibre.org/ubuntuparty2010
+
 .. _édition 2012 du Capitole du Libre: http://www.capitoledulibre.org/2012/
 .. _l’ENSEEIHT: http://www.enseeiht.fr
 .. _conférences grand public: conferences-grand-public-samedi-24-novembre.html
@@ -103,3 +114,4 @@ leurs événements.
 .. _ateliers KDE: http://toulibre.org/akademyfr#programme_25_novembre
 .. _ateliers initiation et code sprints Django: http://rencontres.django-fr.org/2012/tolosa/ateliers-sprints.html
 .. _programme complet: programme.html
+.. _`Toulibre`: http://toulibre.org/
