@@ -5,7 +5,7 @@
 {% for article in (articles_page.object_list if articles_page else articles) %}
 <div class='article'>
 	<h2>{{ article.title }}</h2>
-	<div class="well small">{% include "metadata.html" %}</div>
+	<div class="well well-small">{% include "metadata.html" %}</div>
 	<div class="summary">{{ article.summary }} <a class="btn primary xsmall" href="{{ SITEURL }}/{{ article.url }}">more…</a>
 	</div>
 </div>	
