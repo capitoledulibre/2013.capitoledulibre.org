@@ -301,7 +301,10 @@ footer {
 /* Sponsors *
  * -------- */
 
-#sidebar #sponsors .logos {
+#sponsors {
+    background-color: #FFF;
+}
+#sponsors .logos {
 	text-align: center;
 }
 
@@ -311,7 +314,7 @@ footer {
 	text-align: left;
 }
 
-#sidebar #sponsors .logos li {
+#sponsors .logos li {
 	display: inline-block;
 }
 #content .logo {
