@@ -29,6 +29,11 @@ fwbuilder, modules iptables de webmin, kmyfirewall, gufw.
 
 Mini-conférence de 14h à 14h20.
 
+La `vidéo de la conférence 'Réaliser votre firewall, sans aucune
+connaissance d'iptables'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/zulian-firewall-sans-connaitre-iptables.mp4>`_
+est disponible (45 Mo)
+
 .. _conf-po4a:
 
 po4a, outil de traduction pour la documentation, *Denis Barbier*
@@ -52,6 +57,11 @@ ainsi que des exemples pratiques avec po4a.
 
 Mini-conférence de 14h20 à 14h20.
 
+La `vidéo de la conférence 'po4a, outil de traduction pour la
+documentation'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/barbier-po4a.mp4>`_
+est disponible (68 Mo)
+
 .. _conf-scapy:
 
 Scapy : Easy Packet Handling, *Etienne Maynier*
@@ -66,6 +76,10 @@ simplement et très rapidement.
 .. class:: confhour
 
 Mini-conférence de 14h40 à 15h.
+
+La `vidéo de la conférence 'Scapy : Easy Packet Handling'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/maynier-scapy.mp4>`_
+est disponible (71 Mo)
 
 .. _conf-otb:
 
@@ -99,6 +113,11 @@ philosophie:
 
 Mini-conférence de 15h à 15h20.
 
+La `vidéo de la conférence 'OTB: Librairie de traitement d'images
+spatiales'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/grizonnet-otb.mp4>`_
+est disponible (65 Mo)
+
 .. _conf-diogene:
 
 Diogène, logiciel libre de Biométrie et Génétique sous Linux, *Philippe Baradat*
@@ -126,6 +145,11 @@ Ce logiciel est interfacé avec Gnuplot (sorties graphiques 2-D ou
 .. class:: confhour
 
 Mini-conférence de 15h20 à 15h40.
+
+La `vidéo de la conférence 'Diogène, logiciel libre de Biométrie et
+Génétique sous Linux'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/baradat-diogene.mp4>`_
+est disponible (64 Mo)
 
 .. _conf-orekit:
 
@@ -160,6 +184,11 @@ gagnante...
 
 Mini-conférence de 15h40 à 16h.
 
+La `vidéo de la conférence 'Orekit, l'innovation libre comme pari
+industriel'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/dinot-orekit.mp4>`_
+est disponible (67 Mo)
+
 .. _conf-opensource:
 
 L'Open Source et les éditeurs de logiciel: avantage compétitif agressif ou développement durable?, *Gaël Blondelle, Obéo*
@@ -191,6 +220,11 @@ Cette mini-conférence décrira, en se basant sur des exemples:
 
 Mini-conférence de 16h à 16h20.
 
+La `vidéo de la conférence 'L'Open Source et les éditeurs de logiciel:
+avantage compétitif agressif ou développement durable?'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/blondelle-open-source-editeurs-logiciels.mp4>`_
+est disponible (74 Mo)
+
 .. _conf-software-defined-network:
 
 Quand le Software prend le contrôle des réseaux et que l’Open Hardware est une solution pour aller plus loin, *Marc Bruyère*
@@ -218,6 +252,11 @@ une solution.
 
 Mini-conférence de 16h20 à 16h40.
 
+La `vidéo de la conférence 'Quand le Software prend le contrôle des
+réseaux et que l’Open Hardware est une solution pour aller plus loin'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/bruyere-reseaux-open-hardware.mp4>`_
+est disponible (82 Mo)
+
 .. _conf-mozilla:
 
 C'est quoi Mozilla ?, *Clarista, Théo Chevalier*
@@ -240,6 +279,10 @@ toutes vos questions sur Firefox et sur les autres projets de Mozilla.
 
 Mini-conférence de 16h40 à 17h.
 
+La `vidéo de la conférence 'C'est quoi Mozilla'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/clarista-chevalier-c-est-quoi-mozilla.mp4>`_
+est disponible (92 Mo)
+
 .. _conf-gcompris:
 
 Le logiciel éducatif GCompris fait le plein de nouveautés, *Bruno Coudoin*
@@ -260,6 +303,11 @@ cadre du "Google Summer Of Code 2012".
 
 Mini-conférence de 17h30 à 17h50.
 
+La `vidéo de la conférence 'Le logiciel éducatif GCompris fait le
+plein de nouveautés'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/coudoin-gcompris-nouveautes.mp4>`_
+est disponible (81 Mo)
+
 .. _conf-videoenpoche:
 
 Vidéo en Poche : présentation et état des lieux, *Rodolphe Village*
@@ -278,6 +326,11 @@ films au format ouvert Matroska et sans DRM.
 .. class:: confhour
 
 Mini-conférence de 17h50 à 18h10.
+
+La `vidéo de la conférence 'Vidéo en Poche : présentation et état des
+lieux'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/village-video-en-poche.mp4>`_
+est disponible (88 Mo)
 
 .. _conf-cinemalibre:
 
@@ -305,6 +358,11 @@ toute œuvre aux salles obscures.
 .. class:: confhour
 
 Mini-conférence de 18h10 à 18h30.
+
+La `vidéo de la conférence 'Vers un système de projection libre pour
+le cinéma numérique'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/bertrand-projection-libre-cinema.mp4>`_
+est disponible (70 Mo)
 
 .. _conf-contribuer-mozilla:
 
@@ -335,6 +393,10 @@ visibilité, et pour voyager !
 
 Mini-conférence de 18h30 à 18h50.
 
+La `vidéo de la conférence 'Comment contribuer à Mozilla'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/clarista-chevalier-contribuer-a-mozilla.mp4>`_
+est disponible (62 Mo)
+
 .. _conf-roman-cc-zero:
 
 Comment mettre mon roman dans le domaine public a fait de moi un auteur, *Pouhiou*
@@ -364,6 +426,11 @@ culture partagée devienne la norme, non l'exception.
 .. class:: confhour
 
 Mini-conférence de 18h50 à 19h10.
+
+La `vidéo de la conférence 'Comment mettre mon roman dans le domaine
+public a fait de moi un auteur'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/pouhiou-roman-domaine-public.mp4>`_
+est disponible (92 Mo)
 
 .. _conf-framazic:
 
@@ -397,3 +464,7 @@ signifie pas la fin du monde.
 .. class:: confhour
 
 Mini-conférence de 19h10 à 19h30.
+
+La `vidéo de la conférence 'Framazic, et si on changeait la musique ?'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/framartin-si-on-changeait-la-musique.mp4>`_
+est disponible (102 Mo)

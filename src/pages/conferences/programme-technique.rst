@@ -8,8 +8,8 @@ Conférences techniques, samedi 24 novembre
 
 .. _conf-pile-graphique:
 
-Introduction aux GPUs et à la pile graphique Linux, *Martin Peres*
-------------------------------------------------------------------
+"Introduction aux GPUs et à la pile graphique Linux", *Martin Peres*
+--------------------------------------------------------------------
 
 Cette présentation vise à expliquer aux plus novices l'architecture
 matérielle et logicielle qui permet à Gnome ou KDE de s'afficher à
@@ -24,6 +24,11 @@ celui-ci.
 .. class:: confhour
 
 Conférence de 14h à 15h.
+
+La `vidéo de la conférence 'Introduction aux GPUs et à la pile
+graphique Linux'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/peres-gpu-introduction.mp4>`_
+est disponible (193 Mo).
 
 .. _conf-tetaneutral:
 
@@ -49,25 +54,29 @@ réseau.
 
 Conférence de 15h à 16h.
 
-.. _conf-freebox:
+La `vidéo de la conférence 'Internet haut débit citoyen en zone
+blanche ADSL : l'expérience de l'association tetaneutral.net'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/guerby-tetaneutral-net.mp4>`_
+est disponible (211 Mo).
 
-"La Freebox, un ensemble subtil de logiciels libres et propriétaires", *Florian Fainelli*
------------------------------------------------------------------------------------------
+.. _conf-arm:
 
-La Freebox de l'opérateur Free est célèbre pour son utilisation d'un
-certain nombre de logiciels libres, lui valant une tristement célèbre
-controverse. En réalité la Freebox est constituée d'un ensemble subtil
-de logiciels libres et propriétaires soigneusement choisis et
-intégrés. Nous montrerons les différents composants matériels
-constitutifs des deux boitiers Freebox, dans quelle mesures ces
-derniers sont utilisables avec du logiciel libre, pour enfin présenter
-la couche logicielle complète et les choix qui ont été faits.
+"L'architecture ARM dans le noyau Linux", *Thomas Petazzoni*
+------------------------------------------------------------
 
-.. include:: ../../intervenants/florian-fainelli.rst
+**Note importante**: cette conférence a été improvisée en remplacement
+de la conférence *Freebox, un ensemble subtil de logiciels libres et
+propriétaires*, qui a dû être annulée le matin même de l'événement. La
+qualité de la présentation est donc médiocre: absence de slides, de
+plan, etc.
 
 .. class:: confhour
 
 Conférence de 16h à 17h.
+
+La `vidéo de la conférence improvisée 'L'architecture ARM dans le noyau Linux'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/petazzoni-architecture-arm-noyau-linux.mp4>`_
+est disponible (258 Mo).
 
 .. _conf-git:
 
@@ -91,6 +100,10 @@ collectives, comme l'intégration continue ou le déploiement continu.
 .. class:: confhour
 
 Conférence de 17h30 à 18h30.
+
+La `vidéo de la conférence 'Pourquoi Git ?'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/douche-pourquoi-git.mp4>`_
+est disponible (226 Mo).
 
 .. _conf-tisseo:
 
@@ -130,3 +143,8 @@ est la solution métier transport public libre la plus avancée.
 .. class:: confhour
 
 Conférence de 18h30 à 19h30.
+
+La `vidéo de la conférence 'Logiciel libre et transport public :
+l'implication de Tisséo dans la communauté Synthèse'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/raffin-romain-ll-transport-public.mp4>`_
+est disponible (226 Mo).

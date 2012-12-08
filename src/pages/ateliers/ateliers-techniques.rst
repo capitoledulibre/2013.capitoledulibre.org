@@ -108,6 +108,8 @@ cette seconde conférence, plus appronfondie, donnée par Martin.
 
 Conférence de 10h à 13h, pas d'inscription nécessaire.
 
+La vidéo de cette conférence sera prochainement disponible.
+
 .. _atelier-git-perfectionnement:
 
 "Se perfectionner avec Git", Sébastien Douche

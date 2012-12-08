@@ -22,6 +22,10 @@ logiciel ouvert.
 
 Conférence de 14h à 15h.
 
+La `vidéo de la conférence 'Krita 2.5 découverte et fonctionnalités'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/revoy-krita.mp4>`_
+est disponible (186 Mo).
+
 .. _conf-blender:
 
 Effets visuels et destruction virtuelle, *François Grassard*
@@ -34,6 +38,10 @@ Destruction de bâtiments via l'utilisation d'effets dynamiques, de systèmes de
 .. class:: confhour
 
 Conférence de 15h à 16h.
+
+La `vidéo de la conférence 'Effets visuels et destruction virtuelle'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/grassard-blender.mp4>`_
+est disponible (322 Mo).
 
 .. _conf-musecore:
 
@@ -49,6 +57,11 @@ MuseScore est le logiciel libre multiplateforme de création de partitions de mu
 .. class:: confhour
 
 Conférence de 15h à 16h.
+
+La `vidéo de la conférence 'MuseScore : Accès libre aux partitions,
+code source de la musique'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/froment-musescore.mp4>`_
+est disponible (184 Mo).
 
 .. _conf-html5:
 
@@ -66,6 +79,10 @@ construire?
 
 Conférence de 16h à 17h.
 
+La `vidéo de la conférence 'HTML5 et ses amis'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/rouget-html5-et-ses-amis.mp4>`_
+est disponible (235 Mo).
+
 .. _conf-moteur-rendu:
 
 Les moteurs de rendu libres : vers toujours plus de réalisme ?, *Henri Hebeisen*
@@ -78,6 +95,11 @@ Dans le domaine de l'image de synthèse, les moteurs de rendus permettent de tra
 .. class:: confhour
 
 Conférence de 16h à 17h.
+
+La `vidéo de la conférence 'Les moteurs de rendu libres : vers
+toujours plus de réalisme ?'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/hebeisen-moteurs-de-rendu-libres.mp4>`_
+est disponible (219 Mo).
 
 .. _conf-montage-video:
 
@@ -92,11 +114,16 @@ Un exemple de montage vidéo en live sera réalisé avec différents logiciels l
 
 .. include:: ../../intervenants/laurent-bellegarde.rst
 
-.. _conf-gmic:
-
 .. class:: confhour
 
 Conférence de 17h30 à 18h30.
+
+La `vidéo de la conférence '1, 2, 3, silence, ça tourne sous
+GNU/Linux...'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/bellegarde-silence-ca-tourne-sous-linux.mp4>`_
+est disponible (217 Mo).
+
+.. _conf-gmic:
 
 Le projet G'MIC : Naissance, évolution et démonstration, *David Tschumperlé*
 -----------------------------------------------------------------------------
@@ -110,6 +137,11 @@ Je montrerai également comment son architecture ouverte permet à tous de contr
 
 Conférence de 17h30 à 18h30.
 
+La `vidéo de la conférence 'Le projet G'MIC : Naissance, évolution et
+démonstration'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/tschumperle-gmic.mp4>`_
+est disponible (355 Mo).
+
 .. _conf-archi-libre:
 
 Les outils libres pour les métiers de la construction et de l'ingénierie, *Matthieu Dupont de Dinechin*
@@ -122,6 +154,11 @@ En plus des logiciels de bureautique, gestion et de graphisme, pour lesquelles d
 .. class:: confhour
 
 Conférence de 18h30 à 19h30.
+
+La `vidéo de la conférence 'Les outils libres pour les métiers de la
+construction et de l'ingénierie'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/dupont-ll-construction-ingenierie.mp4>`_
+est disponible (190 Mo).
 
 .. _conf-vlc:
 
@@ -137,3 +174,8 @@ Cette conférence racontera aussi l'histoire de VideoLAN et de VLC media player,
 .. class:: confhour
 
 Conférence de 18h30 à 19h30.
+
+La `vidéo de la conférence 'VideoLAN et tour d'horizon du Multimedia
+Libre'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/kempf-videolan-multimedia-libre.mp4>`_
+est disponible (237 Mo).

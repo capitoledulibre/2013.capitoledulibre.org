@@ -23,6 +23,11 @@ vous qui ferez la conférence.
 
 Conférence de 14h à 15h.
 
+La `vidéo de la conférence 'Les logiciels libres c'est bien mais c'est
+trop compliqué pour moi'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/kauffmann-ll-bien-mais-trop-complique.mp4>`_
+est disponible (215 Mo).
+
 .. _conf-educ-libre:
 
 "Le libre dans l'éducation. Ses enjeux", *Jean-Pierre Archambault, CNDP-CDRP*
@@ -64,6 +69,10 @@ les problématiques de l'immatériel.
 
 Conférence de 15h à 16h.
 
+La `vidéo de la conférence 'Le libre dans l'éducation. Ses enjeux'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/archambault-libre-education-enjeux.mp4>`_
+est disponible (203 Mo).
+
 .. _conf-wikimedia:
 
 "Wikipédia, Wikimédia, et après ?", *Adrienne Charmet-Alix, Wikimedia France*
@@ -83,6 +92,10 @@ Wikipédia et l'ensemble des projets Wikimédia
 .. class:: confhour
 
 Conférence de 16h à 17h.
+
+La `vidéo de la conférence 'Wikipédia, Wikimédia, et après ?'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/charmet-alix-wikipedia-wikimedia.mp4>`_
+est disponible (224 Mo).
 
 .. _conf-open-hardware:
 
@@ -106,6 +119,11 @@ conduire à une nouvelle révolution industrielle.
 .. class:: confhour
 
 Conférence de 17h30 à 18h30.
+
+La `vidéo de la conférence 'Open Hardware : quand le matériel devient
+libre'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/wallez-open-hardware.mp4>`_
+est disponible (238 Mo).
 
 .. _conf-liberer-internet:
 
@@ -131,3 +149,8 @@ l'heure des révélations.
 .. class:: confhour
 
 Conférence de 18h30 à 19h30.
+
+La `vidéo de la conférence 'Libérer Internet: Sexe, alcool et vie
+privée'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/vaubourg-jean-liberer-internet.mp4>`_
+est disponible (189 Mo).
