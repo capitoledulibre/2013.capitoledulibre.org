@@ -3,8 +3,7 @@ Programme
 =========
 
 Retrouvez en un seul tableau les conférences et ateliers du Capitole du Libre, du DjangoCon et de l'Akademy-fr. 
-
-Les vidéos et slides sont en ligne, retrouvez-les dans le programme.
+Les vidéos et slides sont en disponible, retrouvez les liens dans cette page.
 
 .. contents:: Accès direct
     :depth: 2
