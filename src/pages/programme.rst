@@ -2,7 +2,9 @@
 Programme
 =========
 
-Retrouvez en un seul tableau les conférences et ateliers du Capitole du Libre, du DjangoCon et de l'Akademy-fr. Une install party est proposée pendant les deux jours.
+Retrouvez en un seul tableau les conférences et ateliers du Capitole du Libre, du DjangoCon et de l'Akademy-fr. 
+
+Les vidéos et slides sont en ligne, retrouvez-les dans le programme.
 
 .. contents:: Accès direct
     :depth: 2
