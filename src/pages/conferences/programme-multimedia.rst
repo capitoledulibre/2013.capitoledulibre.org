@@ -24,7 +24,10 @@ Conférence de 14h à 15h.
 
 La `vidéo de la conférence 'Krita 2.5 découverte et fonctionnalités'
 <http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/revoy-krita.mp4>`_
-est disponible (186 Mo).
+est disponible (186 Mo). Les `slides de la conférence 'Krita 2.5
+découverte et fonctionnalités'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/slides/revoy-krita.zip>`
+sont également disponibles.
 
 .. _conf-blender:
 
@@ -61,7 +64,10 @@ Conférence de 15h à 16h.
 La `vidéo de la conférence 'MuseScore : Accès libre aux partitions,
 code source de la musique'
 <http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/froment-musescore.mp4>`_
-est disponible (184 Mo).
+est disponible (184 Mo). Les `slides de la conférence 'MuseScore :
+Accès libre aux partitions, code source de la musique'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/slides/froment-musescore.pdf>`_
+sont également disponibles.
 
 .. _conf-html5:
 
@@ -140,7 +146,10 @@ Conférence de 17h30 à 18h30.
 La `vidéo de la conférence 'Le projet G'MIC : Naissance, évolution et
 démonstration'
 <http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/tschumperle-gmic.mp4>`_
-est disponible (355 Mo).
+est disponible (355 Mo). Les `slides de la conférence 'Le projet G'MIC
+: Naissance, évolution et démonstration'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/slides/tschumperle-gmic.pdf>`_
+sont également disponibles.
 
 .. _conf-archi-libre:
 

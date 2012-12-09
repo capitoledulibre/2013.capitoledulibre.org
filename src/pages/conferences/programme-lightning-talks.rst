@@ -60,7 +60,10 @@ Mini-conférence de 14h20 à 14h20.
 La `vidéo de la conférence 'po4a, outil de traduction pour la
 documentation'
 <http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/barbier-po4a.mp4>`_
-est disponible (68 Mo)
+est disponible (68 Mo). Les `slides de la conférence 'po4a, outil de
+traduction pour la documentation'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/slides/barbier-po4a.pdf>`_
+sont également disponibles.
 
 .. _conf-scapy:
 
@@ -79,7 +82,10 @@ Mini-conférence de 14h40 à 15h.
 
 La `vidéo de la conférence 'Scapy : Easy Packet Handling'
 <http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/maynier-scapy.mp4>`_
-est disponible (71 Mo)
+est disponible (71 Mo). Les `slides de la conférence 'Scapy : Easy
+Packet Handling'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/slides/maynier-scapy.pdf>`_
+sont également disponibles.
 
 .. _conf-otb:
 
@@ -116,7 +122,10 @@ Mini-conférence de 15h à 15h20.
 La `vidéo de la conférence 'OTB: Librairie de traitement d'images
 spatiales'
 <http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/grizonnet-otb.mp4>`_
-est disponible (65 Mo)
+est disponible (65 Mo). Les `slides la conférence 'OTB: Librairie de
+traitement d'images spatiales'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/slides/grizonnet-otb.pdf>`_
+sont également disponibles.
 
 .. _conf-diogene:
 
@@ -149,7 +158,10 @@ Mini-conférence de 15h20 à 15h40.
 La `vidéo de la conférence 'Diogène, logiciel libre de Biométrie et
 Génétique sous Linux'
 <http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/baradat-diogene.mp4>`_
-est disponible (64 Mo)
+est disponible (64 Mo). Les `slides de la conférence 'Diogène,
+logiciel libre de Biométrie et Génétique sous Linux'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/slides/baradat-diogene1.pdf>`_
+sont également disponibles.
 
 .. _conf-orekit:
 
@@ -187,7 +199,10 @@ Mini-conférence de 15h40 à 16h.
 La `vidéo de la conférence 'Orekit, l'innovation libre comme pari
 industriel'
 <http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/dinot-orekit.mp4>`_
-est disponible (67 Mo)
+est disponible (67 Mo). Les `slides de la conférence 'Orekit,
+l'innovation libre comme pari industriel'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/slides/dinot-orekit.pdf>`_
+sont également disponibles.
 
 .. _conf-opensource:
 
@@ -362,7 +377,10 @@ Mini-conférence de 18h10 à 18h30.
 La `vidéo de la conférence 'Vers un système de projection libre pour
 le cinéma numérique'
 <http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/bertrand-projection-libre-cinema.mp4>`_
-est disponible (70 Mo)
+est disponible (70 Mo). Les `slides de la conférence 'Vers un système
+de projection libre pour le cinéma numérique'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/slides/bertrand-cinema-numerique.pdf>`_
+sont également disponibles.
 
 .. _conf-contribuer-mozilla:
 

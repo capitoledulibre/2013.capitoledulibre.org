@@ -95,7 +95,10 @@ Conférence de 16h à 17h.
 
 La `vidéo de la conférence 'Wikipédia, Wikimédia, et après ?'
 <http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/charmet-alix-wikipedia-wikimedia.mp4>`_
-est disponible (224 Mo).
+est disponible (224 Mo). Les `slides de la conférence 'Wikipédia,
+Wikimédia, et après ?'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/slides/charmet-alix-wikipedia.pdf>`_
+sont également disponibles.
 
 .. _conf-open-hardware:
 
@@ -123,7 +126,10 @@ Conférence de 17h30 à 18h30.
 La `vidéo de la conférence 'Open Hardware : quand le matériel devient
 libre'
 <http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/wallez-open-hardware.mp4>`_
-est disponible (238 Mo).
+est disponible (238 Mo). Les `slides de la conférence 'Open Hardware :
+quand le matériel devient libre'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/slides/wallez-open-hardware.pdf>`_
+sont également disponibles.
 
 .. _conf-liberer-internet:
 
@@ -153,4 +159,7 @@ Conférence de 18h30 à 19h30.
 La `vidéo de la conférence 'Libérer Internet: Sexe, alcool et vie
 privée'
 <http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/vaubourg-jean-liberer-internet.mp4>`_
-est disponible (189 Mo).
+est disponible (189 Mo). Les `slides de la conférence 'Libérer
+Internet: Sexe, alcool et vie privée'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/slides/jean-vaubourg-liberer-internet-sexe-alcool-vie-privee.pdf>`_
+sont également disponibles.

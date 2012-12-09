@@ -108,7 +108,13 @@ cette seconde conférence, plus appronfondie, donnée par Martin.
 
 Conférence de 10h à 13h, pas d'inscription nécessaire.
 
-La vidéo de cette conférence sera prochainement disponible.
+La `vidéo de la conférence 'Plongeons dans le pipeline de rendu
+graphique, et questions/réponses sur la pile graphique'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/peres-gpu-details.mp4>`_
+est disponibles. Les `slides de la conférence 'Plongeons dans le
+pipeline de rendu graphique'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/slides/peres-gpu-details.pdf>`_
+sont également disponibles.
 
 .. _atelier-git-perfectionnement:
 

@@ -108,6 +108,10 @@ Cet atelier est prévu le dimanche 25 novembre de 10h à 13h.
 Inscription nécessaire à l'adresse
 `<http://toulibre.org/capitoledulibre2012:atelier-bon-internaute>`_.
 
+Les `slides de cet atelier
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/slides/jean-vaubourg-bon-internaute-par-la-pratique.pdf>`_
+sont disponibles.
+
 .. _atelier-openstreetmap:
 
 "OpenStreetMap : sources de données, JOSM et autres outils du contributeur", *Sébastien Dinot*

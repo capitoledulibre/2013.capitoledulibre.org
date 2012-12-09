@@ -28,7 +28,10 @@ Conférence de 14h à 15h.
 La `vidéo de la conférence 'Introduction aux GPUs et à la pile
 graphique Linux'
 <http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/peres-gpu-introduction.mp4>`_
-est disponible (193 Mo).
+est disponible (193 Mo). Les `slides de la conférence 'Introduction
+aux GPUs et à la pile graphique Linux'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/slides/peres-gpu-introduction.pdf>`_
+sont également disponibles.
 
 .. _conf-tetaneutral:
 
@@ -57,7 +60,11 @@ Conférence de 15h à 16h.
 La `vidéo de la conférence 'Internet haut débit citoyen en zone
 blanche ADSL : l'expérience de l'association tetaneutral.net'
 <http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/guerby-tetaneutral-net.mp4>`_
-est disponible (211 Mo).
+est disponible (211 Mo). Les `slides de la conférence 'Internet haut
+débit citoyen en zone blanche ADSL : l'expérience de l'association
+tetaneutral.net'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/slides/guerby-tetaneutral-net.pdf>`_
+sont également disponibles.
 
 .. _conf-arm:
 
@@ -147,4 +154,8 @@ Conférence de 18h30 à 19h30.
 La `vidéo de la conférence 'Logiciel libre et transport public :
 l'implication de Tisséo dans la communauté Synthèse'
 <http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/videos/raffin-romain-ll-transport-public.mp4>`_
-est disponible (226 Mo).
+est disponible (226 Mo). Les `slides de la conférence 'Logiciel libre
+et transport public : l'implication de Tisséo dans la communauté
+Synthèse'
+<http://www.toulibre.org/pub/2012-11-24-capitole-du-libre/slides/raffin-romain-tisseo-synthese.pdf>`
+sont également disponibles.
