@@ -38,5 +38,5 @@ Le site est généré par `pelican`_ créé par Alexis Metaireau et la base du t
 .. _ElegantThemes: http://paulrobertlloyd.com/2009/06/social_media_icons/
 .. _Attribution-Share Alike 2.0: http://creativecommons.org/licenses/by-sa/2.0/uk/
 .. _Attribution 2.0: http://creativecommons.org/licenses/by/2.0/deed.fr
-.. _pelican: http://docs.getpelican.com/en/latest/
+.. _pelican: http://blog.getpelican.com/
 .. _twitter bootstrap: http://twitter.github.com/bootstrap/

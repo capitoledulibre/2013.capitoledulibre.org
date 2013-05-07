@@ -6,6 +6,29 @@ Le Capitole du Libre fait venir des intervenants parfois de très loin, et nous 
 
 Pour cela, **nous remercions nos sponsors pour le soutien qu'ils apportent à cette manifestation**. Certaines entreprises soutiennent le Capitole du Libre depuis le début ou presque : Makina Corpus, KDAB, C-S, Objectif Libre, Solulibre et Free Electrons.
 
+Pourquoi devenir sponsor
+""""""""""""""""""""""""""""
+
+Le Capitole du Libre a regroupé plus de 700 participants en 2012 et, grâce à sa notoriété grandissante et à des nouveautés prévues cette année, nous espérons encore plus de personnes pour l'édition 2012.
+
+Devenir sponsors de « Capitole du Libre », c'est :
+
+- Valoriser votre image de marque en tant qu'utilisateurs de Logiciels Libres auprès :
+
+  - des communautés,
+  - du grand public.
+
+- Créer des liens de proximité avec les communautés,
+- Participer à la diffusion du libre vers un large public,
+- Contribuer au mouvement du libre,
+- Apporter de la visibilité à l'échelle locale grâce à une campagne de communication dédiée.
+
+Affiches, flyers, articles dans la presse grand public et spécialisée, interview sur des radios locales/nationales et réseaux sociaux permettront de relayer très largement l'information sur cet évènement.
+
+
+Ils ont sponsors le Capitole du Libre 2012
+""""""""""""""""""""""""""""""""""""""""""""""
+
 Partenaires Or
 ===============
 
@@ -19,6 +42,7 @@ Makina Corpus
   :class: logo
   :align: left
 
+.. class:
 `Makina Corpus`_ conçoit, développe et intègre des solutions innovantes s'appuyant exclusivement sur des logiciels libres. La société a développé une expertise particulière en applications web complexes, dans le domaine des portails, le traitement de données géographiques (SIG) et l'analyse décisionnelle (Business Intelligence). 
 
 .. _Makina Corpus: http://www.makina-corpus.com/
@@ -244,31 +268,4 @@ Partenaires presse
   :alt: Mairie de Toulouse
   :target: http://www.toulouse.fr/
   :class: logo
-
-Pourquoi devenir sponsor
-==========================
-
-Le Capitole du Libre a regroupé plus de 800 participants en 2011 et, grâce à sa notoriété grandissante et à des nouveautés prévues cette année, nous attendons encore plus de personnes pour l'édition 2012.
-
-Devenir sponsors de « Capitole du Libre », c'est :
-
-- Valoriser votre image de marque en tant qu'utilisateurs de Logiciels Libres auprès :
-
-  - des communautés,
-  - du grand public.
-
-- Créer des liens de proximité avec les communautés,
-- Participer à la diffusion du libre vers un large public,
-- Contribuer au mouvement du libre,
-- Apporter de la visibilité à l'échelle locale grâce à une campagne de communication dédiée.
-
-Affiches, flyers, articles dans la presse grand public et spécialisée, interview sur des radios locales/nationales et réseaux sociaux permettront de relayer très largement l'information sur cet évènement.
-
-.. role:: raw-html(raw)
-	:format: html
-
-:raw-html:`<a class='btn' href='static/files/capitole-du-libre-sponsoring.pdf'>
-Télécharger le dossier de sponsoring
-</a>`
-
 
