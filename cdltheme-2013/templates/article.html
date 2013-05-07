@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block indextitle %}{% endblock %}
+{% block title %}{{ SITENAME }} - {{ article.title }}{% endblock title %}
+{% block description %}{{ article.title }} : {{ article.summary|striptags|truncate(60) }}{% endblock description %}
+
+{% block content %}
+	<div class='article'>
+		<h1>{{ article.title }}</h1>
+		<div>{{ article.content }}</div>
+		<div><em>{% include "metadata.html" %}</em></div>
+		<div>
+			<h2>Comments</h2>
+		 	{% include "twitter.html" %}
+			{% if DISQUS_SITENAME %}<div id="disqus_thread"></div>{% endif %}
+			{% if FACEBOOK_APPID %}<div class="fb-comments" data-href="{{ FQ_SITEURL }}/{{ article.url }}" data-num-posts="10" data-width="760"></div>{% endif %}
+		</div>
+	</div>	
+{% endblock %}

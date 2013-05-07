@@ -4,7 +4,7 @@ PELICANOPTS=
 
 BASEDIR=$(PWD)
 INPUTDIR=$(BASEDIR)/src
-OUTPUTDIR=$(BASEDIR)/output
+OUTPUTDIR=$(BASEDIR)/output-cdl2013
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
@@ -18,7 +18,7 @@ SSH_HOST=toulibre.org
 SSH_USER=toulibre
 #SSH_PORT=2222
 SSH_PORT=22
-SSH_TARGET_DIR=/home/toulibre/cdl2012
+SSH_TARGET_DIR=/home/toulibre/cdl2013
 
 DROPBOX_DIR=~/Dropbox/Public/
 

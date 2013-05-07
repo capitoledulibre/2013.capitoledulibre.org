@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+    {% for page in pages %}
+    {% if page.title == "Le Capitole du Libre" %}
+    <h1>{{ page.title }}</h1>
+    <div>{{page.content}}</div>
+    {% endif %}
+    {% endfor %}
+    
+	<section id="actus">
+        <h2>Les billets</h2>
+        
+        {% if articles %}
+		{% for article in (articles_page.object_list if articles_page else articles) %}
+
+		<div class='article'>
+			<h3><span class="date">{{ article.date.strftime('%d %b %Y') }} : </span><a href={{ article.url }} >{{ article.title }}</a></h3>
+			<p>{{ article.summary }}</p>
+		</div>	
+		{% endfor %}
+	</section>
+		{%endif%}
+
+
+{% endblock %}

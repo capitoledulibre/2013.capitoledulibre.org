@@ -5,9 +5,11 @@ AUTHOR = u"Toulibre"
 SITENAME = u"Capitole du Libre"
 SITEURL = 'http://localhost:8000'
 SITEDESCRIPTION = u'L\'événement autour de Logiciel Libre à Toulouse'
-THEME = 'cdltheme-2012'
+THEME = 'cdltheme-2013'
+OUTPUT_PATH = 'output-cdl2013/'
 CSS_FILE = 'styles.css'
-PLUGINS = ['pelican.plugins.html_rst_directive',]
+PLUGIN_PATH = '../pelican-plugins'
+PLUGINS = ['html_rst_directive',]
 
 DELETE_OUTPUT_DIRECTORY = True
 
@@ -25,8 +27,7 @@ PAGE_LANG_URL = '{slug}-{lang}.html'
 PAGE_LANG_SAVE_AS = '{slug}-{lang}.html'
 
 DISPLAY_PAGES_ON_MENU = False
-MENUITEMS = (('C\'est quoi ?', SITEURL + '/le-capitole-du-libre.html'),
-             ('Programme', SITEURL + '/programme.html'),
+MENUITEMS = (('Programme', SITEURL + '/programme.html'),
              ('Sponsors', SITEURL + '/sponsors.html'),
              ('Informations pratiques', SITEURL + '/informations-pratiques.html'),
              ('Communication', SITEURL + '/communication.html'),)
@@ -51,7 +52,7 @@ SOCIAL = (
           ('Identica', 'identica', 'http://identi.ca/group/toulibre'),
           ('Twitter', 'twitter', 'https://twitter.com/toulibreorg'),
           ('Google+', 'google', 'https://plus.google.com/b/109128243242581226442/109128243242581226442/posts'),
-          ('Lanyrd', 'lanyrd', 'http://lanyrd.com/2012/capitole-du-libre/'),
+          #~ ('Lanyrd', 'lanyrd', 'http://lanyrd.com/2013/capitole-du-libre/'),
          )
 
 TWITTER_USERNAME = 'Toulibreorg'

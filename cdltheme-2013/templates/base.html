@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="{{ DEFAULT_LANG }}">
+<head>
+        {% block head %}
+        <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="{{ SITEURL }}/theme/css/{{ CSS_FILE }}" type="text/css" />
+		<link href="{{ SITEURL }}/theme/images/favicon.ico" rel="shortcut icon">
+        
+        <meta name="description" content="{% block description %}{{ SITEDESCRIPTION }}{% endblock description %}" lang="fr" xml:lang="fr" />
+        {% endblock head %}
+</head>
+
+<body id="index" class="home {% block class %}{% endblock class %}">
+<div class="container">
+
+	<div class="row">
+        <div id="header" class="body span12">
+            <a href="{{ SITEURL }}/index.html" alt="accueil">
+				<img src="{{ SITEURL }}/theme/images/logo-cdl2013.png" class="align-center" alt="Logo capitole du libre" /></a>
+                <h1 class="hidden"><a href="{{ SITEURL }}">{{ SITENAME }} <strong>{{ SITESUBTITLE }}</strong></a></h1>
+            <p class="hidden">novembre 2013</p>
+            <p class="hidden">ENSEEIHT, Toulouse</p>
+        </div><!-- /#banner -->
+    </div>
+    <div class="navbar">
+        <div class="navbar-inner">
+            <div class="container">
+        <nav id="menu"><ul class="nav">
+            <li><a href="{{ SITEURL }}/index.html" class="brand">Capitole du Libre 2013</a></li>
+			{% for title, link in MENUITEMS %}
+				<li><a href="{{ link }}">{{ title }}</a></li>
+			{% endfor %}
+			{% if DISPLAY_PAGES_ON_MENU %}
+			  {% for p in PAGES %}
+				<li{% if p == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
+			  {% endfor %}
+			{% endif %}
+        </ul>
+        </nav><!-- /#menu -->
+        </div>
+       </div>
+      </div>
+      
+	<div id="main" class="row">
+        <div id="content" class="span9">
+        {% block content %}
+        {% endblock %}
+        </div>
+        
+        
+        <div id="sidebar" class="span3">
+            <div class="well ">
+<!--
+            <section id="sondage">
+                <h2>Vous y étiez ?</h2>
+                <p>Répondez au <a class='btn btn-info' href="{{ SITEURL }}/sondage" target="_blank" title="Donnez votre avis !" alt="questionnaire">questionnaire en ligne</a></p>
+-->
+            <section id="communiquer">
+
+                <h2>Communiquez !</h2>
+                
+            {% if SOCIAL %}
+                <div class="nav social-links">
+                    <a id="rss" href="{{ FEED_DOMAIN }}/{{ FEED_ATOM }}" type="application/atom+xml" rel="alternate">atom feed</a>
+                    {% if FEED_RSS %}
+                    <a id="rss" href="{{ FEED_DOMAIN }}/{{ FEED_RSS }}" type="application/rss+xml" rel="alternate">rss feed</a>
+                    {% endif %}
+
+                {% for name, id, link in SOCIAL %}
+                    <a id='{{ id }}' href="{{ link }}" target="_blank" >{{ name }}</a>
+                {% endfor %}
+                </div>
+            {% endif %}
+            <div class="twitter">
+            <a class="twitter-timeline"  href="https://twitter.com/search?q=capitoledulibre" data-widget-id="271400879708577794">Tweets concernant "capitoledulibre"</a>
+            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+            </div>
+            </section>
+            
+           
+            <section id="orga">
+                <h2>Organisateurs</h2>
+                <ul class="logos thumbnails row-fluid">
+                    <li class="span6"><a class="thumbnail" href="http://www.toulibre.org/" target="_blank">
+                        <img src="{{ SITEURL }}/static/logos/toulibre.png" width="155" height="45" alt="logo Toulibre"></a></li>
+                    <li class="span6"><a class="thumbnail" href="http://www.ubuntu-fr.org/" target="_blank">
+                        <img src="{{ SITEURL }}/static/logos/ubuntu-fr.png" width="155" height="46" alt="logo ubuntu-fr"></a></li>
+                </ul>
+
+            </section>
+            </div>
+            
+        </div><!-- end #sidebar -->
+    </div><!-- end #main -->
+    
+    <footer id="contentinfo" class="body">
+            <address id="about" class="vcard pull-left">
+                Pour tout renseignement : <a class="url org" href="mailto:contact@toulibre.org">contactez <span class="org">Toulibre</span></a>
+            </address>
+             - <a href="{{ SITEURL }}/mentions-legales-et-credits.html">Mentions légales</a>
+            <p class="pull-right"><em>Proudly powered by <a href="http://docs.notmyidea.org/alexis/pelican/">pelican</a>,
+            and obviously <a href="http://python.org">python</a>!</em></p>
+    </footer><!-- /#contentinfo -->
+    
+    
+    <script type="text/javascript" src="{{ SITEURL }}/theme/js/jquery.js"></script>  
+    <script type="text/javascript" src="{{ SITEURL }}/theme/js/bootstrap-dropdown.js"></script>
+    <script type="text/javascript" src="{{ SITEURL }}/theme/js/bootstrap-tab.js"></script>
+</body>
+</html>

@@ -1,0 +1,521 @@
+@import url('bootstrap.min.css');
+@import url('bootstrap-responsive.min.css');
+@import url('../fonts/ubuntu-fontfacekit/stylesheet.css');
+
+body {
+  font-size: 14px;
+  margin-top: 0;
+  color: #333;
+  background: url('../images/background.png') repeat center center transparent;
+}
+section, .section {
+  clear: left;
+  margin-bottom: 1.5em;
+}
+a:link, a:visited {
+  color: #666;
+}
+#main a:link, #main a:visited {
+  text-decoration: underline;
+  font-weight: bold;
+}
+a:hover {
+  color: #E4401F;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-bottom: 0.75em;
+  font-family: UbuntuRegular;
+}
+p {
+  font-size: 100%;
+  margin-bottom: 1em;
+}
+p small {
+  font-size: 62.75%;
+}
+h1 {
+  font-size: 187.5%;
+  line-height: 1.75em;
+}
+h1 small {
+  font-size: 112.5%;
+}
+h2 {
+  font-size: 150%;
+  line-height: 1.5em;
+}
+h2 small {
+  font-size: 112.5%;
+}
+h3 {
+  line-height: 1.6875em;
+  font-size: 112.5%;
+}
+h3 small {
+  font-size: 87.5%;
+}
+h4,
+h5,
+h6 {
+  line-height: 1.125em;
+}
+h4 {
+  font-size: 100%;
+}
+h4 small {
+  font-size: 75%;
+}
+h5 {
+  font-size: 75%;
+}
+h6 {
+  font-size: 68.75%;
+  color: #999999;
+  text-transform: uppercase;
+}
+h2, h3 {
+    clear: left;
+}
+h2 em {
+    font-size: smaller;
+}
+li {
+  font-size: 100%;
+  margin-bottom: 0.5em;
+}
+ul ul {
+	list-style-type: circle;
+}
+#header a,
+.logos a {
+  border-bottom: 0px;
+}
+
+h1 { color: #E4401F; }
+h2 { color: #999999; }
+h3 { color: #333333; }
+.hidden {
+  font: 0pt/0 a;
+  margin-top: -1px;
+  margin-left: -1px;
+  color: transparent;
+}
+.navbar {
+  margin-bottom: 0;
+}
+
+.align-left {
+  text-align: left;
+}
+img.align-left {
+  float: left;
+  clear: left;
+  margin: 0 10px 10px 0;
+}
+.align-right {
+  text-align: right;
+}
+img.align-right {
+  float: right;
+  clear: right;
+  margin: 0 10px 10px 0;
+}
+table, th, td {
+  vertical-align: top;
+  border: 1px solid #000;
+}
+td, th {
+  border-style: dotted;
+}
+th, td {
+  padding: 8px;
+}
+td.odd {
+  background-color: #F3F3F3;
+}
+
+/* social links *
+ * ------------ */
+
+.social-links a {
+  overflow: hidden;
+  text-indent: 100%;
+  white-space: nowrap;
+  font: 0/0 a;
+  padding: 16px;
+  background: url('../images/icons/feed-32x32.png') no-repeat 0 0;
+}
+.social-links a#identica {
+  background-image: url('../images/icons/identica-32x32.png');
+}
+.social-links a#twitter {
+  background-image: url('../images/icons/twitter-32x32.png');
+}
+.social-links a#google {
+  background-image: url('../images/icons/google+-32x32.png');
+}
+.social-links a#lanyrd {
+  background-image: url('../images/icons/lanyrd-32x32.png');
+}
+
+/* homepage *
+  --------- */
+
+#cdl2012 p {
+  text-align: center;
+  background: #e4401f;
+  -moz-box-shadow: -10px 10px 10px 0px #9b9b9b;
+  -webkit-box-shadow: -10px 10px 10px 0px #9b9b9b;
+  -o-box-shadow: -10px 10px 10px 0px #9b9b9b;
+  box-shadow: -10px 10px 10px 0px #9b9b9b;
+  -o-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  padding: 1em 0.5em;
+  height: 50px;
+}
+#cdl2012 p a {
+  display: block;
+  font-size: 1.3em;
+  border-bottom: none;
+  color: #FFFFFF;
+  line-height: 1.5em;
+}
+#cdl2012 p a span {
+  display: block;
+  color: #ffcc00;
+}
+#cdl2012 p a:hover span {
+  font-size: 1.5em;
+}
+
+/* header *
+  ------- */
+  
+#header {
+  text-align: center;
+  background-color: #E4401F;
+  min-height: auto;
+}
+#header img {
+  max-width: 100%;
+}
+#header, #header h1, #header h2 {
+  color: #FFFFFF;
+}
+
+/* content *
+  -------- */
+
+#content {
+  padding-top: 19px;
+  background-color: White;
+}
+
+#content h2 {
+    border-bottom: 1px solid #999999;
+}
+
+#description {
+  text-align: justify;
+  line-height: 150%;
+}
+#infos {
+  clear: both;
+}
+
+.community-event h3 {
+  background: url('../images/upt.png') no-repeat top center transparent;
+  background-size: 100% auto;
+  min-height: 90px;
+  max-width: 300px;
+  margin-bottom: 0;
+}
+#djangofr h3 {
+  background-image: url('../images/django-fr-toulouse.png');
+}
+#akademyfr h3 {
+  background-image: url('../images/akademy-fr.png');
+}
+#upt h3 {
+  background-image: url('../images/upt.png');
+}
+
+/* sidebar *
+  -------- */
+
+#sidebar .well {
+  border-left: 1px dotted #E4401F;
+  padding-top: 0px;
+}
+.well {
+  border: none;
+  -o-border-radius: 0;
+  -moz-border-radius: 0;
+  -webkit-border-radius: 0;
+  border-radius: 0;
+  background-color: #eeeeee;
+}
+#sidebar h2 {
+  font-size: 1.2em;
+  background-color: #eeeeee;
+  margin-left: -19px;
+  margin-right: -19px;
+  padding-left: 19px;
+  padding-right: 19px;
+  background: #dddddd; /* Old browsers */
+  background: -moz-linear-gradient(top,  #dddddd 0%, #eeeeee 50%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#dddddd), color-stop(50%,#eeeeee)); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top,  #dddddd 0%,#eeeeee 50%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top,  #dddddd 0%,#eeeeee 50%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(top,  #dddddd 0%,#eeeeee 50%); /* IE10+ */
+  background: linear-gradient(to bottom,  #dddddd 0%,#eeeeee 50%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dddddd', endColorstr='#eeeeee',GradientType=0 ); /* IE6-9 */
+}
+.thumbnails.row-fluid {
+  margin-left: 0;
+}
+
+.image-left {
+  float: left;
+  clear: left; 
+  margin: 0 1em 0.5em 0;
+  font-size: 85%;
+  font-style: italic;
+}
+
+/* Footer *
+ * ------ */
+
+footer {
+	padding: 1em 0;
+	border-top: 1px solid #CCC;
+}
+
+/* Sponsors *
+ * -------- */
+/* sponsors 2012 */
+#partenaires-argent div.section {
+	display: inline-block;
+}
+#ils-ont-sponsors-le-capitole-du-libre-2012 h4,
+#ils-ont-sponsors-le-capitole-du-libre-2012 p {
+    display: none;
+}
+
+
+#sponsors {
+    background-color: #FFF;
+}
+#sponsors .logos {
+	text-align: center;
+}
+
+#partenaires-or h2,
+#partenaires-argent h2,
+#partenaires-bronze h2{
+	text-align: left;
+}
+
+#sponsors .logos li {
+	display: inline-block;
+}
+#content .logo {
+    margin-bottom: 0.75em;
+    margin-right: 20px;
+}
+
+/* Programm *
+ * -------- */
+ 
+img.photo {
+    -webkit-box-shadow: 6px 6px 8px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    6px 6px 8px rgba(50, 50, 50, 0.75);
+    box-shadow:       6px 6px 8px rgba(50, 50, 50, 0.75);
+}
+
+table.programm {
+    background-color: #FFFFFF;
+    font-size: 0.9em;
+}
+
+table.programm .horaires {
+	width: 70px;
+}
+table.programm .cancelled del,
+#main table.programm .cancelled del a {
+    color: #AAA;
+} 
+
+table.programm td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+table.programm th {
+    vertical-align: middle;
+}
+
+#main table.programm a {
+    font-weight: bold;
+    color: #E4401F;
+    text-decoration: none;
+}
+#main table.programm a:hover {
+    text-decoration: underline;
+}
+.programme #content,
+.programme #main {
+    margin-left: 0;
+}
+.programme #content {
+    width: 100%;
+    margin-bottom: 1em;
+}
+.programme #sidebar {
+    display: none;
+}
+.programme #sidebar section {
+    width: 25%;
+    float: left;
+    clear: none;
+}
+.programme #sidebar section#sponsors {
+    width: 75%;
+}
+
+.confhour {
+    font-weight: bold;
+    font-size: 120%;
+    clear: both;
+}
+
+.biography {
+    font-style: italic;
+}
+ul.biography {
+    list-style-position: inside;
+}
+/*
+
+.contents {
+    background-color: #FFFFFF;
+    box-shadow: 0 0 8px #CCCCCC;
+    bottom: 10px;
+    position: fixed;
+    right: 10px;
+    width: 250px;
+    padding: 8px;
+}
+*/
+.contents ul {
+    list-style-image: url('../images/bullet.png');
+}
+
+/* Programm mobile *
+ * --------------- */
+
+.mobile-map #content {
+    padding-top: 0;
+    position: relative;
+}
+img#plan {
+    margin-left: 20px;
+}
+.room {
+    position: absolute;
+    border: 3px solid #e4401f;
+    border-radius: 5px;
+    display: none;
+}
+.home .entry {
+    background-color: none;
+    margin-bottom:0px;
+}
+
+.entry {
+    padding: 10px;
+    margin: 0;
+    width: auto;
+    background-color: #F5F5F5;
+    margin-bottom:10px;
+}
+
+.entry-footer {
+    display: none;
+}
+
+.entry-content {
+    margin-left: 0;
+    line-height: 16px;
+}
+
+.entry-day {
+    border-bottom: 1px solid #333;
+    color: #fff;
+    background-color: #e4401f;
+    margin-bottom: 20px;
+    font-size: 24px;
+    line-height: 34px;
+}
+
+.entry-header {
+    border-bottom: 1px solid #e4401f;
+    color: #282828;
+    margin-bottom: 20px;
+    font-size: 24px;
+    line-height: 34px;
+}
+
+.entry-header a {
+    color: #282828;
+    text-decoration: none;
+
+    font-size: 24px;
+    line-height: 34px;
+}
+
+.home .entry-header, .home .entry-header a {
+    line-height: 28px;
+    font-size: 20px;
+}
+
+.entry-more-link a {
+    float: right;
+}
+
+.entry-more-link a, .content-nav a {
+    background-color: #0058A7;
+    color: #FFFFFF;
+    /*padding: 2px 4px;*/
+    font-weight: bold;
+}
+
+
+/* Communication *
+ * ------------- */
+ 
+img.icon {
+    margin-right: 20px;
+}
+
+
+/* live *
+ * -----*/
+
+#track-menu {
+    width:100%;
+    font-size:16px;
+}
+
+#heure,
+#heure:hover {
+    color: white;
+}
+
