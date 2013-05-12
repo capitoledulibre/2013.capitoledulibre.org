@@ -2,6 +2,22 @@
 @import url('bootstrap-responsive.min.css');
 @import url('../fonts/ubuntu-fontfacekit/stylesheet.css');
 
+
+
+
+@font-face {
+    font-family: 'UbuntuRegular';
+    src: url('../fonts/ubuntu/Ubuntu-R-webfont.eot');
+    src: url('../fonts/ubuntu/Ubuntu-R-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/ubuntu/Ubuntu-R-webfont.woff') format('woff'),
+         url('../fonts/ubuntu/Ubuntu-R-webfont.ttf') format('truetype'),
+         url('../fonts/ubuntu/Ubuntu-R-webfont.svg#UbuntuRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
 body {
   font-size: 14px;
   margin-top: 0;
