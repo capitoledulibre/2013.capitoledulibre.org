@@ -18,7 +18,7 @@ SSH_HOST=toulibre.org
 SSH_USER=toulibre
 #SSH_PORT=2222
 SSH_PORT=22
-SSH_TARGET_DIR=/home/toulibre/cdl2013
+SSH_TARGET_DIR=/var/www/capitoledulibre.org/2013
 
 DROPBOX_DIR=~/Dropbox/Public/
 
