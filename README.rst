@@ -15,13 +15,14 @@ Installation
 
 	virtualenv pelican-sites
 
-2. installer pelican
+2. installer pelican et ses plugins
 
 ::
 
 	cd pelican-sites
 	source bin/activate
 	easy_install pelican
+    git clone https://github.com/getpelican/pelican-plugins.git
 
 3. cloner le repository
 
@@ -33,7 +34,7 @@ Installation
 
 ::
 
-	cd cdl2012
+	cd capitoledulibre-site
 	pelican-themes -s cdltheme-2012
 
 Générer le site en local
@@ -43,10 +44,10 @@ Générer le site à l'aide du script de développement :
 
 ::
 
-    cd cdl2012
+    cd capitoledulibre-site
 	./develop_server.sh start
     
-Puis visiter la page http://localhost:8000/ pour visualiser le site.
+Puis visiter la page http://localhost:8000/ pour visualiser le site. 
 
 Mettre en ligne le site
 -------------------------
