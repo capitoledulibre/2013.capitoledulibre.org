@@ -5,7 +5,7 @@ import sys
 sys.path.append('.')
 from pelicanconf import *
 
-SITEURL = 'http://www.capitoledulibre.org/2013'
+SITEURL = 'http://capitoledulibre.org/2013'
 
 MENUITEMS = (('Programme', SITEURL + '/programme.html'),
              ('Sponsors', SITEURL + '/sponsors.html'),
