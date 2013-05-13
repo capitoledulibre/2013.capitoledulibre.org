@@ -6,7 +6,7 @@ Le Capitole du Libre
 particulier, et au libre en général. Il est orienté à la fois vers le
 grand public et le public spécialisé et l'entrée est libre et gratuite.
 
-Organisé notemment par l'assocation `Toulibre`_, il a lieu chaque année en novembre depuis 2011.
+Organisé notamment par l'assocation `Toulibre`_, il a lieu chaque année en novembre depuis 2011.
 
 L’\ `édition 2013 du Capitole du Libre`_ en cours de préparation, n'hésitez pas à rejoindre la liste de discussion pour son organisation.
 
