@@ -13,29 +13,29 @@ Installation
 
 ::
 
-	virtualenv pelican-sites
+    virtualenv pelican-sites
 
 2. installer pelican et ses plugins
 
 ::
 
-	cd pelican-sites
-	source bin/activate
-	easy_install pelican
+    cd pelican-sites
+    source bin/activate
+    easy_install pelican
     git clone https://github.com/getpelican/pelican-plugins.git
 
 3. cloner le repository
 
 ::
 
-	git clone ...
+    git clone ...
 
 4. lier le thème dans système de fichiers
 
 ::
 
-	cd capitoledulibre-site
-	pelican-themes -s cdltheme-2012
+    cd capitoledulibre-site
+    pelican-themes -s cdltheme-2012
 
 Générer le site en local
 -------------------------
@@ -45,7 +45,7 @@ Générer le site à l'aide du script de développement :
 ::
 
     cd capitoledulibre-site
-	./develop_server.sh start
+    ./develop_server.sh start
     
 Puis visiter la page http://localhost:8000/ pour visualiser le site. 
 
@@ -57,7 +57,7 @@ vous aider de la commande
 
 ::
 
-	make rsync_upload
+    make rsync_upload
 
 Cette commande génère le site avec les paramètres pour la version de 
 production, puis synchronise les fichiers avec le serveur.
@@ -78,7 +78,7 @@ Les pages classiques sont dans le dossier ``src/pages``, mais sont générées
 à la racine du dossier ``output``.
 
 Les actualités (billets de blog) sont dans le dossier ``src/blog`` et 
-générées dans le dossier ``output/blog``.
+générées dans le dossier ``output-cdl2013/blog``.
 
 Format ``rst``
 ---------------
