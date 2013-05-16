@@ -8,7 +8,7 @@ grand public et le public spécialisé et l'entrée est libre et gratuite.
 
 Organisé notamment par l'assocation `Toulibre`_, il a lieu chaque année en novembre depuis 2011.
 
-L’\ `édition 2013 du Capitole du Libre`_ en cours de préparation, n'hésitez pas à rejoindre la liste de discussion pour son organisation.
+L’édition 2013 du Capitole du Libre est en cours de préparation, n'hésitez pas à rejoindre la liste de discussion pour son organisation.
 
 Le Capitole du Libre c'est…
 ===========================
