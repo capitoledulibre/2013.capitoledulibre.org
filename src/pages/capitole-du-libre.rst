@@ -45,7 +45,7 @@ Et avant le Capitole du Libre, il y avait déjà un événement nommé **Ubuntu 
 .. _2010: http://www.toulibre.org/ubuntuparty2010
 .. _2009: http://www.toulibre.org/ubuntuparty2009
 
-.. _édition 2013 du Capitole du Libre: http://www.capitoledulibre.org/2012/
+.. _édition 2013 du Capitole du Libre: http://www.capitoledulibre.org/2013/
 .. _l’ENSEEIHT: http://www.enseeiht.fr
 .. _DangoCon Toulouse: http://rencontres.django-fr.org/2012/tolosa/
 .. _`Drupal Camp`: http://paris2013.drupalcamp.fr/
