@@ -39,8 +39,8 @@ Nous suivre
 Presse
 ======
 
-* Contact Presse : Alexandre Lahaye, alexandre.lahaye@openwide.fr - 06 08 73 05 92
-* Communication : Emmanuelle Helly, e.helly@numajules.net - 06 10 05 69 02
+* Contact Presse : Alexandre Lahaye, alexandre.lahaye - at - openwide.fr - 06 08 73 05 92
+* Communication : Emmanuelle Helly, e.helly - at - numajules.net - 06 10 05 69 02
 
 
 Kit de communication

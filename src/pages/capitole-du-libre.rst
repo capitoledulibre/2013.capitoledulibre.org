@@ -8,16 +8,16 @@ grand public et le public spécialisé et l'entrée est libre et gratuite.
 
 Organisé notamment par l'assocation `Toulibre`_, il a lieu chaque année en novembre depuis 2011.
 
-L’édition 2013 du Capitole du Libre est en cours de préparation, n'hésitez pas à rejoindre la liste de discussion pour son organisation.
+L’édition 2013 du Capitole du Libre aura lieu les **23 et 24 novembre 2013**, n'hésitez pas à rejoindre la `liste de discussion toulibre-orga <http://www.toulibre.org/mailman/listinfo/toulibre-orga>`_ pour participer à son organisation.
 
 Le Capitole du Libre c'est…
 ===========================
 
 -  des conférences et ateliers
-
-  - grand public pour découvrir et comprendre le monde du Logiciel Libre
-  - techniques pour approfondir des thématiques comme le développement, l’administration système, les réseaux, etc.
-  - multimédia pour découvrir ou approfondir les outils libres de création graphique, vidéo et musicale
+    
+  * grand public pour découvrir et comprendre le monde du Logiciel Libre
+  * techniques pour approfondir des thématiques comme le développement, l’administration système, les réseaux, etc.
+  * multimédia pour découvrir ou approfondir les outils libres de création graphique, vidéo et musicale
 
 -  des conférences éclairs, ou *lightning talks*
 -  une install-party et des mini-conférences de découverte de Linux
