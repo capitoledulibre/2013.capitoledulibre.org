@@ -34,7 +34,7 @@ Nous suivre
 .. _Identica: http://identi.ca/group/toulibre
 .. _Twitter: https://twitter.com/toulibreorg
 .. _Google+: https://plus.google.com/b/109128243242581226442/109128243242581226442/posts
-.. _Lanyrd: http://lanyrd.com/2012/capitole-du-libre/
+.. _Lanyrd: http://lanyrd.com/2013/capitole-du-libre/
 
 Presse
 ======
