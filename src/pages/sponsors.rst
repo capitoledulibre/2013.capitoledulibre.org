@@ -9,7 +9,7 @@ Pour cela, **nous remercions nos sponsors pour le soutien qu'ils apportent à ce
 Pourquoi devenir sponsor
 """"""""""""""""""""""""""""
 
-Le Capitole du Libre a regroupé plus de 700 participants en 2012 et, grâce à sa notoriété grandissante et à des nouveautés prévues cette année, nous espérons encore plus de personnes pour l'édition 2012.
+Le Capitole du Libre a regroupé plus de 700 participants en 2012 et, grâce à sa notoriété grandissante et à des nouveautés prévues cette année, nous espérons encore plus de personnes pour l'édition 2013.
 
 Devenir sponsors de « Capitole du Libre », c'est :
 
