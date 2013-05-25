@@ -40,12 +40,12 @@ Retrouvez les précédentes éditions du Capitole du Libre, en `2011`_ et en `20
 
 Et avant le Capitole du Libre, il y avait déjà un événement nommé **Ubuntu Party** : en `2009`_ et en `2010`_
 
-.. _2012: /2012
-.. _2011: /2011
+.. _2012: http://2012.capitoledulibre.org/
+.. _2011: http://2011.capitoledulibre.org/
 .. _2010: http://www.toulibre.org/ubuntuparty2010
 .. _2009: http://www.toulibre.org/ubuntuparty2009
 
-.. _édition 2013 du Capitole du Libre: http://www.capitoledulibre.org/2013/
+.. _édition 2013 du Capitole du Libre: http://2013.capitoledulibre.org/
 .. _l’ENSEEIHT: http://www.enseeiht.fr
 .. _DangoCon Toulouse: http://rencontres.django-fr.org/2012/tolosa/
 .. _`Drupal Camp`: http://paris2013.drupalcamp.fr/
@@ -57,4 +57,4 @@ Ils ont sponsorisé l'édition 2012
 
 Voir la page des `sponsors de l'édition 2012`_
 
-.. _`sponsors de l'édition 2012`: http://www.capitoledulibre.org/2012/sponsors.html
+.. _`sponsors de l'édition 2012`: http://2012.capitoledulibre.org/sponsors.html
