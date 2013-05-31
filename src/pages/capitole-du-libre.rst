@@ -13,15 +13,15 @@ L’édition 2013 du Capitole du Libre aura lieu les **23 et 24 novembre 2013**,
 Le Capitole du Libre c'est…
 ===========================
 
--  des conférences et ateliers
-    
-  * grand public pour découvrir et comprendre le monde du Logiciel Libre
-  * techniques pour approfondir des thématiques comme le développement, l’administration système, les réseaux, etc.
-  * multimédia pour découvrir ou approfondir les outils libres de création graphique, vidéo et musicale
+- des conférences et ateliers
 
--  des conférences éclairs, ou *lightning talks*
--  une install-party et des mini-conférences de découverte de Linux
--  une conférence de clôture, suivie d’un cocktail offert à tous les participants
+  - grand public pour découvrir et comprendre le monde du Logiciel Libre
+  - techniques pour approfondir des thématiques comme le développement, l’administration système, les réseaux, etc.
+  - multimédia pour découvrir ou approfondir les outils libres de création graphique, vidéo et musicale
+
+- des conférences éclairs, ou *lightning talks*
+- une install-party et des mini-conférences de découverte de Linux
+- une conférence de clôture, suivie d’un cocktail offert à tous les participants
 
 Le Capitole du Libre a accueilli également…
 --------------------------------------------
