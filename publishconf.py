@@ -10,7 +10,8 @@ SITEURL = 'http://capitoledulibre.org/2013'
 MENUITEMS = (('Programme', SITEURL + '/programme.html'),
              ('Sponsors', SITEURL + '/sponsors.html'),
              ('Informations pratiques', SITEURL + '/informations-pratiques.html'),
-             ('Communication', SITEURL + '/communication.html'),)
+             ('Communication', SITEURL + '/communication.html'),
+             ('Blog', SITEURL + '/blog.html'),)
 
 DELETE_OUTPUT_DIRECTORY = True
 
