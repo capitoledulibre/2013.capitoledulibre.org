@@ -24,9 +24,13 @@ body {
   color: #333;
   background: url('../images/background.png') repeat center center transparent;
 }
+img {
+    max-width: 100%;
+}
 section, .section {
   clear: left;
   margin-bottom: 1.5em;
+  display: block;
 }
 a:link, a:visited {
   color: #666;
