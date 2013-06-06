@@ -9,7 +9,7 @@ THEME = 'cdltheme-2013'
 OUTPUT_PATH = 'output-cdl2013/'
 CSS_FILE = 'styles.css'
 PLUGIN_PATH = '../pelican-plugins'
-PLUGINS = ['html_rst_directive',]
+PLUGINS = ['html_rst_directive', 'ical']
 
 DELETE_OUTPUT_DIRECTORY = True
 

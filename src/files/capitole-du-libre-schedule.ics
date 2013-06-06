@@ -1,0 +1,147 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//lanyrd.com//Lanyrd//EN
+X-ORIGINAL-URL:http://lanyrd.com/2012/capitole-du-libre/capitole-du-libre-schedule.ics
+X-WR-CALNAME;CHARSET=utf-8:Capitole du Libre schedule
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VEVENT
+SUMMARY:Krita 2.5 : Découverte et fonctionnalités
+LOCATION:ENSEEIHT
+URL:http://lanyrd.com/2012/capitole-du-libre/scbtmd/
+UID:79a3bf65309dc4fa419919ff7986af61dcd2959a
+DTSTART:20121124T130000Z
+DTEND:20121124T140000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:Présentation et tutoriel premier pas en une heure pour la prise en main de l'outil de peinture numérique Krita 2.5. Une présentation sans diapositives\, mais uniquement en expérimentation directe avec le logiciel ouvert.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les logiciels libres c'est bien mais c'est trop compliqué pour moi
+LOCATION:A001\, ENSEEIHT
+URL:http://lanyrd.com/2012/capitole-du-libre/szypy/
+UID:e753377594939fb061047f9d7c70d07e9b74cc00
+DTSTART:20121124T130000Z
+DTEND:20121124T140000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:Une conférence où l'on va vous expliquer ce qu'est un logiciel libre pourquoi c'est effectivement bien et finalement pas si compliqué que ça des les utiliser au quotidien de sorte que la prochaine fois c'est vous qui ferez la conférence.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Internet haut débit citoyen en zone blanche ADSL : l'expérience de l'association tetaneutral.net
+LOCATION:A002\, ENSEEIHT
+URL:http://lanyrd.com/2012/capitole-du-libre/szyqf/
+UID:2786ebfae7b110b64f9b13b317b6fef340985cd3
+DTSTART:20121124T140000Z
+DTEND:20121124T150000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:L'association tetaneutral.net fondée en janvier 2011 est fournisseur d'acces internet\, hebergeur et operateur sans but lucratif sur Toulouse et sa région\, membre fondatrice de la Féderation FDN qui regroupe maintenant plus de 1000 adhérent(e)s. \n\nEn s'inspirant des travaux des pionniers tetaneutral.net a permis de connecter au haut débit des foyers inéligibles a l'ADSL ou au Wimax a Saint-Gaudens et Monès\, et a fournir une solution d'acces internet alternative a faible cout a débit symétrique pour les Toulousains. \n\nCette conférence vous montrera que ces solutions sont accessibles aux bonnes volontés citoyennes pour fabriquer de l'internet entre voisins en respectant la neutralité du réseau.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le libre dans l'éducation. Ses enjeux
+LOCATION:A001\, ENSEEIHT
+URL:http://lanyrd.com/2012/capitole-du-libre/szypz/
+UID:eaf2109d8e2a41a36bd05379917fbaa087424399
+DTSTART:20121124T140000Z
+DTEND:20121124T150000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:Les débuts des logiciels libres dans l'Education nationale remontent à Octobre 1998 avec la signature d'un accord-cadre entre le ministère et l'AFUL.\n\nDepuis cette date\, les logiciels et les ressources pédagogiques libres sont devenues une composante à part entière\, et de premier plan\, de l'informatique éducative\, sans que cela fut toujours un « long fleuve tranquille ».\n\nIl existe une réelle convergence entre\, d'une part\, les principes et la « philosophie » du libre et\, de l'autre\, les missions du système éducatif et la culture enseignante de diffusion et d'appropriation de la connaissance par tous.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wikipédia\, Wikimédia\, et après ?
+LOCATION:A001\, ENSEEIHT
+URL:http://lanyrd.com/2012/capitole-du-libre/szyqb/
+UID:f4fb453031480e17a3e0a257b9498607c4f7c4ab
+DTSTART:20121124T150000Z
+DTEND:20121124T160000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:Wikipédia a près de 12 ans d'expérience\, et une communauté de plusieurs centaines de milliers de contributeurs. Et après ? Quelles perspectives\, quelles avancées pour l'encyclopédie en ligne ? Comment améliorer encore ce projet gigantesque ? \n\nDe nombreuses pistes d'amélioration et d'ouverture vers de nouveaux contributeurs sont envisagées et mises en place par le mouvement Wikimédia\, de nombreux projets lancés dans les dernières années et pour le futur\, sur Wikipédia et l'ensemble des projets Wikimédia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Hardware : quand le matériel devient libre
+LOCATION:A002\, ENSEEIHT
+URL:http://lanyrd.com/2012/capitole-du-libre/szyqc/
+UID:aef4c30115405c562f9909cccfc1d258a3ced65b
+DTSTART:20121124T163000Z
+DTEND:20121124T173000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:"La prochaine révolution sera celle de l'impression 3D personnelle". Ce titre vu dans la presse grand public est la partie visible d'un mouvement de fond\, l'Open Hardware. Imprimante RepRap\, Arduino\, Global Village Constuction Set... \n\nAprès le logiciel\, le libre et l'open source s'étendent maintenant aux biens matériels\, avec une différence fondamentale : le hardware nécessite des ressources physiques et des processus de fabrication qui peuvent être complexes. \n\nComment fonctionne l'Open Hardware ? Quels sont les modèles sociaux et économiques de ses acteurs ? Quels impacts sur la société et sur la "vieille" industrie ? Nous verrons que l'Open Hardware peut conduire à une nouvelle révolution industrielle.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Libérer Internet: Sexe\, alcool et vie privée
+LOCATION:A001\, ENSEEIHT
+URL:http://lanyrd.com/2012/capitole-du-libre/szyqd/
+UID:d910b059bf03d3328c65972b1e09e2e590423d3a
+DTSTART:20121124T173000Z
+DTEND:20121124T183000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:Bob et Carole sont deux jeunes gens qui vous ressemblent. Une aventure\, une tromperie\, un secret inavouable\, voici le synopsys parfait d'un Harlequin pour jeunes filles en fleur. Et pourtant\, dès lors que l'eau de rose est diluée dans un océan commercial\, l'intimité de nos propagandistes n'est plus qu'une information à vendre. Bob et Carole ont un secret\, mais les requins ont aussi les leurs. C'est l'heure des révélations.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conférence de clôture sur la défense des libertés fondamentales sur Internet
+LOCATION:A001\, ENSEEIHT
+URL:http://lanyrd.com/2012/capitole-du-libre/scbtmc/
+UID:96c50dbd2a6e7c9bec8d5dbd8da6a6e34f43801f
+DTSTART:20121124T183000Z
+DTEND:20121124T193000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:Improvisation sur l'actualité d'Internet\, de la défense des libertés fondamentales sur Internet\, de la vie\, l'univers et tout le reste\nJérémie Zimmermann\, co-fondateur et animateur de la Quadrature du Net
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arduino : initiation par l'exemple
+LOCATION:
+URL:http://lanyrd.com/2012/capitole-du-libre/szypq/
+UID:b47de7a6a690426f0c35b26a004133a022576209
+DTSTART:20121125T090000Z
+DTEND:20121125T120000Z
+DESCRIPTION:Arduino est un circuit imprimé en matériel dit libre sur lequel se trouve un microcontrôleur programmable. C'est le type de circuit intégré que l'on retrouve en abondance dans nos véhicules\, ordinateurs\, téléphones... tout ce qui comporte un peu d'électronique embarquée.\n\nCela peut vous sembler être du domaine réservé de quelques geeks œuvrant dans un garage mais détrompez-vous ! C'est là toute la magie d'Arduino : révolutionner le domaine de l’électronique. Pour la première fois tout le monde peut essayer facilement et découvrir qu’il aime ça ! Avec "do it yourself" comme slogan\, le "hacking" devient accessible à toutes et à tous.\n\nLes recettes de ce succès ? Le choix de licences libres pour diffuser la connaissance et un fonctionnement communautaire pour l'enrichir et la partager. Nous sommes ici loin d'une approche simplement "open source" par opportunisme.\n\nNous verrons des moyens simples\, graphiques et amusants d'utiliser cette plate-forme : avec Scratch\, Squeak\, Physical etoys et d'autres moins graphiques qui feront appel à quelques notions simples de programmation que vous découvrirez.\n\nLes possibilités sont immenses : applications pédagogiques en collège ou lycée (technologie\, mathématiques\, physique\, ISN\, Exao...) voire au delà\, robotique ludo-éducative (trophées de robotique)\, système embarqués\, station météo\, détections et interactions diverses\, serveur web\, création artistique... Une seule limite\, votre créativité.\n\nCet atelier est accessible à des débutants.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Débuter avec Git
+LOCATION:ENSEEIHT
+URL:http://lanyrd.com/2012/capitole-du-libre/szypw/
+UID:e00e2c424095e61d5c202df98ce41b62c4a759f4
+DTSTART:20121125T090000Z
+DTEND:20121125T120000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:Vous voulez apprendre les bases de Git ? C'est session est pour vous. Mixant théorie et pratique\, cette sesion de 3 heures vous donnera les clés pour comprendre cet outil fanstatique mais un peu rugueux à prendre en main. \n\nSeront passés en revue les 3 concepts fondamendaux ainsi que les différentes manipulations qu'offre Git. Nous terminerons par les commandes de base.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le bon internaute par la pratique
+LOCATION:ENSEEIHT
+URL:http://lanyrd.com/2012/capitole-du-libre/szypt/
+UID:3a7f56771a02313a07fa95837734b33a2d63a4f1
+DTSTART:20121125T090000Z
+DTEND:20121125T120000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:La concentration oppressante du réseau Internet de ces dernières années est en train de lui faire perdre les trois valeurs qui ont fait son succès : liberté\, neutralité\, décentralisation. Que l'on soit acteur ou non de cette évolution\, notre vie privée est baffouée ou quotidien\, par une surveillance permanente de la part des fournisseurs de services comme des fournisseurs d'accès à Internet. Un certain nombre de bonnes pratiques sont à la disposition des internautes pour s'en prémunir. Cet atelier est l'occasion de les découvrir\, depuis les réflexes accessibles à tous jusqu'aux solutions d'autohébergement.\n\nL'atelier sera progressif : il commencera avec des manipulations accessibles à tous\, et terminera sur des aspects plus pointus. Pour la fin de l'atelier\, il sera recommandé d'avoir une installation de Linux bidouillable (par exemple une distribution Debian ou Ubuntu installée dans un Virtualbox).
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OpenStreetMap : sources de données\, JOSM et autres outils du contributeur
+LOCATION:ENSEEIHT
+URL:http://lanyrd.com/2012/capitole-du-libre/szypr/
+UID:db9150bb5f6e7c85dcbdd73f3fff65db00018475
+DTSTART:20121125T130000Z
+DTEND:20121125T160000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:Contribuer à OpenStreetMap est facile\, un navigateur et un accès à Internet suffisent. Nous verrons qu'il n'en faut pas plus pour démarrer. Ensuite\, lorsque le contributeur se prend au jeu et qu'il se lance dans des réalisations plus ambitieuses\, des outils plus élaborés sont nécessaires. JOSM est de ceux-ci. Mais la puissance et la richesse se paient en complexité et si cet éditeur s'avère ergonomique et efficace à l'usage\, sa prise en main exige un peu d'apprentissage. Pour ce faire\, rien ne vaut un peu de pratique guidée et c'est tout l'objet de cet atelier au cours duquel nous découvrirons les diverses sources d'informations exploitables et plusieurs autres outils qui gagnent à être connus.\n\nOpenStreetMap (OSM) est un projet de données cartographiques libres. JOSM est un éditeur de données géographiques pour OpenStreetMap.\n\nLe public visé par cet atelier sont les curieux\, débutants\, contributeurs ne connaissant pas JOSM ou ayant envie de faire partager leur expérience à son sujet.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Se perfectionner avec Git
+LOCATION:ENSEEIHT
+URL:http://lanyrd.com/2012/capitole-du-libre/szypx/
+UID:6fa1cb4464cab89798cb6ceab0548212e083058b
+DTSTART:20121125T130000Z
+DTEND:20121125T160000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:Vous utilisez Git de manière minimale et souhaiteriez aller plus loin ? Nous passerons en revue dans cette atelier de 3h différentes techniques de travail collaboratif ainsi que gestion des la gestion des branches\, hantise de tout utilisateur SVN :).\n\nLes participants doivent apporter leur propre ordinateur\, possédant une version récente de Git installée. Il est également recommandé d'amener une multiprise électrique.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;CHARSET=utf-8:Capitole du Libre
+LOCATION;CHARSET=utf-8:ENSEEIHT\, 2\, rue Charles CAMICHEL B.P. 7122 31071 TOULOUSE Cedex 7\, 31071
+URL:http://lanyrd.com/2012/capitole-du-libre/
+UID:1df5f61381c948cfcb6e25cade5f96045dd90f99
+DESCRIPTION:Événement majeur autour du Logiciel Libre à Toulouse\n\nhttp://lanyrd.com/cgtkd
+DTSTART;VALUE=DATE:20121124
+DTEND;VALUE=DATE:20121126
+GEO:43.6022973938;1.45454333439
+END:VEVENT
+END:VCALENDAR
