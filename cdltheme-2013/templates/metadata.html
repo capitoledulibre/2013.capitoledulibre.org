@@ -1,4 +1,9 @@
-<a class="more" href="{{ SITEURL }}/{{ article.url }}">{{ article.date.strftime('%d %b %Y') }}</a> 
+<span class="post-date">
+    <span class="date-d">{{ article.date.strftime('%d') }}</span>
+    <span class="date-m"> {{ article.date.strftime('%b') }}</span>
+</span>
+<p class="small">
 {% if article.author %}by <a class="url fn" href="{{ SITEURL }}/{{ article.author.url }}">{{ article.author }}</a>{% endif %} 
-in <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
+in <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a></br>
 {% if article.tags %}tags: {% for tag in article.tags %}<a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a> {% endfor %}{% endif %}
+</p>

@@ -318,6 +318,36 @@ footer {
 	border-top: 1px solid #CCC;
 }
 
+/* Blog *
+ * ---- */
+.article {
+    position: relative;
+    border-top: 1px solid #AAA;
+}
+#content .article h2 {
+    border-bottom: 0;
+}
+.post-date {
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    display: block;
+    position: absolute;
+    top: 0px;
+    right: 0;
+    background-color: #AAA;
+    color: #FFF;
+}
+.post-date .date-d {
+    display: block;
+    font-size: 2em;
+    margin-top: 10px;
+}
+.post-date .date-y,
+.post-date .date-m {
+    font-size: 0.8em;
+}
+
 /* Sponsors *
  * -------- */
 /* sponsors 2012 */
