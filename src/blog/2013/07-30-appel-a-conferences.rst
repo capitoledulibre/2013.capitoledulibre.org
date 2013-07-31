@@ -5,22 +5,25 @@ Appel à conférence
 :category: conférences
 :date: 2013-07-30
 :summary: Appel à conférence pour le capitole du libre
-:author: Aymeric Petit
-
-
+:author: Toulibre
 
 L'association Toulibre organise le **samedi 23 et dimanche 24 novembre 2013** l'événement “Capitole du Libre” à Toulouse. Composé de conférences, d'ateliers, de démonstrations et d'une install-party, cet événement s'adresse autant au grand public désireux de découvrir le monde du Logiciel Libre et ses enjeux, que les utilisateurs et développeurs de Logiciels Libres souhaitant approfondir différents sujets techniques.
 
 Dans le cadre de cet événement, nous proposons plusieurs thèmes :
 
-* grand public
-* technique (système, développement, …)
-* multimédia
+* grand public (découverte, éducation, juridique, biens communs, …)
+* technique (système, développement, réseau, …)
+* multimédia (graphisme, vidéo, son, …)
+
+Vous pouvez consulter le `programme de 2012`_ pour avoir quelques idées.
+
+Formats possibles
+=================
 
 Les propositions peuvent être de plusieurs formes :
 
 * Conférences le samedi (1 heure)
-* mini-conférences le samedi (15-20 minutes)
+* Mini-conférences le samedi (15-20 minutes)
 * Ateliers le dimanche (1h30 ou 3h)
 
 Les sujets acceptés doivent présenter un lien avec le monde du Logiciel Libre au sens large (logiciel libre, culture libre, open hardware, neutralité du Net). Il peut s'agir de la présentation d'un projet de Logiciel Libre, d'un retour d'expérience, etc. Le public ciblé peut aussi bien être néophyte que spécialiste.
@@ -40,7 +43,10 @@ Ateliers
 
 Cela peut être soit un atelier d'initiation,  d'approfondissement, ou d'échanges entre l'intervenant et les participants. Les participants sont invités à amener leur propre machine. L'entrée est libre, sur inscription.
 
-Les personnes intéressées doivent soumettre d'ici au **15 septembre 2013**, leur proposition de conférence à l'adresse contact <at> capitoledulibre.org, comportant:
+Modalités
+==========
+
+Les personnes intéressées doivent soumettre d'ici au **15 septembre 2013**, leur proposition de conférence à l'adresse **contact <at> capitoledulibre.org**, comportant:
 
 * Titre
 * Un résumé de leur intervention (5 à 10 lignes)
@@ -50,12 +56,15 @@ Les personnes intéressées doivent soumettre d'ici au **15 septembre 2013**, le
 * Nombre de personnes maximum pour un atelier
 * Une mini-biographie du ou des intervenant(e)s (3 à 5 lignes)
 * Une photographie de l'intervenant (ou un avatar)
-* Compte twitter (facultatif)
+* Compte identi.ca, twitter, googleplus, … (facultatif)
 
 L'acceptation ou le rejet des propositions sera notifiée au plus tard le **7 octobre 2013**, et le programme sera publié vers le 15 octobre.
 
-Nous comptons sur la participation de tous, en particulier de la communauté du Logiciel Libre de Toulouse et de sa région.
+Nous comptons sur la participation de tous, en particulier de la communauté du Logiciel Libre.
 
 ---- 
 
-Aymeric Petit, pour l'association Toulibre
+L'association Toulibre
+
+
+.. _`programme de 2012`: http://2012.capitoledulibre.org/programme.html
