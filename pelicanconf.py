@@ -8,7 +8,7 @@ SITEDESCRIPTION = u'L\'événement autour de Logiciel Libre à Toulouse'
 THEME = 'cdltheme-2013'
 OUTPUT_PATH = 'output-cdl2013/'
 CSS_FILE = 'styles.css'
-PLUGIN_PATH = '../pelican-plugins'
+PLUGIN_PATH = '../src/pelican-plugins'
 PLUGINS = ['html_rst_directive',]
 
 DELETE_OUTPUT_DIRECTORY = True
