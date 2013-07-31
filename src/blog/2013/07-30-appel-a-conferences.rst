@@ -1,5 +1,5 @@
 ====================================
-Appel à conférence
+Appel à conférences
 ====================================
 
 :category: conférences
