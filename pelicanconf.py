@@ -50,9 +50,9 @@ LINKS =  (
 
 # Social widget
 SOCIAL = (
-          ('Identica', 'identica', 'http://identi.ca/group/toulibre'),
+          ('Identica', 'identica', 'http://identi.ca/toulibreorg'),
           ('Twitter', 'twitter', 'https://twitter.com/toulibreorg'),
-          ('Google+', 'google', 'https://plus.google.com/b/109128243242581226442/109128243242581226442/posts'),
+          ('Google+', 'google', 'https://plus.google.com/+toulibre'),
           ('Lanyrd', 'lanyrd', 'http://lanyrd.com/2013/capitole-du-libre/'),
          )
 

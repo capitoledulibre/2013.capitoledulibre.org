@@ -19,31 +19,29 @@ Le Capitole du Libre c'est…
   - techniques pour approfondir des thématiques comme le développement, l’administration système, les réseaux, etc.
   - multimédia pour découvrir ou approfondir les outils libres de création graphique, vidéo et musicale
 
-- des conférences éclairs, ou *lightning talks*
 - une install-party et des mini-conférences de découverte de Linux
+- un espace de démonstration de logiciels libres, où les visiteurs pourront poser leurs questions, participer à des mini-ateliers
 - une conférence de clôture, suivie d’un cocktail offert à tous les participants
 
-Le Capitole du Libre a accueilli également…
+Le Capitole du Libre accueille également…
 --------------------------------------------
 
 C’est l’occasion de réunir des communautés du libre en hébergeant un de
-leurs événements, par exemple :
+leurs événements. Cette année, le Capitole du Libre accueille :
 
-- le `Drupal Camp`_ en 2011
-- le `DangoCon Toulouse`_ en 2012
-- l'`Akademy-fr` chaque année
+- une conférence **Akademy-fr**, sur l'environnement de bureau KDE
+- une `conférence FranceJS`_, sur le langage JavaScript
+- un workshop **OpenStack**, la solution opensource de cloud
+- un `workshop Lua`_, regroupant la communauté autour du language Lua
 
-Les éditions précédentes
-==========================
+.. _`workshop Lua`: http://www.lua.org/wshop13.html
+.. _`conférence FranceJS`: http://francejs.org/conf2013.html
 
-Retrouvez les précédentes éditions du Capitole du Libre, en `2011`_ et en `2012`_.
 
-Et avant le Capitole du Libre, il y avait déjà un événement nommé **Ubuntu Party** : en `2009`_ et en `2010`_
+Appel à conférences
+====================
 
-.. _2012: http://2012.capitoledulibre.org/
-.. _2011: http://2011.capitoledulibre.org/
-.. _2010: http://www.toulibre.org/ubuntuparty2010
-.. _2009: http://www.toulibre.org/ubuntuparty2009
+L'`appel à conférences et ateliers`_ pour le Capitole du Libre 2013 est lancé, vous pouvez faire vos propositions jusqu'au 15 septembre 2013. Le programme sera en ligne vers le 7 octobre.
 
 .. _édition 2013 du Capitole du Libre: http://2013.capitoledulibre.org/
 .. _l’ENSEEIHT: http://www.enseeiht.fr
@@ -51,10 +49,4 @@ Et avant le Capitole du Libre, il y avait déjà un événement nommé **Ubuntu 
 .. _`Drupal Camp`: http://paris2013.drupalcamp.fr/
 .. _programme complet: programme.html
 .. _`Toulibre`: http://toulibre.org/
-
-Ils ont sponsorisé l'édition 2012
--------------------------------------
-
-Voir la page des `sponsors de l'édition 2012`_
-
-.. _`sponsors de l'édition 2012`: http://2012.capitoledulibre.org/sponsors.html
+.. _`appel à conférences et ateliers`: http://2013.capitoledulibre.org/blog/2013/07-30-appel-a-conferences.html
