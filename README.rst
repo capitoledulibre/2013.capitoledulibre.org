@@ -9,6 +9,12 @@ Il suffit d'installer pelican dans un virtualenv en local pour générer le site
 Installation
 =============
 
+1. prérequis 
+
+* python
+* virtualenv (paquet python-virtualenv avec Ubuntu)
+* make
+
 1. créer un dossier virtualenv
 
 ::
@@ -35,7 +41,7 @@ Installation
 ::
 
     cd capitoledulibre-site
-    pelican-themes -s cdltheme-2012
+    pelican-themes -s cdltheme-2013
 
 Générer le site en local
 -------------------------
@@ -45,7 +51,8 @@ Générer le site à l'aide du script de développement :
 ::
 
     cd capitoledulibre-site
-    ./develop_server.sh start
+    make clean
+    make devserve
     
 Puis visiter la page http://localhost:8000/ pour visualiser le site. 
 
