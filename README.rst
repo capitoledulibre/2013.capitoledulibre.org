@@ -104,3 +104,13 @@ L'essentiel à savoir est qu'il faut mettre un titre principal à toute page:
 et que les liens sont notés ```nom du lien <url>`_``
 
 Vous pouvez également utiliser le `convertisseur en ligne Pandoc <http://johnmacfarlane.net/pandoc/try>`_ de John Mc Farlane.
+
+Ajouter un sponsor
+------------------
+
+- créer un fichier pour le sponsor dans ``src/sponsors``
+- inclure ce fichier dans la page ``src/pages/sponsors.rst``
+
+::
+
+  .. include:: ../sponsors/kdab.rst

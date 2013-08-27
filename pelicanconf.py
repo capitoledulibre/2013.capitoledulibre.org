@@ -14,7 +14,7 @@ PLUGINS = ['html_rst_directive',]
 DELETE_OUTPUT_DIRECTORY = True
 
 ARTICLE_DIR = 'blog'
-ARTICLE_EXCLUDES = ('','blog','intervenants',)
+ARTICLE_EXCLUDES = ('','blog','intervenants','sponsors',)
 PAGE_DIR = 'pages'
 PAGE_EXCLUDES = ('blog','intervenants',)
 ARTICLE_URL = 'blog/{date:%Y}/{date:%m}-{date:%d}-{slug}.html'
