@@ -37,9 +37,6 @@ Partenaires Or
 
 .. include:: ../sponsors/kdab.rst
 
-.. include:: ../sponsors/makina-corpus.rst
-
-.. include:: ../sponsors/sierra-wireless.rst
 
 Partenaires presse
 ==================

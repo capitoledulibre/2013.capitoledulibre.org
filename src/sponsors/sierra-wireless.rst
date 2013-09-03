@@ -8,6 +8,8 @@ Sierra Wireless
   :class: logo
   :align: left
 
+.. class:: span6
+
 `Sierra Wireless`_ provides mobile broadband modems, wireless modules, wireless gateways and routers, and an M2M Cloud platform.
 
 .. _Sierra Wireless: http://www.sierrawireless.com/
