@@ -4,7 +4,43 @@ Sponsors
 
 Le Capitole du Libre fait venir des intervenants parfois de très loin, et nous tenons à ce que l'accès aux conférences et aux ateliers soit gratuit et ouvert à tous.
 
-Pour cela, **nous remercions nos sponsors pour le soutien qu'ils apportent à cette manifestation**. Certaines entreprises soutiennent le Capitole du Libre depuis le début ou presque : Makina Corpus, KDAB, C-S, Objectif Libre, Solulibre et Free Electrons.
+Pour cela, **nous remercions nos sponsors pour le soutien qu'ils apportent à cette manifestation**. Certaines entreprises soutiennent le Capitole du Libre depuis le début ou presque : Makina Corpus, KDAB, Objectif Libre et Solulibre.
+
+Partenaire Platine
+===================
+
+.. include:: ../sponsors/makina-corpus.rst
+
+Partenaires Or
+===============
+
+.. include:: ../sponsors/kdab.rst
+
+.. include:: ../sponsors/sierra-wireless.rst
+
+
+Partenaires Argent
+==================
+
+.. include:: ../sponsors/objectif-libre.rst
+
+
+Partenaires Bronze
+==================
+
+.. include:: ../sponsors/solulibre.rst
+
+Partenaires institutionnels
+============================
+
+.. include:: ../sponsors/mairie-toulouse.rst
+
+
+Partenaires presse
+==================
+
+.. include:: ../sponsors/toulouse-metropole.rst
+
 
 Pourquoi devenir sponsor
 =========================
@@ -31,25 +67,3 @@ Affiches, flyers, articles dans la presse grand public et spécialisée, intervi
 :raw-html:`<a class='btn' href='/static/files/capitole-du-libre-sponsoring.pdf'>
 Télécharger le dossier de sponsoring
 </a>`
-
-Partenaires Or
-===============
-
-.. include:: ../sponsors/kdab.rst
-
-
-Partenaires presse
-==================
-
-.. image:: static/logos/toulouse-metropole.gif
-  :width: 150px
-  :alt: Toulouse Metropole
-  :target: http://www.toulouse-metropole.fr/
-  :class: logo
-
-.. image:: static/logos/toulouse-mairie.gif
-  :width: 150px
-  :alt: Mairie de Toulouse
-  :target: http://www.toulouse.fr/
-  :class: logo
-
