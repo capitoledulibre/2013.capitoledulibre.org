@@ -1,3 +1,7 @@
+.. class:: span2
+
+OSones
+--------
 
 .. image:: static/logos/osones.png
   :width: 120px

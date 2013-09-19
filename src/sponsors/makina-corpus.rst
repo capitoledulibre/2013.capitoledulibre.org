@@ -1,8 +1,10 @@
 Makina Corpus
 --------------
 
+.. class:: span3
+
 .. image:: static/logos/makina-corpus.png
-  :width: 300px
+  :width: 250px
   :alt: Makina Corpus
   :target: `Makina Corpus`_
   :class: logo

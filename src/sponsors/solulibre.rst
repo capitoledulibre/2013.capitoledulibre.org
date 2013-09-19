@@ -1,3 +1,7 @@
+.. class:: span2
+
+Solulibre
+---------
 
 .. image:: static/logos/solulibre.png
   :width: 120px
