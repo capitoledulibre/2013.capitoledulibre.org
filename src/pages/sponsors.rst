@@ -6,15 +6,15 @@ Le Capitole du Libre fait venir des intervenants parfois de très loin, et nous 
 
 Pour cela, **nous remercions nos sponsors pour le soutien qu'ils apportent à cette manifestation**. Certaines entreprises soutiennent le Capitole du Libre depuis le début ou presque : Makina Corpus, KDAB, Objectif Libre et Solulibre.
 
-Partenaire Platine
-===================
-
-.. include:: ../sponsors/makina-corpus.rst
 
 Partenaires Or
 ===============
 
 .. include:: ../sponsors/kdab.rst
+
+.. include:: ../sponsors/logilab.rst
+
+.. include:: ../sponsors/makina-corpus.rst
 
 .. include:: ../sponsors/sierra-wireless.rst
 
@@ -27,10 +27,20 @@ Partenaires Argent
 .. include:: ../sponsors/objectif-libre.rst
 
 
+.. class:: span4
+
+.. include:: ../sponsors/objectif-libre.rst
+
+
 Partenaires Bronze
 ==================
 
+.. include:: ../sponsors/n-france.rst
+
+.. include:: ../sponsors/o-sones.rst
+
 .. include:: ../sponsors/solulibre.rst
+
 
 Partenaires institutionnels
 ============================
