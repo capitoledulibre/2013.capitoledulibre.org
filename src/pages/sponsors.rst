@@ -22,6 +22,8 @@ Partenaires Or
 Partenaires Argent
 ==================
 
+.. class:: span4
+
 .. include:: ../sponsors/objectif-libre.rst
 
 

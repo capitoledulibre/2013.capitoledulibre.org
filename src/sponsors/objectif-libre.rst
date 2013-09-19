@@ -6,7 +6,6 @@ Objectif Libre
   :alt: Objectif Libre
   :target: `Objectif Libre`_
   :class: logo
-  :align: left
 
 Créée en 2009, `Objectif Libre`_ est par vocation une société de services spécialisée en Logiciels Libres.
 
