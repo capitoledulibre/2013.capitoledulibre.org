@@ -10,6 +10,7 @@ Sierra Wireless
 
 .. class:: span6
 
-`Sierra Wireless`_ provides mobile broadband modems, wireless modules, wireless gateways and routers, and an M2M Cloud platform.
+`Sierra Wireless`_ (NASDAQ: SWIR) (TSX: SW) est le leader mondial du « machine-to-machine » (M2M) et simplifie le monde connecté en fournissant des solutions sans fil intelligentes. Nous offrons la gamme la plus complète de modules embarqués et de passerelles 2G, 3G et 4G, parfaitement intégrés à notre plateforme de services sécurisés M2M Cloud.
+
 
 .. _Sierra Wireless: http://www.sierrawireless.com/
