@@ -45,6 +45,8 @@ Partenaires institutionnels
 Partenaires presse
 ==================
 
+.. include:: ../sponsors/editions-diamonds.rst
+
 .. include:: ../sponsors/toulouse-metropole.rst
 
 
