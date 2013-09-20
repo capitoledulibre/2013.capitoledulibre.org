@@ -1,4 +1,4 @@
-.. class:: span2
+.. class:: span2 hidden-title
 
 N-France
 --------

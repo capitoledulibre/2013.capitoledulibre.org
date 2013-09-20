@@ -1,3 +1,7 @@
+.. class:: hidden-title
+
+Toulouse Métropole
+-------------------
 
 .. image:: static/logos/toulouse-metropole.gif
   :width: 150px

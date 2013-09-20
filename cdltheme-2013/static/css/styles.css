@@ -117,6 +117,12 @@ ul ul {
 h1 { color: #E4401F; }
 h2 { color: #999999; }
 h3 { color: #333333; }
+.hidden-title h1, 
+.hidden-title h2, 
+.hidden-title h3, 
+.hidden-title h4,
+.hidden-title h5,
+.hidden-title h6,
 .hidden {
   font: 0pt/0 a;
   margin-top: -1px;

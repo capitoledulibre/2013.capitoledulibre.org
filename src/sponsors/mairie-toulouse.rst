@@ -1,6 +1,9 @@
+.. class:: hidden-title
 
-.. image:: static/logos/toulouse-mairie.gif
-  :width: 150px
+Mairie de Toulouse
+-------------------
+
+.. image:: static/logos/mairie-toulouse.png
   :alt: Mairie de Toulouse
   :target: http://www.toulouse.fr/
   :class: logo
