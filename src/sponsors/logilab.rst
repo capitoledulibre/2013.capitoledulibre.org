@@ -10,8 +10,8 @@ Logilab
   :class: logo
   :align: left
 
-.. class:: span4
+.. class:: span5
 
-`Logilab`_ 
+`Logilab`_ Logilab développe des logiciels, et propose du conseil et des formations de haut niveau dans les domaines de l'informatique scientifique et du web sémantique, en utilisant des outils et méthodes agiles.
 
-.. _Logilab: http://www.makina-corpus.com/
+.. _Logilab: http://www.logilab.fr/
