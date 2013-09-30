@@ -3,12 +3,9 @@
 N-France
 --------
 
-.. image:: /logos/n-france.png
-  :width: 250px
+.. image:: /logos/nfrance-conseil.png
   :alt: N-France
   :target: `N-France`_
   :class: logo
-  :align: left
-
 
 .. _N-France: http://www.n-france.com/

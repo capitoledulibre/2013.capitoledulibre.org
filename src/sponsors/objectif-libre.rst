@@ -2,7 +2,7 @@ Objectif Libre
 --------------
 
 .. image:: /logos/objectif-libre.png
-  :width: 180px
+  :width: 200px
   :alt: Objectif Libre
   :target: `Objectif Libre`_
   :class: logo
