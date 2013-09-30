@@ -21,6 +21,6 @@ Cette année auront également lieu plusieurs événements de communautés du li
 	:format: html
 
 :raw-html:`<a class='btn' href='/sponsors.html'>Plus d'information sur le sponsoring</a> <a 
-class='btn' href='/static/files/capitole-du-libre-sponsoring.pdf'>
+class='btn' href='/files/capitole-du-libre-sponsoring.pdf'>
 Télécharger le dossier de sponsoring
 </a>`

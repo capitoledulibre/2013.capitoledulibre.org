@@ -1,7 +1,7 @@
 E-novance
 --------------
 
-.. image:: static/logos/enovance.png
+.. image:: /logos/enovance.png
   :width: 180px
   :alt: E-Novance
   :target: `E-Novance`_

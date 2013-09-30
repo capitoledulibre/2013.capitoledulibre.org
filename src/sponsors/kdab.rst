@@ -3,7 +3,7 @@ KDAB
 
 .. class:: span3
 
-.. image:: static/logos/kdab.png
+.. image:: /logos/kdab.png
   :width: 250px
   :alt: KDAB
   :target: `KDAB`_

@@ -3,7 +3,7 @@ Sierra Wireless
 
 .. class:: span3
 
-.. image:: static/logos/sierra-wireless.png
+.. image:: /logos/sierra-wireless.png
   :width: 250px
   :alt: Sierra Wireless
   :target: `Sierra Wireless`_

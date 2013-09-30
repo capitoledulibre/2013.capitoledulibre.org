@@ -3,7 +3,7 @@
 Éditions Diamonds
 -------------------
 
-.. image:: static/logos/editions-diamonds.jpeg
+.. image:: /logos/editions-diamonds.jpeg
   :alt: Éditions Diamonds
   :target: http://boutique.ed-diamond.com//
   :class: logo

@@ -25,10 +25,10 @@ Venir en train
 
 Toulouse est désservi par la gare de *Toulouse Matabiau*. Elle est située à 20 minutes à pied du lieu des conférences (voir plan ci-dessous). Sinon, en métro, prendre la ligne A en direction de Basso Cambo et descendre à Jean-Jaurès (une station), puis prendre la ligne B en direction de Ramonville et descendre à François Verdier (une station). Vous êtes alors à seulement 5 minutes à pied de l'ENSEEIHT.
 
-.. image:: static/files/plan-gare-enseeiht.png
+.. image:: /files/plan-gare-enseeiht.png
   :width: 540px
   :alt: Plan de la gare de Toulouse Matabiau à l'ENSEEIHT
-  :target: static/files/plan-gare-enseeiht.png
+  :target: /files/plan-gare-enseeiht.png
 
 Nous recommandons le site `Capitaine Train <http://www.capitainetrain.com/>`_ pour vos réservations de train.
 
@@ -43,10 +43,10 @@ L'`aéroport de Toulouse Blagnac <http://www.toulouse.aeroport.fr/>`_ est proche
 
 Pour venir de l'aéroport à l'ENSEEIHT, prendre la navette Tisséo aéroport vers le centre ville de Toulouse (il n'y a qu'une seule navette, vous ne pouvez pas vous tromper). Descendre à l'arrêt « Jean-Jaurès », puis suivre le plan ci-dessous (800 mètres à pied).
 
-.. image:: static/files/plan-jean-jaures-enseeiht.png
+.. image:: /files/plan-jean-jaures-enseeiht.png
   :width: 540px
   :alt: Plan de la gare de Toulouse Matabiau à l'ENSEEIHT
-  :target: static/files/plan-jean-jaures-enseeiht.png
+  :target: /files/plan-jean-jaures-enseeiht.png
 
 Hébergement
 -----------

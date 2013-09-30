@@ -3,7 +3,7 @@ Logilab
 
 .. class:: span3
 
-.. image:: static/logos/logilab.png
+.. image:: /logos/logilab.png
   :width: 250px
   :alt: Logilab
   :target: `Logilab`_

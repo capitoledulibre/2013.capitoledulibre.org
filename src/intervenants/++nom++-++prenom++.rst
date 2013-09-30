@@ -1,4 +1,4 @@
-.. image:: static/photos/adrienne-charmet-alix.jpg
+.. image:: photos/adrienne-charmet-alix.jpg
   :width: 150px
   :alt: Adrienne Charmet-Alix
   :align: left

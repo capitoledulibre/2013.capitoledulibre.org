@@ -3,7 +3,7 @@
 N-France
 --------
 
-.. image:: static/logos/n-france.png
+.. image:: /logos/n-france.png
   :width: 250px
   :alt: N-France
   :target: `N-France`_

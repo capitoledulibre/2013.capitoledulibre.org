@@ -3,7 +3,7 @@
 OSones
 --------
 
-.. image:: static/logos/osones.png
+.. image:: /logos/osones.png
   :width: 120px
   :alt: OSones
   :target: http://osones.fr/

@@ -1,7 +1,7 @@
 Objectif Libre
 --------------
 
-.. image:: static/logos/objectif-libre.png
+.. image:: /logos/objectif-libre.png
   :width: 180px
   :alt: Objectif Libre
   :target: `Objectif Libre`_

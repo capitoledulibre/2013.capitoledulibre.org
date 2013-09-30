@@ -3,7 +3,7 @@
 Toulouse Métropole
 -------------------
 
-.. image:: static/logos/toulouse-metropole.gif
+.. image:: /logos/toulouse-metropole.gif
   :width: 120px
   :alt: Toulouse Metropole
   :target: http://www.toulouse-metropole.fr/

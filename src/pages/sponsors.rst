@@ -74,6 +74,6 @@ Affiches, flyers, articles dans la presse grand public et spécialisée, intervi
 .. role:: raw-html(raw)
 	:format: html
 
-:raw-html:`<a class='btn' href='/static/files/capitole-du-libre-sponsoring.pdf'>
+:raw-html:`<a class='btn' href='/files/capitole-du-libre-sponsoring.pdf'>
 Télécharger le dossier de sponsoring
 </a>`
