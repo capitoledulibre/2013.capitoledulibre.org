@@ -1,4 +1,4 @@
-.. class:: hidden-title span4
+.. class:: hidden-title span5
 
 Éditions Diamonds
 -------------------
