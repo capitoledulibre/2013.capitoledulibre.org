@@ -12,7 +12,9 @@ Sierra Wireless
 
 .. class:: span5
 
-`Sierra Wireless`_ (NASDAQ: SWIR) (TSX: SW) est le leader mondial du « machine-to-machine » (M2M) et simplifie le monde connecté en fournissant des solutions sans fil intelligentes. Nous offrons la gamme la plus complète de modules embarqués et de passerelles 2G, 3G et 4G, parfaitement intégrés à notre plateforme de services sécurisés M2M Cloud.
-
+`Sierra Wireless`_ est le leader mondial du M2M et des solutions sans
+fil intelligentes. Nos clients comptent sur nos solutions innovantes
+pour accélérer la sortie de leurs produits et services. Notre R&D
+est implantée en Amérique du Nord, en Europe et en Asie.
 
 .. _Sierra Wireless: http://www.sierrawireless.com/

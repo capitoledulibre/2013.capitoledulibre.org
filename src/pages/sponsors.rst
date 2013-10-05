@@ -10,11 +10,15 @@ Pour cela, **nous remercions nos sponsors pour le soutien qu'ils apportent à ce
 Partenaires Or
 ===============
 
+.. include:: ../sponsors/e-novance.rst
+
 .. include:: ../sponsors/kdab.rst
 
 .. include:: ../sponsors/logilab.rst
 
 .. include:: ../sponsors/makina-corpus.rst
+
+.. include:: ../sponsors/open-pandora.rst
 
 .. include:: ../sponsors/sierra-wireless.rst
 
