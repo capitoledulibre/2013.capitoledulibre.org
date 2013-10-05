@@ -15,4 +15,4 @@ E-novance
 
 `E-Novance`_
 
-.. _`E-Novance`: http://www.e-novance.com/
+.. _`E-Novance`: http://www.enovance.com/
