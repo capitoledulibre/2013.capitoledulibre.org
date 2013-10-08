@@ -37,6 +37,8 @@ Partenaires Bronze
 
 .. include:: ../sponsors/bluemind.rst
 
+.. include:: ../sponsors/free-electrons.rst
+
 .. include:: ../sponsors/n-france.rst
 
 .. include:: ../sponsors/o-sones.rst
