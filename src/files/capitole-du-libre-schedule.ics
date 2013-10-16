@@ -6,7 +6,7 @@ X-WR-CALNAME;CHARSET=utf-8:Capitole du Libre schedule
 METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
-SUMMARY:OpenData (titre à venir)
+SUMMARY:Conférence OpenData
 LOCATION:
 URL:http://lanyrd.com/2013/capitole-du-libre/scrddf/
 UID:f0bb5c262ddb52d730e9fb915f45848224e14edb
@@ -57,7 +57,7 @@ URL:http://lanyrd.com/2013/capitole-du-libre/scrcmr/
 UID:a2d7930efb15e6e5c81fce9fda7678ec9f38dc0b
 DTSTART;VALUE=DATE:20131123
 DTEND;VALUE=DATE:20131124
-DESCRIPTION:Que diriez-vous d'avoir une carte du monde dans laquelle votre rue\, les arrêts de bus de votre commune\, les collectes de verre de vos lieux de vacances\, les chemins de vos promenades préférées seraient précisément décris ? \n\nEt bien cette carte existe et son cœur est le projet OpenStreetMap et toutes ses petites fourmis. Cette mini-conférence vous propose de découvrir ce projet\, les usages qui en sont fait et les différentes façons d'y participer.
+DESCRIPTION:Que diriez-vous d'avoir une carte du monde dans laquelle votre rue\, les arrêts de bus de votre commune\, les collectes de verre de vos lieux de vacances\, les chemins de vos promenades préférées seraient précisément décrits ? \n\nEt bien cette carte existe et son cœur est le projet OpenStreetMap et toutes ses petites fourmis. Cette mini-conférence vous propose de découvrir ce projet\, les usages qui en sont fait et les différentes façons d'y participer.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Digikam\, utilisez la puissance des logiciels libres pour gérer vos photos comme un professionnel
@@ -183,7 +183,16 @@ URL:http://lanyrd.com/2013/capitole-du-libre/scrcmm/
 UID:4ac3ef2b15e56cf0715a7850776475bc697b9fe9
 DTSTART;VALUE=DATE:20131123
 DTEND;VALUE=DATE:20131124
-DESCRIPTION:Les derniers mois ont vu apparaître de nombreuses nouveautés sur Wikipédia et les projets de la fondation Wikimedia. Objectif : rendre le contenu plus accessible\, attirer de nouveaux contributeurs et simplifier les travaux des bénévoles.\n\nCette conférence propose un tour d'horizon des dernières améliorations portées aux projets\, parmi lesquelles : \n* l'éditeur visuel : une nouvelle interface pour simplifier les contributions \; \n* Wikivoyage : un projet de guide de voyage hébergé depuis peu par la fondation Wikimédia \; \n* Wikidata : un projet multilingue destiné à concentrer et lier les données entre elles \; \n* Lua : un langage de programmation utilisé pour simplifier de nombreux contenus.\n\nUne bonne occasion de découvrir les rouages de l'encyclopédie en ligne et de ses projets frères !
+DESCRIPTION:Les derniers mois ont vu apparaître de nombreuses nouveautés sur Wikipédia et les projets de la fondation Wikimedia. Objectif : rendre le contenu plus accessible\, attirer de nouveaux contributeurs et simplifier les travaux des bénévoles.\n\nCette conférence propose un tour d'horizon des dernières améliorations portées aux projets\, parmi lesquelles : \n\n* l'éditeur visuel : une nouvelle interface pour simplifier les contributions \; \n* Wikivoyage : un projet de guide de voyage hébergé depuis peu par la fondation Wikimédia \; \n* Wikidata : un projet multilingue destiné à concentrer et lier les données entre elles \; \n* Lua : un langage de programmation utilisé pour simplifier de nombreux contenus.\n\nUne bonne occasion de découvrir les rouages de l'encyclopédie en ligne et de ses projets frères !
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jeux vidéos et applications avec Blender
+LOCATION:
+URL:http://lanyrd.com/2013/capitole-du-libre/scrdcc/
+UID:50a1f5fe043469b2248e6d3681a93bcabb223477
+DTSTART:20131124T090000Z
+DTEND:20131124T120000Z
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Allez plus loin dans l'assurance qualité de votre code Python avec Pylint
@@ -199,15 +208,6 @@ SUMMARY:GPG keysigning Party / CAcert signing party
 LOCATION:
 URL:http://lanyrd.com/2013/capitole-du-libre/scrdbx/
 UID:25c80b363327e6460b437c12cf9098862fc9d616
-DTSTART;VALUE=DATE:20131124
-DTEND;VALUE=DATE:20131125
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jeux vidéos et applications avec Blender
-LOCATION:
-URL:http://lanyrd.com/2013/capitole-du-libre/scrdcc/
-UID:50a1f5fe043469b2248e6d3681a93bcabb223477
 DTSTART;VALUE=DATE:20131124
 DTEND;VALUE=DATE:20131125
 DESCRIPTION:

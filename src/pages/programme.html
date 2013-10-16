@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+{% block indextitle %}{% endblock %}
+{% block title %}{{ SITENAME }} - Programme{% endblock title %}
+
+{% block content %}
+	<div class='page'>
+<h1>Programme</h1>
+
+<h2>Samedi 23 novembre : Conf&eacute;rences</h2>
+<!-- Add this where you want the output to appear -->
+<div class="lanyrd-target-schedule">
+    <a href="http://lanyrd.com/2013/capitole-du-libre/schedule/"
+        class="lanyrd-schedule"
+        data-lanyrd-speakers
+        data-lanyrd-date="2013-11-23"
+        data-lanyrd-nolink
+        data-lanyrd-nostyles>
+        Schedule for Capitole du Libre on Lanyrd
+    </a>
+</div>
+
+<h2>Dimanche 24 novembre : Ateliers</h2>
+<!-- Add this where you want the output to appear -->
+<div class="lanyrd-target-schedule">
+    <a href="http://lanyrd.com/2013/capitole-du-libre/schedule/"
+        class="lanyrd-schedule"
+        data-lanyrd-speakers
+        data-lanyrd-date="2013-11-24"
+        data-lanyrd-nolink
+        data-lanyrd-nostyles>
+        Schedule for Capitole du Libre on Lanyrd
+    </a>
+</div>
+
+</div>
+
+<!-- Add this to the end of body -->
+<script src="http://cdn.lanyrd.net/badges/embed-v1.min.js"></script>
+
+{% endblock %}

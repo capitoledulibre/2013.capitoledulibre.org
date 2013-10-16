@@ -66,3 +66,6 @@ STATIC_PATHS = ["files","logos","photos","icons",]
 RELATIVE_URLS = False
 
 DIRECT_TEMPLATES = ('index', 'blog', 'tags', 'categories', 'archives', 'map', 'questionnaire', 'live')
+
+TEMPLATE_PAGES = {'pages/programme.html': 'soon/programme.html',}
+
