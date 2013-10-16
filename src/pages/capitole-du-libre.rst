@@ -8,7 +8,7 @@ grand public et le public spécialisé et l'entrée est libre et gratuite.
 
 Organisé notamment par l'assocation `Toulibre`_, il a lieu chaque année en novembre depuis 2011.
 
-L’édition 2013 du Capitole du Libre aura lieu les **23 et 24 novembre 2013**, n'hésitez pas à rejoindre la `liste de discussion toulibre-orga <http://www.toulibre.org/mailman/listinfo/toulibre-orga>`_ pour participer à son organisation.
+L’édition 2013 du Capitole du Libre aura lieu les **23 et 24 novembre 2013**, n'hésitez pas à rejoindre la `liste de discussion capitoledulibre <http://www.toulibre.org/mailman/listinfo/capitoledulibre>`_ pour participer à son organisation.
 
 Le Capitole du Libre c'est…
 ===========================
@@ -37,11 +37,6 @@ leurs événements. Cette année, le Capitole du Libre accueille :
 .. _`workshop Lua`: http://www.lua.org/wshop13.html
 .. _`conférence FranceJS`: http://francejs.org/conf2013.html
 
-
-Appel à conférences
-====================
-
-L'`appel à conférences et ateliers`_ pour le Capitole du Libre 2013 est lancé, vous pouvez faire vos propositions jusqu'au 15 septembre 2013. Le programme sera en ligne vers le 7 octobre.
 
 .. _édition 2013 du Capitole du Libre: http://2013.capitoledulibre.org/
 .. _l’ENSEEIHT: http://www.enseeiht.fr
