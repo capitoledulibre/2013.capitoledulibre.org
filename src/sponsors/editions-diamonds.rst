@@ -7,3 +7,5 @@
   :alt: Éditions Diamonds
   :target: http://boutique.ed-diamond.com/
   :class: logo
+
+.. _`Éditions Diamonds`: http://boutique.ed-diamond.com/

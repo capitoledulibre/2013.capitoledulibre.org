@@ -8,3 +8,4 @@ Free Electrons
   :target: http://free-electrons.com
   :class: logo
 
+.. _`Free Electrons`: http://free-electrons.com

@@ -7,3 +7,5 @@ Solulibre
   :alt: solulibre
   :target: http://www.solulibre.com/
   :class: logo
+
+.. _Solulibre: http://www.solulibre.com/

@@ -8,3 +8,4 @@ Mairie de Toulouse
   :target: http://www.toulouse.fr/
   :class: logo
 
+.. `Mairie de Toulouse`: http://www.toulouse.fr/

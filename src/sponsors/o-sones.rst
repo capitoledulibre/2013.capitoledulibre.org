@@ -7,3 +7,5 @@ OSones
   :alt: OSones
   :target: http://osones.fr/
   :class: logo
+
+.. _OSones: http://osones.fr/

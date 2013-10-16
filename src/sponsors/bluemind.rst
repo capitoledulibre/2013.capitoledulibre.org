@@ -7,3 +7,5 @@ BlueMind
   :alt: BlueMind
   :target: http://blue-mind.net/
   :class: logo
+
+.. _BlueMind: http://blue-mind.net/
