@@ -5,7 +5,6 @@ Ils soutiennent le Capitole du Libre
 :date: 2013-10-15
 :summary: Les entreprises qui ont choisi de soutenir le Capitole du Libre
 :author: Toulibre
-:status: draft
 
 Le programme sera dévoilé dans quelques jours, mais en attendant, voici un tour d'horizon des organisations qui ont souhaité soutenir le Capitole du Libre. Nous avons le plaisir d'accueillir 6 sponsors "Or", un sponsor "Argent" et quatre "Bronze" pour l'édition 2013 du Capitole du Libre.
 
