@@ -2,7 +2,7 @@ Ils soutiennent le Capitole du Libre
 =====================================
 
 :category: sponsors
-:date: 2013-10-15
+:date: 2013-10-18
 :summary: Les entreprises qui ont choisi de soutenir le Capitole du Libre
 :author: Toulibre
 
@@ -16,7 +16,7 @@ Vous les retrouverez le samedi 23 sur leurs stands, et pour certains parmi les c
 
 Les partenaires niveau "Bronze" sont BlueMind_, `Free Electrons`_, N-France_, OSones_ et Solulibre_.
 
-Parmi les fidèles, Makina Corpus était sponsor "Or" déjà l'année dernière et sponsorise le Capitole du Libre depuis le début (c'est à dire 2008). KDAB_ est partenaire depuis 2010, elle contribue à Qt et à KDE.
+Parmi les fidèles, Makina Corpus était sponsor "Or" déjà l'année dernière et sponsorise le Capitole du Libre depuis le début (c'est à dire 2008). KDAB_ est partenaire depuis 2010, elle contribue à Qt et à KDE. Sierra Wireless est là depuis l'année dernière.
 
 Nous remercions également nos partenaires presse : les `Éditions Diamonds`_ pour avoir fait paraître l'affiche du Capitole du Libre dans leurs magazines, ainsi que Toulouse Métropole et la Mairie de Toulouse pour le magazine "À Toulouse".
 
