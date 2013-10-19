@@ -550,6 +550,25 @@ img#plan {
     font-weight: bold;
 }
 
+/* Programm Lanyrd *
+ * --------------- */
+
+.lanyrd-people-list .avatar {
+    display: none !important;
+}
+.lanyrd-people-list li {
+    min-height: inherit !important;
+    padding-left: 0 !important;
+}
+.lanyrd-detailed-list .lanyrd-people-list {
+    margin-top: 0 !important;
+}
+.lanyrd-schedule-embed {
+    font-size: 1em !important;
+}
+.lanyrd-people-list {
+    font-size: 1em !important;
+}
 
 /* Communication *
  * ------------- */

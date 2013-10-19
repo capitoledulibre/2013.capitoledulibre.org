@@ -50,7 +50,7 @@ LINKS =  (
 
 # Social widget
 SOCIAL = (
-          ('Identica', 'identica', 'http://identi.ca/group/toulibre'),
+          ('Identica', 'identica', 'http://identi.ca/toulibreorg'),
           ('Twitter', 'twitter', 'https://twitter.com/toulibreorg'),
           ('Google+', 'google', 'https://plus.google.com/b/109128243242581226442/109128243242581226442/posts'),
           ('Lanyrd', 'lanyrd', 'http://lanyrd.com/2013/capitole-du-libre/'),
@@ -66,3 +66,6 @@ STATIC_PATHS = ["files","logos","photos","icons",]
 RELATIVE_URLS = False
 
 DIRECT_TEMPLATES = ('index', 'blog', 'tags', 'categories', 'archives', 'map', 'questionnaire', 'live')
+
+TEMPLATE_PAGES = {'pages/planning.html': 'programme/planning.html',
+                    'pages/from_json.html': 'test.html',}
