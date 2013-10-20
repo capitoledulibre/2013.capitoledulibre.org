@@ -67,5 +67,5 @@ RELATIVE_URLS = False
 
 DIRECT_TEMPLATES = ('index', 'blog', 'tags', 'categories', 'archives', 'map', 'questionnaire', 'live')
 
-TEMPLATE_PAGES = {'pages/planning.html': 'programme/planning.html',
-                    'pages/from_json.html': 'test.html',}
+TEMPLATE_PAGES = {'pages/planning.html': 'programme/index.html',}
+#                    'pages/from_json.html': 'test.html',}
