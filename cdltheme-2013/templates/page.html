@@ -5,8 +5,70 @@
 
 {% block class %}{{ page.slug }}{% endblock class %}
 {% block content %}
-	<div class='page {{ page.slug }}'>
+<div class='page {{ page.slug }}'>
 <h1>{{ page.title }}</h1>
-		<div>{{ page.content }}</div>
-	</div>
+
+{% if page.calendar %}
+
+{% macro eventlist(vevent) -%}
+    <li> <span class="start">{{ "%s:%s"|format(vevent.dtstart.hour, vevent.dtstart.minute) }}</span> - 
+        <span class="end">{{ "%s:%s"|format(vevent.dtend.hour, vevent.dtend.minute) }}</span> : {{ vevent.summary }}</li>
+    {# <div>{{ vevent.description|replace('\n\n', '<br>') }}</div> #}
+{%- endmacro %}
+
+
+<h2>Samedi 23 novembre : Conf&eacute;rences</h2>
+<div class="row">
+<div class="span6">
+    <h3>Grand public</h3>
+        <ul>
+        {% for vevent in  events[page.slug] if vevent.dtstart.day == vevent.dtend.day and vevent.dtstart.day == 23 and vevent.location == 'A001, ENSEEIHT' %}
+            {{ eventlist(vevent) }}
+        {% endfor %}
+        </ul>
+</div>
+
+<div class="span6">
+    <h3>Multimedia / bureautique</h3>
+        <ul>
+        {% for vevent in  events[page.slug] if vevent.dtstart.day == vevent.dtend.day and vevent.dtstart.day == 23 and vevent.location == 'A002, ENSEEIHT' %}
+            {{ eventlist(vevent) }}
+        {% endfor %}
+        </ul>
+</div>
+</div>
+
+<div class="row">
+<div class="span6">
+    <h3>Web libre</h3>
+        <ul>
+        {% for vevent in  events[page.slug] if vevent.dtstart.day == vevent.dtend.day and vevent.dtstart.day == 23 and vevent.location == 'C002, ENSEEIHT' %}
+            {{ eventlist(vevent) }}
+        {% endfor %}
+        </ul>
+</div>
+
+<div class="span6">
+    <h3>Technique</h3>
+        <ul>
+        {% for vevent in  events[page.slug] if vevent.dtstart.day == vevent.dtend.day and vevent.dtstart.day == 23 and vevent.location == 'A201, ENSEEIHT' %}
+            {{ eventlist(vevent) }}
+        {% endfor %}
+        </ul>
+</div>
+
+</div>
+
+<h2>Dimanche 24 novembre : Ateliers</h2>
+        <ul>
+    {% for vevent in  events[page.slug] if vevent.dtstart.day == vevent.dtend.day and vevent.dtstart.day == 24 %}
+        {{ eventlist(vevent) }}
+    {% endfor %}
+        </ul>
+
+
+{% endif %}
+    <div>{{ page.content }}</div>
+        
+</div>
 {% endblock %}

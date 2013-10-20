@@ -1,0 +1,457 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//lanyrd.com//Lanyrd//EN
+X-ORIGINAL-URL:http://lanyrd.com/2013/capitole-du-libre/capitole-du-libre-schedule.ics
+X-WR-CALNAME;CHARSET=utf-8:Capitole du Libre schedule
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VEVENT
+SUMMARY:Calaos\, le système domotique Open Source
+LOCATION:A201\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrdbm/
+UID:943ab2f599a1a7c591ae98871e0b6867b5e71d0f
+DTSTART:20131123T100000Z
+DTEND:20131123T110000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conférence OpenData
+LOCATION:A001\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrddf/
+UID:f0bb5c262ddb52d730e9fb915f45848224e14edb
+DTSTART:20131123T100000Z
+DTEND:20131123T110000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Découverte des nouvelles fonctionnalités de Joomla 3.2
+LOCATION:C002\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrczt/
+UID:2ebdcb71b7825d54e818a3f735f6e30d73653249
+DTSTART:20131123T100000Z
+DTEND:20131123T110000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LibreOffice\, le meilleur de la bureautique libre
+LOCATION:A002\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrdbk/
+UID:f34fc2f3c15ac88ee7ec1c0e3089ad7fc339cdc1
+DTSTART:20131123T100000Z
+DTEND:20131123T110000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:LibreOffice est une suite bureautique libre et gratuite composée d'un traitement de textes\, d'un tableur\, d'un outil de présentation\, d'un outil de dessin vectoriel\, d'une base de données\, ainsi que d'un éditeur de formules mathématiques\, il permet de disposer d'une suite bureautique complète et multi-plateforme. \n\n\nDans cette conférence je présenterai dans un premier temps les différents modules du projet ainsi que leurs capacités. J'aborderai ensuite l'histoire du projet ainsi que les développements en cours.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternatives libres à GoogleMaps
+LOCATION:C002\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrczz/
+UID:d96011b68d201633c0a5317da23ca5aedd7de5da
+DTSTART:20131123T123000Z
+DTEND:20131123T130000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Comment ne pas endormir vos invités devant le film de vos dernières vacances grâce à Kdenlive
+LOCATION:A002\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrdbf/
+UID:3a70dea1e01c63175c138c7c5e453652da702c8e
+DTSTART:20131123T123000Z
+DTEND:20131123T133000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cyberespionnage
+LOCATION:A001\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrfxw/
+UID:67c95d79195fee97b42fd9f162c3098c4da31fe6
+DTSTART:20131123T123000Z
+DTEND:20131123T133000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les jails FreeBSD du chroot au container
+LOCATION:A201\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrdbc/
+UID:59ee296037a6b3213be20a4fc0bdc5c8242d5fa7
+DTSTART:20131123T123000Z
+DTEND:20131123T133000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Utiliser OpenStreetMap
+LOCATION:C002\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrdbb/
+UID:f2a59c814c940bd502978d57f10e5232fdfd6d86
+DTSTART:20131123T130000Z
+DTEND:20131123T133000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:OpenStreetMap est une base mondiale de données cartographiques libres. Cette mini-conférence vous offre un tour d'horizon des outils permettant d'en extraire des données et/ou de créer des cartes. Parmi Les outils présentés: uMap\, Maperitive\, TileMill\, Overpass-api.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Présentation de l'environnement de bureau Enlightenment
+LOCATION:A002\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrdbp/
+UID:f2b5e17329043254ddd338011733d21327ac7943
+DTSTART:20131123T133000Z
+DTEND:20131123T143000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Signature et chiffrement du courrier électronique
+LOCATION:A201\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrczw/
+UID:70b0c028de02df64bfc993f3e7578bb9a6035a55
+DTSTART:20131123T133000Z
+DTEND:20131123T143000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tetaneutral
+LOCATION:C002\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrgkh/
+UID:874881bee80468f4cca13c82bcefdf847463bab6
+DTSTART:20131123T133000Z
+DTEND:20131123T143000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:L'association tetaneutral.net http://tetaneutral.net fondée en janvier 2011 est fournisseur d'acces internet\, hebergeur et operateur sans but lucratif sur Toulouse et sa région\, ainsi que membre fondatrice de la Féderation FDN http://ffdn.org qui regroupe maintenant plus de 1500 adhérent(e)s.\nEn s'inspirant des travaux des pionniers tetaneutral.net a permis de connecter au haut débit des foyers inéligibles a un ADSL ou un Wimax performant a Saint-Gaudens et Monès\, et a fournir une solution d'acces internet alternative a faible cout a débit symétrique pour les Toulousains.\nCette conférence vous montrera que ces solutions sont accessibles aux bonnes volontés citoyennes pour fabriquer de l'internet entre voisins en respectant la neutralité du réseau. L'association compte plus de 380 adhérent(e)s et pratique la transparence sur sa gestion financiere.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wikipédia\, Wikimédia : du nouveau dans les projets
+LOCATION:A001\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrcmm/
+UID:4ac3ef2b15e56cf0715a7850776475bc697b9fe9
+DTSTART:20131123T133000Z
+DTEND:20131123T143000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:Les derniers mois ont vu apparaître de nombreuses nouveautés sur Wikipédia et les projets de la fondation Wikimedia. Objectif : rendre le contenu plus accessible\, attirer de nouveaux contributeurs et simplifier les travaux des bénévoles.\n\nCette conférence propose un tour d'horizon des dernières améliorations portées aux projets\, parmi lesquelles : \n\n* l'éditeur visuel : une nouvelle interface pour simplifier les contributions \; \n* Wikivoyage : un projet de guide de voyage hébergé depuis peu par la fondation Wikimédia \; \n* Wikidata : un projet multilingue destiné à concentrer et lier les données entre elles \; \n* Lua : un langage de programmation utilisé pour simplifier de nombreux contenus.\n\nUne bonne occasion de découvrir les rouages de l'encyclopédie en ligne et de ses projets frères !
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tomahawk-player
+LOCATION:A002\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrfyb/
+UID:2140b6c277d7add28f6bd643d5266eb34654488b
+DTSTART:20131123T144500Z
+DTEND:20131123T151000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:Une présentation du lecteur audio libre Tomahawk. Logiciel pour la gestion de contenu audio et de streaming multi­source\, Tomahawk est le successeur du projet antérieur nommé Playdar et s’est développé autour de la bibliothèque C++ Qt. Cette application innove par bien des aspects :\n\n* Le principe de resolver qu’il met en place\, en effet\, on ne lit plus simplement une musique de sa collection\, on demande une musique sans se soucier des détails\, l’application se charge de la trouver au travers des nombreux resolvers qui consomment les services internet tel que Jamendo\, Spotify\, Youtube etc.\n* Social : l’application permet d’avoir des amis via les comptes Jabber et ainsi mettre en place une écoute pair à pair. On dispose rapidement les musiques écoutées par ses amis un nouveau contenu nous est souvent proposé.\n* Pertinence : le contenu apporté à l’utilisateur est de plus en plus intelligent\, en proposant une musique adaptée via la recherche parmi les divers succès du moments\, les nombreuses stations de radio ou les récentes sorties d’albums.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pourquoi mes romans dans dans le Domaine Public Vivant ?
+LOCATION:A001\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrczq/
+UID:91aba78895022c67376c5e95c899c5647269d4c4
+DTSTART:20131123T150000Z
+DTEND:20131123T160000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Processus complet de développement du projet Overblog
+LOCATION:C002\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrfyf/
+UID:7727c25934d44a30d34dd69c114dfdb911ee6de2
+DTSTART:20131123T150000Z
+DTEND:20131123T160000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pylint 1.0\, états des lieux après 10 ans de développement
+LOCATION:A201\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrfyg/
+UID:7479eee75d299fddb8fa49ae56c165c45596c115
+DTSTART:20131123T150000Z
+DTEND:20131123T153000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digikam\, utilisez la puissance des logiciels libres pour gérer vos photos comme un professionnel
+LOCATION:A002\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrdbg/
+UID:1673472e71de62f3e2f0accb4ba5294395d9a3d9
+DTSTART:20131123T151000Z
+DTEND:20131123T153500Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:Nous prenons de plus en plus de photos avec des appareil photos de plus en plus sophistiqués \; mais comment gérer toutes ces photos ? Classer\, trier\, retoucher\, rechercher... Toutes ces opérations demandent des outils puissants et efficaces. Si l'on souhaite garder le contrôle de ses photos et ne pas les donner aux grands marchands d'internet\, les logiciels libres comme digikam \nsont la bonne réponse.\n\nQue l'on soit simple amateur ou véritable professionnel\, Digikam permet de vous accompagner à toutes les étapes : du développement et la retouche au classement de vos photos. Fort de plus de 10 ans d'expérience et de la contribution de nombreux photographes\, Digikam est désormais un outil mature et professionnel.\n\nCette conférence propose de faire un tour d'horizon des fonctionnalités de Digikam les plus ignificative et d'esquisser les évolutions à venir.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Hardware\, Arduino\, Internet des objets
+LOCATION:A201\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrfyh/
+UID:bdbb6756b28709763fefa5649fed043d6c135744
+DTSTART:20131123T153000Z
+DTEND:20131123T160000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Évolutions récentes de Krita
+LOCATION:A002\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrfyc/
+UID:066ea7c99a2577b6dc6f08c883d03d16d8634f08
+DTSTART:20131123T153500Z
+DTEND:20131123T160000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aspect juridique
+LOCATION:A001\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrfxy/
+UID:f7f047dbe1cc2c7bebc065e23c599bef7a49b0ea
+DTSTART:20131123T160000Z
+DTEND:20131123T170000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jeux vidéos et applications interactives avec Blender
+LOCATION:A002\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrdbh/
+UID:78593023b6c3f53795b536ada73bef59564625b3
+DTSTART:20131123T160000Z
+DTEND:20131123T170000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kolab\, un groupware pour se libérer du cloud propriétaire
+LOCATION:C002\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrczr/
+UID:81d063dabeeb79ff4187f95440c73a3869d957eb
+DTSTART:20131123T160000Z
+DTEND:20131123T170000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OpenPandora\, le mini PC de poche
+LOCATION:A201\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrdbd/
+UID:9eda4995260c0eeedf9c4ec42d4604d115dece08
+DTSTART:20131123T160000Z
+DTEND:20131123T170000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Doudou linux
+LOCATION:A002\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrfyd/
+UID:5f22da6c7eb8a5bab22d0e38b77a70bec5f23501
+DTSTART:20131123T170000Z
+DTEND:20131123T172000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Json ou l'histoire d'une licence presque libre
+LOCATION:A001\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrfxz/
+UID:725900cc13e48869c3cbcd6dfe6212f0a56ae64c
+DTSTART:20131123T170000Z
+DTEND:20131123T172000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:C'est l'histoire d'une licence. Celle qui va avec un format de données devenu très utile pour le web\, mais aussi dans les bases de données et les configurations d'ordinateurs. Mais le problème\, c'est qu'une blague dans cette licence tourne au grand casse-tête juridique.\n\nLe choix d'une licence ne se fait pas à la légère\, tout comme en écrire une from scratch. Après une rapide présentation technique du XML et du JSON\, je causerai surtout de juridique (bas niveau)\, d'histoire (de la micro-informatique personnelle) et de politique
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:L'auto-hébergement pour tous avec Yunohost
+LOCATION:C002\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrczy/
+UID:79c571360a675c9027d3732fb7a3db6d081c969a
+DTSTART:20131123T170000Z
+DTEND:20131123T172000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Découvrir la carte mondiale libre OpenStreetMap
+LOCATION:A001\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrcmr/
+UID:a2d7930efb15e6e5c81fce9fda7678ec9f38dc0b
+DTSTART:20131123T172000Z
+DTEND:20131123T174000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:Que diriez-vous d'avoir une carte du monde dans laquelle votre rue\, les arrêts de bus de votre commune\, les collectes de verre de vos lieux de vacances\, les chemins de vos promenades préférées seraient précisément décrits ? \n\nEt bien cette carte existe et son cœur est le projet OpenStreetMap et toutes ses petites fourmis. Cette mini-conférence vous propose de découvrir ce projet\, les usages qui en sont fait et les différentes façons d'y participer.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joyeux anniversaire Dotclear
+LOCATION:C002\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrczx/
+UID:f791a35b3d7becff6ac59ff798947dce2cd14eb6
+DTSTART:20131123T172000Z
+DTEND:20131123T174000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Logiciels du Terrier d'AbulÉdu : des logiciels libres pour l'école
+LOCATION:A002\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrdbq/
+UID:38ed0273f4f8a88a76a439ffd9a834f6ae42e736
+DTSTART:20131123T172000Z
+DTEND:20131123T174000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:Dans le cadre du Projet AbulÉdu porté par la société Ryxéo\, des contributeurs membres de l'association AbulÉdu-fr participent au développement et à la promotion solutions et des logiciels éducatifs libres dans les écoles. \n\nLa conférence présentera les différents logiciels développés ces dernières années\, le dépôt de ressources libres utilisé par les éditeurs intégrés à ces logiciels. Nous présenterons aussi le site de microbloggue BabyTwit (babytwit.fr) à usage des écoles.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conférence de clôture
+LOCATION:ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrfyk/
+UID:8f4af0f85c3f08bd2d815bbd0d783ce171503d7b
+DTSTART:20131123T180000Z
+DTEND:20131123T190000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Allez plus loin dans l'assurance qualité de votre code Python avec Pylint
+LOCATION:A203\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrdcb/
+UID:dc02cd5c7c66c309c8b96ad4c3e4a207ffa0eaec
+DTSTART:20131124T083000Z
+DTEND:20131124T100000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Puppet
+LOCATION:A304\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrfzp/
+UID:10d07ad407694a59aad6c68802ec6be1b5e58291
+DTSTART:20131124T083000Z
+DTEND:20131124T113000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wikidata : les données ont leur projet !
+LOCATION:A001\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrfzk/
+UID:7187a1c3490380cf1ed00b8a3ae16db4c826c7b3
+DTSTART:20131124T083000Z
+DTEND:20131124T113000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Contribuer à OpenStreetMap
+LOCATION:A201\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrfzq/
+UID:d6a4180b6fcfa6ebe662f44d6176178357e50e22
+DTSTART:20131124T084500Z
+DTEND:20131124T114500Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jeux vidéos et applications avec Blender
+LOCATION:A202\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrdcc/
+UID:50a1f5fe043469b2248e6d3681a93bcabb223477
+DTSTART:20131124T084500Z
+DTEND:20131124T114500Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GPG keysigning Party / CAcert signing party
+LOCATION:A203\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrdbx/
+UID:25c80b363327e6460b437c12cf9098862fc9d616
+DTSTART:20131124T101000Z
+DTEND:20131124T114000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prise en main des logiciels du Terrier et de leur éditeur d'exercices
+LOCATION:A201\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrfzr/
+UID:94225e724dc70967090d8cc53849c6ae12009d71
+DTSTART:20131124T125000Z
+DTEND:20131124T142000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:Au travers de deux exemples (Mulot et Contour)\, nous présenterons les principes mis en œuvre dans ces logiciels :\n\n* interface unifiée\n* éditeur d'exercices intégré\n* accès au dépôt de ressources brutes validées par les membres de l'association\n\nL'atelier sera le moyen de mettre en œuvre ces logiciels et de construire quelques exercices qui pourront être mis à la disposition de la communauté grâce au module de publication de la Médiathèque d'AbulÉdu.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Utiliser les données d'OpenStreetMap
+LOCATION:A202\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrdby/
+UID:43f06b9cedde0a577f20816a30618e000cbf5c17
+DTSTART:20131124T125000Z
+DTEND:20131124T142000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:OpenStreetMap est une énorme base mondiale de données cartographiques libres. Cet atelier est le moment de découvrir par la pratique l'usage de quelques excellents outils: Xapi\, Overpass-api\, uMap\, Maperitive\, TileMill.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atelier graphisme
+LOCATION:A001\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrfzm/
+UID:de10e31e3d5229d53a117e6d27eacdb7e87159bf
+DTSTART:20131124T130000Z
+DTEND:20131124T160000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Utilisation avancée de PostgreSQL
+LOCATION:A304\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrdbw/
+UID:e4ec33754310e6306440ae595a0cb69b7bd2ba16
+DTSTART:20131124T130000Z
+DTEND:20131124T160000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Écriture collaborative d'un épisode de roman feuilleton (placé sous CC0)
+LOCATION:A201\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrfzt/
+UID:2162f210bf5c7af7cf777804467ad0e1be844a8e
+DTSTART:20131124T143000Z
+DTEND:20131124T160000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leaflet\, le Web mapping moderne et léger
+LOCATION:A202\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrdbz/
+UID:60b789eca4daadc698a8f8e0205dbd29a08c2f0f
+DTSTART:20131124T143000Z
+DTEND:20131124T160000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Programmation d'une carte arduino
+LOCATION:
+URL:http://lanyrd.com/2013/capitole-du-libre/scrdbt/
+UID:7e4fff213d1927b878d0211cd647baf8f8a29f0c
+DTSTART;VALUE=DATE:20131124
+DTEND;VALUE=DATE:20131125
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;CHARSET=utf-8:Capitole du Libre
+LOCATION;CHARSET=utf-8:ENSEEIHT\, 2\, rue Charles CAMICHEL B.P. 7122 31071 TOULOUSE Cedex 7\, 31071
+URL:http://lanyrd.com/2013/capitole-du-libre/
+UID:c69e22186941649b5d04e9d79b0bc670bd916b16
+DESCRIPTION:Événement autour du Logiciel Libre à Toulouse\n\nhttp://lanyrd.com/cprtz
+DTSTART;VALUE=DATE:20131123
+DTEND;VALUE=DATE:20131125
+GEO:43.6022973938;1.45454333439
+END:VEVENT
+END:VCALENDAR

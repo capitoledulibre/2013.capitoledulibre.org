@@ -9,7 +9,7 @@ THEME = 'cdltheme-2013'
 OUTPUT_PATH = 'output-cdl2013/'
 CSS_FILE = 'styles.css'
 PLUGIN_PATH = '../src/pelican-plugins'
-PLUGINS = ['html_rst_directive',]
+PLUGINS = ['html_rst_directive','ical']
 
 DELETE_OUTPUT_DIRECTORY = True
 
@@ -52,7 +52,7 @@ LINKS =  (
 SOCIAL = (
           ('Identica', 'identica', 'http://identi.ca/toulibreorg'),
           ('Twitter', 'twitter', 'https://twitter.com/toulibreorg'),
-          ('Google+', 'google', 'https://plus.google.com/+toulibre'),
+          ('Google+', 'google', 'https://plus.google.com/b/109128243242581226442/109128243242581226442/posts'),
           ('Lanyrd', 'lanyrd', 'http://lanyrd.com/2013/capitole-du-libre/'),
          )
 
@@ -66,3 +66,6 @@ STATIC_PATHS = ["files","logos","photos","icons",]
 RELATIVE_URLS = False
 
 DIRECT_TEMPLATES = ('index', 'blog', 'tags', 'categories', 'archives', 'map', 'questionnaire', 'live')
+
+TEMPLATE_PAGES = {'pages/planning.html': 'programme/index.html',}
+#                    'pages/from_json.html': 'test.html',}
