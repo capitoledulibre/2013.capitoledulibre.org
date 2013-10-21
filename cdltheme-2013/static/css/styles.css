@@ -306,10 +306,19 @@ td.odd {
   margin-left: 0;
 }
 
+.figure.align-left,
 .image-left {
   float: left;
   clear: left; 
   margin: 0 1em 0.5em 0;
+  font-size: 85%;
+  font-style: italic;
+}
+
+.figure.align-right,
+.image-right {
+  float: right;
+  margin: 0 0 0.5em 1em;
   font-size: 85%;
   font-style: italic;
 }

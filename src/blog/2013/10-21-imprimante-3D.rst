@@ -12,6 +12,11 @@ Capitole du libre 2013 / Imprimante 3D Toulouse
 
 Le Capitole du libre, c’est un événement proposé par l’association Toulibre_. Ce sont deux jours de conférences, débats et ateliers tournant autour du logiciel libre et open source. Je leur ai donc naturellement proposé ma participation lors du prochain événement, étant donné que mon imprimante 3D est open source. Leur réponse a été positive, et on aura donc un atelier imprimante 3D au prochain Capitole du Libre !!
 
+.. figure:: /photos/imprimante-3D-julien-buabent-medium.jpg
+    :align: right
+    
+    Julien Buabent
+
 Je ne serai pas seul, il y aura normalement 4 imprimantes 3d avec :
 
 * La section imprimante 3d du tetalab_ (Repraps / Ultimaker)
