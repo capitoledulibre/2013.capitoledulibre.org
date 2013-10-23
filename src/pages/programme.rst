@@ -2,7 +2,7 @@
 Programme
 =========
 
-:calendar: src/files/capitole-du-libre-schedule.ics 
+:calendar: capitole-du-libre-schedule.ics 
 
 
 .. image:: photos/cdl-amphi-photo-guillaume-paumier-by.jpg

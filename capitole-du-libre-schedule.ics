@@ -46,16 +46,6 @@ GEO:43.6022973938;1.45454333439
 DESCRIPTION:LibreOffice est une suite bureautique libre et gratuite composée d'un traitement de textes\, d'un tableur\, d'un outil de présentation\, d'un outil de dessin vectoriel\, d'une base de données\, ainsi que d'un éditeur de formules mathématiques\, il permet de disposer d'une suite bureautique complète et multi-plateforme. \n\n\nDans cette conférence je présenterai dans un premier temps les différents modules du projet ainsi que leurs capacités. J'aborderai ensuite l'histoire du projet ainsi que les développements en cours.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Alternatives libres à GoogleMaps
-LOCATION:C002\, ENSEEIHT
-URL:http://lanyrd.com/2013/capitole-du-libre/scrczz/
-UID:d96011b68d201633c0a5317da23ca5aedd7de5da
-DTSTART:20131123T123000Z
-DTEND:20131123T130000Z
-GEO:43.6022973938;1.45454333439
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Comment ne pas endormir vos invités devant le film de vos dernières vacances grâce à Kdenlive
 LOCATION:A002\, ENSEEIHT
 URL:http://lanyrd.com/2013/capitole-du-libre/scrdbf/
@@ -90,10 +80,20 @@ SUMMARY:Utiliser OpenStreetMap
 LOCATION:C002\, ENSEEIHT
 URL:http://lanyrd.com/2013/capitole-du-libre/scrdbb/
 UID:f2a59c814c940bd502978d57f10e5232fdfd6d86
+DTSTART:20131123T123000Z
+DTEND:20131123T130000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:OpenStreetMap est une base mondiale de données cartographiques libres. Cette mini-conférence vous offre un tour d'horizon des outils permettant d'en extraire des données et/ou de créer des cartes. Parmi Les outils présentés: uMap\, Maperitive\, TileMill\, Overpass-api.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternatives libres à GoogleMaps
+LOCATION:C002\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrczz/
+UID:d96011b68d201633c0a5317da23ca5aedd7de5da
 DTSTART:20131123T130000Z
 DTEND:20131123T133000Z
 GEO:43.6022973938;1.45454333439
-DESCRIPTION:OpenStreetMap est une base mondiale de données cartographiques libres. Cette mini-conférence vous offre un tour d'horizon des outils permettant d'en extraire des données et/ou de créer des cartes. Parmi Les outils présentés: uMap\, Maperitive\, TileMill\, Overpass-api.
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Présentation de l'environnement de bureau Enlightenment
@@ -293,7 +293,7 @@ UID:f791a35b3d7becff6ac59ff798947dce2cd14eb6
 DTSTART:20131123T172000Z
 DTEND:20131123T174000Z
 GEO:43.6022973938;1.45454333439
-DESCRIPTION:
+DESCRIPTION:Dotclear\, moteur de blog libre franco-français fête sa dixième année. Membre de l'équipe fondatrice\, j'aimerais dresser un bilan humain et technique sur ce joli projet. Les pratiques et les hommes ne sont plus les mêmes mais le projet lui perdure et c'est bien le principal. Des chiffres\, des remerciements à gogo à prévoir.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Les Logiciels du Terrier d'AbulÉdu : des logiciels libres pour l'école
@@ -406,6 +406,16 @@ GEO:43.6022973938;1.45454333439
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Programmation d'une carte arduino
+LOCATION:A203\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrdbt/
+UID:7e4fff213d1927b878d0211cd647baf8f8a29f0c
+DTSTART:20131124T130000Z
+DTEND:20131124T160000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Utilisation avancée de PostgreSQL
 LOCATION:A304\, ENSEEIHT
 URL:http://lanyrd.com/2013/capitole-du-libre/scrdbw/
@@ -433,15 +443,6 @@ UID:60b789eca4daadc698a8f8e0205dbd29a08c2f0f
 DTSTART:20131124T143000Z
 DTEND:20131124T160000Z
 GEO:43.6022973938;1.45454333439
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Programmation d'une carte arduino
-LOCATION:
-URL:http://lanyrd.com/2013/capitole-du-libre/scrdbt/
-UID:7e4fff213d1927b878d0211cd647baf8f8a29f0c
-DTSTART;VALUE=DATE:20131124
-DTEND;VALUE=DATE:20131125
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT

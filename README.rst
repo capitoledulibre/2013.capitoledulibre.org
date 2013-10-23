@@ -21,20 +21,20 @@ Installation
 
     virtualenv pelican-sites
 
-2. installer pelican et ses plugins
+2. installer pelican, ses plugins et les dépendances nécessaires
 
 ::
 
     cd pelican-sites
     source bin/activate
-    easy_install pelican
-    git clone https://github.com/getpelican/pelican-plugins.git
+    easy_install pelican icalendar
+    git clone https://github.com/cozo/pelican-plugins.git
 
 3. cloner le repository
 
 ::
 
-    git clone ...
+    git clone https://github.com/toulibre/capitoledulibre-site.git
 
 4. lier le thème dans système de fichiers
 
@@ -114,3 +114,10 @@ Ajouter un sponsor
 ::
 
   .. include:: ../sponsors/kdab.rst
+
+Mettre à jour le programme
+---------------------------
+
+Le programme est renseigné sur le site http://lanyrd.com/2013/capitole-du-libre/. Lorsque le site est regénéré (make html ou make publish), le fichier ical généré par Lanyrd est téléchargé, et il est inclus dans la page programme.rst.
+
+
