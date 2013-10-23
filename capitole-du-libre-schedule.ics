@@ -13,7 +13,7 @@ UID:943ab2f599a1a7c591ae98871e0b6867b5e71d0f
 DTSTART:20131123T100000Z
 DTEND:20131123T110000Z
 GEO:43.6022973938;1.45454333439
-DESCRIPTION:
+DESCRIPTION:Initialement Calaos était un système domotique développé par la société du même nom\, et partiellement open source. Lorsque la société a fermé ses portes début 2013\, l'intégralité du code source a été\nouverte et mise sous licence GPLv3 et une petite communauté s'est formée pour continuer le développement.\n\nNous allons lors de cette conférence présenter le système domotique\, les différents logiciels qui le composent\, le matériel qu'il supporte\, un exemple d'installation dans une maison. Nous aborderons également les technologies utilisées et présenterons les évolutions futures.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Conférence OpenData
@@ -33,7 +33,7 @@ UID:2ebdcb71b7825d54e818a3f735f6e30d73653249
 DTSTART:20131123T100000Z
 DTEND:20131123T110000Z
 GEO:43.6022973938;1.45454333439
-DESCRIPTION:
+DESCRIPTION:La prochaine version de joomla 3.2 introduit de nouvelles fonctionnalités impressionnantes qui pourraient bien faire pencher la balance dans le marché du CMS Open Source.\n\nVous découvrirez lors de cette mini-conférence une liste non exhaustive de quelques fonctionnalités de ce qui pourrait être considéré comme majeur\, et inclus dans la future version 3.2 de Joomla. Quelques caractéristiques sont assez poussées\, et vont certainement changer notre regard sur Joomla.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LibreOffice\, le meilleur de la bureautique libre
@@ -53,7 +53,7 @@ UID:3a70dea1e01c63175c138c7c5e453652da702c8e
 DTSTART:20131123T123000Z
 DTEND:20131123T133000Z
 GEO:43.6022973938;1.45454333439
-DESCRIPTION:
+DESCRIPTION:De retour de vacances\, vous avez amassé un nombre considérable de vidéos démontrant la créativité de vos enfants dans le bac à sable\, ou vos prouesses en jet ski. Malheureusement\, l'ensemble est pour le moins indigeste.\n\nLors de cette présentation nous découvrirons Kdenlive\, une application de montage vidéo qui vous aidera à transformer vos nombreuses séquences en un film agréable à regarder.\n\nNous aborderons entre autres : le découpage de séquences\, l'insertion de titres\, la mise en place de transitions\, la synchronisation de l'image avec une musique ou encore l'export de votre création dans un format adapté aux sites de partage de vidéos.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyberespionnage
@@ -73,7 +73,7 @@ UID:59ee296037a6b3213be20a4fc0bdc5c8242d5fa7
 DTSTART:20131123T123000Z
 DTEND:20131123T133000Z
 GEO:43.6022973938;1.45454333439
-DESCRIPTION:
+DESCRIPTION:A - Contexte FreeBSD / Les Jails : \nPrésentation succincte du projet FreeBSD. Les jails ce qu'ils sont et ce qu'ils ne sont pas.\n\nB - Implémentation dans le noyau : \nComment les jails sont implémentés dans le noyau FreeBSD\n\nC - espace utilisateur : \nLa commande jail\, la libjail\n\nD - outils compagnons : \nL'option -j\, jls\, jexec \, zfs\, hast\n\nE - Mise en oeuvre : \nQuelques exemples d'utilisation concrète pour faire des VM mais pas que.\n\nF - Conclusion :\nPourquoi il ne faut jamais parler du démarrage des jails sur FreeBSD-hackers@
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Utiliser OpenStreetMap
@@ -93,7 +93,7 @@ UID:d96011b68d201633c0a5317da23ca5aedd7de5da
 DTSTART:20131123T130000Z
 DTEND:20131123T133000Z
 GEO:43.6022973938;1.45454333439
-DESCRIPTION:
+DESCRIPTION:Panorama des outils pour la cartographie moderne et libre sur le Web !\n... ou comment vous débarrassez de cette bonne vieille carte jaunâtre en toute simplicité !
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Présentation de l'environnement de bureau Enlightenment
@@ -103,7 +103,7 @@ UID:f2b5e17329043254ddd338011733d21327ac7943
 DTSTART:20131123T133000Z
 DTEND:20131123T143000Z
 GEO:43.6022973938;1.45454333439
-DESCRIPTION:
+DESCRIPTION:Enlightenment DR17 (surnommé E17) auparavant considéré comme un gestionnaire de fenêtres est aujourd'hui un environnement de bureau presque complet. Après dix années de développement la première version stable est sortie le 21 décembre 2012. Cependant l'équipe de développement ne s'arrêtera pas là.  \n\nCette conférence présentera le bureau\, son utilisation et sa configuration ainsi que les futures évolutions de ce projet.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Signature et chiffrement du courrier électronique
@@ -113,7 +113,7 @@ UID:70b0c028de02df64bfc993f3e7578bb9a6035a55
 DTSTART:20131123T133000Z
 DTEND:20131123T143000Z
 GEO:43.6022973938;1.45454333439
-DESCRIPTION:
+DESCRIPTION:Explication sur comment chiffré et signé numériquement un email en utilisant soit le format S/Mime\, soi PGP. Explication de comment ça marche \, comment mettre en œuvre et comparaison des deux métrhodes.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tetaneutral
@@ -123,7 +123,7 @@ UID:874881bee80468f4cca13c82bcefdf847463bab6
 DTSTART:20131123T133000Z
 DTEND:20131123T143000Z
 GEO:43.6022973938;1.45454333439
-DESCRIPTION:L'association tetaneutral.net http://tetaneutral.net fondée en janvier 2011 est fournisseur d'acces internet\, hebergeur et operateur sans but lucratif sur Toulouse et sa région\, ainsi que membre fondatrice de la Féderation FDN http://ffdn.org qui regroupe maintenant plus de 1500 adhérent(e)s.\nEn s'inspirant des travaux des pionniers tetaneutral.net a permis de connecter au haut débit des foyers inéligibles a un ADSL ou un Wimax performant a Saint-Gaudens et Monès\, et a fournir une solution d'acces internet alternative a faible cout a débit symétrique pour les Toulousains.\nCette conférence vous montrera que ces solutions sont accessibles aux bonnes volontés citoyennes pour fabriquer de l'internet entre voisins en respectant la neutralité du réseau. L'association compte plus de 380 adhérent(e)s et pratique la transparence sur sa gestion financiere.
+DESCRIPTION:L'association [tetaneutral.net http://tetaneutral.net] fondée en janvier 2011 est fournisseur d’accès internet\, hébergeur et opérateur sans but lucratif sur Toulouse et sa région\, ainsi que membre fondatrice de la Fédération [FDN http://ffdn.org] qui regroupe maintenant plus de 1500 adhérent(e)s.\n\nEn s'inspirant des travaux des pionniers tetaneutral.net a permis de connecter au haut débit des foyers inéligibles a un ADSL ou un Wimax performant a Saint-Gaudens et Monès\, et a fournir une solution d’accès internet alternative a faible coût a débit symétrique pour les Toulousains.\n\nCette conférence vous montrera que ces solutions sont accessibles aux bonnes volontés citoyennes pour fabriquer de l'internet entre voisins en respectant la neutralité du réseau. L'association compte plus de 380 adhérent(e)s et pratique la transparence sur sa gestion financière.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wikipédia\, Wikimédia : du nouveau dans les projets

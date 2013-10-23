@@ -11,8 +11,8 @@
 {% if page.calendar %}
 
 {% macro eventlist(vevent) -%}
-    <li> <span class="start">{{ "%s:%s"|format(vevent.dtstart.hour, vevent.dtstart.minute) }}</span> - 
-        <span class="end">{{ "%s:%s"|format(vevent.dtend.hour, vevent.dtend.minute) }}</span> : {{ vevent.summary }}</li>
+    <li> <span class="start">{{ vevent.dtstart_time }}</span> - 
+        <span class="end">{{ vevent.dtend_time }}</span> : {{ vevent.summary }}</li>
     {# <div>{{ vevent.description|replace('\n\n', '<br>') }}</div> #}
 {%- endmacro %}
 
