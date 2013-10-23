@@ -14,8 +14,9 @@ Le Capitole du libre, c’est un événement proposé par l’association Toulib
 
 .. figure:: /photos/imprimante-3D-julien-buabent-medium.jpg
     :align: right
+    :alt: Imprimante 3D Reprap
     
-    Julien Buabent
+    photo Julien Buabent
 
 Je ne serai pas seul, il y aura normalement 4 imprimantes 3d avec :
 
