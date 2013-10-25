@@ -57,6 +57,15 @@
         </ul>
 </div>
 
+<div class="span6">
+    <h3>Akademy-fr</h3>
+        <ul>
+        {% for vevent in  events[page.slug] if vevent.dtstart.day == vevent.dtend.day and vevent.dtstart.day == 23 and vevent.location == 'C103, ENSEEIHT' %}
+            {{ eventlist(vevent) }}
+        {% endfor %}
+        </ul>
+</div>
+
 </div>
 
 <h2>Dimanche 24 novembre : Ateliers</h2>

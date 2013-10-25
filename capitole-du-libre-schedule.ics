@@ -46,6 +46,16 @@ GEO:43.6022973938;1.45454333439
 DESCRIPTION:LibreOffice est une suite bureautique libre et gratuite composée d'un traitement de textes\, d'un tableur\, d'un outil de présentation\, d'un outil de dessin vectoriel\, d'une base de données\, ainsi que d'un éditeur de formules mathématiques\, il permet de disposer d'une suite bureautique complète et multi-plateforme. \n\n\nDans cette conférence je présenterai dans un premier temps les différents modules du projet ainsi que leurs capacités. J'aborderai ensuite l'histoire du projet ainsi que les développements en cours.
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bugs et opensource\, qu’en faire?
+LOCATION:C103\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrkxp/
+UID:d3448f14acda5e37eab5464b4af2223a7cb8d24a
+DTSTART:20131123T123000Z
+DTEND:20131123T133000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:Tout projet qu’il soit opensource ou non est sujet aux bugs. Mais contrairement à une entreprise\, il n’y a pas d’obligation de les corriger. Mais les bugs ne doivent pas être traité à la légère\, et même doivent être lu simplement. Nous allons voir ce qu’on doit en faire durant cette présentation.
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Comment ne pas endormir vos invités devant le film de vos dernières vacances grâce à Kdenlive
 LOCATION:A002\, ENSEEIHT
 URL:http://lanyrd.com/2013/capitole-du-libre/scrdbf/
@@ -96,6 +106,16 @@ GEO:43.6022973938;1.45454333439
 DESCRIPTION:Panorama des outils pour la cartographie moderne et libre sur le Web !\n... ou comment vous débarrassez de cette bonne vieille carte jaunâtre en toute simplicité !
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Présentation de C++11
+LOCATION:C103\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrkxq/
+UID:e0341d1e6a459db7907112791f1e8648a3f3615f
+DTSTART:20131123T133000Z
+DTEND:20131123T143000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:Après de nombreuses années d'attente\, le standard C++11 est enfin publié et a vu une adoption rapide par les différents compilateurs de marché. Pour certains cette publication marque le début de la période de renaissance du C++.\n\nEn effet\, par bien des aspects\, les nouvelles constructions disponibles donnent l'impression d'utiliser un langage complètement neuf. Le code écrit est souvent plus court\, plus lisible et souvent plus efficace grâce aux nouvelles fonctionnalités disponibles.\n\nDans cette présentation nous donnerons un tour d'horizon des nouveautés disponibles pour montrer à quel point elles sont d'ores et déjà faciles à mettre en oeuvre pour améliorer votre code dès aujourd'hui (auto\, nullptr\, for each…). Ensuite nous nous concentrerons sur certaines constructions étonnantes permettant de récupérer des fonctionnalités issues des langages fonctionnels (lambdas\, std::function…). Enfin\, nous terminerons avec des considérations plus avancées sur le multi-tâche et les templates.
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Présentation de l'environnement de bureau Enlightenment
 LOCATION:A002\, ENSEEIHT
 URL:http://lanyrd.com/2013/capitole-du-libre/scrdbp/
@@ -116,7 +136,7 @@ GEO:43.6022973938;1.45454333439
 DESCRIPTION:Explication sur comment chiffré et signé numériquement un email en utilisant soit le format S/Mime\, soi PGP. Explication de comment ça marche \, comment mettre en œuvre et comparaison des deux métrhodes.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tetaneutral
+SUMMARY:Tetaneutral.net\, Internet autrement
 LOCATION:C002\, ENSEEIHT
 URL:http://lanyrd.com/2013/capitole-du-libre/scrgkh/
 UID:874881bee80468f4cca13c82bcefdf847463bab6
@@ -146,7 +166,17 @@ GEO:43.6022973938;1.45454333439
 DESCRIPTION:Une présentation du lecteur audio libre Tomahawk. Logiciel pour la gestion de contenu audio et de streaming multi­source\, Tomahawk est le successeur du projet antérieur nommé Playdar et s’est développé autour de la bibliothèque C++ Qt. Cette application innove par bien des aspects :\n\n* Le principe de resolver qu’il met en place\, en effet\, on ne lit plus simplement une musique de sa collection\, on demande une musique sans se soucier des détails\, l’application se charge de la trouver au travers des nombreux resolvers qui consomment les services internet tel que Jamendo\, Spotify\, Youtube etc.\n* Social : l’application permet d’avoir des amis via les comptes Jabber et ainsi mettre en place une écoute pair à pair. On dispose rapidement les musiques écoutées par ses amis un nouveau contenu nous est souvent proposé.\n* Pertinence : le contenu apporté à l’utilisateur est de plus en plus intelligent\, en proposant une musique adaptée via la recherche parmi les divers succès du moments\, les nombreuses stations de radio ou les récentes sorties d’albums.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pourquoi mes romans dans dans le Domaine Public Vivant ?
+SUMMARY:Comment faire des contrôles de qualité d'une traduction ?
+LOCATION:C103\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrkxr/
+UID:a3b8ed117459a474cbe39a099f5167b676bc804f
+DTSTART:20131123T150000Z
+DTEND:20131123T160000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:Avec plus de 900 applications\, 200 000 messages et 70 000 paragraphes de documentation\, KDE représente un véritable défi pour les équipes de traduction. Afin de conserver une homogénéité de style\, de traduction et traquer les fautes les plus fréquentes\, les équipes de traduction se sont dotés d'outils de contrôle de qualité des traductions. L'objectif de cette présentation est d'expliquer le fonctionnement générale de la traduction de KDE et comment les contrôles de qualité ont été mis en oeuvre. Un atelier dimanche permettra une mise en pratique.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pourquoi mes romans sont dans le Domaine Public Vivant ?
 LOCATION:A001\, ENSEEIHT
 URL:http://lanyrd.com/2013/capitole-du-libre/scrczq/
 UID:91aba78895022c67376c5e95c899c5647269d4c4
@@ -246,6 +276,16 @@ GEO:43.6022973938;1.45454333439
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Qualité logicielle autour de Skrooge
+LOCATION:C103\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrkxt/
+UID:d93dad221671eb23466aa35e572b48d57b9aab50
+DTSTART:20131123T160000Z
+DTEND:20131123T170000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:Skrooge est un logiciel de gestion bancaire pour les particuliers qui existe depuis 2008. Après une rapide présentation du logiciel\, Stéphane vous présentera les différents principes mis en oeuvre dans Skrooge pour en faire un outil de qualité. Ne vous attendez pas à un cours sur la “Qualité logicielle” et ISO 9126\, mais plutôt à un témoignage pratique à travers un exemple concret: Skrooge.
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Doudou linux
 LOCATION:A002\, ENSEEIHT
 URL:http://lanyrd.com/2013/capitole-du-libre/scrfyd/
@@ -254,6 +294,16 @@ DTSTART:20131123T170000Z
 DTEND:20131123T172000Z
 GEO:43.6022973938;1.45454333439
 DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fusion de Razor-qt et LXDE
+LOCATION:C103\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrkxw/
+UID:3285bb3e60ffce05d4e1e48d00931b74f1997b27
+DTSTART:20131123T170000Z
+DTEND:20131123T180000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:Le projet LXDE abandonne ses origines GTK et concentre ses efforts sur Qt! Pourquoi et comment a suivre dans cette présentation. Cette présentation vous montrera pourquoi et comment. A la suite de cette annonce\, les forces derriere Razor-qt\, un autre environnement de bureau léger basé sur Qt\, ont rejoint LXDE et nous avons donc décidé de fusionner nos efforts en un seul projet: LXQt.\n\nNous partageons notre experience peu commune dans le monde de l'Open Source\, ainsi que nos plans pour le futur de LXDE: Un bureau léger\, rapide et entierement Qt.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Json ou l'histoire d'une licence presque libre
@@ -346,6 +396,16 @@ GEO:43.6022973938;1.45454333439
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Atelier Qt Quick 2
+LOCATION:C103\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrkxx/
+UID:184007e3b2d020258f7a6e5a4899763f2d6ad66f
+DTSTART:20131124T084500Z
+DTEND:20131124T120000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:Qt 4.7 a introduit la technologie Qt Quick et le langage spécifique QML. Depuis\, Qt 5.0 est sorti avec une mise à jour majeure de l'architecture de Qt Quick et du runtime QML.\n\nDans cet atelier\, nous réviserons les bases de QML et de Qt Quick. Nous verrons aussi les avancées en performances apportées par Qt Quick 2 et son utilisation d'OpenGL. Enfin\, si le temps le permet nous explorerons comment créer des effets graphiques avancés (particules\, shaders) en utilisant Qt Quick 2.\n\nPré-requis Niveau : intermédiaire\, des bases de C++ simple sont requises\, pas de connaissance Qt nécessaire.\n\nPour participer à cet atelier\, vous devez apporter votre ordinateur\, équipé d'une distribution GNU/Linux avec Qt Creator 2.7 et Qt 5.0 ou supérieurs installés.
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Contribuer à OpenStreetMap
 LOCATION:A201\, ENSEEIHT
 URL:http://lanyrd.com/2013/capitole-du-libre/scrfzq/
@@ -404,6 +464,16 @@ DTSTART:20131124T130000Z
 DTEND:20131124T160000Z
 GEO:43.6022973938;1.45454333439
 DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dessine moi un dragon avec Krita
+LOCATION:C103\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrkxy/
+UID:7fbb21ef57d0a41e7e6dcac51edafe439e72c683
+DTSTART:20131124T130000Z
+DTEND:20131124T160000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:Ce workshop s'adresse aux personnes qui souhaitent apprendre les bases pour utiliser Krita. L'exemple utilisé sera un dessin d'après le nouveau design de Konqi\, le dragon mascotte de KDE. Cet example permettra d'aborder plusieurs points (utilisation de référence\, croquis\, encrage\, couleur.. ) et de répondre aux questions des participants. Je conseil aux participants d'apporter leur ordinateur pour dessiner\, mais libre à tout le monde de venir sans matériel\, en observateur. Néanmoins\, une tablette graphique Wacom est fortement recommandée.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Programmation d'une carte arduino
