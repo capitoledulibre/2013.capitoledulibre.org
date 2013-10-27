@@ -3,7 +3,7 @@
     {% raw %}
         <ul>
         {{#sessions}}
-            <li>{{title}} - 
+            <li><a href="#{{id}}">{{title}}</a> - 
             {{#speakers}}<em>{{name}}</em>, {{/speakers}}
             </li>
         {{/sessions}}
@@ -13,7 +13,7 @@
 <script id="sessions_tpl" type="text/template">
     {% raw %}
     {{#sessions}}
-        <h2>{{title}} <small>{{times}}</small></h2>
+        <h2 id="{{id}}">{{title}} <small>{{times}}</small></h2>
         <div class="abstract">{{{abstract}}}</div>
         <div class="speakers row-fluid">
         {{#speakers}}<div>
