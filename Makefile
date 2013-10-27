@@ -49,8 +49,8 @@ clean:
 	[ ! -d $(OUTPUTDIR) ] || find $(OUTPUTDIR) -mindepth 1 -delete
 
 update_programm:
-	rm capitole-du-libre-schedule.ics
-	wget http://lanyrd.com/2013/capitole-du-libre/capitole-du-libre-schedule.ics
+	curl http://lanyrd.com/2013/capitole-du-libre/capitole-du-libre-schedule.ics -o src/files/capitole-du-libre-schedule.ics
+	curl http://lanyrd.com/2013/capitole-du-libre/schedule/5a0aebc3bc14ed3d.v1.json -o src/files/capitole-du-libre-schedule.json
 
 regenerate: clean
 	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
