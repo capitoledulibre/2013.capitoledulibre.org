@@ -1,0 +1,1800 @@
+{
+    "timezone": "Europe/Paris", 
+    "sessions": [
+        {
+            "day": "Saturday 23rd November", 
+            "sessions": [
+                {
+                    "start_time": "2013-11-23 11:00:00", 
+                    "topics": [
+                        {
+                            "name": "Calaos", 
+                            "slug": "calaos"
+                        }, 
+                        {
+                            "name": "Domotique", 
+                            "slug": "domotique"
+                        }
+                    ], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrdbm/", 
+                    "times": "11:00am\u00a0-\u00a012:00pm", 
+                    "id": "scrdbm", 
+                    "types": [], 
+                    "end_time_epoch": 1385204400, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": null, 
+                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
+                            "name": "Raoul Hecky", 
+                            "elsewhere": [], 
+                            "role": null, 
+                            "twitter": null, 
+                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
+                            "speaker_bio": "<p>Raoul Hecky est le fondateur de calaos, solution de domotique open source. Il utilise et d\u00e9veloppe dans le libre depuis de nombreuses<br>\nann\u00e9es. Il est \u00e9galement d\u00e9veloppeur occasionnel du projet Enlightenment dont il fait partie au travers, entre autre, de la communaut\u00e9 fran\u00e7aise Enlightenment France.</p>"
+                        }, 
+                        {
+                            "bio": "", 
+                            "web_url": null, 
+                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
+                            "name": "Nicolas Aguirre", 
+                            "elsewhere": [], 
+                            "role": null, 
+                            "twitter": null, 
+                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
+                            "speaker_bio": "<p>Secr\u00e9taire de l&#39;association Enlightenment France, il est \u00e9galement le d\u00e9veloppeur du logiciel mediacenter Enna. Il participe maintenant pendant son temps libre au d\u00e9veloppement de calaos.</p>"
+                        }
+                    ], 
+                    "title": "Calaos, le syst\u00e8me domotique Open Source", 
+                    "event_id": "cprtz", 
+                    "space": "A201", 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 12:00:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385200800, 
+                    "abstract": "<p>Initialement Calaos \u00e9tait un syst\u00e8me domotique d\u00e9velopp\u00e9 par la soci\u00e9t\u00e9 du m\u00eame nom, et partiellement open source. Lorsque la soci\u00e9t\u00e9 a ferm\u00e9 ses portes d\u00e9but 2013, l&#39;int\u00e9gralit\u00e9 du code source a \u00e9t\u00e9<br>\nouverte et mise sous licence GPLv3 et une petite communaut\u00e9 s&#39;est form\u00e9e pour continuer le d\u00e9veloppement.</p>\n<p>Nous allons lors de cette conf\u00e9rence pr\u00e9senter le syst\u00e8me domotique, les diff\u00e9rents logiciels qui le composent, le mat\u00e9riel qu&#39;il supporte, un exemple d&#39;installation dans une maison. Nous aborderons \u00e9galement les technologies utilis\u00e9es et pr\u00e9senterons les \u00e9volutions futures.</p>"
+                }, 
+                {
+                    "start_time": "2013-11-23 11:00:00", 
+                    "topics": [
+                        {
+                            "name": "OpenData", 
+                            "slug": "opendata-2"
+                        }
+                    ], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrddf/", 
+                    "times": "11:00am\u00a0-\u00a012:00pm", 
+                    "id": "scrddf", 
+                    "types": [], 
+                    "end_time_epoch": 1385204400, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": null, 
+                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
+                            "name": "Sandrine Mathon", 
+                            "elsewhere": [], 
+                            "role": null, 
+                            "twitter": null, 
+                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "Conf\u00e9rence OpenData", 
+                    "event_id": "cprtz", 
+                    "space": "A001", 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 12:00:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385200800, 
+                    "abstract": ""
+                }, 
+                {
+                    "start_time": "2013-11-23 11:00:00", 
+                    "topics": [
+                        {
+                            "name": "CMS", 
+                            "slug": "cms"
+                        }, 
+                        {
+                            "name": "Joomla", 
+                            "slug": "joomla"
+                        }
+                    ], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrczt/", 
+                    "times": "11:00am\u00a0-\u00a012:00pm", 
+                    "id": "scrczt", 
+                    "types": [], 
+                    "end_time_epoch": 1385204400, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": null, 
+                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
+                            "name": "Pierre Semp\u00e9", 
+                            "elsewhere": [], 
+                            "role": null, 
+                            "twitter": null, 
+                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
+                            "speaker_bio": "<p>je m&#39;appelle Pierre Semp\u00e9, 47 ans, membre actif de la communaut\u00e9 joomla depuis mars 2007. Ma passion de Joomla, m\u2019a amen\u00e9 \u00e0 participer activement sur le forum de Joomla en animant des ateliers de templates.</p>\n<p>Fondateur depuis deux ans d\u2019un site de tutoriels, traduction et support ind\u00e9pendant sur joomla. <a href=\"http://www.joomla-support.fr/\" rel=\"nofollow\">http://www.joomla-support.fr/</a> . J&#39;offre aussi un support gratuit, et r\u00e9ponds aux demandes diverses et vari\u00e9s des utilisateurs de joomla.</p>\n<p>j\u2019ai particip\u00e9 \u00e0 plusieurs joomladays en France et Alg\u00e9rie, particip\u00e9 \u00e0 diverses conf\u00e9rences et ateliers dans le but de partager mes connaissances, et d&#39;apporter mes pierres \u00e0 l\u2019\u00e9difice joomla.</p>\n<p>Joomla est une communaut\u00e9 de plus 600 000 membres, chacun doit y apporter son savoir afin de faire \u00e9voluer le logiciel, ainsi que la communaut\u00e9 qui le supporte. Telle est ma philosophie de Joomla.</p>"
+                        }
+                    ], 
+                    "title": "D\u00e9couverte des nouvelles fonctionnalit\u00e9s de Joomla 3.2", 
+                    "event_id": "cprtz", 
+                    "space": "C002", 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 12:00:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385200800, 
+                    "abstract": "<p>La prochaine version de joomla 3.2 introduit de nouvelles fonctionnalit\u00e9s impressionnantes qui pourraient bien faire pencher la balance dans le march\u00e9 du CMS Open Source.</p>\n<p>Vous d\u00e9couvrirez lors de cette mini-conf\u00e9rence une liste non exhaustive de quelques fonctionnalit\u00e9s de ce qui pourrait \u00eatre consid\u00e9r\u00e9 comme majeur, et inclus dans la future version 3.2 de Joomla. Quelques caract\u00e9ristiques sont assez pouss\u00e9es, et vont certainement changer notre regard sur Joomla.</p>"
+                }, 
+                {
+                    "start_time": "2013-11-23 11:00:00", 
+                    "topics": [
+                        {
+                            "name": "Desktop", 
+                            "slug": "desktop"
+                        }, 
+                        {
+                            "name": "LibreOffice", 
+                            "slug": "libreoffice"
+                        }, 
+                        {
+                            "name": "Open Source", 
+                            "slug": "open-source"
+                        }
+                    ], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrdbk/", 
+                    "times": "11:00am\u00a0-\u00a012:00pm", 
+                    "id": "scrdbk", 
+                    "types": [], 
+                    "end_time_epoch": 1385204400, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": "http://lanyrd.com/profile/arnaudversini/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/f4cc727d9f19f30c9a35475174204255dd666f10-s300.jpeg", 
+                            "name": "Arnaud Versini", 
+                            "elsewhere": [], 
+                            "role": "Hacker LibreOffice", 
+                            "twitter": "@arnaudversini", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/f4cc727d9f19f30c9a35475174204255dd666f10-s75.jpeg", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "LibreOffice, le meilleur de la bureautique libre", 
+                    "event_id": "cprtz", 
+                    "space": "A002", 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 12:00:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385200800, 
+                    "abstract": "<p>LibreOffice est une suite bureautique libre et gratuite compos\u00e9e d&#39;un traitement de textes, d&#39;un tableur, d&#39;un outil de pr\u00e9sentation, d&#39;un outil de dessin vectoriel, d&#39;une base de donn\u00e9es, ainsi que d&#39;un \u00e9diteur de formules math\u00e9matiques, il permet de disposer d&#39;une suite bureautique compl\u00e8te et multi-plateforme.</p>\n<p>Dans cette conf\u00e9rence je pr\u00e9senterai dans un premier temps les diff\u00e9rents modules du projet ainsi que leurs capacit\u00e9s. J&#39;aborderai ensuite l&#39;histoire du projet ainsi que les d\u00e9veloppements en cours.</p>"
+                }, 
+                {
+                    "start_time": "2013-11-23 13:30:00", 
+                    "topics": [
+                        {
+                            "name": "Akademy-fr", 
+                            "slug": "akademy-fr"
+                        }
+                    ], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrkxp/", 
+                    "times": "1:30pm\u00a0-\u00a02:30pm", 
+                    "id": "scrkxp", 
+                    "types": [], 
+                    "end_time_epoch": 1385213400, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": null, 
+                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
+                            "name": "Laurent Montel", 
+                            "elsewhere": [], 
+                            "role": null, 
+                            "twitter": null, 
+                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
+                            "speaker_bio": "<p>Laurent Montel, d\u00e9veloppeur KDE depuis 1999, en passant de Koffice (mainteneur de KSpread) au portage KDE4 et depuis quelques ann\u00e9es je suis mainteneur de KMail d\u2019autres applications PIM. Du haut de ses 37 ans, il travaille chez KDAB et je suis toulousain depuis peu.</p>"
+                        }
+                    ], 
+                    "title": "Bugs et opensource, qu\u2019en faire?", 
+                    "event_id": "cprtz", 
+                    "space": "C103", 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 14:30:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385209800, 
+                    "abstract": "<p>Tout projet qu\u2019il soit opensource ou non est sujet aux bugs. Mais contrairement \u00e0 une entreprise, il n\u2019y a pas d\u2019obligation de les corriger. Mais les bugs ne doivent pas \u00eatre trait\u00e9 \u00e0 la l\u00e9g\u00e8re, et m\u00eame doivent \u00eatre lu simplement. Nous allons voir ce qu\u2019on doit en faire durant cette pr\u00e9sentation.</p>"
+                }, 
+                {
+                    "start_time": "2013-11-23 13:30:00", 
+                    "topics": [
+                        {
+                            "name": "KDEnlive", 
+                            "slug": "kdenlive"
+                        }, 
+                        {
+                            "name": "Multimedia", 
+                            "slug": "multimedia"
+                        }, 
+                        {
+                            "name": "Vid\u00e9o", 
+                            "slug": "video-1"
+                        }
+                    ], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrdbf/", 
+                    "times": "1:30pm\u00a0-\u00a02:30pm", 
+                    "id": "scrdbf", 
+                    "types": [], 
+                    "end_time_epoch": 1385213400, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": null, 
+                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
+                            "name": "Aur\u00e9lien Gateau", 
+                            "elsewhere": [], 
+                            "role": null, 
+                            "twitter": null, 
+                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
+                            "speaker_bio": "<p>D\u00e9veloppeur par passion, Aur\u00e9lien G\u00e2teau est un touche-\u00e0-tout qui s&#39;int\u00e9resse \u00e9galement \u00e0 l&#39;image, la vid\u00e9o, ou encore \u00e0 l&#39;ergonomie. Il contribue au d\u00e9veloppement d&#39;applications KDE et maintient notamment Gwenview, la visionneuse d&#39;images du bureau.</p>"
+                        }
+                    ], 
+                    "title": "Comment ne pas endormir vos invit\u00e9s devant le film de vos derni\u00e8res vacances gr\u00e2ce \u00e0 Kdenlive", 
+                    "event_id": "cprtz", 
+                    "space": "A002", 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 14:30:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385209800, 
+                    "abstract": "<p>De retour de vacances, vous avez amass\u00e9 un nombre consid\u00e9rable de vid\u00e9os d\u00e9montrant la cr\u00e9ativit\u00e9 de vos enfants dans le bac \u00e0 sable, ou vos prouesses en jet ski. Malheureusement, l&#39;ensemble est pour le moins indigeste.</p>\n<p>Lors de cette pr\u00e9sentation nous d\u00e9couvrirons Kdenlive, une application de montage vid\u00e9o qui vous aidera \u00e0 transformer vos nombreuses s\u00e9quences en un film agr\u00e9able \u00e0 regarder.</p>\n<p>Nous aborderons entre autres : le d\u00e9coupage de s\u00e9quences, l&#39;insertion de titres, la mise en place de transitions, la synchronisation de l&#39;image avec une musique ou encore l&#39;export de votre cr\u00e9ation dans un format adapt\u00e9 aux sites de partage de vid\u00e9os.</p>"
+                }, 
+                {
+                    "start_time": "2013-11-23 13:30:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrfxw/", 
+                    "times": "1:30pm\u00a0-\u00a02:30pm", 
+                    "id": "scrfxw", 
+                    "types": [], 
+                    "end_time_epoch": 1385213400, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": null, 
+                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
+                            "name": "Johann Oriel", 
+                            "elsewhere": [], 
+                            "role": null, 
+                            "twitter": null, 
+                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "Cyberespionnage", 
+                    "event_id": "cprtz", 
+                    "space": "A001", 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 14:30:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385209800, 
+                    "abstract": ""
+                }, 
+                {
+                    "start_time": "2013-11-23 13:30:00", 
+                    "topics": [
+                        {
+                            "name": "FreeBSD", 
+                            "slug": "freebsd"
+                        }
+                    ], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrdbc/", 
+                    "times": "1:30pm\u00a0-\u00a02:30pm", 
+                    "id": "scrdbc", 
+                    "types": [], 
+                    "end_time_epoch": 1385213400, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": null, 
+                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
+                            "name": "Joris Dedieu", 
+                            "elsewhere": [], 
+                            "role": null, 
+                            "twitter": null, 
+                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
+                            "speaker_bio": ""
+                        }, 
+                        {
+                            "bio": "", 
+                            "web_url": null, 
+                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
+                            "name": "David Berard", 
+                            "elsewhere": [], 
+                            "role": null, 
+                            "twitter": null, 
+                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "Les jails FreeBSD du chroot au container", 
+                    "event_id": "cprtz", 
+                    "space": "A201", 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 14:30:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385209800, 
+                    "abstract": "<p>A - Contexte FreeBSD / Les Jails : <br>\nPr\u00e9sentation succincte du projet FreeBSD. Les jails ce qu&#39;ils sont et ce qu&#39;ils ne sont pas.</p>\n<p>B - Impl\u00e9mentation dans le noyau : <br>\nComment les jails sont impl\u00e9ment\u00e9s dans le noyau FreeBSD</p>\n<p>C - espace utilisateur : <br>\nLa commande jail, la libjail</p>\n<p>D - outils compagnons : <br>\nL&#39;option -j, jls, jexec , zfs, hast</p>\n<p>E - Mise en oeuvre : <br>\nQuelques exemples d&#39;utilisation concr\u00e8te pour faire des VM mais pas que.</p>\n<p>F - Conclusion :<br>\nPourquoi il ne faut jamais parler du d\u00e9marrage des jails sur FreeBSD-hackers@</p>"
+                }, 
+                {
+                    "start_time": "2013-11-23 13:30:00", 
+                    "topics": [
+                        {
+                            "name": "Maperitive", 
+                            "slug": "maperitive"
+                        }, 
+                        {
+                            "name": "OpenStreetMap", 
+                            "slug": "openstreetmap"
+                        }, 
+                        {
+                            "name": "Tilemill", 
+                            "slug": "tilemill"
+                        }, 
+                        {
+                            "name": "uMap", 
+                            "slug": "umap"
+                        }
+                    ], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrdbb/", 
+                    "times": "1:30pm\u00a0-\u00a02:00pm", 
+                    "id": "scrdbb", 
+                    "types": [], 
+                    "end_time_epoch": 1385211600, 
+                    "speakers": [
+                        {
+                            "bio": "<p>Opendata - OpenStreetMap - LogicielLibre - DataViz Data Visualization - ESS \u00c9conomie Sociale et Solidaire - OpenGov - eDemocracy</p>", 
+                            "web_url": "http://lanyrd.com/profile/cyrillegiquello/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/1874094e7e2c81a494807037f3e68a015a84ff47-s300.png", 
+                            "name": "Cyrille Giquello", 
+                            "elsewhere": [], 
+                            "role": "Opendata - OpenStreetMap - LogicielLibre - DataViz Data Visualization - ESS \u00c9conomie Sociale et Solidaire - OpenGov - eDemocracy", 
+                            "twitter": "@CyrilleGiquello", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/1874094e7e2c81a494807037f3e68a015a84ff47-s75.png", 
+                            "speaker_bio": "<p>Je suis fan de projets libre depuis mon plus jeune \u00e2ge: partager entre tous les savoirs et savoir-faire ouvre \u00e0 une cr\u00e9ation infinie. J&#39;aime les petits bouts de \u201ccode\u201d, les gros ateliers logiciel, les masses de donn\u00e9es, les informations de tout genre quand tout ceci est mis en p\u00e2ture sur le Web sans autre limite que d&#39;en citer les auteurs. Aujourd&#39;hui cette culture \u201cLibre\u201d d\u00e9ferle de tous les c\u00f4t\u00e9s: le monde change-t-il pour devenir Libre, Solidaire et Durable ?! That is the question.</p>"
+                        }
+                    ], 
+                    "title": "Utiliser OpenStreetMap", 
+                    "event_id": "cprtz", 
+                    "space": "C002", 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 14:00:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385209800, 
+                    "abstract": "<p>OpenStreetMap est une base mondiale de donn\u00e9es cartographiques libres. Cette mini-conf\u00e9rence vous offre un tour d&#39;horizon des outils permettant d&#39;en extraire des donn\u00e9es et/ou de cr\u00e9er des cartes. Parmi Les outils pr\u00e9sent\u00e9s: uMap, Maperitive, TileMill, Overpass-api.</p>"
+                }, 
+                {
+                    "start_time": "2013-11-23 14:00:00", 
+                    "topics": [
+                        {
+                            "name": "OpenStreetMap", 
+                            "slug": "openstreetmap"
+                        }
+                    ], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrczz/", 
+                    "times": "2:00pm\u00a0-\u00a02:30pm", 
+                    "id": "scrczz", 
+                    "types": [], 
+                    "end_time_epoch": 1385213400, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": "http://lanyrd.com/profile/leplatrem/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/1bf71c473ab8e85e84e5676206ba6a57b8918475-s300.png", 
+                            "name": "Mathieu Leplatre", 
+                            "elsewhere": [], 
+                            "role": "Full-time passionate developer at @makinacorpus (Cartography ~ Python ~ Javascript ~ Qt/C++)", 
+                            "twitter": "@leplatrem", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/1bf71c473ab8e85e84e5676206ba6a57b8918475-s75.png", 
+                            "speaker_bio": "<p>Mathieu est d\u00e9veloppeur Web, et construit des applications libres chez Makina Corpus.</p>\n<p>Face aux seigneuries et leurs forteresses \u00e9tablies, il a rejoint la horde des d\u00e9fenseurs des approches simples et efficaces.</p>"
+                        }
+                    ], 
+                    "title": "Alternatives libres \u00e0 GoogleMaps", 
+                    "event_id": "cprtz", 
+                    "space": "C002", 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 14:30:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385211600, 
+                    "abstract": "<p>Panorama des outils pour la cartographie moderne et libre sur le Web !<br>\n... ou comment vous d\u00e9barrassez de cette bonne vieille carte jaun\u00e2tre en toute simplicit\u00e9 !</p>"
+                }, 
+                {
+                    "start_time": "2013-11-23 14:30:00", 
+                    "topics": [
+                        {
+                            "name": "Akademy-fr", 
+                            "slug": "akademy-fr"
+                        }, 
+                        {
+                            "name": "C++", 
+                            "slug": "c-1"
+                        }, 
+                        {
+                            "name": "C++11", 
+                            "slug": "c11"
+                        }
+                    ], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrkxq/", 
+                    "times": "2:30pm\u00a0-\u00a03:30pm", 
+                    "id": "scrkxq", 
+                    "types": [], 
+                    "end_time_epoch": 1385217000, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": "http://lanyrd.com/profile/dfaure/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/e1fc87901b76ae35e02a760a382893f2ef6412fb-s300.jpg", 
+                            "name": "David Faure", 
+                            "elsewhere": [], 
+                            "role": "", 
+                            "twitter": "@dfaure", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/e1fc87901b76ae35e02a760a382893f2ef6412fb-s75.jpg", 
+                            "speaker_bio": "<p>David Faure est d\u00e9veloppeur KDE depuis 1998. Il maintient une grande partie des biblioth\u00e8ques kdelibs, et consacre son temps \u00e0 les rendre modulaires et ind\u00e9pendantes, en vue de KDE Frameworks 5. Il contribue aussi \u00e0 Qt 5. Depuis 2003, il travaille dans le sud-est de la France pour KDAB (<a href=\"http://www.kdab.com\" rel=\"nofollow\">www.kdab.com</a>). Il effectue des formations et du consulting Qt, des projets de d\u00e9veloppement et de migration \u00e0 Qt.</p>"
+                        }, 
+                        {
+                            "bio": "<p>Open Source Engineer and Researcher</p>", 
+                            "web_url": "http://lanyrd.com/profile/dr_ervin/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/3ab228b70e453784b0e0e7990fbc21a6225bb648-s300.png", 
+                            "name": "Kevin Ottens", 
+                            "elsewhere": [], 
+                            "role": "Open Source Engineer and Researcher", 
+                            "twitter": "@dr_ervin", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/3ab228b70e453784b0e0e7990fbc21a6225bb648-s75.png", 
+                            "speaker_bio": "<p>K\u00e9vin Ottens est un des hackers centraux de la communaut\u00e9 KDE. Il a contribu\u00e9 \u00e0 de nombreuses briques logicielles produites par KDE avec un int\u00e9r\u00eat particulier pour la conception d&#39;API et l&#39;architecture des frameworks. Dipl\u00f4m\u00e9 en 2007, il a obtenu un doctorat en intelligence artificielle pour lequel il a travaill\u00e9 sur l&#39;ing\u00e9nierie des connaissances et les syst\u00e8mes multi-agents. Aujourd&#39;hui, il travaille essentiellement avec Qt en tant que d\u00e9veloppeur, consultant et formateur gr\u00e2ce \u00e0 son emploi \u00e0 KDAB. Il vit toujours \u00e0 Toulouse o\u00f9 il intervient \u00e0 temps partiel dans son ancienne universit\u00e9.</p>"
+                        }
+                    ], 
+                    "title": "Pr\u00e9sentation de C++11", 
+                    "event_id": "cprtz", 
+                    "space": "C103", 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 15:30:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385213400, 
+                    "abstract": "<p>Apr\u00e8s de nombreuses ann\u00e9es d&#39;attente, le standard C++11 est enfin publi\u00e9 et a vu une adoption rapide par les diff\u00e9rents compilateurs de march\u00e9. Pour certains cette publication marque le d\u00e9but de la p\u00e9riode de renaissance du C++.</p>\n<p>En effet, par bien des aspects, les nouvelles constructions disponibles donnent l&#39;impression d&#39;utiliser un langage compl\u00e8tement neuf. Le code \u00e9crit est souvent plus court, plus lisible et souvent plus efficace gr\u00e2ce aux nouvelles fonctionnalit\u00e9s disponibles.</p>\n<p>Dans cette pr\u00e9sentation nous donnerons un tour d&#39;horizon des nouveaut\u00e9s disponibles pour montrer \u00e0 quel point elles sont d&#39;ores et d\u00e9j\u00e0 faciles \u00e0 mettre en oeuvre pour am\u00e9liorer votre code d\u00e8s aujourd&#39;hui (auto, nullptr, for each\u2026). Ensuite nous nous concentrerons sur certaines constructions \u00e9tonnantes permettant de r\u00e9cup\u00e9rer des fonctionnalit\u00e9s issues des langages fonctionnels (lambdas, std::function\u2026). Enfin, nous terminerons avec des consid\u00e9rations plus avanc\u00e9es sur le multi-t\u00e2che et les templates.</p>"
+                }, 
+                {
+                    "start_time": "2013-11-23 14:30:00", 
+                    "topics": [
+                        {
+                            "name": "Enlightenment", 
+                            "slug": "enlightenment"
+                        }
+                    ], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrdbp/", 
+                    "times": "2:30pm\u00a0-\u00a03:30pm", 
+                    "id": "scrdbp", 
+                    "types": [], 
+                    "end_time_epoch": 1385217000, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": null, 
+                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
+                            "name": "Micha\u00ebl Bouchaud", 
+                            "elsewhere": [], 
+                            "role": null, 
+                            "twitter": null, 
+                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
+                            "speaker_bio": "<p>Contributeur d&#39;enlightenemnent, et des EFL depuis pr\u00e8s de 6 ans. Il a travaill\u00e9 au sein de l&#39;\u00e9quipe de d\u00e9veloppement d&#39;Ordissimo, o\u00f9 il a cr\u00e9\u00e9 un environnement bas\u00e9 sur e17 pour des utilisateurs d\u00e9butants en informatique. Il est aussi le d\u00e9veloppeur d&#39;Entrance, un gestionnaire de sessions utilisant les efl.</p>"
+                        }
+                    ], 
+                    "title": "Pr\u00e9sentation de l'environnement de bureau Enlightenment", 
+                    "event_id": "cprtz", 
+                    "space": "A002", 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 15:30:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385213400, 
+                    "abstract": "<p>Enlightenment DR17 (surnomm\u00e9 E17) auparavant consid\u00e9r\u00e9 comme un gestionnaire de fen\u00eatres est aujourd&#39;hui un environnement de bureau presque complet. Apr\u00e8s dix ann\u00e9es de d\u00e9veloppement la premi\u00e8re version stable est sortie le 21 d\u00e9cembre 2012. Cependant l&#39;\u00e9quipe de d\u00e9veloppement ne s&#39;arr\u00eatera pas l\u00e0.</p>\n<p>Cette conf\u00e9rence pr\u00e9sentera le bureau, son utilisation et sa configuration ainsi que les futures \u00e9volutions de ce projet.</p>"
+                }, 
+                {
+                    "start_time": "2013-11-23 14:30:00", 
+                    "topics": [
+                        {
+                            "name": "PGP/GPG", 
+                            "slug": "pgpgpg"
+                        }
+                    ], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrczw/", 
+                    "times": "2:30pm\u00a0-\u00a03:30pm", 
+                    "id": "scrczw", 
+                    "types": [], 
+                    "end_time_epoch": 1385217000, 
+                    "speakers": [
+                        {
+                            "bio": "<p>French, Geek, Photographer, working for mozilla on Thunderbird.</p>\n<p>I&#39;m somewhat sometimes a Troll too :D</p>", 
+                            "web_url": "http://lanyrd.com/profile/lhirlimann/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/979dcd7021e5d3b9899fd333e7b153ddfcf5b2a3-s300.jpeg", 
+                            "name": "Ludovic Hirlimann", 
+                            "elsewhere": [], 
+                            "role": "SRE & Thunderbird QA lead @ Mozilla", 
+                            "twitter": "@lhirlimann", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/979dcd7021e5d3b9899fd333e7b153ddfcf5b2a3-s75.jpeg", 
+                            "speaker_bio": "<p>Started with an Apple II, on which I learned assembly and basic. Then we trade up the Apple II for a Macintosh LC with 2mb Ram and 40 Mb HD - I upgraded the ram to 6MB, bought Think Pascal (should have bought Think C) and filled the disk :-).I then got an Atari Falcon030 and started C, but did mostly assembly. Followed a bebox, I did some BeOS development for some time in C++, and felt betrayed by Be Inc. when they shifted to x86. I&#39;ve used Linux and OS/2 too, I don&#39;t use OS/2 nor linux, I prefer the BSD philosophy. Now I play with MacOS X.</p>\n<p>I work for Mozilla as the QA lead for Thunderbird and Part of the Sysadmins team.</p>"
+                        }
+                    ], 
+                    "title": "Signature et chiffrement du courrier \u00e9lectronique", 
+                    "event_id": "cprtz", 
+                    "space": "A201", 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 15:30:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385213400, 
+                    "abstract": "<p>Explication sur comment chiffr\u00e9 et sign\u00e9 num\u00e9riquement un email en utilisant soit le format S/Mime, soi PGP. Explication de comment \u00e7a marche , comment mettre en \u0153uvre et comparaison des deux m\u00e9trhodes.</p>"
+                }, 
+                {
+                    "start_time": "2013-11-23 14:30:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrgkh/", 
+                    "times": "2:30pm\u00a0-\u00a03:30pm", 
+                    "id": "scrgkh", 
+                    "types": [], 
+                    "end_time_epoch": 1385217000, 
+                    "speakers": [
+                        {
+                            "bio": "<p>Free Software</p>", 
+                            "web_url": "http://lanyrd.com/profile/lguerby/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/33ac64bb3c4583aa94c685d52de30d6329aeab6d-s300.jpg", 
+                            "name": "Laurent GUERBY", 
+                            "elsewhere": [], 
+                            "role": "Free Software", 
+                            "twitter": "@lguerby", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/33ac64bb3c4583aa94c685d52de30d6329aeab6d-s75.jpg", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "Tetaneutral.net, Internet autrement", 
+                    "event_id": "cprtz", 
+                    "space": "C002", 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 15:30:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385213400, 
+                    "abstract": "<p>L&#39;association <a href=\"http://tetaneutral.net\" rel=\"nofollow\">tetaneutral.net</a> fond\u00e9e en janvier 2011 est fournisseur d\u2019acc\u00e8s internet, h\u00e9bergeur et op\u00e9rateur sans but lucratif sur Toulouse et sa r\u00e9gion, ainsi que membre fondatrice de la F\u00e9d\u00e9ration <a href=\"http://ffdn.org\" rel=\"nofollow\">FDN</a> qui regroupe maintenant plus de 1500 adh\u00e9rent(e)s.</p>\n<p>En s&#39;inspirant des travaux des pionniers <a href=\"http://tetaneutral.net\" rel=\"nofollow\">tetaneutral.net</a> a permis de connecter au haut d\u00e9bit des foyers in\u00e9ligibles a un ADSL ou un Wimax performant a Saint-Gaudens et Mon\u00e8s, et a fournir une solution d\u2019acc\u00e8s internet alternative a faible co\u00fbt a d\u00e9bit sym\u00e9trique pour les Toulousains.</p>\n<p>Cette conf\u00e9rence vous montrera que ces solutions sont accessibles aux bonnes volont\u00e9s citoyennes pour fabriquer de l&#39;internet entre voisins en respectant la neutralit\u00e9 du r\u00e9seau. L&#39;association compte plus de 380 adh\u00e9rent(e)s et pratique la transparence sur sa gestion financi\u00e8re.</p>"
+                }, 
+                {
+                    "start_time": "2013-11-23 14:30:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrcmm/", 
+                    "times": "2:30pm\u00a0-\u00a03:30pm", 
+                    "id": "scrcmm", 
+                    "types": [], 
+                    "end_time_epoch": 1385217000, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": null, 
+                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
+                            "name": "J\u00e9r\u00e9my Perret", 
+                            "elsewhere": [], 
+                            "role": null, 
+                            "twitter": null, 
+                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "Wikip\u00e9dia, Wikim\u00e9dia : du nouveau dans les projets", 
+                    "event_id": "cprtz", 
+                    "space": "A001", 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 15:30:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385213400, 
+                    "abstract": "<p>Les derniers mois ont vu appara\u00eetre de nombreuses nouveaut\u00e9s sur Wikip\u00e9dia et les projets de la fondation Wikimedia. Objectif : rendre le contenu plus accessible, attirer de nouveaux contributeurs et simplifier les travaux des b\u00e9n\u00e9voles.</p>\n<p>Cette conf\u00e9rence propose un tour d&#39;horizon des derni\u00e8res am\u00e9liorations port\u00e9es aux projets, parmi lesquelles :</p>\n<ul class=\"bullets\">\n  <li>l&#39;\u00e9diteur visuel : une nouvelle interface pour simplifier les contributions ; </li>\n  <li>Wikivoyage : un projet de guide de voyage h\u00e9berg\u00e9 depuis peu par la fondation Wikim\u00e9dia ; </li>\n  <li>Wikidata : un projet multilingue destin\u00e9 \u00e0 concentrer et lier les donn\u00e9es entre elles ; </li>\n  <li>Lua : un langage de programmation utilis\u00e9 pour simplifier de nombreux contenus.</li>\n</ul>\n<p>Une bonne occasion de d\u00e9couvrir les rouages de l&#39;encyclop\u00e9die en ligne et de ses projets fr\u00e8res !</p>"
+                }, 
+                {
+                    "start_time": "2013-11-23 15:45:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrfyb/", 
+                    "times": "3:45pm\u00a0-\u00a04:10pm", 
+                    "id": "scrfyb", 
+                    "types": [], 
+                    "end_time_epoch": 1385219400, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": null, 
+                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
+                            "name": "Franck Arrecot", 
+                            "elsewhere": [], 
+                            "role": null, 
+                            "twitter": null, 
+                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
+                            "speaker_bio": "<p>\u00c9tudiant en Master 2 D\u00e9veloppement Logiciel \u00e0 l\u2019universit\u00e9 Paul Sabatier de Toulouse. Contributeur au projet tomahawk dans le cadre du projet de master 1 dirig\u00e9 par Kevin Ottens.</p>\n<p>Contributions propos\u00e9es \u00e0 la communaut\u00e9 : syst\u00e8me de sessions, resolver google drive et DropBox et transcoding.</p>"
+                        }
+                    ], 
+                    "title": "Tomahawk-player", 
+                    "event_id": "cprtz", 
+                    "space": "A002", 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 16:10:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385217900, 
+                    "abstract": "<p>Une pr\u00e9sentation du lecteur audio libre Tomahawk. Logiciel pour la gestion de contenu audio et de streaming multi\u00adsource, Tomahawk est le successeur du projet ant\u00e9rieur nomm\u00e9 Playdar et s\u2019est d\u00e9velopp\u00e9 autour de la biblioth\u00e8que C++ Qt. Cette application innove par bien des aspects :</p>\n<ul class=\"bullets\">\n  <li>Le principe de resolver qu\u2019il met en place, en effet, on ne lit plus simplement une musique de sa collection, on demande une musique sans se soucier des d\u00e9tails, l\u2019application se charge de la trouver au travers des nombreux resolvers qui consomment les services internet tel que Jamendo, Spotify, Youtube etc.</li>\n  <li>Social : l\u2019application permet d\u2019avoir des amis via les comptes Jabber et ainsi mettre en place une \u00e9coute pair \u00e0 pair. On dispose rapidement les musiques \u00e9cout\u00e9es par ses amis un nouveau contenu nous est souvent propos\u00e9.</li>\n  <li>Pertinence : le contenu apport\u00e9 \u00e0 l\u2019utilisateur est de plus en plus intelligent, en proposant une musique adapt\u00e9e via la recherche parmi les divers succ\u00e8s du moments, les nombreuses stations de radio ou les r\u00e9centes sorties d\u2019albums.</li>\n</ul>"
+                }, 
+                {
+                    "start_time": "2013-11-23 16:00:00", 
+                    "topics": [
+                        {
+                            "name": "Akademy-fr", 
+                            "slug": "akademy-fr"
+                        }, 
+                        {
+                            "name": "KDE", 
+                            "slug": "kde"
+                        }
+                    ], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrkxr/", 
+                    "times": "4:00pm\u00a0-\u00a05:00pm", 
+                    "id": "scrkxr", 
+                    "types": [], 
+                    "end_time_epoch": 1385222400, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": null, 
+                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
+                            "name": "S\u00e9bastien Renard", 
+                            "elsewhere": [], 
+                            "role": null, 
+                            "twitter": null, 
+                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
+                            "speaker_bio": "<p>S\u00e9bastien Renard est utilisateur de Linux et des produits KDE depuis plus de 13 ans. Il contribue depuis une dizaine d&#39;ann\u00e9e au projet de traduction de KDE en fran\u00e7ais en tant que traducteur et coordonnateur de l&#39;\u00e9quipe de traduction. \u00c0 cot\u00e9 de ses activit\u00e9s de traduction, il contribue au d\u00e9veloppement de logiciels libres (yokadi, pology, pysql, pydici etc.). Sur le plan professionnel, il est directeur associ\u00e9 d&#39;enioka, un cabinet de conseil en architecture des syst\u00e8mes d&#39;information.</p>"
+                        }
+                    ], 
+                    "title": "Comment faire des contr\u00f4les de qualit\u00e9 d'une traduction ?", 
+                    "event_id": "cprtz", 
+                    "space": "C103", 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 17:00:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385218800, 
+                    "abstract": "<p>Avec plus de 900 applications, 200 000 messages et 70 000 paragraphes de documentation, KDE repr\u00e9sente un v\u00e9ritable d\u00e9fi pour les \u00e9quipes de traduction. Afin de conserver une homog\u00e9n\u00e9it\u00e9 de style, de traduction et traquer les fautes les plus fr\u00e9quentes, les \u00e9quipes de traduction se sont dot\u00e9s d&#39;outils de contr\u00f4le de qualit\u00e9 des traductions. L&#39;objectif de cette pr\u00e9sentation est d&#39;expliquer le fonctionnement g\u00e9n\u00e9rale de la traduction de KDE et comment les contr\u00f4les de qualit\u00e9 ont \u00e9t\u00e9 mis en oeuvre. Un atelier dimanche permettra une mise en pratique.</p>"
+                }, 
+                {
+                    "start_time": "2013-11-23 16:00:00", 
+                    "topics": [
+                        {
+                            "name": "Creative Commons", 
+                            "slug": "creative-commons"
+                        }
+                    ], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrczq/", 
+                    "times": "4:00pm\u00a0-\u00a05:00pm", 
+                    "id": "scrczq", 
+                    "types": [], 
+                    "end_time_epoch": 1385222400, 
+                    "speakers": [
+                        {
+                            "bio": "<p>Auteur du Domaine Public Vivant. Geek&amp;Gay, Libre&amp;Libertin, F\u00e9ministe&amp;Framasoftien, Patalon&amp;Pansexuel.... (collection d&#39;\u00e9tiquettes en cours)</p>", 
+                            "web_url": "http://lanyrd.com/profile/pouhiou/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/c61c8b22738a3d46f7c550d0c95faa36521e58e5-s300.jpeg", 
+                            "name": "Pouhiou", 
+                            "elsewhere": [], 
+                            "role": "Auteur du Domaine Public Vivant. Geek&Gay, Libre&Libertin, F\u00e9ministe&Framasoftien, Patalon&Pansexuel.... (collection d'\u00e9tiquettes en cours)", 
+                            "twitter": "@Pouhiou", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/c61c8b22738a3d46f7c550d0c95faa36521e58e5-s75.jpeg", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "Pourquoi mes romans sont dans le Domaine Public Vivant ?", 
+                    "event_id": "cprtz", 
+                    "space": "A001", 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 17:00:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385218800, 
+                    "abstract": ""
+                }, 
+                {
+                    "start_time": "2013-11-23 16:00:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrfyf/", 
+                    "times": "4:00pm\u00a0-\u00a05:00pm", 
+                    "id": "scrfyf", 
+                    "types": [], 
+                    "end_time_epoch": 1385222400, 
+                    "speakers": [
+                        {
+                            "bio": "<p>OverBlog&#39;s CTO @ eBuzzing</p>", 
+                            "web_url": "http://lanyrd.com/profile/xkobal/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/967d867bdbe9ebf1015024bf9cfac699dc0d3d96-s300.jpeg", 
+                            "name": "Xavier HAUSHERR", 
+                            "elsewhere": [], 
+                            "role": "OverBlog's CTO @ eBuzzing", 
+                            "twitter": "@xKobal", 
+                            "image_75": "https://s3.amazonaws.com/static.lanyrd.net/cropped-profile-photos/967d867bdbe9ebf1015024bf9cfac699dc0d3d96-s75.jpeg", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "Processus complet de d\u00e9veloppement du projet Overblog", 
+                    "event_id": "cprtz", 
+                    "space": "C002", 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 17:00:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385218800, 
+                    "abstract": ""
+                }, 
+                {
+                    "start_time": "2013-11-23 16:00:00", 
+                    "topics": [
+                        {
+                            "name": "Pylint", 
+                            "slug": "pylint"
+                        }
+                    ], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrfyg/", 
+                    "times": "4:00pm\u00a0-\u00a04:30pm", 
+                    "id": "scrfyg", 
+                    "types": [], 
+                    "end_time_epoch": 1385220600, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": null, 
+                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
+                            "name": "Sylvain Th\u00e9nault", 
+                            "elsewhere": [], 
+                            "role": null, 
+                            "twitter": null, 
+                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "Pylint 1.0, \u00e9tats des lieux apr\u00e8s 10 ans de d\u00e9veloppement", 
+                    "event_id": "cprtz", 
+                    "space": "A201", 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 16:30:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385218800, 
+                    "abstract": ""
+                }, 
+                {
+                    "start_time": "2013-11-23 16:10:00", 
+                    "topics": [
+                        {
+                            "name": "Digikam", 
+                            "slug": "digikam"
+                        }
+                    ], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrdbg/", 
+                    "times": "4:10pm\u00a0-\u00a04:35pm", 
+                    "id": "scrdbg", 
+                    "types": [], 
+                    "end_time_epoch": 1385220900, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": null, 
+                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
+                            "name": "Benjamin Girault", 
+                            "elsewhere": [], 
+                            "role": null, 
+                            "twitter": null, 
+                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "Digikam, utilisez la puissance des logiciels libres pour g\u00e9rer vos photos comme un professionnel", 
+                    "event_id": "cprtz", 
+                    "space": "A002", 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 16:35:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385219400, 
+                    "abstract": "<p>Nous prenons de plus en plus de photos avec des appareil photos de plus en plus sophistiqu\u00e9s ; mais comment g\u00e9rer toutes ces photos ? Classer, trier, retoucher, rechercher... Toutes ces op\u00e9rations demandent des outils puissants et efficaces. Si l&#39;on souhaite garder le contr\u00f4le de ses photos et ne pas les donner aux grands marchands d&#39;internet, les logiciels libres comme digikam <br>\nsont la bonne r\u00e9ponse.</p>\n<p>Que l&#39;on soit simple amateur ou v\u00e9ritable professionnel, Digikam permet de vous accompagner \u00e0 toutes les \u00e9tapes : du d\u00e9veloppement et la retouche au classement de vos photos. Fort de plus de 10 ans d&#39;exp\u00e9rience et de la contribution de nombreux photographes, Digikam est d\u00e9sormais un outil mature et professionnel.</p>\n<p>Cette conf\u00e9rence propose de faire un tour d&#39;horizon des fonctionnalit\u00e9s de Digikam les plus ignificative et d&#39;esquisser les \u00e9volutions \u00e0 venir.</p>"
+                }, 
+                {
+                    "start_time": "2013-11-23 16:30:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrfyh/", 
+                    "times": "4:30pm\u00a0-\u00a05:00pm", 
+                    "id": "scrfyh", 
+                    "types": [], 
+                    "end_time_epoch": 1385222400, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": null, 
+                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
+                            "name": "Fr\u00e9d\u00e9ric Jourdan", 
+                            "elsewhere": [], 
+                            "role": null, 
+                            "twitter": null, 
+                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "Open Hardware, Arduino, Internet des objets", 
+                    "event_id": "cprtz", 
+                    "space": "A201", 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 17:00:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385220600, 
+                    "abstract": ""
+                }, 
+                {
+                    "start_time": "2013-11-23 16:35:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrfyc/", 
+                    "times": "4:35pm\u00a0-\u00a05:00pm", 
+                    "id": "scrfyc", 
+                    "types": [], 
+                    "end_time_epoch": 1385222400, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": null, 
+                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
+                            "name": "Timoth\u00e9e Giet", 
+                            "elsewhere": [], 
+                            "role": null, 
+                            "twitter": null, 
+                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
+                            "speaker_bio": "<p>Timoth\u00e9e Giet est Auto-entrepreneur et artiste ind\u00e9pendant. Il contribue dans l&#39;\u00e9quipe de Krita depuis 2010. On peut voir la page de ses contributions \u00e0 l&#39;adresse suivante : <a href=\"http://community.kde.org/Krita/Animtim\" rel=\"nofollow\">http://community.kde.org/Krita/A...</a></p>"
+                        }
+                    ], 
+                    "title": "\u00c9volutions r\u00e9centes de Krita", 
+                    "event_id": "cprtz", 
+                    "space": "A002", 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 17:00:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385220900, 
+                    "abstract": ""
+                }, 
+                {
+                    "start_time": "2013-11-23 17:00:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrfxy/", 
+                    "times": "5:00pm\u00a0-\u00a06:00pm", 
+                    "id": "scrfxy", 
+                    "types": [], 
+                    "end_time_epoch": 1385226000, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": null, 
+                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
+                            "name": "Benjamin Jean", 
+                            "elsewhere": [], 
+                            "role": null, 
+                            "twitter": null, 
+                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "Aspect juridique", 
+                    "event_id": "cprtz", 
+                    "space": "A001", 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 18:00:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385222400, 
+                    "abstract": ""
+                }, 
+                {
+                    "start_time": "2013-11-23 17:00:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrdbh/", 
+                    "times": "5:00pm\u00a0-\u00a06:00pm", 
+                    "id": "scrdbh", 
+                    "types": [], 
+                    "end_time_epoch": 1385226000, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": null, 
+                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
+                            "name": "Fran\u00e7ois Grassard", 
+                            "elsewhere": [], 
+                            "role": null, 
+                            "twitter": null, 
+                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "Jeux vid\u00e9os et applications interactives avec Blender", 
+                    "event_id": "cprtz", 
+                    "space": "A002", 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 18:00:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385222400, 
+                    "abstract": ""
+                }, 
+                {
+                    "start_time": "2013-11-23 17:00:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrczr/", 
+                    "times": "5:00pm\u00a0-\u00a06:00pm", 
+                    "id": "scrczr", 
+                    "types": [], 
+                    "end_time_epoch": 1385226000, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": null, 
+                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
+                            "name": "S\u00e9bastien Renard", 
+                            "elsewhere": [], 
+                            "role": null, 
+                            "twitter": null, 
+                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
+                            "speaker_bio": "<p>S\u00e9bastien Renard est utilisateur de Linux et des produits KDE depuis plus de 13 ans. Il contribue depuis une dizaine d&#39;ann\u00e9e au projet de traduction de KDE en fran\u00e7ais en tant que traducteur et coordonnateur de l&#39;\u00e9quipe de traduction. \u00c0 cot\u00e9 de ses activit\u00e9s de traduction, il contribue au d\u00e9veloppement de logiciels libres (yokadi, pology, pysql, pydici etc.). Sur le plan professionnel, il est directeur associ\u00e9 d&#39;enioka, un cabinet de conseil en architecture des syst\u00e8mes d&#39;information.</p>"
+                        }, 
+                        {
+                            "bio": "<p>Open Source Engineer and Researcher</p>", 
+                            "web_url": "http://lanyrd.com/profile/dr_ervin/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/3ab228b70e453784b0e0e7990fbc21a6225bb648-s300.png", 
+                            "name": "Kevin Ottens", 
+                            "elsewhere": [], 
+                            "role": "Open Source Engineer and Researcher", 
+                            "twitter": "@dr_ervin", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/3ab228b70e453784b0e0e7990fbc21a6225bb648-s75.png", 
+                            "speaker_bio": "<p>K\u00e9vin Ottens est un des hackers centraux de la communaut\u00e9 KDE. Il a contribu\u00e9 \u00e0 de nombreuses briques logicielles produites par KDE avec un int\u00e9r\u00eat particulier pour la conception d&#39;API et l&#39;architecture des frameworks. Dipl\u00f4m\u00e9 en 2007, il a obtenu un doctorat en intelligence artificielle pour lequel il a travaill\u00e9 sur l&#39;ing\u00e9nierie des connaissances et les syst\u00e8mes multi-agents. Aujourd&#39;hui, il travaille essentiellement avec Qt en tant que d\u00e9veloppeur, consultant et formateur gr\u00e2ce \u00e0 son emploi \u00e0 KDAB. Il vit toujours \u00e0 Toulouse o\u00f9 il intervient \u00e0 temps partiel dans son ancienne universit\u00e9.</p>"
+                        }
+                    ], 
+                    "title": "Kolab, un groupware pour se lib\u00e9rer du cloud propri\u00e9taire", 
+                    "event_id": "cprtz", 
+                    "space": "C002", 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 18:00:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385222400, 
+                    "abstract": ""
+                }, 
+                {
+                    "start_time": "2013-11-23 17:00:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrdbd/", 
+                    "times": "5:00pm\u00a0-\u00a06:00pm", 
+                    "id": "scrdbd", 
+                    "types": [], 
+                    "end_time_epoch": 1385226000, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": null, 
+                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
+                            "name": "Fr\u00e9d\u00e9ric Tournier", 
+                            "elsewhere": [], 
+                            "role": null, 
+                            "twitter": null, 
+                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "OpenPandora, le mini PC de poche", 
+                    "event_id": "cprtz", 
+                    "space": "A201", 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 18:00:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385222400, 
+                    "abstract": ""
+                }, 
+                {
+                    "start_time": "2013-11-23 17:00:00", 
+                    "topics": [
+                        {
+                            "name": "Akademy-fr", 
+                            "slug": "akademy-fr"
+                        }, 
+                        {
+                            "name": "Skrooge", 
+                            "slug": "skrooge"
+                        }
+                    ], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrkxt/", 
+                    "times": "5:00pm\u00a0-\u00a06:00pm", 
+                    "id": "scrkxt", 
+                    "types": [], 
+                    "end_time_epoch": 1385226000, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": null, 
+                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
+                            "name": "St\u00e9phane Mankowski", 
+                            "elsewhere": [], 
+                            "role": null, 
+                            "twitter": null, 
+                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
+                            "speaker_bio": "<p>St\u00e9phane Mankowski est le principal d\u00e9veloppeur de Skrooge depuis 2008. Professionnellement, il exerce en tant qu&#39;architecte des syst\u00e8mes d&#39;information cher AIRBUS.</p>"
+                        }
+                    ], 
+                    "title": "Qualit\u00e9 logicielle autour de Skrooge", 
+                    "event_id": "cprtz", 
+                    "space": "C103", 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 18:00:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385222400, 
+                    "abstract": "<p>Skrooge est un logiciel de gestion bancaire pour les particuliers qui existe depuis 2008. Apr\u00e8s une rapide pr\u00e9sentation du logiciel, St\u00e9phane vous pr\u00e9sentera les diff\u00e9rents principes mis en oeuvre dans Skrooge pour en faire un outil de qualit\u00e9. Ne vous attendez pas \u00e0 un cours sur la \u201cQualit\u00e9 logicielle\u201d et ISO 9126, mais plut\u00f4t \u00e0 un t\u00e9moignage pratique \u00e0 travers un exemple concret: Skrooge.</p>"
+                }, 
+                {
+                    "start_time": "2013-11-23 18:00:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrfyd/", 
+                    "times": "6:00pm\u00a0-\u00a06:20pm", 
+                    "id": "scrfyd", 
+                    "types": [], 
+                    "end_time_epoch": 1385227200, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": null, 
+                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
+                            "name": "Jean-Michel Philippe", 
+                            "elsewhere": [], 
+                            "role": null, 
+                            "twitter": null, 
+                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "Doudou linux", 
+                    "event_id": "cprtz", 
+                    "space": "A002", 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 18:20:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385226000, 
+                    "abstract": ""
+                }, 
+                {
+                    "start_time": "2013-11-23 18:00:00", 
+                    "topics": [
+                        {
+                            "name": "Akademy-fr", 
+                            "slug": "akademy-fr"
+                        }, 
+                        {
+                            "name": "LXDE", 
+                            "slug": "lxde"
+                        }, 
+                        {
+                            "name": "Qt", 
+                            "slug": "qt"
+                        }
+                    ], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrkxw/", 
+                    "times": "6:00pm\u00a0-\u00a07:00pm", 
+                    "id": "scrkxw", 
+                    "types": [], 
+                    "end_time_epoch": 1385229600, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": null, 
+                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
+                            "name": "Julien Lavergne", 
+                            "elsewhere": [], 
+                            "role": null, 
+                            "twitter": null, 
+                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
+                            "speaker_bio": "<p>Julien Lavergne est d\u00e9veloppeur Ubuntu et contributeur Debian. Il a notamment particip\u00e9 au d\u00e9veloppement de LXDE au sein de ces distributions, et plus particuli\u00e8rement en \u00e9tant le d\u00e9veloppeur principal de Lubuntu, une distribution d\u00e9riv\u00e9e officielle d&#39;Ubuntu utilisant LXDE comme environnement de bureau. Il participe \u00e9galement aux d\u00e9veloppements au sein de LXDE, plus particuli\u00e8rement sur le gestionnaire de session (lxsession).</p>"
+                        }, 
+                        {
+                            "bio": "", 
+                            "web_url": null, 
+                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
+                            "name": "J\u00e9r\u00f4me Leclanche", 
+                            "elsewhere": [], 
+                            "role": null, 
+                            "twitter": null, 
+                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
+                            "speaker_bio": "<p>Jerome Leclanche est en charge de l&#39;UX sur LXDE. Quand il code en Qt, c&#39;est souvent en Python avec PySide ou PyQt. Pr\u00e9cedemment membre de Razor-qt et fan de KDE, il reste en contact avec plusieurs d\u00e9veloppeurs KDE et garde un oeil sur KDE Frameworks 5. Aujourd&#39;hui, il travaille en Angleterre a Cambridge, en tant que ing\u00e9nieur en d\u00e9veloppement logiciel chez <a href=\"http://Anthill.com\" rel=\"nofollow\">Anthill.com</a>.</p>"
+                        }
+                    ], 
+                    "title": "Fusion de Razor-qt et LXDE", 
+                    "event_id": "cprtz", 
+                    "space": "C103", 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 19:00:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385226000, 
+                    "abstract": "<p>Le projet LXDE abandonne ses origines GTK et concentre ses efforts sur Qt! Pourquoi et comment a suivre dans cette pr\u00e9sentation. Cette pr\u00e9sentation vous montrera pourquoi et comment. A la suite de cette annonce, les forces derriere Razor-qt, un autre environnement de bureau l\u00e9ger bas\u00e9 sur Qt, ont rejoint LXDE et nous avons donc d\u00e9cid\u00e9 de fusionner nos efforts en un seul projet: LXQt.</p>\n<p>Nous partageons notre experience peu commune dans le monde de l&#39;Open Source, ainsi que nos plans pour le futur de LXDE: Un bureau l\u00e9ger, rapide et entierement Qt.</p>"
+                }, 
+                {
+                    "start_time": "2013-11-23 18:00:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrfxz/", 
+                    "times": "6:00pm\u00a0-\u00a06:20pm", 
+                    "id": "scrfxz", 
+                    "types": [], 
+                    "end_time_epoch": 1385227200, 
+                    "speakers": [
+                        {
+                            "bio": "<p>lead developer <a href=\"http://simtie.fr\" rel=\"nofollow\">http://simtie.fr</a> \u2014 producteur @supweekend chroniqueur bd \u2014 politis\u00e9 @PartiPirateMP \u2014 dialoguiste repenti \u2014 linux user \u2014 overclocked n\u0437rd</p>", 
+                            "web_url": "http://lanyrd.com/profile/dascritch/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/8ec966b266e42d3795440c1475c4b5dbe9fa30e6-s300.jpeg", 
+                            "name": "Xavier Mouton-Dubosc", 
+                            "elsewhere": [], 
+                            "role": "lead developer http://simtie.fr \u2014 producteur @supweekend chroniqueur bd \u2014 politis\u00e9 @PartiPirateMP \u2014 dialoguiste repenti \u2014 linux user \u2014 overclocked n\u0437rd", 
+                            "twitter": "@dascritch", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/8ec966b266e42d3795440c1475c4b5dbe9fa30e6-s75.jpeg", 
+                            "speaker_bio": "<p>Dresseur de punks \u00e0 chien, bipeur de logos monochromes, parolier de blagues t\u00e9l\u00e9phon\u00e9es, je suis tardivement pass\u00e9 d\u00e9veloppeur web professionnel. Grande gueule, je cause aussi de bd dans l&#39;un des plus vieux podcasts toujours en activit\u00e9 (Suppl\u00e9ment Week-End pour Radio FMR, normalement en direct sur place), mon blog reste moche</p>"
+                        }
+                    ], 
+                    "title": "Json ou l'histoire d'une licence presque libre", 
+                    "event_id": "cprtz", 
+                    "space": "A001", 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 18:20:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385226000, 
+                    "abstract": "<p>C&#39;est l&#39;histoire d&#39;une licence. Celle qui va avec un format de donn\u00e9es devenu tr\u00e8s utile pour le web, mais aussi dans les bases de donn\u00e9es et les configurations d&#39;ordinateurs. Mais le probl\u00e8me, c&#39;est qu&#39;une blague dans cette licence tourne au grand casse-t\u00eate juridique.</p>\n<p>Le choix d&#39;une licence ne se fait pas \u00e0 la l\u00e9g\u00e8re, tout comme en \u00e9crire une from scratch. Apr\u00e8s une rapide pr\u00e9sentation technique du XML et du JSON, je causerai surtout de juridique (bas niveau), d&#39;histoire (de la micro-informatique personnelle) et de politique</p>"
+                }, 
+                {
+                    "start_time": "2013-11-23 18:00:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrczy/", 
+                    "times": "6:00pm\u00a0-\u00a06:20pm", 
+                    "id": "scrczy", 
+                    "types": [], 
+                    "end_time_epoch": 1385227200, 
+                    "speakers": [
+                        {
+                            "bio": "<p>Administrateur syst\u00e8me Linux, Cofondateur et d\u00e9veloppeur de la solution d&#39;auto h\u00e9bergement Yunohost</p>\n<p>#Linux #Debian #Yunohost</p>", 
+                            "web_url": "http://lanyrd.com/profile/beudbeud/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/649b5de9209a2642575aecc65cdbc5878d0dc4f5-s300.jpeg", 
+                            "name": "Adrien Beudin", 
+                            "elsewhere": [], 
+                            "role": "Administrateur syst\u00e8me Linux, Cofondateur et d\u00e9veloppeur de la solution d'auto h\u00e9bergement Yunohost\r\n\r\n#Linux #Debian #Yunohost", 
+                            "twitter": "@beudbeud", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/649b5de9209a2642575aecc65cdbc5878d0dc4f5-s75.jpeg", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "L'auto-h\u00e9bergement pour tous avec Yunohost", 
+                    "event_id": "cprtz", 
+                    "space": "C002", 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 18:20:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385226000, 
+                    "abstract": ""
+                }, 
+                {
+                    "start_time": "2013-11-23 18:20:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrcmr/", 
+                    "times": "6:20pm\u00a0-\u00a06:40pm", 
+                    "id": "scrcmr", 
+                    "types": [], 
+                    "end_time_epoch": 1385228400, 
+                    "speakers": [
+                        {
+                            "bio": "<p>Opendata - OpenStreetMap - LogicielLibre - DataViz Data Visualization - ESS \u00c9conomie Sociale et Solidaire - OpenGov - eDemocracy</p>", 
+                            "web_url": "http://lanyrd.com/profile/cyrillegiquello/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/1874094e7e2c81a494807037f3e68a015a84ff47-s300.png", 
+                            "name": "Cyrille Giquello", 
+                            "elsewhere": [], 
+                            "role": "Opendata - OpenStreetMap - LogicielLibre - DataViz Data Visualization - ESS \u00c9conomie Sociale et Solidaire - OpenGov - eDemocracy", 
+                            "twitter": "@CyrilleGiquello", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/1874094e7e2c81a494807037f3e68a015a84ff47-s75.png", 
+                            "speaker_bio": "<p>Je suis fan de projets libre depuis mon plus jeune \u00e2ge: partager entre tous les savoirs et savoir-faire ouvre \u00e0 une cr\u00e9ation infinie. J&#39;aime les petits bouts de \u201ccode\u201d, les gros ateliers logiciel, les masses de donn\u00e9es, les informations de tout genre quand tout ceci est mis en p\u00e2ture sur le Web sans autre limite que d&#39;en citer les auteurs. Aujourd&#39;hui cette culture \u201cLibre\u201d d\u00e9ferle de tous les c\u00f4t\u00e9s: le monde change-t-il pour devenir Libre, Solidaire et Durable ?! That is the question.</p>"
+                        }
+                    ], 
+                    "title": "D\u00e9couvrir la carte mondiale libre OpenStreetMap", 
+                    "event_id": "cprtz", 
+                    "space": "A001", 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 18:40:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385227200, 
+                    "abstract": "<p>Que diriez-vous d&#39;avoir une carte du monde dans laquelle votre rue, les arr\u00eats de bus de votre commune, les collectes de verre de vos lieux de vacances, les chemins de vos promenades pr\u00e9f\u00e9r\u00e9es seraient pr\u00e9cis\u00e9ment d\u00e9crits ?</p>\n<p>Et bien cette carte existe et son c\u0153ur est le projet OpenStreetMap et toutes ses petites fourmis. Cette mini-conf\u00e9rence vous propose de d\u00e9couvrir ce projet, les usages qui en sont fait et les diff\u00e9rentes fa\u00e7ons d&#39;y participer.</p>"
+                }, 
+                {
+                    "start_time": "2013-11-23 18:20:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrczx/", 
+                    "times": "6:20pm\u00a0-\u00a06:40pm", 
+                    "id": "scrczx", 
+                    "types": [], 
+                    "end_time_epoch": 1385228400, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": null, 
+                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
+                            "name": "Benoit Clerc", 
+                            "elsewhere": [], 
+                            "role": null, 
+                            "twitter": null, 
+                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "Joyeux anniversaire Dotclear", 
+                    "event_id": "cprtz", 
+                    "space": "C002", 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 18:40:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385227200, 
+                    "abstract": "<p>Dotclear, moteur de blog libre franco-fran\u00e7ais f\u00eate sa dixi\u00e8me ann\u00e9e. Membre de l&#39;\u00e9quipe fondatrice, j&#39;aimerais dresser un bilan humain et technique sur ce joli projet. Les pratiques et les hommes ne sont plus les m\u00eames mais le projet lui perdure et c&#39;est bien le principal. Des chiffres, des remerciements \u00e0 gogo \u00e0 pr\u00e9voir.</p>"
+                }, 
+                {
+                    "start_time": "2013-11-23 18:20:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrdbq/", 
+                    "times": "6:20pm\u00a0-\u00a06:40pm", 
+                    "id": "scrdbq", 
+                    "types": [], 
+                    "end_time_epoch": 1385228400, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": null, 
+                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
+                            "name": "Jean-Louis Frucot", 
+                            "elsewhere": [], 
+                            "role": null, 
+                            "twitter": null, 
+                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
+                            "speaker_bio": "<p>Professeur des \u00e9coles, un des d\u00e9veloppeurs des logiciels du Terrier d&#39;Abul\u00c9du. Promoteur des logiciels libres dans le Gers. Je participe au projet Abul\u00c9du depuis plusieurs ann\u00e9es, projet dans lequel je contribue en tant que d\u00e9veloppeur, et testeur en classe.</p>"
+                        }
+                    ], 
+                    "title": "Les Logiciels du Terrier d'Abul\u00c9du : des logiciels libres pour l'\u00e9cole", 
+                    "event_id": "cprtz", 
+                    "space": "A002", 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 18:40:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385227200, 
+                    "abstract": "<p>Dans le cadre du Projet Abul\u00c9du port\u00e9 par la soci\u00e9t\u00e9 Ryx\u00e9o, des contributeurs membres de l&#39;association Abul\u00c9du-fr participent au d\u00e9veloppement et \u00e0 la promotion solutions et des logiciels \u00e9ducatifs libres dans les \u00e9coles.</p>\n<p>La conf\u00e9rence pr\u00e9sentera les diff\u00e9rents logiciels d\u00e9velopp\u00e9s ces derni\u00e8res ann\u00e9es, le d\u00e9p\u00f4t de ressources libres utilis\u00e9 par les \u00e9diteurs int\u00e9gr\u00e9s \u00e0 ces logiciels. Nous pr\u00e9senterons aussi le site de microbloggue BabyTwit (babytwit.fr) \u00e0 usage des \u00e9coles.</p>"
+                }, 
+                {
+                    "start_time": "2013-11-23 19:00:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrfyk/", 
+                    "times": "7:00pm\u00a0-\u00a08:00pm", 
+                    "id": "scrfyk", 
+                    "types": [], 
+                    "end_time_epoch": 1385233200, 
+                    "speakers": [
+                        {
+                            "bio": "<p>Pr\u00e9sident de FDN.</p>", 
+                            "web_url": "http://lanyrd.com/profile/bayartb/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/bddb05f4473f67963bd17c45c86d48a39e88149b-s300.jpg", 
+                            "name": "Benjamin Bayart", 
+                            "elsewhere": [], 
+                            "role": "Pr\u00e9sident de FDN.", 
+                            "twitter": "@bayartb", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/bddb05f4473f67963bd17c45c86d48a39e88149b-s75.jpg", 
+                            "speaker_bio": ""
+                        }, 
+                        {
+                            "bio": "<p>Co-founder and spokesperson for citizen advocacy group @LaQuadrature du Net</p>", 
+                            "web_url": "http://lanyrd.com/profile/jerezim/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/6f1a6a2cc3305ebea18a23795b1544491412f65f-s300.jpg", 
+                            "name": "J\u00e9r\u00e9mie Zimmermann", 
+                            "elsewhere": [], 
+                            "role": "Co-founder and spokesperson for citizen advocacy group @LaQuadrature du Net ", 
+                            "twitter": "@jerezim", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/6f1a6a2cc3305ebea18a23795b1544491412f65f-s75.jpg", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "Conf\u00e9rence de cl\u00f4ture", 
+                    "event_id": "cprtz", 
+                    "space": "A001", 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 20:00:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385229600, 
+                    "abstract": ""
+                }
+            ]
+        }, 
+        {
+            "day": "Sunday 24th November", 
+            "sessions": [
+                {
+                    "start_time": "2013-11-24 09:30:00", 
+                    "topics": [
+                        {
+                            "name": "Pylint", 
+                            "slug": "pylint"
+                        }, 
+                        {
+                            "name": "Python", 
+                            "slug": "python"
+                        }
+                    ], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrdcb/", 
+                    "times": "9:30am\u00a0-\u00a011:00am", 
+                    "id": "scrdcb", 
+                    "types": [], 
+                    "end_time_epoch": 1385287200, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": null, 
+                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
+                            "name": "Sylvain Th\u00e9nault", 
+                            "elsewhere": [], 
+                            "role": null, 
+                            "twitter": null, 
+                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "Allez plus loin dans l'assurance qualit\u00e9 de votre code Python avec Pylint", 
+                    "event_id": "cprtz", 
+                    "space": "A203", 
+                    "day": "Sunday 24th November", 
+                    "end_time": "2013-11-24 11:00:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385281800, 
+                    "abstract": ""
+                }, 
+                {
+                    "start_time": "2013-11-24 09:30:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrfzp/", 
+                    "times": "9:30am\u00a0-\u00a012:30pm", 
+                    "id": "scrfzp", 
+                    "types": [], 
+                    "end_time_epoch": 1385292600, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": null, 
+                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
+                            "name": "Christophe Sauthier", 
+                            "elsewhere": [], 
+                            "role": null, 
+                            "twitter": null, 
+                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "Puppet", 
+                    "event_id": "cprtz", 
+                    "space": "A304", 
+                    "day": "Sunday 24th November", 
+                    "end_time": "2013-11-24 12:30:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385281800, 
+                    "abstract": ""
+                }, 
+                {
+                    "start_time": "2013-11-24 09:30:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrfzk/", 
+                    "times": "9:30am\u00a0-\u00a012:30pm", 
+                    "id": "scrfzk", 
+                    "types": [], 
+                    "end_time_epoch": 1385292600, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": null, 
+                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
+                            "name": "J\u00e9r\u00e9my Perret", 
+                            "elsewhere": [], 
+                            "role": null, 
+                            "twitter": null, 
+                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "Wikidata : les donn\u00e9es ont leur projet !", 
+                    "event_id": "cprtz", 
+                    "space": "A001", 
+                    "day": "Sunday 24th November", 
+                    "end_time": "2013-11-24 12:30:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385281800, 
+                    "abstract": ""
+                }, 
+                {
+                    "start_time": "2013-11-24 09:45:00", 
+                    "topics": [
+                        {
+                            "name": "Akademy-fr", 
+                            "slug": "akademy-fr"
+                        }
+                    ], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrkxx/", 
+                    "times": "9:45am\u00a0-\u00a01:00pm", 
+                    "id": "scrkxx", 
+                    "types": [], 
+                    "end_time_epoch": 1385294400, 
+                    "speakers": [
+                        {
+                            "bio": "<p>Open Source Engineer and Researcher</p>", 
+                            "web_url": "http://lanyrd.com/profile/dr_ervin/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/3ab228b70e453784b0e0e7990fbc21a6225bb648-s300.png", 
+                            "name": "Kevin Ottens", 
+                            "elsewhere": [], 
+                            "role": "Open Source Engineer and Researcher", 
+                            "twitter": "@dr_ervin", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/3ab228b70e453784b0e0e7990fbc21a6225bb648-s75.png", 
+                            "speaker_bio": "<p>K\u00e9vin Ottens est un des hackers centraux de la communaut\u00e9 KDE. Il a contribu\u00e9 \u00e0 de nombreuses briques logicielles produites par KDE avec un int\u00e9r\u00eat particulier pour la conception d&#39;API et l&#39;architecture des frameworks. Dipl\u00f4m\u00e9 en 2007, il a obtenu un doctorat en intelligence artificielle pour lequel il a travaill\u00e9 sur l&#39;ing\u00e9nierie des connaissances et les syst\u00e8mes multi-agents. Aujourd&#39;hui, il travaille essentiellement avec Qt en tant que d\u00e9veloppeur, consultant et formateur gr\u00e2ce \u00e0 son emploi \u00e0 KDAB. Il vit toujours \u00e0 Toulouse o\u00f9 il intervient \u00e0 temps partiel dans son ancienne universit\u00e9.</p>"
+                        }
+                    ], 
+                    "title": "Atelier Qt Quick 2", 
+                    "event_id": "cprtz", 
+                    "space": "C103", 
+                    "day": "Sunday 24th November", 
+                    "end_time": "2013-11-24 13:00:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385282700, 
+                    "abstract": "<p>Qt 4.7 a introduit la technologie Qt Quick et le langage sp\u00e9cifique QML. Depuis, Qt 5.0 est sorti avec une mise \u00e0 jour majeure de l&#39;architecture de Qt Quick et du runtime QML.</p>\n<p>Dans cet atelier, nous r\u00e9viserons les bases de QML et de Qt Quick. Nous verrons aussi les avanc\u00e9es en performances apport\u00e9es par Qt Quick 2 et son utilisation d&#39;OpenGL. Enfin, si le temps le permet nous explorerons comment cr\u00e9er des effets graphiques avanc\u00e9s (particules, shaders) en utilisant Qt Quick 2.</p>\n<p>Pr\u00e9-requis Niveau : interm\u00e9diaire, des bases de C++ simple sont requises, pas de connaissance Qt n\u00e9cessaire.</p>\n<p>Pour participer \u00e0 cet atelier, vous devez apporter votre ordinateur, \u00e9quip\u00e9 d&#39;une distribution GNU/Linux avec Qt Creator 2.7 et Qt 5.0 ou sup\u00e9rieurs install\u00e9s.</p>"
+                }, 
+                {
+                    "start_time": "2013-11-24 09:45:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrfzq/", 
+                    "times": "9:45am\u00a0-\u00a012:45pm", 
+                    "id": "scrfzq", 
+                    "types": [], 
+                    "end_time_epoch": 1385293500, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": null, 
+                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
+                            "name": "S\u00e9bastien Dinot", 
+                            "elsewhere": [], 
+                            "role": null, 
+                            "twitter": null, 
+                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "Contribuer \u00e0 OpenStreetMap", 
+                    "event_id": "cprtz", 
+                    "space": "A201", 
+                    "day": "Sunday 24th November", 
+                    "end_time": "2013-11-24 12:45:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385282700, 
+                    "abstract": ""
+                }, 
+                {
+                    "start_time": "2013-11-24 09:45:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrdcc/", 
+                    "times": "9:45am\u00a0-\u00a012:45pm", 
+                    "id": "scrdcc", 
+                    "types": [], 
+                    "end_time_epoch": 1385293500, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": null, 
+                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
+                            "name": "Fran\u00e7ois Grassard", 
+                            "elsewhere": [], 
+                            "role": null, 
+                            "twitter": null, 
+                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "Jeux vid\u00e9os et applications avec Blender", 
+                    "event_id": "cprtz", 
+                    "space": "A202", 
+                    "day": "Sunday 24th November", 
+                    "end_time": "2013-11-24 12:45:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385282700, 
+                    "abstract": ""
+                }, 
+                {
+                    "start_time": "2013-11-24 11:10:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrdbx/", 
+                    "times": "11:10am\u00a0-\u00a012:40pm", 
+                    "id": "scrdbx", 
+                    "types": [], 
+                    "end_time_epoch": 1385293200, 
+                    "speakers": [
+                        {
+                            "bio": "<p>French, Geek, Photographer, working for mozilla on Thunderbird.</p>\n<p>I&#39;m somewhat sometimes a Troll too :D</p>", 
+                            "web_url": "http://lanyrd.com/profile/lhirlimann/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/979dcd7021e5d3b9899fd333e7b153ddfcf5b2a3-s300.jpeg", 
+                            "name": "Ludovic Hirlimann", 
+                            "elsewhere": [], 
+                            "role": "SRE & Thunderbird QA lead @ Mozilla", 
+                            "twitter": "@lhirlimann", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/979dcd7021e5d3b9899fd333e7b153ddfcf5b2a3-s75.jpeg", 
+                            "speaker_bio": "<p>Started with an Apple II, on which I learned assembly and basic. Then we trade up the Apple II for a Macintosh LC with 2mb Ram and 40 Mb HD - I upgraded the ram to 6MB, bought Think Pascal (should have bought Think C) and filled the disk :-).I then got an Atari Falcon030 and started C, but did mostly assembly. Followed a bebox, I did some BeOS development for some time in C++, and felt betrayed by Be Inc. when they shifted to x86. I&#39;ve used Linux and OS/2 too, I don&#39;t use OS/2 nor linux, I prefer the BSD philosophy. Now I play with MacOS X.</p>\n<p>I work for Mozilla as the QA lead for Thunderbird and Part of the Sysadmins team.</p>"
+                        }
+                    ], 
+                    "title": "GPG keysigning Party / CAcert signing party", 
+                    "event_id": "cprtz", 
+                    "space": "A203", 
+                    "day": "Sunday 24th November", 
+                    "end_time": "2013-11-24 12:40:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385287800, 
+                    "abstract": ""
+                }, 
+                {
+                    "start_time": "2013-11-24 13:50:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrfzr/", 
+                    "times": "1:50pm\u00a0-\u00a03:20pm", 
+                    "id": "scrfzr", 
+                    "types": [], 
+                    "end_time_epoch": 1385302800, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": null, 
+                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
+                            "name": "Jean-Louis Frucot", 
+                            "elsewhere": [], 
+                            "role": null, 
+                            "twitter": null, 
+                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
+                            "speaker_bio": "<p>Professeur des \u00e9coles, un des d\u00e9veloppeurs des logiciels du Terrier d&#39;Abul\u00c9du. Promoteur des logiciels libres dans le Gers. Je participe au projet Abul\u00c9du depuis plusieurs ann\u00e9es, projet dans lequel je contribue en tant que d\u00e9veloppeur, et testeur en classe.</p>"
+                        }
+                    ], 
+                    "title": "Prise en main des logiciels du Terrier et de leur \u00e9diteur d'exercices", 
+                    "event_id": "cprtz", 
+                    "space": "A201", 
+                    "day": "Sunday 24th November", 
+                    "end_time": "2013-11-24 15:20:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385297400, 
+                    "abstract": "<p>Au travers de deux exemples (Mulot et Contour), nous pr\u00e9senterons les principes mis en \u0153uvre dans ces logiciels :</p>\n<ul class=\"bullets\">\n  <li>interface unifi\u00e9e</li>\n  <li>\u00e9diteur d&#39;exercices int\u00e9gr\u00e9</li>\n  <li>acc\u00e8s au d\u00e9p\u00f4t de ressources brutes valid\u00e9es par les membres de l&#39;association</li>\n</ul>\n<p>L&#39;atelier sera le moyen de mettre en \u0153uvre ces logiciels et de construire quelques exercices qui pourront \u00eatre mis \u00e0 la disposition de la communaut\u00e9 gr\u00e2ce au module de publication de la M\u00e9diath\u00e8que d&#39;Abul\u00c9du.</p>"
+                }, 
+                {
+                    "start_time": "2013-11-24 13:50:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrdby/", 
+                    "times": "1:50pm\u00a0-\u00a03:20pm", 
+                    "id": "scrdby", 
+                    "types": [], 
+                    "end_time_epoch": 1385302800, 
+                    "speakers": [
+                        {
+                            "bio": "<p>Opendata - OpenStreetMap - LogicielLibre - DataViz Data Visualization - ESS \u00c9conomie Sociale et Solidaire - OpenGov - eDemocracy</p>", 
+                            "web_url": "http://lanyrd.com/profile/cyrillegiquello/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/1874094e7e2c81a494807037f3e68a015a84ff47-s300.png", 
+                            "name": "Cyrille Giquello", 
+                            "elsewhere": [], 
+                            "role": "Opendata - OpenStreetMap - LogicielLibre - DataViz Data Visualization - ESS \u00c9conomie Sociale et Solidaire - OpenGov - eDemocracy", 
+                            "twitter": "@CyrilleGiquello", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/1874094e7e2c81a494807037f3e68a015a84ff47-s75.png", 
+                            "speaker_bio": "<p>Je suis fan de projets libre depuis mon plus jeune \u00e2ge: partager entre tous les savoirs et savoir-faire ouvre \u00e0 une cr\u00e9ation infinie. J&#39;aime les petits bouts de \u201ccode\u201d, les gros ateliers logiciel, les masses de donn\u00e9es, les informations de tout genre quand tout ceci est mis en p\u00e2ture sur le Web sans autre limite que d&#39;en citer les auteurs. Aujourd&#39;hui cette culture \u201cLibre\u201d d\u00e9ferle de tous les c\u00f4t\u00e9s: le monde change-t-il pour devenir Libre, Solidaire et Durable ?! That is the question.</p>"
+                        }
+                    ], 
+                    "title": "Utiliser les donn\u00e9es d'OpenStreetMap", 
+                    "event_id": "cprtz", 
+                    "space": "A202", 
+                    "day": "Sunday 24th November", 
+                    "end_time": "2013-11-24 15:20:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385297400, 
+                    "abstract": "<p>OpenStreetMap est une \u00e9norme base mondiale de donn\u00e9es cartographiques libres. Cet atelier est le moment de d\u00e9couvrir par la pratique l&#39;usage de quelques excellents outils: Xapi, Overpass-api, uMap, Maperitive, TileMill.</p>"
+                }, 
+                {
+                    "start_time": "2013-11-24 14:00:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrfzm/", 
+                    "times": "2:00pm\u00a0-\u00a05:00pm", 
+                    "id": "scrfzm", 
+                    "types": [], 
+                    "end_time_epoch": 1385308800, 
+                    "speakers": [
+                        {
+                            "bio": "<p>Digital painter,  illustrator, concept artist with open-source</p>", 
+                            "web_url": "http://lanyrd.com/profile/davidrevoy/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/5e28f6c87e7c321f57ccc2026055cc71c6399571-s300.jpg", 
+                            "name": "David REVOY", 
+                            "elsewhere": [], 
+                            "role": "Digital painter,  illustrator, concept artist with open-source", 
+                            "twitter": "@davidrevoy", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/5e28f6c87e7c321f57ccc2026055cc71c6399571-s75.jpg", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "Atelier graphisme", 
+                    "event_id": "cprtz", 
+                    "space": "A001", 
+                    "day": "Sunday 24th November", 
+                    "end_time": "2013-11-24 17:00:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385298000, 
+                    "abstract": ""
+                }, 
+                {
+                    "start_time": "2013-11-24 14:00:00", 
+                    "topics": [
+                        {
+                            "name": "Akademy-fr", 
+                            "slug": "akademy-fr"
+                        }, 
+                        {
+                            "name": "Krita", 
+                            "slug": "krita"
+                        }
+                    ], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrkxy/", 
+                    "times": "2:00pm\u00a0-\u00a05:00pm", 
+                    "id": "scrkxy", 
+                    "types": [], 
+                    "end_time_epoch": 1385308800, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": null, 
+                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
+                            "name": "Timoth\u00e9e Giet", 
+                            "elsewhere": [], 
+                            "role": null, 
+                            "twitter": null, 
+                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
+                            "speaker_bio": "<p>Timoth\u00e9e Giet est Auto-entrepreneur et artiste ind\u00e9pendant. Il contribue dans l&#39;\u00e9quipe de Krita depuis 2010. On peut voir la page de ses contributions \u00e0 l&#39;adresse suivante : <a href=\"http://community.kde.org/Krita/Animtim\" rel=\"nofollow\">http://community.kde.org/Krita/A...</a></p>"
+                        }
+                    ], 
+                    "title": "Dessine moi un dragon avec Krita", 
+                    "event_id": "cprtz", 
+                    "space": "C103", 
+                    "day": "Sunday 24th November", 
+                    "end_time": "2013-11-24 17:00:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385298000, 
+                    "abstract": "<p>Ce workshop s&#39;adresse aux personnes qui souhaitent apprendre les bases pour utiliser Krita. L&#39;exemple utilis\u00e9 sera un dessin d&#39;apr\u00e8s le nouveau design de Konqi, le dragon mascotte de KDE. Cet example permettra d&#39;aborder plusieurs points (utilisation de r\u00e9f\u00e9rence, croquis, encrage, couleur.. ) et de r\u00e9pondre aux questions des participants. Je conseil aux participants d&#39;apporter leur ordinateur pour dessiner, mais libre \u00e0 tout le monde de venir sans mat\u00e9riel, en observateur. N\u00e9anmoins, une tablette graphique Wacom est fortement recommand\u00e9e.</p>"
+                }, 
+                {
+                    "start_time": "2013-11-24 14:00:00", 
+                    "topics": [
+                        {
+                            "name": "Arduino", 
+                            "slug": "arduino"
+                        }
+                    ], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrdbt/", 
+                    "times": "2:00pm\u00a0-\u00a05:00pm", 
+                    "id": "scrdbt", 
+                    "types": [], 
+                    "end_time_epoch": 1385308800, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": null, 
+                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
+                            "name": "LinuxEdu", 
+                            "elsewhere": [], 
+                            "role": null, 
+                            "twitter": null, 
+                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
+                            "speaker_bio": ""
+                        }, 
+                        {
+                            "bio": "", 
+                            "web_url": null, 
+                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
+                            "name": "Plan\u00e8te Science", 
+                            "elsewhere": [], 
+                            "role": null, 
+                            "twitter": null, 
+                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "Programmation d'une carte arduino", 
+                    "event_id": "cprtz", 
+                    "space": "A203", 
+                    "day": "Sunday 24th November", 
+                    "end_time": "2013-11-24 17:00:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385298000, 
+                    "abstract": ""
+                }, 
+                {
+                    "start_time": "2013-11-24 14:00:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrdbw/", 
+                    "times": "2:00pm\u00a0-\u00a05:00pm", 
+                    "id": "scrdbw", 
+                    "types": [], 
+                    "end_time_epoch": 1385308800, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": null, 
+                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
+                            "name": "C\u00e9dric Villemain", 
+                            "elsewhere": [], 
+                            "role": null, 
+                            "twitter": null, 
+                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "Utilisation avanc\u00e9e de PostgreSQL", 
+                    "event_id": "cprtz", 
+                    "space": "A304", 
+                    "day": "Sunday 24th November", 
+                    "end_time": "2013-11-24 17:00:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385298000, 
+                    "abstract": ""
+                }, 
+                {
+                    "start_time": "2013-11-24 15:30:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrfzt/", 
+                    "times": "3:30pm\u00a0-\u00a05:00pm", 
+                    "id": "scrfzt", 
+                    "types": [], 
+                    "end_time_epoch": 1385308800, 
+                    "speakers": [
+                        {
+                            "bio": "<p>Auteur du Domaine Public Vivant. Geek&amp;Gay, Libre&amp;Libertin, F\u00e9ministe&amp;Framasoftien, Patalon&amp;Pansexuel.... (collection d&#39;\u00e9tiquettes en cours)</p>", 
+                            "web_url": "http://lanyrd.com/profile/pouhiou/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/c61c8b22738a3d46f7c550d0c95faa36521e58e5-s300.jpeg", 
+                            "name": "Pouhiou", 
+                            "elsewhere": [], 
+                            "role": "Auteur du Domaine Public Vivant. Geek&Gay, Libre&Libertin, F\u00e9ministe&Framasoftien, Patalon&Pansexuel.... (collection d'\u00e9tiquettes en cours)", 
+                            "twitter": "@Pouhiou", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/c61c8b22738a3d46f7c550d0c95faa36521e58e5-s75.jpeg", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "\u00c9criture collaborative d'un \u00e9pisode de roman feuilleton (plac\u00e9 sous CC0)", 
+                    "event_id": "cprtz", 
+                    "space": "A201", 
+                    "day": "Sunday 24th November", 
+                    "end_time": "2013-11-24 17:00:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385303400, 
+                    "abstract": ""
+                }, 
+                {
+                    "start_time": "2013-11-24 15:30:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrdbz/", 
+                    "times": "3:30pm\u00a0-\u00a05:00pm", 
+                    "id": "scrdbz", 
+                    "types": [], 
+                    "end_time_epoch": 1385308800, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": "http://lanyrd.com/profile/leplatrem/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/1bf71c473ab8e85e84e5676206ba6a57b8918475-s300.png", 
+                            "name": "Mathieu Leplatre", 
+                            "elsewhere": [], 
+                            "role": "Full-time passionate developer at @makinacorpus (Cartography ~ Python ~ Javascript ~ Qt/C++)", 
+                            "twitter": "@leplatrem", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/1bf71c473ab8e85e84e5676206ba6a57b8918475-s75.png", 
+                            "speaker_bio": "<p>Mathieu est d\u00e9veloppeur Web, et construit des applications libres chez Makina Corpus.</p>\n<p>Face aux seigneuries et leurs forteresses \u00e9tablies, il a rejoint la horde des d\u00e9fenseurs des approches simples et efficaces.</p>"
+                        }
+                    ], 
+                    "title": "Leaflet, le Web mapping moderne et l\u00e9ger", 
+                    "event_id": "cprtz", 
+                    "space": "A202", 
+                    "day": "Sunday 24th November", 
+                    "end_time": "2013-11-24 17:00:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385303400, 
+                    "abstract": ""
+                }
+            ]
+        }
+    ]
+}

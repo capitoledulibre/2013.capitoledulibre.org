@@ -60,22 +60,13 @@ h1 {
   font-size: 187.5%;
   line-height: 1.75em;
 }
-h1 small {
-  font-size: 112.5%;
-}
 h2 {
   font-size: 150%;
   line-height: 1.5em;
 }
-h2 small {
-  font-size: 112.5%;
-}
 h3 {
   line-height: 1.6875em;
   font-size: 112.5%;
-}
-h3 small {
-  font-size: 87.5%;
 }
 h4,
 h5,
@@ -600,3 +591,12 @@ img.icon {
     color: white;
 }
 
+/* Forms daybe *
+ * ----------- */
+
+form li {
+    list-style-type: none;
+}
+label {
+    display: inline-block;
+}

@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block indextitle %}{% endblock %}
+{% block title %}{{SITENAME}} - Planning{% endblock title %}
+
+
+{% block content %}
+
+<h1>Conf&eacute;rences grand public <small>Samedi 23 novembre</small></h1>
+
+{% include "schedule_common.html" %}
+
+<script>
+    from_lanyrd_json(day="samedi", space="A001");
+</script>
+
+{% include "schedule_mustache.html" %}
+
+{% endblock %}
+

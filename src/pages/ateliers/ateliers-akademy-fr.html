@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block indextitle %}{% endblock %}
+{% block title %}{{SITENAME}} - Planning{% endblock title %}
+
+
+{% block content %}
+
+<h1>Ateliers Akademy-fr <small>Dimanche 24 novembre</small></h1>
+
+{% include "schedule_common.html" %}
+
+<script>
+    from_lanyrd_json(day="dimanche", space="C103");
+</script>
+
+{% include "schedule_mustache.html" %}
+
+{% endblock %}
+

@@ -1,0 +1,26 @@
+
+<script id="summary_tpl" type="text/template">
+    {% raw %}
+        <ul>
+        {{#sessions}}
+            <li>{{title}} - 
+            {{#speakers}}<em>{{name}}</em>, {{/speakers}}
+            </li>
+        {{/sessions}}
+        </ul>
+    {% endraw %}
+</script>
+<script id="sessions_tpl" type="text/template">
+    {% raw %}
+    {{#sessions}}
+        <h2>{{title}} <small>{{times}}</small></h2>
+        <div class="abstract">{{{abstract}}}</div>
+        <div class="speakers row-fluid">
+        {{#speakers}}<div>
+            <h3>{{name}}</h3>
+            <div class="biography">{{{bio}}}</div>
+            </div>
+        {{/speakers}}</div>
+    {{/sessions}}
+    {% endraw %}
+</script>

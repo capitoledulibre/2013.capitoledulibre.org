@@ -67,5 +67,13 @@ RELATIVE_URLS = False
 
 DIRECT_TEMPLATES = ('index', 'blog', 'tags', 'categories', 'archives', 'map', 'questionnaire', 'live')
 
-TEMPLATE_PAGES = {'pages/planning.html': 'programme/index.html',}
-#                    'pages/from_json.html': 'test.html',}
+TEMPLATE_PAGES = {'pages/appel-benevoles.html': 'benevoles-test.html',
+                    'pages/liste-benevoles.html': 'benevoles-liste.html',
+#                    'pages/programme.html': 'programme.html',
+                    'pages/conferences/conferences-grand-public.html': 'programme/conferences-grand-public.html',
+                    'pages/conferences/conferences-techniques.html': 'programme/conferences-techniques.html',
+                    'pages/conferences/conferences-internet-libre.html': 'programme/conferences-internet-libre.html',
+                    'pages/conferences/conferences-multimedia-bureautique.html': 'programme/conferences-multimedia-bureautique.html',
+                    'pages/conferences/conferences-akademy-fr.html': 'programme/conferences-akademy-fr.html',
+                    'pages/ateliers/ateliers-akademy-fr.html': 'programme/ateliers-akademy-fr.html',
+                    }

@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+{% block indextitle %}{% endblock %}
+{% block title %}{{SITENAME}} - Planning{% endblock title %}
+
+
+{% block content %}
+
+<h1>Programme</h1>
+
+<h2>Samedi 23 novembre : Conf&eacute;rences</h2>
+
+<h3>Grand public</h3>
+<div id="grand-public" class="contents"></div>
+
+<h3>Multimedia / Bureautique</h3>
+<div id="multimedia-bureautique" class="contents"></div>
+
+<h3>Internet Libre</h3>
+<div id="internet-libre" class="contents"></div>
+
+<h3>Technique</h3>
+<div id="technique" class="contents"></div>
+
+<h3>Akademy-fr</h3>
+<div id="akademy-fr" class="contents"></div>
+
+<h2>Dimanche 24 novembre : Ateliers</h2>
+
+<div id="cdl" class="contents"></div>
+
+<div id="akademy-fr" class="contents"></div>
+
+{% include "schedule_js.html" %}
+
+<script>
+    from_lanyrd_list();
+</script>
+
+{% include "schedule_mustache.html" %}
+
+{% endblock %}
+
