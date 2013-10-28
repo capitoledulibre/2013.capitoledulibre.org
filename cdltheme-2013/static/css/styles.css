@@ -1,8 +1,6 @@
 @import url('bootstrap.min.css');
 @import url('bootstrap-responsive.min.css');
-@import url('../fonts/ubuntu-fontfacekit/stylesheet.css');
-
-
+@import url('../fonts/ubuntu/stylesheet.css');
 
 
 @font-face {
@@ -32,9 +30,9 @@ section, .section {
 }
 a:link, a:visited {
   color: #666;
+  text-decoration: underline;
 }
 #main a:link, #main a:visited {
-  text-decoration: underline;
   font-weight: bold;
 }
 a:hover {
@@ -157,7 +155,7 @@ td.odd {
 /* social links *
  * ------------ */
 
-.social-links a {
+#communiquer a {
   overflow: hidden;
   text-indent: 100%;
   white-space: nowrap;
@@ -165,16 +163,16 @@ td.odd {
   padding: 16px;
   background: url('../images/icons/feed-32x32.png') no-repeat 0 0;
 }
-.social-links a#identica {
+#communiquer a#identica {
   background-image: url('../images/icons/identica-32x32.png');
 }
-.social-links a#twitter {
+#communiquer a#twitter {
   background-image: url('../images/icons/twitter-32x32.png');
 }
-.social-links a#google {
+#communiquer a#google {
   background-image: url('../images/icons/google+-32x32.png');
 }
-.social-links a#lanyrd {
+#communiquer a#lanyrd {
   background-image: url('../images/icons/lanyrd-32x32.png');
 }
 
