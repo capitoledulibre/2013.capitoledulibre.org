@@ -57,10 +57,10 @@ Découvrir ou approfondir les outils libres de création graphique, vidéo et mu
 .. _`Techniques`: /programme/conferences-techniques.html
 .. _`Multimédia / Bureautique`: /programme/conferences-multimedia-bureautique.html
 
-Démonstrations, install party, Lan Party ...
+Démonstrations, Ubuntu party, Lan Party ...
 ---------------------------------------------
 
-- une install-party : des bénévoles vous aident à passer à GNU/Linux
+- une `Ubuntu Party` : des bénévoles vous aident à passer à la distribution GNU/Linux Ubuntu
 - un espace de démonstration de logiciels libres, où les visiteurs pourront poser leurs questions
 - des stands associatifs
 - une LAN PArty, pour découvrir les jeux libres
@@ -117,6 +117,7 @@ la solution opensource de cloud
 .. _`Akademy-fr`: 
 .. _`Lua workshop`: http://www.lua.org/wshop13.html
 .. _`conférence FranceJS`: http://francejs.org/conf2013.html
+.. _`Ubuntu Party`_: http://ubuntu-party.org/
 
 
 .. _édition 2013 du Capitole du Libre: http://2013.capitoledulibre.org/

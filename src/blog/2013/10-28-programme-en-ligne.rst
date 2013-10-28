@@ -26,15 +26,15 @@ Comme les années précédents, le Capitole du Libre accueille également les co
 * OpenStack pour la solution opensource de cloud
 * `Lua workshop`_ pour le language de script Lua (conférences en anglais)
 
-À 19h La **conférence de clôture** sera assurée cette année par *Jérémie Zimmermann* de la **quadrature du net** et *Benjamin Bayart* de **FFDN**.
+À 19h, la **conférence de clôture** sera assurée cette année par *Jérémie Zimmermann* de la **quadrature du net** et *Benjamin Bayart* de **FFDN**.
 
-Par ailleurs Benjamin Bayart co-animera une conférence du thème "Internet libre" avec *Laurent Guerby* de `Tetaneutral.net`_.
+Par ailleurs *Benjamin Bayart* co-animera une conférence du thème "Internet libre" avec *Laurent Guerby* de `Tetaneutral.net`_.
 
 Le **dimanche 24 novembre**, des `ateliers`_ sont proposés aux participants dans les mêmes thèmes, pour découvrir ou approfondir certains aspects. Ces ateliers sont gratuits, une inscription sera demandée pour des raisons de logistique.
 
 Tout le week-end, un espace démo/lan party et impression 3d est assuré par les bénévoles pour faire découvrir ou re-découvrir le jeu sous Linux et l'`impression 3d Open Hardware`_. 
 
-Ceux qui souhaitent installer GNU/linux trouveront de l'aide à l'install party.
+Ceux qui souhaitent installer GNU/Linux trouveront de l'aide à l'`ubuntu party`.
 
 
 .. _`programme du Capitole du Libre`: /programme.html
@@ -51,3 +51,4 @@ Ceux qui souhaitent installer GNU/linux trouveront de l'aide à l'install party.
 .. _`Akademy-fr`: /akademy-fr.html
 .. _`Lua workshop`: http://www.lua.org/wshop13.html
 .. _`conférence FranceJS`: http://francejs.org/conf2013.html
+.. _`Ubuntu Party`_: http://ubuntu-party.org/
