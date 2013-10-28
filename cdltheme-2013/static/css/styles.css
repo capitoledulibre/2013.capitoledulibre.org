@@ -265,10 +265,6 @@ td.odd {
 /* sidebar *
   -------- */
 
-#sidebar .well {
-  border-left: 1px dotted #E4401F;
-  padding-top: 0px;
-}
 .well {
   border: none;
   -o-border-radius: 0;
@@ -280,18 +276,7 @@ td.odd {
 #sidebar h2 {
   font-size: 1.2em;
   background-color: #eeeeee;
-  margin-left: -19px;
-  margin-right: -19px;
-  padding-left: 19px;
-  padding-right: 19px;
-  background: #dddddd; /* Old browsers */
-  background: -moz-linear-gradient(top,  #dddddd 0%, #eeeeee 50%); /* FF3.6+ */
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#dddddd), color-stop(50%,#eeeeee)); /* Chrome,Safari4+ */
-  background: -webkit-linear-gradient(top,  #dddddd 0%,#eeeeee 50%); /* Chrome10+,Safari5.1+ */
-  background: -o-linear-gradient(top,  #dddddd 0%,#eeeeee 50%); /* Opera 11.10+ */
-  background: -ms-linear-gradient(top,  #dddddd 0%,#eeeeee 50%); /* IE10+ */
-  background: linear-gradient(to bottom,  #dddddd 0%,#eeeeee 50%); /* W3C */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dddddd', endColorstr='#eeeeee',GradientType=0 ); /* IE6-9 */
+  padding: 10px;
 }
 .thumbnails.row-fluid {
   margin-left: 0;

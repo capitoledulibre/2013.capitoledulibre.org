@@ -13,7 +13,6 @@
 {% macro eventlist(vevent) -%}
     <li> <span class="start">{{ vevent.dtstart_time }}</span> - 
         <span class="end">{{ vevent.dtend_time }}</span> : {{ vevent.summary }}</li>
-    {# <div>{{ vevent.description|replace('\n\n', '<br>') }}</div> #}
 {%- endmacro %}
 
 

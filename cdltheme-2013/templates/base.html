@@ -41,25 +41,22 @@
       </div>
       
 	<div id="main" class="row">
-        <div id="content" class="span9">
+        <div id="content" class="span12">
         {% block content %}
         {% endblock %}
         </div>
-        
-        
-        <div id="sidebar" class="span3">
-            <div class="well ">
-            
+    </div>
+    <div id="sidebar" class="row">
+<!--            
             <section id="appel-conference">
                 <h2>Appel &agrave; conf&eacute;rence</h2>
                 <p>Proposez <a href="/blog/2013/07-30-appel-a-conferences.html">une conf&eacute;rence ou un atelier</a> au Capitole du Libre 2013</p>
             </section>
-<!--
             <section id="sondage">
                 <h2>Vous y étiez ?</h2>
                 <p>Répondez au <a class='btn btn-info' href="{{ SITEURL }}/sondage" target="_blank" title="Donnez votre avis !" alt="questionnaire">questionnaire en ligne</a></p>
 -->
-            <section id="communiquer">
+            <section id="communiquer" class="span4">
 
                 <h2>Communiquez !</h2>
                 
@@ -83,7 +80,14 @@
             </section>
             
            
-            <section id="orga">
+            <section id="sponsors"  class="span4">
+                <h2>Sponsors</h2>
+                <p>Devenez sponsor du Capitole du Libre</p>
+                <p><a class='btn' href='{{ SITEURL }}/files/capitole-du-libre-sponsoring.pdf'>
+                Télécharger le dossier
+                </a></p>
+            </section>
+            <section id="orga" class="span4">
                 <h2>Organisateurs</h2>
                 <ul class="logos thumbnails row-fluid">
                     <li class="span6"><a class="thumbnail" href="http://www.toulibre.org/" target="_blank">
@@ -93,15 +97,6 @@
                 </ul>
 
             </section>
-            
-            <section id="sponsors" >
-                <h2>Sponsors</h2>
-                <p>Devenez sponsor du Capitole du Libre</p>
-                <p><a class='btn' href='{{ SITEURL }}/files/capitole-du-libre-sponsoring.pdf'>
-                Télécharger le dossier
-                </a></p>
-            </section>
-            </div>
             
         </div><!-- end #sidebar -->
     </div><!-- end #main -->

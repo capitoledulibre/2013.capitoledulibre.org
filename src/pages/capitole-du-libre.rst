@@ -13,26 +13,106 @@ L’édition 2013 du Capitole du Libre aura lieu les **23 et 24 novembre 2013**,
 Le Capitole du Libre c'est…
 ===========================
 
-- des conférences et ateliers
+Des conférences et ateliers
+-----------------------------
 
-  - grand public pour découvrir et comprendre le monde du Logiciel Libre
-  - techniques pour approfondir des thématiques comme le développement, l’administration système, les réseaux, etc.
-  - multimédia pour découvrir ou approfondir les outils libres de création graphique, vidéo et musicale
+.. html::
 
-- une install-party et des mini-conférences de découverte de Linux
-- un espace de démonstration de logiciels libres, où les visiteurs pourront poser leurs questions, participer à des mini-ateliers
-- une conférence de clôture, suivie d’un cocktail offert à tous les participants
+    <div class="row">
+
+.. class:: span3
+
+`Grand public`_
+''''''''''''''''
+
+Découvrir et comprendre le monde du Logiciel Libre, ses aspects ethiques, juridiques. Comprendre ce qu'est l'OpenData, la culture libres, les biens communs.
+
+.. class:: span3
+
+`Internet Libre`_
+''''''''''''''''''
+
+Des solutions pour maîtriser ses données dans Internet, découvrir les enjeux de la neutralité du Net.
+
+.. class:: span3
+
+`Techniques`_
+''''''''''''''
+
+Approfondir des thématiques comme le développement, l’administration système, les réseaux, etc.
+
+.. class:: span3
+
+`Multimédia / Bureautique`_
+''''''''''''''''''''''''''''
+
+Découvrir ou approfondir les outils libres de création graphique, vidéo et musicale, ainsi que la bureautique
+
+.. html::
+
+    </div>
+
+.. _`Grand public`: /programme/conferences-grand-public.html
+.. _`Internet Libre`: /programme/conferences-internet-libre.html
+.. _`Techniques`: /programme/conferences-techniques.html
+.. _`Multimédia / Bureautique`: /programme/conferences-multimedia-bureautique.html
+
+Démonstrations, install party, Lan Party ...
+---------------------------------------------
+
+- une install-party : des bénévoles vous aident à passer à GNU/Linux
+- un espace de démonstration de logiciels libres, où les visiteurs pourront poser leurs questions
+- des stands associatifs
+- une LAN PArty, pour découvrir les jeux libres
+
+
+Conférence de clôture et apéro !
+----------------------------------
+
+À 19h, *Jérémie Zimmermann* de **la Quadrature du Net** et *Benjamin Bayart* de **FFDN** animeront la conférence de clôture de la journée. Elle sera suivie d'un apéritif offert à tous les participants.
 
 Le Capitole du Libre accueille également…
---------------------------------------------
+===========================================
 
 C’est l’occasion de réunir des communautés du libre en hébergeant un de
 leurs événements. Cette année, le Capitole du Libre accueille :
 
-- une conférence **Akademy-fr**, sur l'environnement de bureau KDE
-- une `conférence FranceJS`_, sur le langage JavaScript
-- un workshop **OpenStack**, la solution opensource de cloud
-- un `workshop Lua`_, regroupant la communauté autour du language Lua
+.. html::
+
+    <div class="row">
+
+.. class:: span3
+
+conférence **Akademy-fr**
+--------------------------
+
+La communauté des développeurs et traducteurs de l'environnement de bureau KDE
+
+.. class:: span3
+
+`conférence FranceJS`_
+----------------------
+
+Des conférences et ateliers pour découvrir et approfondir le langage JavaScript. 
+
+.. class:: span3
+
+`workshop Lua`_
+---------------
+
+Regroupant la communauté autour du language Lua. 
+Les conférences sont en anglais.
+
+.. class:: span3
+
+workshop **OpenStack**
+-----------------------
+
+la solution opensource de cloud
+
+.. html::
+
+    </div>
 
 .. _`workshop Lua`: http://www.lua.org/wshop13.html
 .. _`conférence FranceJS`: http://francejs.org/conf2013.html
@@ -40,8 +120,5 @@ leurs événements. Cette année, le Capitole du Libre accueille :
 
 .. _édition 2013 du Capitole du Libre: http://2013.capitoledulibre.org/
 .. _l’ENSEEIHT: http://www.enseeiht.fr
-.. _DangoCon Toulouse: http://rencontres.django-fr.org/2012/tolosa/
-.. _`Drupal Camp`: http://paris2013.drupalcamp.fr/
 .. _programme complet: programme.html
 .. _`Toulibre`: http://toulibre.org/
-.. _`appel à conférences et ateliers`: http://2013.capitoledulibre.org/blog/2013/07-30-appel-a-conferences.html
