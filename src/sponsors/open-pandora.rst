@@ -10,7 +10,7 @@ Open Pandora
   :class: logo
   :align: left
 
-.. class:: span5
+.. class:: span8
 
 `Open Pandora`_ est à la fois un PC de poche et une console de jeux
 GNU/Linux Libre. Conçu et financé par la communauté des utilisateurs de consoles

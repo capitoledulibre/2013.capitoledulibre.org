@@ -10,7 +10,7 @@ Logilab
   :class: logo
   :align: left
 
-.. class:: span5
+.. class:: span8
 
 `Logilab`_ Logilab développe des logiciels, et propose du conseil et des formations de haut niveau dans les domaines de l'informatique scientifique et du web sémantique, en utilisant des outils et méthodes agiles.
 
