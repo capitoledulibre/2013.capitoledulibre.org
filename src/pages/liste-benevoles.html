@@ -7,8 +7,9 @@
 <div class='page'>
 
 <h1>Liste des b&eacute;n&eacute;voles</h1>
-<div id="container">
+<div id="record-list">
 </div>
+<div id="form-holder"></div>
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.4.2/underscore-min.js"></script>
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/backbone.js/1.0.0/backbone-min.js"></script>
@@ -18,16 +19,11 @@
 <script type="text/javascript">
 
     Daybed.SETTINGS.SERVER = "http://daybed.lolnet.org";
-var definition = new Daybed.Definition({id: 'benevoles-call3'}),
-    collection = new Daybed.ItemList(definition),
-    tableView = new Daybed.TableView(collection);
-
-definition.whenReady(function () {
-    $("#container").html(tableView.render().$el);
-});
-definition.fetch();
-collection.fetch();  // (will wait if necessary)
-
+    
+    var id="benevoles-call3",
+        definition = new Daybed.Definition({id: id}),
+        itemList = new Daybed.ItemList(definition);
+    
 
 </script>
 </div>

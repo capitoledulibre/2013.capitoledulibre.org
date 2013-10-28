@@ -67,9 +67,7 @@ RELATIVE_URLS = False
 
 DIRECT_TEMPLATES = ('index', 'blog', 'tags', 'categories', 'archives', 'map', 'questionnaire', 'live')
 
-TEMPLATE_PAGES = {'pages/appel-benevoles.html': 'benevoles-test.html',
-                    'pages/liste-benevoles.html': 'benevoles-liste.html',
-#                    'pages/programme.html': 'programme.html',
+TEMPLATE_PAGES = {'pages/appel-benevoles.html': 'inscription/benevoles.html',
                     'pages/conferences/conferences-grand-public.html': 'programme/conferences-grand-public.html',
                     'pages/conferences/conferences-techniques.html': 'programme/conferences-techniques.html',
                     'pages/conferences/conferences-internet-libre.html': 'programme/conferences-internet-libre.html',

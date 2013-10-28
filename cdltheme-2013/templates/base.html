@@ -46,6 +46,8 @@
         {% endblock %}
         </div>
     </div>
+
+    {% block sidebar %}
     <div id="sidebar" class="row">
 <!--            
             <section id="appel-conference">
@@ -99,7 +101,10 @@
             </section>
             
         </div><!-- end #sidebar -->
-    </div><!-- end #main -->
+        
+    {% endblock sidebar %}
+    
+    </div><!-- end #container -->
     
     <footer id="contentinfo" class="body">
             <address id="about" class="vcard pull-left">

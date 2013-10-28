@@ -585,3 +585,13 @@ form li {
 label {
     display: inline-block;
 }
+.daybed-form fieldset > div {
+    margin-bottom: 1em;
+}
+.daybed-form fieldset > div div {
+    display: inline-block;
+    font-style: italic;
+}
+.daybed-form h2 {
+    display: none;
+}
