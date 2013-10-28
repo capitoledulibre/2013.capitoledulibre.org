@@ -20,11 +20,18 @@
 
     Daybed.SETTINGS.SERVER = "http://daybed.lolnet.org";
     
-    var id="benevoles-call3",
-        definition = new Daybed.Definition({id: id}),
-        itemList = new Daybed.ItemList(definition);
+    var id="j8FMkkCKDgceG";
+    var definition = new Daybed.Definition({id: id}),
+        collection = new Daybed.ItemList(definition);
+
+    definition.fetch();
+    collection.fetch();  // (will wait if necessary)
     
+
+
 
 </script>
 </div>
 {% endblock %}
+{% block sidebar %}
+{% endblock sidebar %}
