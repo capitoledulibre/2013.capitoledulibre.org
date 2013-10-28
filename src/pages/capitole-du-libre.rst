@@ -83,10 +83,10 @@ leurs événements. Cette année, le Capitole du Libre accueille :
 
 .. class:: span3
 
-Conférence **Akademy-fr**
---------------------------
+`Conférence Akademy-fr`_
+------------------------
 
-La communauté des développeurs et traducteurs de l'environnement de bureau KDE
+Des conférences techniques et des ateliers présentés par des contributeurs de la communauté KDE.
 
 .. class:: span3
 
@@ -114,7 +114,7 @@ la solution opensource de cloud
 
     </div>
 
-.. _`Akademy-fr`: 
+.. _`Conférence Akademy-fr`: /programme/conferences-akademy-fr.html
 .. _`Lua workshop`: http://www.lua.org/wshop13.html
 .. _`conférence FranceJS`: http://francejs.org/conf2013.html
 .. _`Ubuntu Party`_: http://ubuntu-party.org/
