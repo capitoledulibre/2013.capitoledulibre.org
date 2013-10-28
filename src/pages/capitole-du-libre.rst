@@ -83,7 +83,7 @@ leurs événements. Cette année, le Capitole du Libre accueille :
 
 .. class:: span3
 
-conférence **Akademy-fr**
+Conférence **Akademy-fr**
 --------------------------
 
 La communauté des développeurs et traducteurs de l'environnement de bureau KDE
@@ -97,7 +97,7 @@ Des conférences et ateliers pour découvrir et approfondir le langage JavaScrip
 
 .. class:: span3
 
-`workshop Lua`_
+`Lua workshop`_
 ---------------
 
 Regroupant la communauté autour du language Lua. 
@@ -114,11 +114,12 @@ la solution opensource de cloud
 
     </div>
 
-.. _`workshop Lua`: http://www.lua.org/wshop13.html
+.. _`Akademy-fr`: 
+.. _`Lua workshop`: http://www.lua.org/wshop13.html
 .. _`conférence FranceJS`: http://francejs.org/conf2013.html
 
 
 .. _édition 2013 du Capitole du Libre: http://2013.capitoledulibre.org/
 .. _l’ENSEEIHT: http://www.enseeiht.fr
-.. _programme complet: programme.html
+.. _programme complet: /programme.html
 .. _`Toulibre`: http://toulibre.org/
