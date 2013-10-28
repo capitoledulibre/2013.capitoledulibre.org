@@ -63,7 +63,7 @@ Démonstrations, Ubuntu party, Lan Party ...
 - une `Ubuntu Party` : des bénévoles vous aident à passer à la distribution GNU/Linux Ubuntu
 - un espace de démonstration de logiciels libres, où les visiteurs pourront poser leurs questions
 - des stands associatifs
-- une LAN PArty, pour découvrir les jeux libres
+- une LAN Party, pour découvrir les jeux libres
 
 
 Conférence de clôture et apéro !
