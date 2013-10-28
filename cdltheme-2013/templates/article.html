@@ -8,11 +8,11 @@
 		<h1>{{ article.title }}</h1>
 		<div>{{ article.content }}</div>
 		<div><em>{% include "metadata.html" %}</em></div>
-		<div>
-			<h2>Comments</h2>
 		 	{% include "twitter.html" %}
+		<!--<div>
+			<h2>Comments</h2>
 			{% if DISQUS_SITENAME %}<div id="disqus_thread"></div>{% endif %}
 			{% if FACEBOOK_APPID %}<div class="fb-comments" data-href="{{ FQ_SITEURL }}/{{ article.url }}" data-num-posts="10" data-width="760"></div>{% endif %}
-		</div>
+		</div>-->
 	</div>	
 {% endblock %}
