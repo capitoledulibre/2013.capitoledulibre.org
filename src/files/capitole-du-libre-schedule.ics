@@ -106,6 +106,16 @@ GEO:43.6022973938;1.45454333439
 DESCRIPTION:Panorama des outils pour la cartographie moderne et libre sur le Web !\n... ou comment vous débarrassez de cette bonne vieille carte jaunâtre en toute simplicité !
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FFDN / Tetaneutral.net\, Internet autrement
+LOCATION:C002\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrgkh/
+UID:874881bee80468f4cca13c82bcefdf847463bab6
+DTSTART:20131123T133000Z
+DTEND:20131123T143000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:L'association [tetaneutral.net http://tetaneutral.net] fondée en janvier 2011 est fournisseur d’accès internet\, hébergeur et opérateur sans but lucratif sur Toulouse et sa région\, ainsi que membre fondatrice de la Fédération [FDN http://ffdn.org] qui regroupe maintenant plus de 1500 adhérent(e)s.\n\nEn s'inspirant des travaux des pionniers tetaneutral.net a permis de connecter au haut débit des foyers inéligibles a un ADSL ou un Wimax performant a Saint-Gaudens et Monès\, et a fournir une solution d’accès internet alternative a faible coût a débit symétrique pour les Toulousains.\n\nCette conférence vous montrera que ces solutions sont accessibles aux bonnes volontés citoyennes pour fabriquer de l'internet entre voisins en respectant la neutralité du réseau. L'association compte plus de 380 adhérent(e)s et pratique la transparence sur sa gestion financière.
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Présentation de C++11
 LOCATION:C103\, ENSEEIHT
 URL:http://lanyrd.com/2013/capitole-du-libre/scrkxq/
@@ -134,16 +144,6 @@ DTSTART:20131123T133000Z
 DTEND:20131123T143000Z
 GEO:43.6022973938;1.45454333439
 DESCRIPTION:Explication sur comment chiffré et signé numériquement un email en utilisant soit le format S/Mime\, soi PGP. Explication de comment ça marche \, comment mettre en œuvre et comparaison des deux métrhodes.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tetaneutral.net\, Internet autrement
-LOCATION:C002\, ENSEEIHT
-URL:http://lanyrd.com/2013/capitole-du-libre/scrgkh/
-UID:874881bee80468f4cca13c82bcefdf847463bab6
-DTSTART:20131123T133000Z
-DTEND:20131123T143000Z
-GEO:43.6022973938;1.45454333439
-DESCRIPTION:L'association [tetaneutral.net http://tetaneutral.net] fondée en janvier 2011 est fournisseur d’accès internet\, hébergeur et opérateur sans but lucratif sur Toulouse et sa région\, ainsi que membre fondatrice de la Fédération [FDN http://ffdn.org] qui regroupe maintenant plus de 1500 adhérent(e)s.\n\nEn s'inspirant des travaux des pionniers tetaneutral.net a permis de connecter au haut débit des foyers inéligibles a un ADSL ou un Wimax performant a Saint-Gaudens et Monès\, et a fournir une solution d’accès internet alternative a faible coût a débit symétrique pour les Toulousains.\n\nCette conférence vous montrera que ces solutions sont accessibles aux bonnes volontés citoyennes pour fabriquer de l'internet entre voisins en respectant la neutralité du réseau. L'association compte plus de 380 adhérent(e)s et pratique la transparence sur sa gestion financière.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wikipédia\, Wikimédia : du nouveau dans les projets

@@ -409,6 +409,36 @@
                 }, 
                 {
                     "start_time": "2013-11-23 14:30:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrgkh/", 
+                    "times": "2:30pm\u00a0-\u00a03:30pm", 
+                    "id": "scrgkh", 
+                    "types": [], 
+                    "end_time_epoch": 1385217000, 
+                    "speakers": [
+                        {
+                            "bio": "<p>Free Software</p>", 
+                            "web_url": "http://lanyrd.com/profile/lguerby/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/33ac64bb3c4583aa94c685d52de30d6329aeab6d-s300.jpg", 
+                            "name": "Laurent GUERBY", 
+                            "elsewhere": [], 
+                            "role": "Free Software", 
+                            "twitter": "@lguerby", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/33ac64bb3c4583aa94c685d52de30d6329aeab6d-s75.jpg", 
+                            "speaker_bio": ""
+                        }
+                    ], 
+                    "title": "FFDN / Tetaneutral.net, Internet autrement", 
+                    "event_id": "cprtz", 
+                    "space": "C002", 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 15:30:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385213400, 
+                    "abstract": "<p>L&#39;association <a href=\"http://tetaneutral.net\" rel=\"nofollow\">tetaneutral.net</a> fond\u00e9e en janvier 2011 est fournisseur d\u2019acc\u00e8s internet, h\u00e9bergeur et op\u00e9rateur sans but lucratif sur Toulouse et sa r\u00e9gion, ainsi que membre fondatrice de la F\u00e9d\u00e9ration <a href=\"http://ffdn.org\" rel=\"nofollow\">FDN</a> qui regroupe maintenant plus de 1500 adh\u00e9rent(e)s.</p>\n<p>En s&#39;inspirant des travaux des pionniers <a href=\"http://tetaneutral.net\" rel=\"nofollow\">tetaneutral.net</a> a permis de connecter au haut d\u00e9bit des foyers in\u00e9ligibles a un ADSL ou un Wimax performant a Saint-Gaudens et Mon\u00e8s, et a fournir une solution d\u2019acc\u00e8s internet alternative a faible co\u00fbt a d\u00e9bit sym\u00e9trique pour les Toulousains.</p>\n<p>Cette conf\u00e9rence vous montrera que ces solutions sont accessibles aux bonnes volont\u00e9s citoyennes pour fabriquer de l&#39;internet entre voisins en respectant la neutralit\u00e9 du r\u00e9seau. L&#39;association compte plus de 380 adh\u00e9rent(e)s et pratique la transparence sur sa gestion financi\u00e8re.</p>"
+                }, 
+                {
+                    "start_time": "2013-11-23 14:30:00", 
                     "topics": [
                         {
                             "name": "Akademy-fr", 
@@ -530,36 +560,6 @@
                     "other_url": null, 
                     "start_time_epoch": 1385213400, 
                     "abstract": "<p>Explication sur comment chiffr\u00e9 et sign\u00e9 num\u00e9riquement un email en utilisant soit le format S/Mime, soi PGP. Explication de comment \u00e7a marche , comment mettre en \u0153uvre et comparaison des deux m\u00e9trhodes.</p>"
-                }, 
-                {
-                    "start_time": "2013-11-23 14:30:00", 
-                    "topics": [], 
-                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrgkh/", 
-                    "times": "2:30pm\u00a0-\u00a03:30pm", 
-                    "id": "scrgkh", 
-                    "types": [], 
-                    "end_time_epoch": 1385217000, 
-                    "speakers": [
-                        {
-                            "bio": "<p>Free Software</p>", 
-                            "web_url": "http://lanyrd.com/profile/lguerby/", 
-                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/33ac64bb3c4583aa94c685d52de30d6329aeab6d-s300.jpg", 
-                            "name": "Laurent GUERBY", 
-                            "elsewhere": [], 
-                            "role": "Free Software", 
-                            "twitter": "@lguerby", 
-                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/33ac64bb3c4583aa94c685d52de30d6329aeab6d-s75.jpg", 
-                            "speaker_bio": ""
-                        }
-                    ], 
-                    "title": "Tetaneutral.net, Internet autrement", 
-                    "event_id": "cprtz", 
-                    "space": "C002", 
-                    "day": "Saturday 23rd November", 
-                    "end_time": "2013-11-23 15:30:00", 
-                    "other_url": null, 
-                    "start_time_epoch": 1385213400, 
-                    "abstract": "<p>L&#39;association <a href=\"http://tetaneutral.net\" rel=\"nofollow\">tetaneutral.net</a> fond\u00e9e en janvier 2011 est fournisseur d\u2019acc\u00e8s internet, h\u00e9bergeur et op\u00e9rateur sans but lucratif sur Toulouse et sa r\u00e9gion, ainsi que membre fondatrice de la F\u00e9d\u00e9ration <a href=\"http://ffdn.org\" rel=\"nofollow\">FDN</a> qui regroupe maintenant plus de 1500 adh\u00e9rent(e)s.</p>\n<p>En s&#39;inspirant des travaux des pionniers <a href=\"http://tetaneutral.net\" rel=\"nofollow\">tetaneutral.net</a> a permis de connecter au haut d\u00e9bit des foyers in\u00e9ligibles a un ADSL ou un Wimax performant a Saint-Gaudens et Mon\u00e8s, et a fournir une solution d\u2019acc\u00e8s internet alternative a faible co\u00fbt a d\u00e9bit sym\u00e9trique pour les Toulousains.</p>\n<p>Cette conf\u00e9rence vous montrera que ces solutions sont accessibles aux bonnes volont\u00e9s citoyennes pour fabriquer de l&#39;internet entre voisins en respectant la neutralit\u00e9 du r\u00e9seau. L&#39;association compte plus de 380 adh\u00e9rent(e)s et pratique la transparence sur sa gestion financi\u00e8re.</p>"
                 }, 
                 {
                     "start_time": "2013-11-23 14:30:00", 
