@@ -7,10 +7,15 @@ Le programme est en ligne !
 :tags: programme
 :summary: On vous voyait trépigner d'impatience en attendant sa publication, le voilà enfin ! le `programme du Capitole du Libre`_
 :author: Toulibre
-:status: draft
 
 
 Cette année encore, l'ENSEEIHT de Toulouse devient à l'occasion du dernier week-end de novembre un lieu d'échanges et de présentations autour du Logiciel Libre et du libre plus généralement.
+
+Au programme
+=============
+
+Conférences du 23 novembre
+---------------------------
 
 Quatre grands thèmes sont abordés avec les conférences du **samedi 23 novembre**:
 
@@ -19,6 +24,27 @@ Quatre grands thèmes sont abordés avec les conférences du **samedi 23 novembr
 * `Techniques`_ : les aspects techniques, du développement logiciel au réseau, en passant par le hardware
 * `Multimédia / Bureautique`_ : l'utilisation de logiciels libres multimedia ou bureautiques
 
+Conférence de clôture
+----------------------
+
+À 19h, la **conférence de clôture** sera assurée cette année par *Jérémie Zimmermann* de la **quadrature du net** et *Benjamin Bayart* de **FFDN**.
+
+Par ailleurs *Benjamin Bayart* co-animera une conférence du thème "Internet libre" avec *Laurent Guerby* de `Tetaneutral.net`_.
+
+Ateliers du 24 novembre
+-----------------------
+
+Le **dimanche 24 novembre**, des `ateliers`_ sont proposés aux participants dans les mêmes thèmes, pour découvrir ou approfondir certains aspects. Ces ateliers sont gratuits, une inscription sera demandée pour des raisons de logistique.
+
+Stands et Ubuntu party
+-----------------------
+
+Tout le week-end, un espace démo/lan party et impression 3d est assuré par les bénévoles pour faire découvrir ou re-découvrir le jeu sous Linux et l'`impression 3d Open Hardware`_. 
+Ceux qui souhaitent installer GNU/Linux trouveront de l'aide à l'`ubuntu party`.
+
+Événements hébergés
+--------------------
+
 Comme les années précédents, le Capitole du Libre accueille également les communautés suivantes:
 
 * `Akademy-fr`_ pour l'environnement de bureau KDE, mais dont certaines conférences peuvent être plus généralistes
@@ -26,14 +52,19 @@ Comme les années précédents, le Capitole du Libre accueille également les co
 * OpenStack pour la solution opensource de cloud
 * `Lua workshop`_ pour le language de script Lua (conférences en anglais)
 
-À 19h, la **conférence de clôture** sera assurée cette année par *Jérémie Zimmermann* de la **quadrature du net** et *Benjamin Bayart* de **FFDN**.
+Le "Off" du vendredi
+=====================
 
-Par ailleurs *Benjamin Bayart* co-animera une conférence du thème "Internet libre" avec *Laurent Guerby* de `Tetaneutral.net`_.
+Rencontres régionales du Logiciel Libre
+-----------------------------------------
 
-Le **dimanche 24 novembre**, des `ateliers`_ sont proposés aux participants dans les mêmes thèmes, pour découvrir ou approfondir certains aspects. Ces ateliers sont gratuits, une inscription sera demandée pour des raisons de logistique.
+Tout la journée du **22 novembre**, `So Libre`_ et le `Conseil National du Logiciel Libre`_ vous invitent à l'étape toulousaine des `Rencontres Régionales du Logiciel Libre`_. Cette première édition sera axée sur le Service Public.
 
-Tout le week-end, un espace démo/lan party et impression 3d est assuré par les bénévoles pour faire découvrir ou re-découvrir le jeu sous Linux et l'`impression 3d Open Hardware`_. 
-Ceux qui souhaitent installer GNU/Linux trouveront de l'aide à l'`ubuntu party`.
+Projection et débat à l'Utopia
+---------------------------------
+
+La veille au soir, le **vendredi 22 novembre**, les cinémas Utopia organisent la projection en VOST-FR du documentaire `Terms and conditions may apply`_ relatif à vos données personnelles. Cette projection sera suivie par un débat avec *Jérémie Zimmermann*.
+
 
 
 .. _`programme du Capitole du Libre`: /programme.html
@@ -51,3 +82,8 @@ Ceux qui souhaitent installer GNU/Linux trouveront de l'aide à l'`ubuntu party`
 .. _`Lua workshop`: http://www.lua.org/wshop13.html
 .. _`conférence FranceJS`: http://francejs.org/conf2013.html
 .. _`Ubuntu Party`: http://ubuntu-party.org/
+
+.. _`So Libre`: http://www.solibre.fr/fr/index.html
+.. _`Conseil National du Logiciel Libre`: http://www.cnll.fr/
+.. _`Rencontres Régionales du Logiciel Libre`: http://www.solibre.fr/fr/les-rencontres-regionales-du-logiciel-libre.html
+.. _`Terms and conditions may apply`: http://tacma.net/
