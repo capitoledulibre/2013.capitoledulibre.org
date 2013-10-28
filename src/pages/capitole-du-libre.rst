@@ -108,7 +108,7 @@ Les conférences sont en anglais.
 workshop **OpenStack**
 -----------------------
 
-la solution opensource de cloud
+La solution opensource de cloud
 
 .. html::
 
@@ -117,10 +117,10 @@ la solution opensource de cloud
 .. _`Conférence Akademy-fr`: /programme/conferences-akademy-fr.html
 .. _`Lua workshop`: http://www.lua.org/wshop13.html
 .. _`conférence FranceJS`: http://francejs.org/conf2013.html
-.. _`Ubuntu Party`_: http://ubuntu-party.org/
+.. _`Ubuntu Party`: http://ubuntu-party.org/
 
 
 .. _édition 2013 du Capitole du Libre: http://2013.capitoledulibre.org/
 .. _l’ENSEEIHT: http://www.enseeiht.fr
-.. _programme complet: /programme.html
+.. _`programme complet`: /programme.html
 .. _`Toulibre`: http://toulibre.org/
