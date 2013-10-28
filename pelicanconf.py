@@ -75,5 +75,5 @@ TEMPLATE_PAGES = {'pages/appel-benevoles.html': 'benevoles-test.html',
                     'pages/conferences/conferences-internet-libre.html': 'programme/conferences-internet-libre.html',
                     'pages/conferences/conferences-multimedia-bureautique.html': 'programme/conferences-multimedia-bureautique.html',
                     'pages/conferences/conferences-akademy-fr.html': 'programme/conferences-akademy-fr.html',
-                    'pages/ateliers/ateliers-akademy-fr.html': 'programme/ateliers-akademy-fr.html',
+                    'pages/ateliers/ateliers.html': 'programme/ateliers.html',
                     }

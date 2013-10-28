@@ -12,11 +12,12 @@ function from_lanyrd_json(day, space) {
         else {
             sessions = data.sessions[1];
         }
-        var results = $.grep(sessions.sessions, function(elem) {
-            return elem.space == space;
-        });
-        sessions = {"sessions": results};
-            
+        if (space) {
+            var results = $.grep(sessions.sessions, function(elem) {
+                return elem.space == space;
+            });
+            sessions = {"sessions": results};
+        }
         var html = Mustache.to_html(template,sessions);
         $('#prog-summary').html(html);
 
