@@ -10,7 +10,7 @@ KDAB
   :class: logo
   :align: left
 
-.. class:: span5
+.. class:: span8
 
 `KDAB`_, c'est l'expertise Qt. Nous pouvons intervenir dans de nombreux domaines : développement d'applications graphiques C++ et QtQuick, intégration et déploiement de Qt en contexte embarqué, migration d'applicatifs vers Qt et réalisation d'outillage complémentaire. En plus de ces compétences techniques nous pouvons vous former ou vous proposer du conseil à distance ou sur site.
 

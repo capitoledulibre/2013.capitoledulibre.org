@@ -10,7 +10,7 @@ Sierra Wireless
   :class: logo
   :align: left
 
-.. class:: span5
+.. class:: span8
 
 `Sierra Wireless`_ est le leader mondial du M2M et des solutions sans
 fil intelligentes. Nos clients comptent sur nos solutions innovantes

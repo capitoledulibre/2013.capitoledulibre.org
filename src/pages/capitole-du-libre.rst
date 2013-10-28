@@ -57,13 +57,13 @@ Découvrir ou approfondir les outils libres de création graphique, vidéo et mu
 .. _`Techniques`: /programme/conferences-techniques.html
 .. _`Multimédia / Bureautique`: /programme/conferences-multimedia-bureautique.html
 
-Démonstrations, install party, Lan Party ...
+Démonstrations, Ubuntu party, Lan Party ...
 ---------------------------------------------
 
-- une install-party : des bénévoles vous aident à passer à GNU/Linux
+- une `Ubuntu Party` : des bénévoles vous aident à passer à la distribution GNU/Linux Ubuntu
 - un espace de démonstration de logiciels libres, où les visiteurs pourront poser leurs questions
 - des stands associatifs
-- une LAN PArty, pour découvrir les jeux libres
+- une LAN Party, pour découvrir les jeux libres
 
 
 Conférence de clôture et apéro !
@@ -83,10 +83,10 @@ leurs événements. Cette année, le Capitole du Libre accueille :
 
 .. class:: span3
 
-conférence **Akademy-fr**
---------------------------
+`Conférence Akademy-fr`_
+------------------------
 
-La communauté des développeurs et traducteurs de l'environnement de bureau KDE
+Des conférences techniques et des ateliers présentés par des contributeurs de la communauté KDE.
 
 .. class:: span3
 
@@ -97,7 +97,7 @@ Des conférences et ateliers pour découvrir et approfondir le langage JavaScrip
 
 .. class:: span3
 
-`workshop Lua`_
+`Lua workshop`_
 ---------------
 
 Regroupant la communauté autour du language Lua. 
@@ -108,17 +108,19 @@ Les conférences sont en anglais.
 workshop **OpenStack**
 -----------------------
 
-la solution opensource de cloud
+La solution opensource de cloud
 
 .. html::
 
     </div>
 
-.. _`workshop Lua`: http://www.lua.org/wshop13.html
+.. _`Conférence Akademy-fr`: /programme/conferences-akademy-fr.html
+.. _`Lua workshop`: http://www.lua.org/wshop13.html
 .. _`conférence FranceJS`: http://francejs.org/conf2013.html
+.. _`Ubuntu Party`: http://ubuntu-party.org/
 
 
 .. _édition 2013 du Capitole du Libre: http://2013.capitoledulibre.org/
 .. _l’ENSEEIHT: http://www.enseeiht.fr
-.. _programme complet: programme.html
+.. _`programme complet`: /programme.html
 .. _`Toulibre`: http://toulibre.org/

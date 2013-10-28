@@ -11,7 +11,7 @@ E-novance
   :align: left
 
 
-.. class:: span5
+.. class:: span8
 
 `E-Novance`_
 

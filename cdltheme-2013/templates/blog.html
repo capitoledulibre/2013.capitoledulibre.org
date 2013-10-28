@@ -6,7 +6,8 @@
 <div class='article'>
 	<h2>{{ article.title }}</h2>
 	<div class="post-infos">{% include "metadata.html" %}</div>
-	<div class="summary">{{ article.summary }} <a class="btn primary xsmall" href="{{ SITEURL }}/{{ article.url }}">more…</a>
+	<div class="summary">{{ article.summary }} 
+    <p class="align-right"><a class="btn primary xsmall" href="{{ SITEURL }}/{{ article.url }}">en lire plus …</a></p>
 	</div>
 </div>	
 {% endfor %}
