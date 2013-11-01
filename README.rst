@@ -105,19 +105,6 @@ et que les liens sont notés ```nom du lien <url>`_``
 
 Vous pouvez également utiliser le `convertisseur en ligne Pandoc <http://johnmacfarlane.net/pandoc/try>`_ de John Mc Farlane.
 
-Ajouter un sponsor
-------------------
+En savoir plus sur l'`édition des pages et du blog`_ du site du Capitole du Libre.
 
-- créer un fichier pour le sponsor dans ``src/sponsors``
-- inclure ce fichier dans la page ``src/pages/sponsors.rst``
-
-::
-
-  .. include:: ../sponsors/kdab.rst
-
-Mettre à jour le programme
----------------------------
-
-Le programme est renseigné sur le site http://lanyrd.com/2013/capitole-du-libre/. Lorsque le site est regénéré (make html ou make publish), le fichier ical généré par Lanyrd est téléchargé, et il est inclus dans la page programme.rst.
-
-
+.. _`édition des pages et du blog`: docs/edition-site.rst
