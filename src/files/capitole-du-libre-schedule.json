@@ -58,41 +58,6 @@
                     "start_time": "2013-11-23 11:00:00", 
                     "topics": [
                         {
-                            "name": "OpenData", 
-                            "slug": "opendata-2"
-                        }
-                    ], 
-                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrddf/", 
-                    "times": "11:00am\u00a0-\u00a012:00pm", 
-                    "id": "scrddf", 
-                    "types": [], 
-                    "end_time_epoch": 1385204400, 
-                    "speakers": [
-                        {
-                            "bio": "", 
-                            "web_url": null, 
-                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
-                            "name": "Sandrine Mathon", 
-                            "elsewhere": [], 
-                            "role": null, 
-                            "twitter": null, 
-                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
-                            "speaker_bio": ""
-                        }
-                    ], 
-                    "title": "Conf\u00e9rence OpenData", 
-                    "event_id": "cprtz", 
-                    "space": "A001", 
-                    "day": "Saturday 23rd November", 
-                    "end_time": "2013-11-23 12:00:00", 
-                    "other_url": null, 
-                    "start_time_epoch": 1385200800, 
-                    "abstract": ""
-                }, 
-                {
-                    "start_time": "2013-11-23 11:00:00", 
-                    "topics": [
-                        {
                             "name": "CMS", 
                             "slug": "cms"
                         }, 
@@ -170,6 +135,41 @@
                     "other_url": null, 
                     "start_time_epoch": 1385200800, 
                     "abstract": "<p>LibreOffice est une suite bureautique libre et gratuite compos\u00e9e d&#39;un traitement de textes, d&#39;un tableur, d&#39;un outil de pr\u00e9sentation, d&#39;un outil de dessin vectoriel, d&#39;une base de donn\u00e9es, ainsi que d&#39;un \u00e9diteur de formules math\u00e9matiques, il permet de disposer d&#39;une suite bureautique compl\u00e8te et multi-plateforme.</p>\n<p>Dans cette conf\u00e9rence je pr\u00e9senterai dans un premier temps les diff\u00e9rents modules du projet ainsi que leurs capacit\u00e9s. J&#39;aborderai ensuite l&#39;histoire du projet ainsi que les d\u00e9veloppements en cours.</p>"
+                }, 
+                {
+                    "start_time": "2013-11-23 11:00:00", 
+                    "topics": [
+                        {
+                            "name": "OpenData", 
+                            "slug": "opendata-2"
+                        }
+                    ], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrddf/", 
+                    "times": "11:00am\u00a0-\u00a012:00pm", 
+                    "id": "scrddf", 
+                    "types": [], 
+                    "end_time_epoch": 1385204400, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": null, 
+                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
+                            "name": "Sandrine Mathon", 
+                            "elsewhere": [], 
+                            "role": null, 
+                            "twitter": null, 
+                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
+                            "speaker_bio": "<p>Juriste en droit public et droit communautaire.</p>\n<p>Attach\u00e9e \u00e0 la Direction Juridique de la Commission Nationale Informatique et Libert\u00e9s pendant 8 ans en charge des questions relatives aux relations employeurs/employ\u00e9s.</p>\n<p>Chef de service \u00e0 la Direction des Syst\u00e8mes d&#39;Information mutualis\u00e9e entre la Mairie de Toulouse et Toulouse M\u00e9tropole, en charge des questions administratives et juridiques et chef du projet Open Data.</p>"
+                        }
+                    ], 
+                    "title": "Pr\u00e9sentation du portail Toulouse M\u00e9tropole Data et des \u00e9volutions \u00e0 venir", 
+                    "event_id": "cprtz", 
+                    "space": "A001", 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 12:00:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385200800, 
+                    "abstract": "<p>Cet expos\u00e9 abordera les th\u00e8mes suivants :</p>\n<p>Le projet Open Data toulousain</p>\n<ul class=\"bullets\">\n  <li>Projet, r\u00e9alisations et r\u00e9sultats</li>\n  <li>Les types de donn\u00e9es</li>\n  <li>Les conditions de r\u00e9utilisation des donn\u00e9es</li>\n</ul>\n<p>Les conditions juridiques</p>\n<p>Le mouvement fran\u00e7ais</p>\n<ul class=\"bullets\">\n  <li>Gen\u00e8se</li>\n  <li>\u00c9tat</li>\n</ul>"
                 }, 
                 {
                     "start_time": "2013-11-23 13:30:00", 
@@ -267,17 +267,17 @@
                             "role": null, 
                             "twitter": null, 
                             "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
-                            "speaker_bio": ""
+                            "speaker_bio": "<p>Auteur du livre <a href=\"http://www.amazon.fr/La-face-cach%C3%A9e-web-contr%C3%B4le/dp/2896261257/ref=sr_1_1?ie=UTF8&amp;qid=1365066925&amp;sr=8-1&amp;keywords=la+face+cach%C3%A9e+du+web\" rel=\"nofollow\">&quot;La face cach\u00e9e du Web&quot;</a> et <br>\ning\u00e9nieur informaticien, je m&#39;occupe de d\u00e9velopper le p\u00f4le Open Source d&#39;une soci\u00e9t\u00e9 de services en ing\u00e9nierie informatique.</p>"
                         }
                     ], 
-                    "title": "Cyberespionnage", 
+                    "title": "Cyberespionnage : tous concern\u00e9s, tous suspects.", 
                     "event_id": "cprtz", 
                     "space": "A001", 
                     "day": "Saturday 23rd November", 
                     "end_time": "2013-11-23 14:30:00", 
                     "other_url": null, 
                     "start_time_epoch": 1385209800, 
-                    "abstract": ""
+                    "abstract": "<p>Les grandes lignes de cette conf\u00e9rences sont les suivants :</p>\n<ul class=\"bullets\">\n  <li>ils en savent plus sur nous que nous m\u00eame !</li>\n  <li>qui surveille les surveillants ?</li>\n  <li>l&#39;enjeu n&#39;est pas la libert\u00e9 de penser mais d&#39;opinion</li>\n  <li>comment le BigData, le BigBrother et les science cognitives ont le potentiel d&#39;arme de destruction massive des opinions</li>\n  <li>les pistes pour se pr\u00e9server</li>\n</ul>"
                 }, 
                 {
                     "start_time": "2013-11-23 13:30:00", 
@@ -405,7 +405,7 @@
                     "end_time": "2013-11-23 14:30:00", 
                     "other_url": null, 
                     "start_time_epoch": 1385211600, 
-                    "abstract": "<p>Panorama des outils pour la cartographie moderne et libre sur le Web !<br>\n... ou comment vous d\u00e9barrassez de cette bonne vieille carte jaun\u00e2tre en toute simplicit\u00e9 !</p>"
+                    "abstract": "<p>Panorama des outils pour la cartographie moderne et libre sur le Web !<br>\n... ou comment vous d\u00e9barrasser de cette bonne vieille carte jaun\u00e2tre en toute simplicit\u00e9 !</p>"
                 }, 
                 {
                     "start_time": "2013-11-23 14:30:00", 
@@ -563,7 +563,24 @@
                 }, 
                 {
                     "start_time": "2013-11-23 14:30:00", 
-                    "topics": [], 
+                    "topics": [
+                        {
+                            "name": "Wikidata", 
+                            "slug": "wikidata"
+                        }, 
+                        {
+                            "name": "Wikimedia", 
+                            "slug": "wikimedia"
+                        }, 
+                        {
+                            "name": "Wikipedia", 
+                            "slug": "wikipedia"
+                        }, 
+                        {
+                            "name": "Wikivoyage", 
+                            "slug": "wikivoyage"
+                        }
+                    ], 
                     "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrcmm/", 
                     "times": "2:30pm\u00a0-\u00a03:30pm", 
                     "id": "scrcmm", 
@@ -593,7 +610,16 @@
                 }, 
                 {
                     "start_time": "2013-11-23 15:45:00", 
-                    "topics": [], 
+                    "topics": [
+                        {
+                            "name": "Qt", 
+                            "slug": "qt"
+                        }, 
+                        {
+                            "name": "Tomahawk", 
+                            "slug": "tomahawk"
+                        }
+                    ], 
                     "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrfyb/", 
                     "times": "3:45pm\u00a0-\u00a04:10pm", 
                     "id": "scrfyb", 
@@ -693,7 +719,7 @@
                     "end_time": "2013-11-23 17:00:00", 
                     "other_url": null, 
                     "start_time_epoch": 1385218800, 
-                    "abstract": ""
+                    "abstract": "<p>Je ne suis pas libriste. Ce sont mes histoires qui, par nature, sont libres. <br>\nMon parcours artistique m&#39;a men\u00e9 \u00e0 cette conclusion : la place naturelle de mes oeuvres est dans les biens communs, dans le domaine public. <br>\nUne conclusion traduite en un acte simple : placer tous mes \u00e9crits sous la licence CC0... Et si dans tout artiste sommeillait un libriste qui s&#39;ignore ? <br>\nRetour sur l&#39;exp\u00e9rience d&#39;\u00e9criture libre de <a href=\"http://noenaute.fr/\" rel=\"nofollow\">noenaute.fr</a></p>"
                 }, 
                 {
                     "start_time": "2013-11-23 16:00:00", 
@@ -723,7 +749,7 @@
                     "end_time": "2013-11-23 17:00:00", 
                     "other_url": null, 
                     "start_time_epoch": 1385218800, 
-                    "abstract": ""
+                    "abstract": "<p>Cette conf\u00e9rence pr\u00e9sente le processus complet de d\u00e9veloppement du projet Overblog qui est bas\u00e9 sur les m\u00e9thodologies suivantes:</p>\n<ul class=\"bullets\">\n  <li>Scrum,</li>\n  <li>Git Flow,</li>\n  <li>Github,</li>\n  <li>Jenkins,</li>\n  <li>PhpUnit/Symfony pour les tests unitaires,</li>\n  <li>Watir/Cucumber pour les tests fonctionnels.</li>\n</ul>\n<p>La pr\u00e9sentation d\u00e9taillera la fa\u00e7on dont nous avons adapt\u00e9 Git Flow \u00e0 Scrum, nos processus de d\u00e9ploiement, de tests ainsi que notre flux de mise en production.</p>\n<p>Cela permet \u00e0 un chef de projet, un directeur technique, un chef produit, ou un d\u00e9veloppeur de voir quel est le cheminement d&#39;une fonctionnalit\u00e9 chez Overblog, et quel est l&#39;organisation du processus de d\u00e9veloppement.</p>"
                 }, 
                 {
                     "start_time": "2013-11-23 16:00:00", 
@@ -748,7 +774,7 @@
                             "role": null, 
                             "twitter": null, 
                             "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
-                            "speaker_bio": ""
+                            "speaker_bio": "<p>Sylvain Th\u00e9nault est directeur de l&#39;agence toulousaine de Logilab.</p>\n<p>D\u00e9veloppeur Python depuis 2001, il est l&#39;auteur et mainteneur principal de Pylint et l&#39;un des principaux architectes de la plate-forme CubicWeb.</p>\n<p>Il sera accompagn\u00e9 pour cette session de d\u00e9veloppeurs de Logilab.</p>"
                         }
                     ], 
                     "title": "Pylint 1.0, \u00e9tats des lieux apr\u00e8s 10 ans de d\u00e9veloppement", 
@@ -758,7 +784,7 @@
                     "end_time": "2013-11-23 16:30:00", 
                     "other_url": null, 
                     "start_time_epoch": 1385218800, 
-                    "abstract": ""
+                    "abstract": "<p>Cette mini-conf\u00e9rence fera un rapide \u00e9tats des lieux de Pylint dont la version 1.0 est sortie cette \u00e9t\u00e9 apr\u00e8s 10 ans de d\u00e9veloppement. Il y aura deux parties dans cette pr\u00e9sentation :</p>\n<ul class=\"bullets\">\n  <li>un retour d&#39;exp\u00e9rience sur les 10 ans de d\u00e9veloppement de l&#39;outil dans la communaut\u00e9 Python</li>\n  <li>un parcours rapide des fonctionnalit\u00e9s actuelles</li>\n</ul>\n<p>Un atelier est pr\u00e9vu pour couvrir les API permettant d&#39;\u00e9tendre l&#39;outil.</p>"
                 }, 
                 {
                     "start_time": "2013-11-23 16:10:00", 
@@ -797,7 +823,12 @@
                 }, 
                 {
                     "start_time": "2013-11-23 16:30:00", 
-                    "topics": [], 
+                    "topics": [
+                        {
+                            "name": "Arduino", 
+                            "slug": "arduino"
+                        }
+                    ], 
                     "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrfyh/", 
                     "times": "4:30pm\u00a0-\u00a05:00pm", 
                     "id": "scrfyh", 
@@ -816,18 +847,23 @@
                             "speaker_bio": ""
                         }
                     ], 
-                    "title": "Open Hardware, Arduino, Internet des objets", 
+                    "title": "Akeru, Arduino a sa plate-forme interactive open-source pour l'internet des objets", 
                     "event_id": "cprtz", 
                     "space": "A201", 
                     "day": "Saturday 23rd November", 
                     "end_time": "2013-11-23 17:00:00", 
                     "other_url": null, 
                     "start_time_epoch": 1385220600, 
-                    "abstract": ""
+                    "abstract": "<p>Fr\u00e9d\u00e9ric Jourdan participe avec <a href=\"http://snootlab.com/\" rel=\"nofollow\">Snootlab</a> depuis 2010 au d\u00e9veloppement du mouvement Open source hardware et con\u00e7oit, fabrique et distribue des shield pour Arduino et Raspberry-pi.</p>\n<p>Suite \u00e0 un rappel sur l&#39;Open source hardware et Arduino, Fr\u00e9d\u00e9ric pr\u00e9sentera Akeru, une carte open source hardware qui permet l&#39;acc\u00e8s au r\u00e9seau IOT (Internet of Things) Sigfox pour le grand public, mais \u00e9galement Akeru.io, une plateforme d&#39;exploitation des donn\u00e9es. Celle-ci permet de conserver et d&#39;acc\u00e9der \u00e0 ses donn\u00e9es dans des formats bruts et ouverts, en mode push et pull ainsi qu&#39;\u00e0 des outils de repr\u00e9sentation et de traitement des donn\u00e9es bas\u00e9s sur <a href=\"http://actoboard.com\" rel=\"nofollow\">actoboard.com</a></p>"
                 }, 
                 {
                     "start_time": "2013-11-23 16:35:00", 
-                    "topics": [], 
+                    "topics": [
+                        {
+                            "name": "Krita", 
+                            "slug": "krita"
+                        }
+                    ], 
                     "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrfyc/", 
                     "times": "4:35pm\u00a0-\u00a05:00pm", 
                     "id": "scrfyc", 
@@ -853,7 +889,7 @@
                     "end_time": "2013-11-23 17:00:00", 
                     "other_url": null, 
                     "start_time_epoch": 1385220900, 
-                    "abstract": ""
+                    "abstract": "<p>Cette conf\u00e9rence commence par une pr\u00e9sentation du projet et de la fondation Krita, pour ensuite parler des nouveaut\u00e9s de la derni\u00e8re version, des nouvelles des GSOC de cet \u00e9t\u00e9, ainsi que des projets en cours de la version de d\u00e9veloppement.</p>\n<p>D\u00e9monstration en direct pour ce qui peut l&#39;\u00eatre, et exemples de fichiers pour le reste.</p>"
                 }, 
                 {
                     "start_time": "2013-11-23 17:00:00", 
@@ -887,7 +923,12 @@
                 }, 
                 {
                     "start_time": "2013-11-23 17:00:00", 
-                    "topics": [], 
+                    "topics": [
+                        {
+                            "name": "Blender", 
+                            "slug": "blender"
+                        }
+                    ], 
                     "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrdbh/", 
                     "times": "5:00pm\u00a0-\u00a06:00pm", 
                     "id": "scrdbh", 
@@ -903,7 +944,7 @@
                             "role": null, 
                             "twitter": null, 
                             "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
-                            "speaker_bio": ""
+                            "speaker_bio": "<p>Infographiste, d\u00e9veloppeur et auteur pour de nombreux magazines et livres, je m&#39;int\u00e9resse fortement aux logiciels libres et \u00e0 leur inclusion dans les cha\u00eenes de productions d\u00e9di\u00e9 au cin\u00e9ma, \u00e0 la t\u00e9l\u00e9vision et aux jeux vid\u00e9os.</p>"
                         }
                     ], 
                     "title": "Jeux vid\u00e9os et applications interactives avec Blender", 
@@ -913,11 +954,20 @@
                     "end_time": "2013-11-23 18:00:00", 
                     "other_url": null, 
                     "start_time_epoch": 1385222400, 
-                    "abstract": ""
+                    "abstract": "<p>Blender est un logiciel aux multiples facettes, permettant aussi bien de s&#39;int\u00e9grer dans des flux de productions d\u00e9di\u00e9s au cin\u00e9ma et \u00e0 la t\u00e9l\u00e9vision, mais aussi aux jeux vid\u00e9os et applications interactives.</p>\n<p>Nous verrons dans cette conf\u00e9rence le processus de cr\u00e9ation permettant de cr\u00e9er un jeu vid\u00e9o de A \u00e0 Z avec Blender, tirant notamment parti de son &quot;Game Engine&quot; et eventuellement d&#39;autres logiciels libres.</p>"
                 }, 
                 {
                     "start_time": "2013-11-23 17:00:00", 
-                    "topics": [], 
+                    "topics": [
+                        {
+                            "name": "Cloud", 
+                            "slug": "cloud"
+                        }, 
+                        {
+                            "name": "Kolab", 
+                            "slug": "kolab"
+                        }
+                    ], 
                     "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrczr/", 
                     "times": "5:00pm\u00a0-\u00a06:00pm", 
                     "id": "scrczr", 
@@ -954,11 +1004,16 @@
                     "end_time": "2013-11-23 18:00:00", 
                     "other_url": null, 
                     "start_time_epoch": 1385222400, 
-                    "abstract": ""
+                    "abstract": "<p>Dans un contexte de surveillance grandissante de population par des agences gouvernementales et leurs sous-traitants priv\u00e9s, la concentration des donn\u00e9es personnelles entre les mains d&#39;un petit nombre de silos priv\u00e9s devient un d\u00e9fi grandissant \u00e0 une utilisation de l&#39;Internet telle qu&#39;elle \u00e9tait imagin\u00e9e par ses cr\u00e9ateurs.</p>\n<p>Disposer d&#39;alternatives libres au cloud propri\u00e9taire pour les donn\u00e9es personnelles devient donc un enjeu critique pour les libert\u00e9s individuelles.<br>\nParmi ces alternatives, Kolab a particuli\u00e8rement retenu notre attention de part son histoire, son \u00e9cosyst\u00e8me renaissant et ses capacit\u00e9s techniques.</p>\n<p>Dans cette pr\u00e9sentation nous montrerons Kolab du point de vue de l&#39;utilisateur. Nous explorerons ses fonctionnalit\u00e9s couvrant les cas d&#39;usage les plus courants : email, agenda, t\u00e2ches, stockage de fichiers. <br>\nNous \u00e9valuerons aussi les diff\u00e9rentes m\u00e9thodes d&#39;acc\u00e8s : depuis un ordinateur de bureau, depuis un navigateur web et depuis un t\u00e9l\u00e9phone. <br>\nEnfin, nous poserons la question fatidique de l&#39;auto-h\u00e9bergement d&#39;un tel service pour le grand public et \u00e0 d\u00e9faut les choix \u00e0 faire pour obtenir au moins une protection l\u00e9gislative minimale de sa vie priv\u00e9e.</p>"
                 }, 
                 {
                     "start_time": "2013-11-23 17:00:00", 
-                    "topics": [], 
+                    "topics": [
+                        {
+                            "name": "OpenPandora", 
+                            "slug": "openpandora"
+                        }
+                    ], 
                     "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrdbd/", 
                     "times": "5:00pm\u00a0-\u00a06:00pm", 
                     "id": "scrdbd", 
@@ -974,7 +1029,7 @@
                             "role": null, 
                             "twitter": null, 
                             "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
-                            "speaker_bio": ""
+                            "speaker_bio": "<p>Fr\u00e9d\u00e9ric Tournier est technicien informatique de profession, sp\u00e9cialis\u00e9 Linux. Il soigne son addiction aux jeux vid\u00e9os en d\u00e9veloppant des environnements sur mesure, comme un laboratoire multim\u00e9dia libre ou un syst\u00e8me de boot r\u00e9seau d\u00e9ploy\u00e9s dans l&#39;enseignement sup\u00e9rieur.</p>\n<p>Il fait partie des premiers investisseurs Open Pandora, aide \u00e0 sa production et \u00e0 sa vente, maintient le port Slackware 4 Pandora et un projet surprenant: SOLEIL.</p>"
                         }
                     ], 
                     "title": "OpenPandora, le mini PC de poche", 
@@ -984,7 +1039,7 @@
                     "end_time": "2013-11-23 18:00:00", 
                     "other_url": null, 
                     "start_time_epoch": 1385222400, 
-                    "abstract": ""
+                    "abstract": "<p>Open Pandora est un mini-PC qui a \u00e9t\u00e9 con\u00e7u et financ\u00e9 par la communaut\u00e9 des utilisateurs de consoles portables hackables.</p>\n<p>Au-del\u00e0 de l&#39;aspect in\u00e9dit et unique de l&#39;appareil, c&#39;est une formidable le\u00e7on de pers\u00e9v\u00e9rance, et une preuve que la solidarit\u00e9 autour du Libre peut soulever des montagnes.</p>"
                 }, 
                 {
                     "start_time": "2013-11-23 17:00:00", 
@@ -1027,7 +1082,16 @@
                 }, 
                 {
                     "start_time": "2013-11-23 18:00:00", 
-                    "topics": [], 
+                    "topics": [
+                        {
+                            "name": "Doudou Linux", 
+                            "slug": "doudou-linux"
+                        }, 
+                        {
+                            "name": "GNU/Linux", 
+                            "slug": "gnulinux"
+                        }
+                    ], 
                     "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrfyd/", 
                     "times": "6:00pm\u00a0-\u00a06:20pm", 
                     "id": "scrfyd", 
@@ -1111,7 +1175,12 @@
                 }, 
                 {
                     "start_time": "2013-11-23 18:00:00", 
-                    "topics": [], 
+                    "topics": [
+                        {
+                            "name": "JSON", 
+                            "slug": "json"
+                        }
+                    ], 
                     "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrfxz/", 
                     "times": "6:00pm\u00a0-\u00a06:20pm", 
                     "id": "scrfxz", 
@@ -1141,7 +1210,12 @@
                 }, 
                 {
                     "start_time": "2013-11-23 18:00:00", 
-                    "topics": [], 
+                    "topics": [
+                        {
+                            "name": "Yunohost", 
+                            "slug": "yunohost"
+                        }
+                    ], 
                     "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrczy/", 
                     "times": "6:00pm\u00a0-\u00a06:20pm", 
                     "id": "scrczy", 
@@ -1167,11 +1241,16 @@
                     "end_time": "2013-11-23 18:20:00", 
                     "other_url": null, 
                     "start_time_epoch": 1385226000, 
-                    "abstract": ""
+                    "abstract": "<p>La solution Yunohost a pour but d&#39;installer un serveur web, mail sans aucune connaissance approfondie en administration linux.</p>\n<p>La pr\u00e9sentation ce d\u00e9roulera en 3 parties :</p>\n<ul class=\"bullets\">\n  <li>Pourquoi il faut s&#39;auto-h\u00e9berger?</li>\n  <li>Pr\u00e9sentation de Yunohost</li>\n  <li>D\u00e9mo</li>\n</ul>"
                 }, 
                 {
                     "start_time": "2013-11-23 18:20:00", 
-                    "topics": [], 
+                    "topics": [
+                        {
+                            "name": "OpenStreetMap", 
+                            "slug": "openstreetmap"
+                        }
+                    ], 
                     "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrcmr/", 
                     "times": "6:20pm\u00a0-\u00a06:40pm", 
                     "id": "scrcmr", 
@@ -1201,7 +1280,12 @@
                 }, 
                 {
                     "start_time": "2013-11-23 18:20:00", 
-                    "topics": [], 
+                    "topics": [
+                        {
+                            "name": "dotclear", 
+                            "slug": "dotclear"
+                        }
+                    ], 
                     "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrczx/", 
                     "times": "6:20pm\u00a0-\u00a06:40pm", 
                     "id": "scrczx", 
@@ -1231,7 +1315,12 @@
                 }, 
                 {
                     "start_time": "2013-11-23 18:20:00", 
-                    "topics": [], 
+                    "topics": [
+                        {
+                            "name": "Abul\u00c9du", 
+                            "slug": "abuledu"
+                        }
+                    ], 
                     "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrdbq/", 
                     "times": "6:20pm\u00a0-\u00a06:40pm", 
                     "id": "scrdbq", 
@@ -1332,7 +1421,7 @@
                             "role": null, 
                             "twitter": null, 
                             "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
-                            "speaker_bio": ""
+                            "speaker_bio": "<p>Sylvain Th\u00e9nault est directeur de l&#39;agence toulousaine de Logilab.</p>\n<p>D\u00e9veloppeur Python depuis 2001, il est l&#39;auteur et mainteneur principal de Pylint et l&#39;un des principaux architectes de la plate-forme CubicWeb.</p>\n<p>Il sera accompagn\u00e9 pour cette session de d\u00e9veloppeurs de Logilab.</p>"
                         }
                     ], 
                     "title": "Allez plus loin dans l'assurance qualit\u00e9 de votre code Python avec Pylint", 
@@ -1342,7 +1431,7 @@
                     "end_time": "2013-11-24 11:00:00", 
                     "other_url": null, 
                     "start_time_epoch": 1385281800, 
-                    "abstract": ""
+                    "abstract": "<p>Cet atelier commencera par une pr\u00e9sentation des diff\u00e9rentes API de <a href=\"http://www.pylint.org\" rel=\"nofollow\">Pylint</a> permettant de le personnaliser avant de poursuivre sur les \u00e9tudes de cas amen\u00e9s par les participants :</p>\n<ul class=\"bullets\">\n  <li>enregistrement des greffons (*plugins*) ,</li>\n  <li>les diff\u00e9rents types de *checkers* ,</li>\n  <li>description statique et dynamique de code non-compris par d\u00e9faut avec l&#39;API d&#39;<a href=\"http://www.astroid.org\" rel=\"nofollow\">Astroid</a> et le projet <a href=\"https://bitbucket.org/logilab/pylint-brain\" rel=\"nofollow\">pylint-brain</a> ;</li>\n</ul>"
                 }, 
                 {
                     "start_time": "2013-11-24 09:30:00", 
@@ -1376,7 +1465,16 @@
                 }, 
                 {
                     "start_time": "2013-11-24 09:30:00", 
-                    "topics": [], 
+                    "topics": [
+                        {
+                            "name": "OpenData", 
+                            "slug": "opendata-2"
+                        }, 
+                        {
+                            "name": "Wikidata", 
+                            "slug": "wikidata"
+                        }
+                    ], 
                     "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrfzk/", 
                     "times": "9:30am\u00a0-\u00a012:30pm", 
                     "id": "scrfzk", 
@@ -1402,7 +1500,7 @@
                     "end_time": "2013-11-24 12:30:00", 
                     "other_url": null, 
                     "start_time_epoch": 1385281800, 
-                    "abstract": ""
+                    "abstract": "<p>Projet fr\u00e8re de l&#39;encyclop\u00e9die Wikip\u00e9dia, Wikidata a pour but de centraliser des donn\u00e9es r\u00e9utilisables dans toutes les langues des projets Wikim\u00e9dia.</p>\n<p>Lanc\u00e9 en octobre 2012, Wikidata assure les liaisons entre les diff\u00e9rentes versions linguistiques des articles de Wikip\u00e9dia, et h\u00e9bergera bient\u00f4t de nombreuses donn\u00e9es sur les esp\u00e8ces animales, les villes du monde entier, les personnages historiques, et bien d&#39;autres domaines.</p>\n<p>D\u00e9couvrez dans cet atelier une nouvelle mani\u00e8re de partager vos connaissances ! Le th\u00e8me initial sera l&#39;histoire de Toulouse, pour vous familiariser avec le projet.</p>\n<p>Si vous avez d\u00e9j\u00e0 particip\u00e9 aux projets Wikim\u00e9dia, vous ne serez pas trop d\u00e9pays\u00e9s.</p>"
                 }, 
                 {
                     "start_time": "2013-11-24 09:45:00", 
@@ -1410,6 +1508,10 @@
                         {
                             "name": "Akademy-fr", 
                             "slug": "akademy-fr"
+                        }, 
+                        {
+                            "name": "Qt", 
+                            "slug": "qt"
                         }
                     ], 
                     "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrkxx/", 
@@ -1441,7 +1543,16 @@
                 }, 
                 {
                     "start_time": "2013-11-24 09:45:00", 
-                    "topics": [], 
+                    "topics": [
+                        {
+                            "name": "JOSM", 
+                            "slug": "josm"
+                        }, 
+                        {
+                            "name": "OpenStreetMap", 
+                            "slug": "openstreetmap"
+                        }
+                    ], 
                     "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrfzq/", 
                     "times": "9:45am\u00a0-\u00a012:45pm", 
                     "id": "scrfzq", 
@@ -1467,11 +1578,16 @@
                     "end_time": "2013-11-24 12:45:00", 
                     "other_url": null, 
                     "start_time_epoch": 1385282700, 
-                    "abstract": ""
+                    "abstract": "<p>Contribuer \u00e0 OpenStreetMap est facile, un navigateur et un acc\u00e8s \u00e0 Internet suffisent. Nous verrons qu&#39;il n&#39;en faut pas plus pour d\u00e9marrer. Ensuite, lorsque le contributeur se prend au jeu et qu&#39;il se lance dans des r\u00e9alisations plus ambitieuses, des outils plus \u00e9labor\u00e9s sont n\u00e9cessaires.</p>\n<p>JOSM est de ceux-ci. Mais la puissance et la richesse se paient en complexit\u00e9 et si cet \u00e9diteur s&#39;av\u00e8re ergonomique et efficace \u00e0 l&#39;usage, sa prise en main exige un peu d&#39;apprentissage. Pour ce faire, rien ne vaut un peu de pratique guid\u00e9e et c&#39;est tout l&#39;objet de cet atelier au cours duquel nous d\u00e9couvrirons les diverses sources d&#39;informations exploitables et plusieurs autres outils qui gagnent \u00e0 \u00eatre connus.</p>\n<p>OpenStreetMap (OSM) est un projet de donn\u00e9es cartographiques libres.</p>\n<p>JOSM est un \u00e9diteur de donn\u00e9es g\u00e9ographiques pour OpenStreetMap.</p>\n<p>Le public vis\u00e9 par cet atelier sont les curieux, d\u00e9butants, contributeurs ne connaissant pas JOSM ou ayant envie de faire partager leur exp\u00e9rience \u00e0 son sujet.</p>"
                 }, 
                 {
                     "start_time": "2013-11-24 09:45:00", 
-                    "topics": [], 
+                    "topics": [
+                        {
+                            "name": "Blender", 
+                            "slug": "blender"
+                        }
+                    ], 
                     "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrdcc/", 
                     "times": "9:45am\u00a0-\u00a012:45pm", 
                     "id": "scrdcc", 
@@ -1487,7 +1603,7 @@
                             "role": null, 
                             "twitter": null, 
                             "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
-                            "speaker_bio": ""
+                            "speaker_bio": "<p>Infographiste, d\u00e9veloppeur et auteur pour de nombreux magazines et livres, je m&#39;int\u00e9resse fortement aux logiciels libres et \u00e0 leur inclusion dans les cha\u00eenes de productions d\u00e9di\u00e9 au cin\u00e9ma, \u00e0 la t\u00e9l\u00e9vision et aux jeux vid\u00e9os.</p>"
                         }
                     ], 
                     "title": "Jeux vid\u00e9os et applications avec Blender", 
@@ -1497,11 +1613,20 @@
                     "end_time": "2013-11-24 12:45:00", 
                     "other_url": null, 
                     "start_time_epoch": 1385282700, 
-                    "abstract": ""
+                    "abstract": "<p>Blender est un logiciel aux multiples facettes, permettant aussi bien de s&#39;int\u00e9grer dans des flux de productions d\u00e9di\u00e9s au cin\u00e9ma et \u00e0 la t\u00e9l\u00e9vision, mais aussi aux jeux vid\u00e9os et applications interactives. Nous verrons dans cette conf\u00e9rence le processus de cr\u00e9ation permettant de cr\u00e9er un jeu vid\u00e9o de A \u00e0 Z avec Blender, tirant notamment parti de son &quot;Game Engine&quot; et \u00e9ventuellement d&#39;autres logiciels libres.</p>"
                 }, 
                 {
                     "start_time": "2013-11-24 11:10:00", 
-                    "topics": [], 
+                    "topics": [
+                        {
+                            "name": "CAcert", 
+                            "slug": "cacert"
+                        }, 
+                        {
+                            "name": "PGP/GPG", 
+                            "slug": "pgpgpg"
+                        }
+                    ], 
                     "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrdbx/", 
                     "times": "11:10am\u00a0-\u00a012:40pm", 
                     "id": "scrdbx", 
@@ -1527,11 +1652,16 @@
                     "end_time": "2013-11-24 12:40:00", 
                     "other_url": null, 
                     "start_time_epoch": 1385287800, 
-                    "abstract": ""
+                    "abstract": "<p>Atelier de CAcert pour assurer les personnes le d\u00e9sirant.</p>\n<p>Cr\u00e9ation d&#39;un web of Trust sur Toulouse au travers d&#39;une GPG key signing party.</p>"
                 }, 
                 {
                     "start_time": "2013-11-24 13:50:00", 
-                    "topics": [], 
+                    "topics": [
+                        {
+                            "name": "Abul\u00c9du", 
+                            "slug": "abuledu"
+                        }
+                    ], 
                     "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrfzr/", 
                     "times": "1:50pm\u00a0-\u00a03:20pm", 
                     "id": "scrfzr", 
@@ -1561,7 +1691,24 @@
                 }, 
                 {
                     "start_time": "2013-11-24 13:50:00", 
-                    "topics": [], 
+                    "topics": [
+                        {
+                            "name": "Maperitive", 
+                            "slug": "maperitive"
+                        }, 
+                        {
+                            "name": "OpenStreetMap", 
+                            "slug": "openstreetmap"
+                        }, 
+                        {
+                            "name": "Tilemill", 
+                            "slug": "tilemill"
+                        }, 
+                        {
+                            "name": "uMap", 
+                            "slug": "umap"
+                        }
+                    ], 
                     "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrdby/", 
                     "times": "1:50pm\u00a0-\u00a03:20pm", 
                     "id": "scrdby", 
@@ -1676,9 +1823,9 @@
                             "bio": "", 
                             "web_url": null, 
                             "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
-                            "name": "LinuxEdu", 
+                            "name": "Franck Chamaillou", 
                             "elsewhere": [], 
-                            "role": null, 
+                            "role": "Enseignant en coll\u00e8ge membre de Linuxedu", 
                             "twitter": null, 
                             "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
                             "speaker_bio": ""
@@ -1687,9 +1834,9 @@
                             "bio": "", 
                             "web_url": null, 
                             "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
-                            "name": "Plan\u00e8te Science", 
+                            "name": "Philippe Martorel", 
                             "elsewhere": [], 
-                            "role": null, 
+                            "role": "\u00c9lectronicien, animateur b\u00e9n\u00e9vole \u00e0 Plan\u00e8tes sciences", 
                             "twitter": null, 
                             "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
                             "speaker_bio": ""
@@ -1702,11 +1849,16 @@
                     "end_time": "2013-11-24 17:00:00", 
                     "other_url": null, 
                     "start_time_epoch": 1385298000, 
-                    "abstract": ""
+                    "abstract": "<p>Comment animer une activit\u00e9 robotique bas\u00e9e sur la carte arduino en programmant avec des logiciels graphiques. Cet atelier est destin\u00e9e \u00e0 des animateurs scientifiques, des professeurs des \u00e9coles, des enseignants de coll\u00e8ge ou de lyc\u00e9e, des curieux novices en programmation..</p>\n<p>Partie 1 : <br>\nPr\u00e9sentation des diff\u00e9rentes fonctions techniques de la carte sous forme de TP <br>\nObjectif : avoir une repr\u00e9sentation pr\u00e9cise du fonctionnement de la carte Arduino</p>\n<p>Partie 2 : <br>\nPr\u00e9sentation de robots fabricables en classe ou en atelier<br>\nProgrammer des robots avec une interface graphique</p>\n<p>Pr\u00e9requis : aucun</p>"
                 }, 
                 {
                     "start_time": "2013-11-24 14:00:00", 
-                    "topics": [], 
+                    "topics": [
+                        {
+                            "name": "PostgreSQL", 
+                            "slug": "postgresql"
+                        }
+                    ], 
                     "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrdbw/", 
                     "times": "2:00pm\u00a0-\u00a05:00pm", 
                     "id": "scrdbw", 
@@ -1714,15 +1866,15 @@
                     "end_time_epoch": 1385308800, 
                     "speakers": [
                         {
-                            "bio": "", 
-                            "web_url": null, 
-                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
+                            "bio": "<p>PostgreSQL &amp; Debian<br>\nChess &amp; Go</p>", 
+                            "web_url": "http://lanyrd.com/profile/c2main/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/33ac64bb3c4583aa94c685d52de30d6329aeab6d-s300.png", 
                             "name": "C\u00e9dric Villemain", 
                             "elsewhere": [], 
-                            "role": null, 
-                            "twitter": null, 
-                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
-                            "speaker_bio": ""
+                            "role": "PostgreSQL & Debian\r\nChess & Go", 
+                            "twitter": "@c2main", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/33ac64bb3c4583aa94c685d52de30d6329aeab6d-s75.png", 
+                            "speaker_bio": "<p>C\u00e9dric fait parti de la communaut\u00e9 PostgreSQL, et est consultant PostgreSQL en France. Il contribue dans les domaines de la supervision et de l&#39;admisnitration, \u00e0 des outils comme &quot;Replication Manager&quot; ou &quot;Skytools&quot;.</p>\n<p>C\u00e9dric est co-fondateur de 2ndQuadrant France.</p>"
                         }
                     ], 
                     "title": "Utilisation avanc\u00e9e de PostgreSQL", 
@@ -1732,11 +1884,20 @@
                     "end_time": "2013-11-24 17:00:00", 
                     "other_url": null, 
                     "start_time_epoch": 1385298000, 
-                    "abstract": ""
+                    "abstract": "<ul class=\"bullets\">\n  <li>Mise en place et utilisation de PostgreSQL</li>\n  <li>Installation et utilisation d&#39;extensions PostgreSQL</li>\n  <li>Types de donn\u00e9es - hstore - JSON - PLv8 (NoSQL ?!) </li>\n  <li>Serveurs de donn\u00e9es externes (impl\u00e9mentation SQL/MED)</li>\n</ul>"
                 }, 
                 {
                     "start_time": "2013-11-24 15:30:00", 
-                    "topics": [], 
+                    "topics": [
+                        {
+                            "name": "Creative Commons", 
+                            "slug": "creative-commons"
+                        }, 
+                        {
+                            "name": "public domain", 
+                            "slug": "public-domain"
+                        }
+                    ], 
                     "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrfzt/", 
                     "times": "3:30pm\u00a0-\u00a05:00pm", 
                     "id": "scrfzt", 
@@ -1762,11 +1923,24 @@
                     "end_time": "2013-11-24 17:00:00", 
                     "other_url": null, 
                     "start_time_epoch": 1385303400, 
-                    "abstract": ""
+                    "abstract": "<p>Tous les 88 ans, 8 No\u00e9Nautes (des humains aux pouvoirs de t\u00e9l\u00e9pathes) s&#39;\u00e9veillent au monde et changent les mentalit\u00e9s. Voici l&#39;univers du cycle de romans feuilleton publi\u00e9s sur <a href=\"http://www.noenaute.fr\" rel=\"nofollow\">www.noenaute.fr</a> .</p>\n<p>Je vous propose d&#39;\u00e9crire ensemble, de mani\u00e8re libre et collaborative, un \u00e9pisode &quot;hors-s\u00e9rie&quot; et de le placer (comme les romans d&#39;origine) dans le domaine public volontaire, gr\u00e2ce \u00e0 la licence CC0.</p>"
                 }, 
                 {
                     "start_time": "2013-11-24 15:30:00", 
-                    "topics": [], 
+                    "topics": [
+                        {
+                            "name": "Leaflet Maps API", 
+                            "slug": "leaflet-maps-api"
+                        }, 
+                        {
+                            "name": "OpenData", 
+                            "slug": "opendata-2"
+                        }, 
+                        {
+                            "name": "OpenStreetMap", 
+                            "slug": "openstreetmap"
+                        }
+                    ], 
                     "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrdbz/", 
                     "times": "3:30pm\u00a0-\u00a05:00pm", 
                     "id": "scrdbz", 
@@ -1792,7 +1966,7 @@
                     "end_time": "2013-11-24 17:00:00", 
                     "other_url": null, 
                     "start_time_epoch": 1385303400, 
-                    "abstract": ""
+                    "abstract": "<p>Venez d\u00e9couvrir l&#39;utilisation de cette biblioth\u00e8que Javascript.</p>\n<p>Nous construirons ensemble une application, en assemblant plusieurs composants de l&#39;\u00e9co-syst\u00e8me Leaflet, et en utilisant des donn\u00e9es OpenData du Grand Toulouse.</p>"
                 }
             ]
         }
