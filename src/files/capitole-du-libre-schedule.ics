@@ -73,7 +73,7 @@ UID:67c95d79195fee97b42fd9f162c3098c4da31fe6
 DTSTART:20131123T123000Z
 DTEND:20131123T133000Z
 GEO:43.6022973938;1.45454333439
-DESCRIPTION:
+DESCRIPTION:Les grandes lignes de cette conférences sont les suivants : \n\n* ils en savent plus sur nous que nous même !\n* qui surveille les surveillants ?\n* l'enjeu n'est pas la liberté de penser mais d'opinion\n* comment le BigData\, le BigBrother et les science cognitives ont le potentiel d'arme de destruction massive des opinions\n* les pistes pour se préserver
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Les jails FreeBSD du chroot au container
@@ -216,14 +216,14 @@ GEO:43.6022973938;1.45454333439
 DESCRIPTION:Nous prenons de plus en plus de photos avec des appareil photos de plus en plus sophistiqués \; mais comment gérer toutes ces photos ? Classer\, trier\, retoucher\, rechercher... Toutes ces opérations demandent des outils puissants et efficaces. Si l'on souhaite garder le contrôle de ses photos et ne pas les donner aux grands marchands d'internet\, les logiciels libres comme digikam \nsont la bonne réponse.\n\nQue l'on soit simple amateur ou véritable professionnel\, Digikam permet de vous accompagner à toutes les étapes : du développement et la retouche au classement de vos photos. Fort de plus de 10 ans d'expérience et de la contribution de nombreux photographes\, Digikam est désormais un outil mature et professionnel.\n\nCette conférence propose de faire un tour d'horizon des fonctionnalités de Digikam les plus ignificative et d'esquisser les évolutions à venir.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Open Hardware\, Arduino\, Internet des objets
+SUMMARY:Akeru\, Arduino a sa plate-forme interactive open-source pour l'internet des objets
 LOCATION:A201\, ENSEEIHT
 URL:http://lanyrd.com/2013/capitole-du-libre/scrfyh/
 UID:bdbb6756b28709763fefa5649fed043d6c135744
 DTSTART:20131123T153000Z
 DTEND:20131123T160000Z
 GEO:43.6022973938;1.45454333439
-DESCRIPTION:
+DESCRIPTION:Frédéric Jourdan participe avec [Snootlab http://snootlab.com/] depuis 2010 au développement du mouvement Open source hardware et conçoit\, fabrique et distribue des shield pour Arduino et Raspberry-pi.\n\nSuite à un rappel sur l'Open source hardware et Arduino\, Frédéric présentera Akeru\, une carte open source hardware qui permet l'accès au réseau IOT (Internet of Things) Sigfox pour le grand public\, mais également Akeru.io\, une plateforme d'exploitation des données. Celle-ci permet de conserver et d'accéder à ses données dans des formats bruts et ouverts\, en mode push et pull ainsi qu'à des outils de représentation et de traitement des données basés sur actoboard.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Évolutions récentes de Krita

@@ -277,7 +277,7 @@
                     "end_time": "2013-11-23 14:30:00", 
                     "other_url": null, 
                     "start_time_epoch": 1385209800, 
-                    "abstract": ""
+                    "abstract": "<p>Les grandes lignes de cette conf\u00e9rences sont les suivants :</p>\n<ul class=\"bullets\">\n  <li>ils en savent plus sur nous que nous m\u00eame !</li>\n  <li>qui surveille les surveillants ?</li>\n  <li>l&#39;enjeu n&#39;est pas la libert\u00e9 de penser mais d&#39;opinion</li>\n  <li>comment le BigData, le BigBrother et les science cognitives ont le potentiel d&#39;arme de destruction massive des opinions</li>\n  <li>les pistes pour se pr\u00e9server</li>\n</ul>"
                 }, 
                 {
                     "start_time": "2013-11-23 13:30:00", 
@@ -847,14 +847,14 @@
                             "speaker_bio": ""
                         }
                     ], 
-                    "title": "Open Hardware, Arduino, Internet des objets", 
+                    "title": "Akeru, Arduino a sa plate-forme interactive open-source pour l'internet des objets", 
                     "event_id": "cprtz", 
                     "space": "A201", 
                     "day": "Saturday 23rd November", 
                     "end_time": "2013-11-23 17:00:00", 
                     "other_url": null, 
                     "start_time_epoch": 1385220600, 
-                    "abstract": ""
+                    "abstract": "<p>Fr\u00e9d\u00e9ric Jourdan participe avec <a href=\"http://snootlab.com/\" rel=\"nofollow\">Snootlab</a> depuis 2010 au d\u00e9veloppement du mouvement Open source hardware et con\u00e7oit, fabrique et distribue des shield pour Arduino et Raspberry-pi.</p>\n<p>Suite \u00e0 un rappel sur l&#39;Open source hardware et Arduino, Fr\u00e9d\u00e9ric pr\u00e9sentera Akeru, une carte open source hardware qui permet l&#39;acc\u00e8s au r\u00e9seau IOT (Internet of Things) Sigfox pour le grand public, mais \u00e9galement Akeru.io, une plateforme d&#39;exploitation des donn\u00e9es. Celle-ci permet de conserver et d&#39;acc\u00e9der \u00e0 ses donn\u00e9es dans des formats bruts et ouverts, en mode push et pull ainsi qu&#39;\u00e0 des outils de repr\u00e9sentation et de traitement des donn\u00e9es bas\u00e9s sur <a href=\"http://actoboard.com\" rel=\"nofollow\">actoboard.com</a></p>"
                 }, 
                 {
                     "start_time": "2013-11-23 16:35:00", 
