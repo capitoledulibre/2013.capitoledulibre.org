@@ -16,16 +16,6 @@ GEO:43.6022973938;1.45454333439
 DESCRIPTION:Initialement Calaos était un système domotique développé par la société du même nom\, et partiellement open source. Lorsque la société a fermé ses portes début 2013\, l'intégralité du code source a été\nouverte et mise sous licence GPLv3 et une petite communauté s'est formée pour continuer le développement.\n\nNous allons lors de cette conférence présenter le système domotique\, les différents logiciels qui le composent\, le matériel qu'il supporte\, un exemple d'installation dans une maison. Nous aborderons également les technologies utilisées et présenterons les évolutions futures.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Conférence OpenData
-LOCATION:A001\, ENSEEIHT
-URL:http://lanyrd.com/2013/capitole-du-libre/scrddf/
-UID:f0bb5c262ddb52d730e9fb915f45848224e14edb
-DTSTART:20131123T100000Z
-DTEND:20131123T110000Z
-GEO:43.6022973938;1.45454333439
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Découverte des nouvelles fonctionnalités de Joomla 3.2
 LOCATION:C002\, ENSEEIHT
 URL:http://lanyrd.com/2013/capitole-du-libre/scrczt/
@@ -44,6 +34,16 @@ DTSTART:20131123T100000Z
 DTEND:20131123T110000Z
 GEO:43.6022973938;1.45454333439
 DESCRIPTION:LibreOffice est une suite bureautique libre et gratuite composée d'un traitement de textes\, d'un tableur\, d'un outil de présentation\, d'un outil de dessin vectoriel\, d'une base de données\, ainsi que d'un éditeur de formules mathématiques\, il permet de disposer d'une suite bureautique complète et multi-plateforme. \n\n\nDans cette conférence je présenterai dans un premier temps les différents modules du projet ainsi que leurs capacités. J'aborderai ensuite l'histoire du projet ainsi que les développements en cours.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Présentation du portail Toulouse Métropole Data et des évolutions à venir
+LOCATION:A001\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrddf/
+UID:f0bb5c262ddb52d730e9fb915f45848224e14edb
+DTSTART:20131123T100000Z
+DTEND:20131123T110000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bugs et opensource\, qu’en faire?
@@ -66,7 +66,7 @@ GEO:43.6022973938;1.45454333439
 DESCRIPTION:De retour de vacances\, vous avez amassé un nombre considérable de vidéos démontrant la créativité de vos enfants dans le bac à sable\, ou vos prouesses en jet ski. Malheureusement\, l'ensemble est pour le moins indigeste.\n\nLors de cette présentation nous découvrirons Kdenlive\, une application de montage vidéo qui vous aidera à transformer vos nombreuses séquences en un film agréable à regarder.\n\nNous aborderons entre autres : le découpage de séquences\, l'insertion de titres\, la mise en place de transitions\, la synchronisation de l'image avec une musique ou encore l'export de votre création dans un format adapté aux sites de partage de vidéos.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cyberespionnage
+SUMMARY:Cyberespionnage : tous concernés\, tous suspects.
 LOCATION:A001\, ENSEEIHT
 URL:http://lanyrd.com/2013/capitole-du-libre/scrfxw/
 UID:67c95d79195fee97b42fd9f162c3098c4da31fe6
@@ -103,7 +103,7 @@ UID:d96011b68d201633c0a5317da23ca5aedd7de5da
 DTSTART:20131123T130000Z
 DTEND:20131123T133000Z
 GEO:43.6022973938;1.45454333439
-DESCRIPTION:Panorama des outils pour la cartographie moderne et libre sur le Web !\n... ou comment vous débarrassez de cette bonne vieille carte jaunâtre en toute simplicité !
+DESCRIPTION:Panorama des outils pour la cartographie moderne et libre sur le Web !\n... ou comment vous débarrasser de cette bonne vieille carte jaunâtre en toute simplicité !
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FFDN / Tetaneutral.net\, Internet autrement
@@ -183,7 +183,7 @@ UID:91aba78895022c67376c5e95c899c5647269d4c4
 DTSTART:20131123T150000Z
 DTEND:20131123T160000Z
 GEO:43.6022973938;1.45454333439
-DESCRIPTION:
+DESCRIPTION:Je ne suis pas libriste. Ce sont mes histoires qui\, par nature\, sont libres. \nMon parcours artistique m'a mené à cette conclusion : la place naturelle de mes oeuvres est dans les biens communs\, dans le domaine public. \nUne conclusion traduite en un acte simple : placer tous mes écrits sous la licence CC0... Et si dans tout artiste sommeillait un libriste qui s'ignore ? \nRetour sur l'expérience d'écriture libre de [noenaute.fr http://noenaute.fr/]
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Processus complet de développement du projet Overblog
@@ -193,7 +193,7 @@ UID:7727c25934d44a30d34dd69c114dfdb911ee6de2
 DTSTART:20131123T150000Z
 DTEND:20131123T160000Z
 GEO:43.6022973938;1.45454333439
-DESCRIPTION:
+DESCRIPTION:Cette conférence présente le processus complet de développement du projet Overblog qui est basé sur les méthodologies suivantes:\n\n- Scrum\,\n- Git Flow\,\n- Github\,\n- Jenkins\,\n- PhpUnit/Symfony pour les tests unitaires\,\n- Watir/Cucumber pour les tests fonctionnels.\n\nLa présentation détaillera la façon dont nous avons adapté Git Flow à Scrum\, nos processus de déploiement\, de tests ainsi que notre flux de mise en production.\n\nCela permet à un chef de projet\, un directeur technique\, un chef produit\, ou un développeur de voir quel est le cheminement d'une fonctionnalité chez Overblog\, et quel est l'organisation du processus de développement.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pylint 1.0\, états des lieux après 10 ans de développement
@@ -203,7 +203,7 @@ UID:7479eee75d299fddb8fa49ae56c165c45596c115
 DTSTART:20131123T150000Z
 DTEND:20131123T153000Z
 GEO:43.6022973938;1.45454333439
-DESCRIPTION:
+DESCRIPTION:Cette mini-conférence fera un rapide états des lieux de Pylint dont la version 1.0 est sortie cette été après 10 ans de développement. Il y aura deux parties dans cette présentation :\n\n* un retour d'expérience sur les 10 ans de développement de l'outil dans la communauté Python\n* un parcours rapide des fonctionnalités actuelles\n\nUn atelier est prévu pour couvrir les API permettant d'étendre l'outil.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Digikam\, utilisez la puissance des logiciels libres pour gérer vos photos comme un professionnel
@@ -233,7 +233,7 @@ UID:066ea7c99a2577b6dc6f08c883d03d16d8634f08
 DTSTART:20131123T153500Z
 DTEND:20131123T160000Z
 GEO:43.6022973938;1.45454333439
-DESCRIPTION:
+DESCRIPTION:Cette conférence commence par une présentation du projet et de la fondation Krita\, pour ensuite parler des nouveautés de la dernière version\, des nouvelles des GSOC de cet été\, ainsi que des projets en cours de la version de développement. \n\nDémonstration en direct pour ce qui peut l'être\, et exemples de fichiers pour le reste.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aspect juridique
@@ -253,7 +253,7 @@ UID:78593023b6c3f53795b536ada73bef59564625b3
 DTSTART:20131123T160000Z
 DTEND:20131123T170000Z
 GEO:43.6022973938;1.45454333439
-DESCRIPTION:
+DESCRIPTION:Blender est un logiciel aux multiples facettes\, permettant aussi bien de s'intégrer dans des flux de productions dédiés au cinéma et à la télévision\, mais aussi aux jeux vidéos et applications interactives. \n\nNous verrons dans cette conférence le processus de création permettant de créer un jeu vidéo de A à Z avec Blender\, tirant notamment parti de son "Game Engine" et eventuellement d'autres logiciels libres.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kolab\, un groupware pour se libérer du cloud propriétaire
@@ -263,7 +263,7 @@ UID:81d063dabeeb79ff4187f95440c73a3869d957eb
 DTSTART:20131123T160000Z
 DTEND:20131123T170000Z
 GEO:43.6022973938;1.45454333439
-DESCRIPTION:
+DESCRIPTION:Dans un contexte de surveillance grandissante de population par des agences gouvernementales et leurs sous-traitants privés\, la concentration des données personnelles entre les mains d'un petit nombre de silos privés devient un défi grandissant à une utilisation de l'Internet telle qu'elle était imaginée par ses créateurs.\n\nDisposer d'alternatives libres au cloud propriétaire pour les données personnelles devient donc un enjeu critique pour les libertés individuelles.\nParmi ces alternatives\, Kolab a particulièrement retenu notre attention de part son histoire\, son écosystème renaissant et ses capacités techniques.\n\nDans cette présentation nous montrerons Kolab du point de vue de l'utilisateur. Nous explorerons ses fonctionnalités couvrant les cas d'usage les plus courants : email\, agenda\, tâches\, stockage de fichiers. \nNous évaluerons aussi les différentes méthodes d'accès : depuis un ordinateur de bureau\, depuis un navigateur web et depuis un téléphone. \nEnfin\, nous poserons la question fatidique de l'auto-hébergement d'un tel service pour le grand public et à défaut les choix à faire pour obtenir au moins une protection législative minimale de sa vie privée.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OpenPandora\, le mini PC de poche
@@ -273,7 +273,7 @@ UID:9eda4995260c0eeedf9c4ec42d4604d115dece08
 DTSTART:20131123T160000Z
 DTEND:20131123T170000Z
 GEO:43.6022973938;1.45454333439
-DESCRIPTION:
+DESCRIPTION:Open Pandora est un mini-PC qui a été conçu et financé par la communauté des utilisateurs de consoles portables hackables. \n\nAu-delà de l'aspect inédit et unique de l'appareil\, c'est une formidable leçon de persévérance\, et une preuve que la solidarité autour du Libre peut soulever des montagnes.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Qualité logicielle autour de Skrooge
@@ -323,7 +323,7 @@ UID:79c571360a675c9027d3732fb7a3db6d081c969a
 DTSTART:20131123T170000Z
 DTEND:20131123T172000Z
 GEO:43.6022973938;1.45454333439
-DESCRIPTION:
+DESCRIPTION:La solution Yunohost a pour but d'installer un serveur web\, mail sans aucune connaissance approfondie en administration linux. \n\nLa présentation ce déroulera en 3 parties :\n\n* Pourquoi il faut s'auto-héberger?\n* Présentation de Yunohost\n* Démo
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Découvrir la carte mondiale libre OpenStreetMap
@@ -373,7 +373,7 @@ UID:dc02cd5c7c66c309c8b96ad4c3e4a207ffa0eaec
 DTSTART:20131124T083000Z
 DTEND:20131124T100000Z
 GEO:43.6022973938;1.45454333439
-DESCRIPTION:
+DESCRIPTION:Cet atelier commencera par une présentation des différentes API de [Pylint http://www.pylint.org] permettant de le personnaliser avant de poursuivre sur les études de cas amenés par les participants :\n\n* enregistrement des greffons (*plugins*) \,\n* les différents types de *checkers* \,\n* description statique et dynamique de code non-compris par défaut avec l'API d'[Astroid http://www.astroid.org] et le projet [pylint-brain https://bitbucket.org/logilab/pylint-brain] \;
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Puppet
@@ -393,7 +393,7 @@ UID:7187a1c3490380cf1ed00b8a3ae16db4c826c7b3
 DTSTART:20131124T083000Z
 DTEND:20131124T113000Z
 GEO:43.6022973938;1.45454333439
-DESCRIPTION:
+DESCRIPTION:Projet frère de l'encyclopédie Wikipédia\, Wikidata a pour but de centraliser des données réutilisables dans toutes les langues des projets Wikimédia.\n\nLancé en octobre 2012\, Wikidata assure les liaisons entre les différentes versions linguistiques des articles de Wikipédia\, et hébergera bientôt de nombreuses données sur les espèces animales\, les villes du monde entier\, les personnages historiques\, et bien d'autres domaines.\n\nDécouvrez dans cet atelier une nouvelle manière de partager vos connaissances ! Le thème initial sera l'histoire de Toulouse\, pour vous familiariser avec le projet.\n\nSi vous avez déjà participé aux projets Wikimédia\, vous ne serez pas trop dépaysés.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atelier Qt Quick 2
@@ -413,7 +413,7 @@ UID:d6a4180b6fcfa6ebe662f44d6176178357e50e22
 DTSTART:20131124T084500Z
 DTEND:20131124T114500Z
 GEO:43.6022973938;1.45454333439
-DESCRIPTION:
+DESCRIPTION:Contribuer à OpenStreetMap est facile\, un navigateur et un accès à Internet suffisent. Nous verrons qu'il n'en faut pas plus pour démarrer. Ensuite\, lorsque le contributeur se prend au jeu et qu'il se lance dans des réalisations plus ambitieuses\, des outils plus élaborés sont nécessaires. \n\nJOSM est de ceux-ci. Mais la puissance et la richesse se paient en complexité et si cet éditeur s'avère ergonomique et efficace à l'usage\, sa prise en main exige un peu d'apprentissage. Pour ce faire\, rien ne vaut un peu de pratique guidée et c'est tout l'objet de cet atelier au cours duquel nous découvrirons les diverses sources d'informations exploitables et plusieurs autres outils qui gagnent à être connus.\n\nOpenStreetMap (OSM) est un projet de données cartographiques libres.\n\nJOSM est un éditeur de données géographiques pour OpenStreetMap.\n\nLe public visé par cet atelier sont les curieux\, débutants\, contributeurs ne connaissant pas JOSM ou ayant envie de faire partager leur expérience à son sujet.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jeux vidéos et applications avec Blender
@@ -423,7 +423,7 @@ UID:50a1f5fe043469b2248e6d3681a93bcabb223477
 DTSTART:20131124T084500Z
 DTEND:20131124T114500Z
 GEO:43.6022973938;1.45454333439
-DESCRIPTION:
+DESCRIPTION:Blender est un logiciel aux multiples facettes\, permettant aussi bien de s'intégrer dans des flux de productions dédiés au cinéma et à la télévision\, mais aussi aux jeux vidéos et applications interactives. Nous verrons dans cette conférence le processus de création permettant de créer un jeu vidéo de A à Z avec Blender\, tirant notamment parti de son "Game Engine" et éventuellement d'autres logiciels libres.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GPG keysigning Party / CAcert signing party
@@ -433,7 +433,7 @@ UID:25c80b363327e6460b437c12cf9098862fc9d616
 DTSTART:20131124T101000Z
 DTEND:20131124T114000Z
 GEO:43.6022973938;1.45454333439
-DESCRIPTION:
+DESCRIPTION:Atelier de CAcert pour assurer les personnes le désirant.\n\nCréation d'un web of Trust sur Toulouse au travers d'une GPG key signing party.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prise en main des logiciels du Terrier et de leur éditeur d'exercices
@@ -483,7 +483,7 @@ UID:7e4fff213d1927b878d0211cd647baf8f8a29f0c
 DTSTART:20131124T130000Z
 DTEND:20131124T160000Z
 GEO:43.6022973938;1.45454333439
-DESCRIPTION:
+DESCRIPTION:Comment animer une activité robotique basée sur la carte arduino en programmant avec des logiciels graphiques. Cet atelier est destinée à des animateurs scientifiques\, des professeurs des écoles\, des enseignants de collège ou de lycée\, des curieux novices en programmation..\n \nPartie 1 : \nPrésentation des différentes fonctions techniques de la carte sous forme de TP \nObjectif : avoir une représentation précise du fonctionnement de la carte Arduino\n\nPartie 2 : \nPrésentation de robots fabricables en classe ou en atelier\nProgrammer des robots avec une interface graphique\n\nPrérequis : aucun
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Utilisation avancée de PostgreSQL
@@ -493,7 +493,7 @@ UID:e4ec33754310e6306440ae595a0cb69b7bd2ba16
 DTSTART:20131124T130000Z
 DTEND:20131124T160000Z
 GEO:43.6022973938;1.45454333439
-DESCRIPTION:
+DESCRIPTION:* Mise en place et utilisation de PostgreSQL\n* Installation et utilisation d'extensions PostgreSQL\n* Types de données - hstore - JSON - PLv8 (NoSQL ?!) \n* Serveurs de données externes (implémentation SQL/MED)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Écriture collaborative d'un épisode de roman feuilleton (placé sous CC0)
@@ -503,7 +503,7 @@ UID:2162f210bf5c7af7cf777804467ad0e1be844a8e
 DTSTART:20131124T143000Z
 DTEND:20131124T160000Z
 GEO:43.6022973938;1.45454333439
-DESCRIPTION:
+DESCRIPTION:Tous les 88 ans\, 8 NoéNautes (des humains aux pouvoirs de télépathes) s'éveillent au monde et changent les mentalités. Voici l'univers du cycle de romans feuilleton publiés sur www.noenaute.fr . \n\nJe vous propose d'écrire ensemble\, de manière libre et collaborative\, un épisode "hors-série" et de le placer (comme les romans d'origine) dans le domaine public volontaire\, grâce à la licence CC0.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leaflet\, le Web mapping moderne et léger
@@ -513,7 +513,7 @@ UID:60b789eca4daadc698a8f8e0205dbd29a08c2f0f
 DTSTART:20131124T143000Z
 DTEND:20131124T160000Z
 GEO:43.6022973938;1.45454333439
-DESCRIPTION:
+DESCRIPTION:Venez découvrir l'utilisation de cette bibliothèque Javascript. \n\nNous construirons ensemble une application\, en assemblant plusieurs composants de l'éco-système Leaflet\, et en utilisant des données OpenData du Grand Toulouse.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY;CHARSET=utf-8:Capitole du Libre
