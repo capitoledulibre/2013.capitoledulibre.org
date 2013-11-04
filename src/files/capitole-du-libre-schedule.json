@@ -159,7 +159,7 @@
                             "role": null, 
                             "twitter": null, 
                             "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
-                            "speaker_bio": "<p>Chef de projet Open Data de Toulouse M\u00e9tropole, juriste de formation et ancienne membre de la CNIL</p>"
+                            "speaker_bio": "<p>Juriste en droit public et droit communautaire.</p>\n<p>Attach\u00e9e \u00e0 la Direction Juridique de la Commission Nationale Informatique et Libert\u00e9s pendant 8 ans en charge des questions relatives aux relations employeurs/employ\u00e9s.</p>\n<p>Chef de service \u00e0 la Direction des Syst\u00e8mes d&#39;Information mutualis\u00e9e entre la Mairie de Toulouse et Toulouse M\u00e9tropole, en charge des questions administratives et juridiques et chef du projet Open Data.</p>"
                         }
                     ], 
                     "title": "Pr\u00e9sentation du portail Toulouse M\u00e9tropole Data et des \u00e9volutions \u00e0 venir", 
@@ -169,7 +169,7 @@
                     "end_time": "2013-11-23 12:00:00", 
                     "other_url": null, 
                     "start_time_epoch": 1385200800, 
-                    "abstract": ""
+                    "abstract": "<p>Cet expos\u00e9 abordera les th\u00e8mes suivants :</p>\n<p>Le projet Open Data toulousain</p>\n<ul class=\"bullets\">\n  <li>Projet, r\u00e9alisations et r\u00e9sultats</li>\n  <li>Les types de donn\u00e9es</li>\n  <li>Les conditions de r\u00e9utilisation des donn\u00e9es</li>\n</ul>\n<p>Les conditions juridiques</p>\n<p>Le mouvement fran\u00e7ais</p>\n<ul class=\"bullets\">\n  <li>Gen\u00e8se</li>\n  <li>\u00c9tat</li>\n</ul>"
                 }, 
                 {
                     "start_time": "2013-11-23 13:30:00", 

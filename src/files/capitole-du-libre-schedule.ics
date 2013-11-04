@@ -43,7 +43,7 @@ UID:f0bb5c262ddb52d730e9fb915f45848224e14edb
 DTSTART:20131123T100000Z
 DTEND:20131123T110000Z
 GEO:43.6022973938;1.45454333439
-DESCRIPTION:
+DESCRIPTION:Cet exposé abordera les thèmes suivants :\n\nLe projet Open Data toulousain\n\n* Projet\, réalisations et résultats\n* Les types de données\n* Les conditions de réutilisation des données\n\nLes conditions juridiques\n\nLe mouvement français\n\n* Genèse\n* État
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bugs et opensource\, qu’en faire?
