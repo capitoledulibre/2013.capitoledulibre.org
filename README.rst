@@ -27,8 +27,10 @@ Installation
 
     cd pelican-sites
     source bin/activate
-    easy_install pelican icalendar
-    git clone https://github.com/cozo/pelican-plugins.git
+    easy_install pelican icalendar curl
+    git clone https://github.com/cozo/pelican-plugins.git src/pelican-plugins
+    cd src/pelican-plugins
+    git checkout working
 
 3. cloner le repository
 
