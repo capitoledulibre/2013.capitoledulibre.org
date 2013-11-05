@@ -1117,7 +1117,7 @@
                     "end_time": "2013-11-23 18:20:00", 
                     "other_url": null, 
                     "start_time_epoch": 1385226000, 
-                    "abstract": ""
+                    "abstract": "<p>Fondateur du projet, Jean-Michel pr\u00e9sentera <a href=\"http://www.doudoulinux.org/web/francais/index.html\" rel=\"nofollow\">Doudou Linux</a>, un syst\u00e8me bas\u00e9 sur Debian et d\u00e9di\u00e9 aux enfants \u00e0 partir de l&#39;\u00e2ge de 2 ans. <br>\nL&#39;objectif \u00e0 terme est de fournir aux enfants un syst\u00e8me simple comme une console de jeu et attrayant, contenant le meilleur des TIC, et donc du libre !<br>\nDoudou Linux est actuellement en cours de traduction dans plus de 40 langues et est aujourd&#39;hui utilis\u00e9 en \u00e9cole maternelle.</p>"
                 }, 
                 {
                     "start_time": "2013-11-23 18:00:00", 
@@ -1171,7 +1171,7 @@
                     "end_time": "2013-11-23 19:00:00", 
                     "other_url": null, 
                     "start_time_epoch": 1385226000, 
-                    "abstract": "<p>Le projet LXDE abandonne ses origines GTK et concentre ses efforts sur Qt! Pourquoi et comment a suivre dans cette pr\u00e9sentation. Cette pr\u00e9sentation vous montrera pourquoi et comment. A la suite de cette annonce, les forces derriere Razor-qt, un autre environnement de bureau l\u00e9ger bas\u00e9 sur Qt, ont rejoint LXDE et nous avons donc d\u00e9cid\u00e9 de fusionner nos efforts en un seul projet: LXQt.</p>\n<p>Nous partageons notre experience peu commune dans le monde de l&#39;Open Source, ainsi que nos plans pour le futur de LXDE: Un bureau l\u00e9ger, rapide et entierement Qt.</p>"
+                    "abstract": "<p>Le projet LXDE abandonne ses origines GTK et concentre ses efforts sur Qt! Pourquoi et comment a suivre dans cette pr\u00e9sentation qui vous montrera pourquoi et comment. A la suite de cette annonce, les forces derriere Razor-qt, un autre environnement de bureau l\u00e9ger bas\u00e9 sur Qt, ont rejoint LXDE et nous avons donc d\u00e9cid\u00e9 de fusionner nos efforts en un seul projet: LXQt.</p>\n<p>Nous partageons notre experience peu commune dans le monde de l&#39;Open Source, ainsi que nos plans pour le futur de LXDE: Un bureau l\u00e9ger, rapide et entierement Qt.</p>"
                 }, 
                 {
                     "start_time": "2013-11-23 18:00:00", 

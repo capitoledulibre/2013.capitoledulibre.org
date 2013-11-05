@@ -293,7 +293,7 @@ UID:5f22da6c7eb8a5bab22d0e38b77a70bec5f23501
 DTSTART:20131123T170000Z
 DTEND:20131123T172000Z
 GEO:43.6022973938;1.45454333439
-DESCRIPTION:
+DESCRIPTION:Fondateur du projet\, Jean-Michel présentera [Doudou Linux http://www.doudoulinux.org/web/francais/index.html]\, un système basé sur Debian et dédié aux enfants à partir de l'âge de 2 ans. \nL'objectif à terme est de fournir aux enfants un système simple comme une console de jeu et attrayant\, contenant le meilleur des TIC\, et donc du libre !\nDoudou Linux est actuellement en cours de traduction dans plus de 40 langues et est aujourd'hui utilisé en école maternelle.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fusion de Razor-qt et LXDE
@@ -303,7 +303,7 @@ UID:3285bb3e60ffce05d4e1e48d00931b74f1997b27
 DTSTART:20131123T170000Z
 DTEND:20131123T180000Z
 GEO:43.6022973938;1.45454333439
-DESCRIPTION:Le projet LXDE abandonne ses origines GTK et concentre ses efforts sur Qt! Pourquoi et comment a suivre dans cette présentation. Cette présentation vous montrera pourquoi et comment. A la suite de cette annonce\, les forces derriere Razor-qt\, un autre environnement de bureau léger basé sur Qt\, ont rejoint LXDE et nous avons donc décidé de fusionner nos efforts en un seul projet: LXQt.\n\nNous partageons notre experience peu commune dans le monde de l'Open Source\, ainsi que nos plans pour le futur de LXDE: Un bureau léger\, rapide et entierement Qt.
+DESCRIPTION:Le projet LXDE abandonne ses origines GTK et concentre ses efforts sur Qt! Pourquoi et comment a suivre dans cette présentation qui vous montrera pourquoi et comment. A la suite de cette annonce\, les forces derriere Razor-qt\, un autre environnement de bureau léger basé sur Qt\, ont rejoint LXDE et nous avons donc décidé de fusionner nos efforts en un seul projet: LXQt.\n\nNous partageons notre experience peu commune dans le monde de l'Open Source\, ainsi que nos plans pour le futur de LXDE: Un bureau léger\, rapide et entierement Qt.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Json ou l'histoire d'une licence presque libre
