@@ -12,6 +12,28 @@ function from_lanyrd_json(day, space) {
         else {
             sessions = data.sessions[1];
         }
+
+        for (var i = 0 ; i < sessions.sessions.length ; i++) {
+            if (sessions.sessions[i].start_time_epoch) {
+                var d = new Date(sessions.sessions[i].start_time_epoch * 1000);
+                var m = moment([d.getFullYear(), d.getMonth() + 1, d.getDate(),
+                                d.getHours(), d.getMinutes(), d.getSeconds()])
+                sessions.sessions[i].start_time = m.format('HH[h]mm');
+            }
+            else {
+                sessions.sessions[i].start_time = "??h??";
+            }
+            if (sessions.sessions[i].end_time_epoch) {
+                var d = new Date(sessions.sessions[i].end_time_epoch * 1000);
+                var m = moment([d.getFullYear(), d.getMonth() + 1, d.getDate(),
+                                d.getHours(), d.getMinutes(), d.getSeconds()])
+                sessions.sessions[i].end_time = m.format('HH[h]mm');
+            }
+            else {
+                sessions.sessions[i].end_time = "??h??";
+            }
+        }
+
         if (space) {
             var results = $.grep(sessions.sessions, function(elem) {
                 return elem.space == space;
