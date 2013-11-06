@@ -31,7 +31,7 @@
                             "role": null, 
                             "twitter": null, 
                             "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
-                            "speaker_bio": "<p>Raoul Hecky est le fondateur de calaos, solution de domotique open source. Il utilise et d\u00e9veloppe dans le libre depuis de nombreuses<br>\nann\u00e9es. Il est \u00e9galement d\u00e9veloppeur occasionnel du projet Enlightenment dont il fait partie au travers, entre autre, de la communaut\u00e9 fran\u00e7aise Enlightenment France.</p>"
+                            "speaker_bio": "<p>Raoul Hecky est le fondateur de calaos, solution de domotique open source. Il utilise et d\u00e9veloppe dans le libre depuis de nombreuses ann\u00e9es. Il est \u00e9galement d\u00e9veloppeur occasionnel du projet Enlightenment dont il fait partie au travers, entre autre, de la communaut\u00e9 fran\u00e7aise Enlightenment France.</p>"
                         }, 
                         {
                             "bio": "", 
@@ -124,7 +124,7 @@
                             "role": "Hacker LibreOffice", 
                             "twitter": "@arnaudversini", 
                             "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/f4cc727d9f19f30c9a35475174204255dd666f10-s75.jpeg", 
-                            "speaker_bio": ""
+                            "speaker_bio": "<p>Arnaud Versini est dipl\u00f4m\u00e9 du master ICE du Mirail. Utilisateur de longue date des projets StarOffice, <a href=\"http://OpenOffice.org\" rel=\"nofollow\">OpenOffice.org</a> ainsi que bien \u00e9videmment LibreOffice, il devient membre du projet LibreOffice ainsi que de The Document Foundation. Il contribue principalement au nettoyage du code et \u00e0 la robustesse du produit.</p>"
                         }
                     ], 
                     "title": "LibreOffice, le meilleur de la bureautique libre", 
@@ -468,7 +468,7 @@
                             "role": "", 
                             "twitter": "@dfaure", 
                             "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/e1fc87901b76ae35e02a760a382893f2ef6412fb-s75.jpg", 
-                            "speaker_bio": "<p>David Faure est d\u00e9veloppeur KDE depuis 1998. Il maintient une grande partie des biblioth\u00e8ques kdelibs, et consacre son temps \u00e0 les rendre modulaires et ind\u00e9pendantes, en vue de KDE Frameworks 5. Il contribue aussi \u00e0 Qt 5. Depuis 2003, il travaille dans le sud-est de la France pour KDAB (<a href=\"http://www.kdab.com\" rel=\"nofollow\">www.kdab.com</a>). Il effectue des formations et du consulting Qt, des projets de d\u00e9veloppement et de migration \u00e0 Qt.</p>"
+                            "speaker_bio": "<p>David Faure est d\u00e9veloppeur KDE depuis 1998. Il maintient une grande partie des biblioth\u00e8ques kdelibs, et consacre son temps \u00e0 les rendre modulaires et ind\u00e9pendantes, en vue de KDE Frameworks 5. Il contribue aussi \u00e0 Qt 5.</p>\n<p>Depuis 2003, il travaille dans le sud-est de la France pour KDAB (<a href=\"http://www.kdab.com\" rel=\"nofollow\">www.kdab.com</a>). Il effectue des formations et du consulting Qt, des projets de d\u00e9veloppement et de migration \u00e0 Qt.</p>"
                         }, 
                         {
                             "bio": "<p>Open Source Engineer and Researcher</p>", 
@@ -479,7 +479,7 @@
                             "role": "Open Source Engineer and Researcher", 
                             "twitter": "@dr_ervin", 
                             "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/3ab228b70e453784b0e0e7990fbc21a6225bb648-s75.png", 
-                            "speaker_bio": "<p>K\u00e9vin Ottens est un des hackers centraux de la communaut\u00e9 KDE. Il a contribu\u00e9 \u00e0 de nombreuses briques logicielles produites par KDE avec un int\u00e9r\u00eat particulier pour la conception d&#39;API et l&#39;architecture des frameworks. Dipl\u00f4m\u00e9 en 2007, il a obtenu un doctorat en intelligence artificielle pour lequel il a travaill\u00e9 sur l&#39;ing\u00e9nierie des connaissances et les syst\u00e8mes multi-agents. Aujourd&#39;hui, il travaille essentiellement avec Qt en tant que d\u00e9veloppeur, consultant et formateur gr\u00e2ce \u00e0 son emploi \u00e0 KDAB. Il vit toujours \u00e0 Toulouse o\u00f9 il intervient \u00e0 temps partiel dans son ancienne universit\u00e9.</p>"
+                            "speaker_bio": "<p>K\u00e9vin Ottens est un des hackers centraux de la communaut\u00e9 KDE. Il a contribu\u00e9 \u00e0 de nombreuses briques logicielles produites par KDE avec un int\u00e9r\u00eat particulier pour la conception d&#39;API et l&#39;architecture des frameworks. Dipl\u00f4m\u00e9 en 2007, il a obtenu un doctorat en intelligence artificielle pour lequel il a travaill\u00e9 sur l&#39;ing\u00e9nierie des connaissances et les syst\u00e8mes multi-agents.</p>\n<p>Aujourd&#39;hui, il travaille essentiellement avec Qt en tant que d\u00e9veloppeur, consultant et formateur gr\u00e2ce \u00e0 son emploi \u00e0 KDAB. Il vit toujours \u00e0 Toulouse o\u00f9 il intervient \u00e0 temps partiel dans son ancienne universit\u00e9.</p>"
                         }
                     ], 
                     "title": "Pr\u00e9sentation de C++11", 
@@ -674,7 +674,7 @@
                             "role": null, 
                             "twitter": null, 
                             "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
-                            "speaker_bio": "<p>S\u00e9bastien Renard est utilisateur de Linux et des produits KDE depuis plus de 13 ans. Il contribue depuis une dizaine d&#39;ann\u00e9e au projet de traduction de KDE en fran\u00e7ais en tant que traducteur et coordonnateur de l&#39;\u00e9quipe de traduction. \u00c0 cot\u00e9 de ses activit\u00e9s de traduction, il contribue au d\u00e9veloppement de logiciels libres (yokadi, pology, pysql, pydici etc.). Sur le plan professionnel, il est directeur associ\u00e9 d&#39;enioka, un cabinet de conseil en architecture des syst\u00e8mes d&#39;information.</p>"
+                            "speaker_bio": "<p>S\u00e9bastien Renard est utilisateur de Linux et des produits KDE depuis plus de 13 ans. Il contribue depuis une dizaine d&#39;ann\u00e9e au projet de traduction de KDE en fran\u00e7ais en tant que traducteur et coordonnateur de l&#39;\u00e9quipe de traduction. \u00c0 cot\u00e9 de ses activit\u00e9s de traduction, il contribue au d\u00e9veloppement de logiciels libres (yokadi, pology, pysql, pydici etc.).</p>\n<p>Sur le plan professionnel, il est directeur associ\u00e9 d&#39;enioka, un cabinet de conseil en architecture des syst\u00e8mes d&#39;information.</p>"
                         }
                     ], 
                     "title": "Comment faire des contr\u00f4les de qualit\u00e9 d'une traduction ?", 
@@ -709,7 +709,7 @@
                             "role": "Auteur du Domaine Public Vivant. Geek&Gay, Libre&Libertin, F\u00e9ministe&Framasoftien, Patalon&Pansexuel.... (collection d'\u00e9tiquettes en cours)", 
                             "twitter": "@Pouhiou", 
                             "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/c61c8b22738a3d46f7c550d0c95faa36521e58e5-s75.jpeg", 
-                            "speaker_bio": ""
+                            "speaker_bio": "<p>Com\u00e9dien repenti, Pouhiou a commenc\u00e9 par \u00e9crire pour le th\u00e9\u00e2tre.</p>\n<p>En 2012 il se lance dans l&#39;\u00e9criture des roman-feuilletons de no\u00e9naute.fr... Un d\u00e9fi quotidien qui le m\u00e8nera \u00e0 \u00e9lever ses oeuvres dans le domaine public vivant via la CC0 ; et \u00e0 s&#39;engager pour la culture libre apr\u00e8s de SavoirsCom1 et Framasoft.</p>\n<p>Ses deux premiers romans tir\u00e9s de noenaute.fr, #Smartarded et #MonOrchide, sont disponibles aux \u00e9ditions FramaBook.</p>"
                         }
                     ], 
                     "title": "Pourquoi mes romans sont dans le Domaine Public Vivant ?", 
@@ -983,7 +983,7 @@
                             "role": null, 
                             "twitter": null, 
                             "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
-                            "speaker_bio": "<p>S\u00e9bastien Renard est utilisateur de Linux et des produits KDE depuis plus de 13 ans. Il contribue depuis une dizaine d&#39;ann\u00e9e au projet de traduction de KDE en fran\u00e7ais en tant que traducteur et coordonnateur de l&#39;\u00e9quipe de traduction. \u00c0 cot\u00e9 de ses activit\u00e9s de traduction, il contribue au d\u00e9veloppement de logiciels libres (yokadi, pology, pysql, pydici etc.). Sur le plan professionnel, il est directeur associ\u00e9 d&#39;enioka, un cabinet de conseil en architecture des syst\u00e8mes d&#39;information.</p>"
+                            "speaker_bio": "<p>S\u00e9bastien Renard est utilisateur de Linux et des produits KDE depuis plus de 13 ans. Il contribue depuis une dizaine d&#39;ann\u00e9e au projet de traduction de KDE en fran\u00e7ais en tant que traducteur et coordonnateur de l&#39;\u00e9quipe de traduction. \u00c0 cot\u00e9 de ses activit\u00e9s de traduction, il contribue au d\u00e9veloppement de logiciels libres (yokadi, pology, pysql, pydici etc.).</p>\n<p>Sur le plan professionnel, il est directeur associ\u00e9 d&#39;enioka, un cabinet de conseil en architecture des syst\u00e8mes d&#39;information.</p>"
                         }, 
                         {
                             "bio": "<p>Open Source Engineer and Researcher</p>", 
@@ -994,7 +994,7 @@
                             "role": "Open Source Engineer and Researcher", 
                             "twitter": "@dr_ervin", 
                             "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/3ab228b70e453784b0e0e7990fbc21a6225bb648-s75.png", 
-                            "speaker_bio": "<p>K\u00e9vin Ottens est un des hackers centraux de la communaut\u00e9 KDE. Il a contribu\u00e9 \u00e0 de nombreuses briques logicielles produites par KDE avec un int\u00e9r\u00eat particulier pour la conception d&#39;API et l&#39;architecture des frameworks. Dipl\u00f4m\u00e9 en 2007, il a obtenu un doctorat en intelligence artificielle pour lequel il a travaill\u00e9 sur l&#39;ing\u00e9nierie des connaissances et les syst\u00e8mes multi-agents. Aujourd&#39;hui, il travaille essentiellement avec Qt en tant que d\u00e9veloppeur, consultant et formateur gr\u00e2ce \u00e0 son emploi \u00e0 KDAB. Il vit toujours \u00e0 Toulouse o\u00f9 il intervient \u00e0 temps partiel dans son ancienne universit\u00e9.</p>"
+                            "speaker_bio": "<p>K\u00e9vin Ottens est un des hackers centraux de la communaut\u00e9 KDE. Il a contribu\u00e9 \u00e0 de nombreuses briques logicielles produites par KDE avec un int\u00e9r\u00eat particulier pour la conception d&#39;API et l&#39;architecture des frameworks. Dipl\u00f4m\u00e9 en 2007, il a obtenu un doctorat en intelligence artificielle pour lequel il a travaill\u00e9 sur l&#39;ing\u00e9nierie des connaissances et les syst\u00e8mes multi-agents.</p>\n<p>Aujourd&#39;hui, il travaille essentiellement avec Qt en tant que d\u00e9veloppeur, consultant et formateur gr\u00e2ce \u00e0 son emploi \u00e0 KDAB. Il vit toujours \u00e0 Toulouse o\u00f9 il intervient \u00e0 temps partiel dans son ancienne universit\u00e9.</p>"
                         }
                     ], 
                     "title": "Kolab, un groupware pour se lib\u00e9rer du cloud propri\u00e9taire", 
@@ -1150,7 +1150,7 @@
                             "role": null, 
                             "twitter": null, 
                             "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
-                            "speaker_bio": "<p>Julien Lavergne est d\u00e9veloppeur Ubuntu et contributeur Debian. Il a notamment particip\u00e9 au d\u00e9veloppement de LXDE au sein de ces distributions, et plus particuli\u00e8rement en \u00e9tant le d\u00e9veloppeur principal de Lubuntu, une distribution d\u00e9riv\u00e9e officielle d&#39;Ubuntu utilisant LXDE comme environnement de bureau. Il participe \u00e9galement aux d\u00e9veloppements au sein de LXDE, plus particuli\u00e8rement sur le gestionnaire de session (lxsession).</p>"
+                            "speaker_bio": "<p>Julien Lavergne est d\u00e9veloppeur Ubuntu et contributeur Debian. Il a notamment particip\u00e9 au d\u00e9veloppement de LXDE au sein de ces distributions, et plus particuli\u00e8rement en \u00e9tant le d\u00e9veloppeur principal de Lubuntu, une distribution d\u00e9riv\u00e9e officielle d&#39;Ubuntu utilisant LXDE comme environnement de bureau.</p>\n<p>Il participe \u00e9galement aux d\u00e9veloppements au sein de LXDE, plus particuli\u00e8rement sur le gestionnaire de session (lxsession).</p>"
                         }, 
                         {
                             "bio": "", 
@@ -1161,7 +1161,7 @@
                             "role": null, 
                             "twitter": null, 
                             "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
-                            "speaker_bio": "<p>Jerome Leclanche est en charge de l&#39;UX sur LXDE. Quand il code en Qt, c&#39;est souvent en Python avec PySide ou PyQt. Pr\u00e9cedemment membre de Razor-qt et fan de KDE, il reste en contact avec plusieurs d\u00e9veloppeurs KDE et garde un oeil sur KDE Frameworks 5. Aujourd&#39;hui, il travaille en Angleterre a Cambridge, en tant que ing\u00e9nieur en d\u00e9veloppement logiciel chez <a href=\"http://Anthill.com\" rel=\"nofollow\">Anthill.com</a>.</p>"
+                            "speaker_bio": "<p>Jerome Leclanche est en charge de l&#39;UX sur LXDE. Quand il code en Qt, c&#39;est souvent en Python avec PySide ou PyQt. Pr\u00e9cedemment membre de Razor-qt et fan de KDE, il reste en contact avec plusieurs d\u00e9veloppeurs KDE et garde un oeil sur KDE Frameworks 5.</p>\n<p>Aujourd&#39;hui, il travaille en Angleterre a Cambridge, en tant que ing\u00e9nieur en d\u00e9veloppement logiciel chez <a href=\"http://Anthill.com\" rel=\"nofollow\">Anthill.com</a>.</p>"
                         }
                     ], 
                     "title": "Fusion de Razor-qt et LXDE", 
@@ -1231,7 +1231,7 @@
                             "role": "Administrateur syst\u00e8me Linux, Cofondateur et d\u00e9veloppeur de la solution d'auto h\u00e9bergement Yunohost\r\n\r\n#Linux #Debian #Yunohost", 
                             "twitter": "@beudbeud", 
                             "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/649b5de9209a2642575aecc65cdbc5878d0dc4f5-s75.jpeg", 
-                            "speaker_bio": ""
+                            "speaker_bio": "<p>Adrien Beudin alias beudbeud, administrateur syst\u00e8me linux depuis 5 ans. Co-fondateur et responsable technique de Yunohost.</p>"
                         }
                     ], 
                     "title": "L'auto-h\u00e9bergement pour tous avec Yunohost", 
@@ -1529,7 +1529,7 @@
                             "role": "Open Source Engineer and Researcher", 
                             "twitter": "@dr_ervin", 
                             "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/3ab228b70e453784b0e0e7990fbc21a6225bb648-s75.png", 
-                            "speaker_bio": "<p>K\u00e9vin Ottens est un des hackers centraux de la communaut\u00e9 KDE. Il a contribu\u00e9 \u00e0 de nombreuses briques logicielles produites par KDE avec un int\u00e9r\u00eat particulier pour la conception d&#39;API et l&#39;architecture des frameworks. Dipl\u00f4m\u00e9 en 2007, il a obtenu un doctorat en intelligence artificielle pour lequel il a travaill\u00e9 sur l&#39;ing\u00e9nierie des connaissances et les syst\u00e8mes multi-agents. Aujourd&#39;hui, il travaille essentiellement avec Qt en tant que d\u00e9veloppeur, consultant et formateur gr\u00e2ce \u00e0 son emploi \u00e0 KDAB. Il vit toujours \u00e0 Toulouse o\u00f9 il intervient \u00e0 temps partiel dans son ancienne universit\u00e9.</p>"
+                            "speaker_bio": "<p>K\u00e9vin Ottens est un des hackers centraux de la communaut\u00e9 KDE. Il a contribu\u00e9 \u00e0 de nombreuses briques logicielles produites par KDE avec un int\u00e9r\u00eat particulier pour la conception d&#39;API et l&#39;architecture des frameworks. Dipl\u00f4m\u00e9 en 2007, il a obtenu un doctorat en intelligence artificielle pour lequel il a travaill\u00e9 sur l&#39;ing\u00e9nierie des connaissances et les syst\u00e8mes multi-agents.</p>\n<p>Aujourd&#39;hui, il travaille essentiellement avec Qt en tant que d\u00e9veloppeur, consultant et formateur gr\u00e2ce \u00e0 son emploi \u00e0 KDAB. Il vit toujours \u00e0 Toulouse o\u00f9 il intervient \u00e0 temps partiel dans son ancienne universit\u00e9.</p>"
                         }
                     ], 
                     "title": "Atelier Qt Quick 2", 
@@ -1913,7 +1913,7 @@
                             "role": "Auteur du Domaine Public Vivant. Geek&Gay, Libre&Libertin, F\u00e9ministe&Framasoftien, Patalon&Pansexuel.... (collection d'\u00e9tiquettes en cours)", 
                             "twitter": "@Pouhiou", 
                             "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/c61c8b22738a3d46f7c550d0c95faa36521e58e5-s75.jpeg", 
-                            "speaker_bio": ""
+                            "speaker_bio": "<p>Com\u00e9dien repenti, Pouhiou a commenc\u00e9 par \u00e9crire pour le th\u00e9\u00e2tre.</p>\n<p>En 2012 il se lance dans l&#39;\u00e9criture des roman-feuilletons de no\u00e9naute.fr... Un d\u00e9fi quotidien qui le m\u00e8nera \u00e0 \u00e9lever ses oeuvres dans le domaine public vivant via la CC0 ; et \u00e0 s&#39;engager pour la culture libre apr\u00e8s de SavoirsCom1 et Framasoft.</p>\n<p>Ses deux premiers romans tir\u00e9s de noenaute.fr, #Smartarded et #MonOrchide, sont disponibles aux \u00e9ditions FramaBook.</p>"
                         }
                     ], 
                     "title": "\u00c9criture collaborative d'un \u00e9pisode de roman feuilleton (plac\u00e9 sous CC0)", 

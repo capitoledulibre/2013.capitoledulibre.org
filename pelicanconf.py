@@ -76,3 +76,9 @@ TEMPLATE_PAGES = {'pages/appel-benevoles.html': 'inscription/benevoles.html',
                     'pages/conferences/conferences-akademy-fr.html': 'programme/conferences-akademy-fr.html',
                     'pages/ateliers/ateliers.html': 'programme/ateliers.html',
                     }
+
+SCHEDULE_PAGES = [{'url': 'programme/conferences-grand-public.html','title':'Grand Public'},
+                    {'url': 'programme/conferences-techniques.html','title':'Technique'},
+                    {'url': 'programme/conferences-internet-libre.html','title':'Internet Libre'},
+                    {'url': 'programme/conferences-multimedia-bureautique.html','title':'Multimedia / bureautique'},
+                    {'url': 'programme/conferences-akademy-fr.html','title':'Akademy-fr'},]

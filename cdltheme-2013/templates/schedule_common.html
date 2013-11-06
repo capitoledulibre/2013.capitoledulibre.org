@@ -1,3 +1,12 @@
+<nav class="pull-right well">
+    <ul class="nav" id="shedule-nav">
+        {% for p in SCHEDULE_PAGES %}
+        <li{% if p.url == page %} class="active"{% endif %}>
+        <a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</nav>
 
 <div id="prog-summary" class="contents"></div>
 
