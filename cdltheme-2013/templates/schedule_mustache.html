@@ -3,8 +3,8 @@
     {% raw %}
         <ul>
         {{#sessions}}
-            <li><a href="#{{id}}">{{title}}</a> - 
-            {{#speakers}}<em>{{name}}</em>, {{/speakers}}
+            <li>{{start_time}} : <a href="#{{id}}">{{title}}</a> - 
+            {{#speakers}}<em>{{name}}</em> {{/speakers}}
             </li>
         {{/sessions}}
         </ul>
@@ -18,7 +18,7 @@
         <div class="speakers row-fluid">
         {{#speakers}}<div>
             <h3>{{name}}</h3>
-            <div class="biography">{{{bio}}}</div>
+            <div class="biography">{{{speaker_bio}}}</div>
             </div>
         {{/speakers}}</div>
     {{/sessions}}
