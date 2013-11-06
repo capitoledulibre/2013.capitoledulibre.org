@@ -13,8 +13,8 @@ L’édition 2013 du Capitole du Libre aura lieu les **23 et 24 novembre 2013**,
 Le Capitole du Libre c'est…
 ===========================
 
-Des conférences et ateliers
------------------------------
+Samedi 23 novembre, Conférences
+---------------------------------
 
 .. html::
 
@@ -25,19 +25,25 @@ Des conférences et ateliers
 `Grand public`_
 ''''''''''''''''
 
-Découvrir et comprendre le monde du Logiciel Libre, ses aspects ethiques, juridiques. Comprendre ce qu'est l'OpenData, la culture libres, les biens communs.
+.. class:: well
+
+Découvrir et comprendre le monde du Logiciel Libre, ses aspects **ethiques**, **juridiques**. Comprendre ce qu'est l'**OpenData**, la **culture libre**, les biens communs.
 
 .. class:: span3
 
 `Internet Libre`_
 ''''''''''''''''''
 
-Des solutions pour maîtriser ses données dans Internet, découvrir les enjeux de la neutralité du Net.
+.. class:: well
+
+Du CMS **Joomla** ou **Dotclear** aux **FAI associatifs**, en passant une distribution dédiée à l'auto hébergement : des solutions pour maîtriser ses données dans Internet, découvrir les enjeux de la neutralité du Net.
 
 .. class:: span3
 
 `Techniques`_
 ''''''''''''''
+
+.. class:: well
 
 Approfondir des thématiques comme le développement, l’administration système, les réseaux, etc.
 
@@ -45,6 +51,8 @@ Approfondir des thématiques comme le développement, l’administration systèm
 
 `Multimédia / Bureautique`_
 ''''''''''''''''''''''''''''
+
+.. class:: well
 
 Découvrir ou approfondir les outils libres de création graphique, vidéo et musicale, ainsi que la bureautique
 
@@ -56,6 +64,14 @@ Découvrir ou approfondir les outils libres de création graphique, vidéo et mu
 .. _`Internet Libre`: /programme/conferences-internet-libre.html
 .. _`Techniques`: /programme/conferences-techniques.html
 .. _`Multimédia / Bureautique`: /programme/conferences-multimedia-bureautique.html
+
+
+Dimanche 24 novembre, Ateliers
+------------------------------
+
+C'est l'occasion de découvrir ou d'approfondir des logiciels, des languages ou technologies libres, mais participer à l'écriture d'un épisode de roman libre, échanger vos clés de signature et de chiffrement, etc...
+
+`Tous les ateliers </programme/ateliers.html>`_
 
 Démonstrations, Ubuntu party, Lan Party ...
 ---------------------------------------------
@@ -86,14 +102,18 @@ leurs événements. Cette année, le Capitole du Libre accueille :
 `Conférence Akademy-fr`_
 ------------------------
 
-Des conférences techniques et des ateliers présentés par des contributeurs de la communauté KDE.
+Des conférences techniques et des ateliers présentés par des contributeurs de la communauté KDE. 
+
+Les programme des `conférences Akademy-fr`_ est en ligne.
 
 .. class:: span3
 
-`conférence FranceJS`_
+`Conférence FranceJS`_
 ----------------------
 
 Des conférences et ateliers pour découvrir et approfondir le langage JavaScript. 
+
+Ces conférences sont sur inscription sur le `site officiel de FranceJS`_
 
 .. class:: span3
 
@@ -101,22 +121,26 @@ Des conférences et ateliers pour découvrir et approfondir le langage JavaScrip
 ---------------
 
 Regroupant la communauté autour du language Lua. 
-Les conférences sont en anglais.
+
+Les conférences sont en anglais, et requièrent une inscription sur le `site officiel de Lua`_
 
 .. class:: span3
 
-workshop **OpenStack**
+Workshop **OpenStack**
 -----------------------
 
-La solution opensource de cloud
+La solution opensource de cloud. Le programme sera très prochainement en ligne.
 
 .. html::
 
     </div>
 
-.. _`Conférence Akademy-fr`: /programme/conferences-akademy-fr.html
+.. _`Conférences Akademy-fr`: /programme/conferences-akademy-fr.html
+.. _`Conférence Akademy-fr`: /akademy-fr.html
+.. _`Conférence FranceJS`: /francejs.html
 .. _`Lua workshop`: http://www.lua.org/wshop13.html
-.. _`conférence FranceJS`: http://francejs.org/conf2013.html
+.. _`site officiel de Lua`: http://www.lua.org/wshop13.html
+.. _`site officiel de FranceJS`: http://francejs.org/conf2013.html
 .. _`Ubuntu Party`: http://ubuntu-party.org/
 
 

@@ -179,34 +179,6 @@ td.odd {
 /* homepage *
   --------- */
 
-#cdl2012 p {
-  text-align: center;
-  background: #e4401f;
-  -moz-box-shadow: -10px 10px 10px 0px #9b9b9b;
-  -webkit-box-shadow: -10px 10px 10px 0px #9b9b9b;
-  -o-box-shadow: -10px 10px 10px 0px #9b9b9b;
-  box-shadow: -10px 10px 10px 0px #9b9b9b;
-  -o-border-radius: 10px;
-  -moz-border-radius: 10px;
-  -webkit-border-radius: 10px;
-  border-radius: 10px;
-  padding: 1em 0.5em;
-  height: 50px;
-}
-#cdl2012 p a {
-  display: block;
-  font-size: 1.3em;
-  border-bottom: none;
-  color: #FFFFFF;
-  line-height: 1.5em;
-}
-#cdl2012 p a span {
-  display: block;
-  color: #ffcc00;
-}
-#cdl2012 p a:hover span {
-  font-size: 1.5em;
-}
 
 /* header *
   ------- */
@@ -250,14 +222,23 @@ td.odd {
   max-width: 300px;
   margin-bottom: 0;
 }
-#djangofr h3 {
-  background-image: url('../images/django-fr-toulouse.png');
+#le-capitole-du-libre-accueille-egalement .section {
+    background-color: #ffad08;
 }
-#akademyfr h3 {
-  background-image: url('../images/akademy-fr.png');
+#le-capitole-du-libre-accueille-egalement .section > *{
+    margin: 8px 60px 8px 8px;
 }
-#upt h3 {
-  background-image: url('../images/upt.png');
+#conference-akademy-fr {
+    background: url('../images/picto-kde.png') no-repeat top right transparent;
+}
+#conference-francejs {
+    background: url('../images/picto-francejs.png') no-repeat top right transparent;
+}
+#lua-workshop {
+    background: url('../images/picto-lua.png') no-repeat top right transparent;
+}
+#workshop-openstack {
+    background: url('../images/picto-openstack.png') no-repeat top right transparent;
 }
 
 /* sidebar *
