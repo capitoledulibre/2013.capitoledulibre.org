@@ -1738,36 +1738,6 @@
                 }, 
                 {
                     "start_time": "2013-11-24 14:00:00", 
-                    "topics": [], 
-                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrfzm/", 
-                    "times": "2:00pm\u00a0-\u00a05:00pm", 
-                    "id": "scrfzm", 
-                    "types": [], 
-                    "end_time_epoch": 1385308800, 
-                    "speakers": [
-                        {
-                            "bio": "<p>Digital painter,  illustrator, concept artist with open-source</p>", 
-                            "web_url": "http://lanyrd.com/profile/davidrevoy/", 
-                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/5e28f6c87e7c321f57ccc2026055cc71c6399571-s300.jpg", 
-                            "name": "David REVOY", 
-                            "elsewhere": [], 
-                            "role": "Digital painter,  illustrator, concept artist with open-source", 
-                            "twitter": "@davidrevoy", 
-                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/5e28f6c87e7c321f57ccc2026055cc71c6399571-s75.jpg", 
-                            "speaker_bio": ""
-                        }
-                    ], 
-                    "title": "Atelier graphisme", 
-                    "event_id": "cprtz", 
-                    "space": "A001", 
-                    "day": "Sunday 24th November", 
-                    "end_time": "2013-11-24 17:00:00", 
-                    "other_url": null, 
-                    "start_time_epoch": 1385298000, 
-                    "abstract": ""
-                }, 
-                {
-                    "start_time": "2013-11-24 14:00:00", 
                     "topics": [
                         {
                             "name": "Akademy-fr", 

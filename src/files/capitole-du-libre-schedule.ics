@@ -456,16 +456,6 @@ GEO:43.6022973938;1.45454333439
 DESCRIPTION:OpenStreetMap est une énorme base mondiale de données cartographiques libres. Cet atelier est le moment de découvrir par la pratique l'usage de quelques excellents outils: Xapi\, Overpass-api\, uMap\, Maperitive\, TileMill.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atelier graphisme
-LOCATION:A001\, ENSEEIHT
-URL:http://lanyrd.com/2013/capitole-du-libre/scrfzm/
-UID:de10e31e3d5229d53a117e6d27eacdb7e87159bf
-DTSTART:20131124T130000Z
-DTEND:20131124T160000Z
-GEO:43.6022973938;1.45454333439
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dessine moi un dragon avec Krita
 LOCATION:C103\, ENSEEIHT
 URL:http://lanyrd.com/2013/capitole-du-libre/scrkxy/
