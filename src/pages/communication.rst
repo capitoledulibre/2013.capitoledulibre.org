@@ -39,27 +39,34 @@ Nous suivre
 Presse
 ======
 
-* Contact Presse : Alexandre Lahaye, alexandre.lahaye - at - openwide.fr - 06 08 73 05 92
-* Communication : Emmanuelle Helly, e.helly - at - numajules.net - 06 10 05 69 02
-
+* Contact Presse et communication : comm@toulibre.org
 
 Kit de communication
 ====================
 
-À venir, mais vous pouvez consulter `celui de 2012 <http://www.capitoledulibre.org/2012/communication.html>`_.
+* l'`affiche`_,
+* le flyer_,
+* une `bannière`_, une `vignette`_ (la `source`_ du fichier en svg),
+* des `photos sur Flickr`_ des éditions 2011 et 2012.
 
 Ils parlent de nous
 ======================
 
-* `Makina Corpus sponsor du Capitole du Libre 2012 <http://makina-corpus.com/actualite/makina-corpus-sponsor-capitole-libre-2012>`_ - Makina Corpus - 
-* `Mozilla - Le Capitole du Libre 2012 <https://reps.mozilla.org/e/le-capitole-du-libre/>`_ (en) - Mozilla reps [consulté 19 novembre 2012]
-* `2ÈME ÉDITION DE "CAPITOLE DU LIBRE" SUR LES LOGICIELS LIBRES <http://www.digitalplace.fr/fr/?task=item&item_id=975>`_ - Digital Place - 15/11/2012 [consulté 19 novembre 2012]
-* `Mozilla au Capitole du Libre à Toulouse <http://www.theochevalier.fr/index.php?page=6&article=8&lang=fr>`_ - Blog de Théo Chevalier - 14/11/2012 [consulté 19 novembre 2012]
-* `Capitole du Libre : l’événement consacré aux logiciels libres <http://www.toulouse-metropole.fr/services-proximite/agenda/-/agenda/event/347734>`_  - Toulouse Métropole [consulté 9 novembre 2012]
-* `Capitole du Libre 2012 <http://gcompris.net/Capitole-du-Libre-2012>`_ - GCompris [consulté 19 novembre 2012]
-* `Du nouveau autour du Capitole du Libre à Toulouse! <http://linuxfr.org/news/du-nouveau-autour-du-capitole-du-libre-a-toulouse>`_ - linuxfr - 13/11/2012 [consulté 13 novembre 2012]
-* `Le Capitole du libre 2012 <http://www.cinemas-utopia.org/U-blog/toulouse/index.php?post/2012/11/02/Le-Capitole-du-libre-2012>`_ - Blog de l'Utopia Toulouse - 2/11/2012 [consulté 9 novembre 2012]
-* `Capitole du Libre 2012 : Workshop and Conference <http://www.davidrevoy.com/article141/capitole-du-libre-2012-workshop-and-conference>`_ - Blog de David Revoy - 27/10/2012 [consulté 14 novembre 2012]
-* `Capitole du Libre 2012, un plateau « Multimédia » d’exception! <http://www.linuxgraphic.org/wp/capitole-du-libre-2012-un-plateau-multimedia-dexception/>`_ linuxGraphic - 24/10/2012 [consulté 9 novembre 2012]
-* `Capitole du Libre - 24 et 25 novembre 2012 - Toulouse <https://www.projet-plume.org/breve/capitole-du-libre-24-et-25-novembre-2012-toulouse>`_  - PLUME - 11/10/2012 [consulté 9 novembre 2012]
-* `Interventions de LDN au Capitole du Libre : Lorraine Data Network <http://ldn-fai.net/671/>`_ - Lorraine Data Netword - 21/11/2012 [consulté 9 novembre 2012]
+
+1. 23 et 24 Novembre - Participez au Capitole du Libre [Internet]. 2013 [cité 6 nov 2013]. Disponible sur: http://www.digitalplace.fr/fr/item/23-et-24-novembre-participez-au-capitole-du-libre
+2. Capitole du Libre 2013 - Montpel’libre [Internet]. 2013 [cité 6 nov 2013]. Disponible sur: http://montpel-libre.fr/spip.php?article1435
+3. Capitole du libre 2013 / Stand imprimante 3D Toulouse [Internet]. 2013 [cité 6 nov 2013]. Disponible sur: http://www.julienbuabent.fr/2013/10/19/capitole-du-libre-2013-imprimante-3d-toulouse/
+4. Logilab sponsor du Capitol du Libre 2013 à Toulouse (Logilab - logiciel, conseil, formation - Informatique scientifique - Web sémantique - Agilité) [Internet]. 2013 [cité 6 nov 2013]. Disponible sur: http://www.logilab.fr/blogentry/1927
+5. ctillous. Le Capitole du Libre [Internet]. 2013 [cité 6 nov 2013]. Disponible sur: http://www.solibre.fr/fr/actualites/le-capitole-du-libre.html
+6. Capitole du Libre 2013: l’appel à conférences est ouvert! | Linuxgraphic [Internet]. 2013 [cité 6 nov 2013]. Disponible sur: http://www.linuxgraphic.org/wp/capitole-du-libre-2013-lappel-a-conferences-est-ouvert/
+
+Voir la `revue de presse`_ de l'édition 2012.
+
+
+.. _`revue de presse`: http://2012.capitoledulibre.org/communication.html#ils-parlent-de-nous
+.. _`affiche`: 
+.. _flyer: /files/flyer-cdl2013.pdf
+.. _`bannière`: /home/numahell/Dev/pelican/capitoledulibre-site/src/files/banniere-cdl2013.png
+.. _`vignette`: /home/numahell/Dev/pelican/capitoledulibre-site/src/files/thumb-cdl2013.png
+.. _`source`: http://toulibre.org/pub/2013-11-23-capitole-du-libre/graphisme/bannieres-cdl2013.svg
+.. _`photos sur Flickr`: http://www.flickr.com/search/?q=capitole+du+libre&l=cc&ss=0&ct=0&mt=all&w=all&adv=1
