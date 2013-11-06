@@ -17,7 +17,7 @@
 
 		<div class='article'>
 			<h3><span class="date">{{ article.date.strftime('%d %b %Y') }} : </span><a href={{ article.url }} >{{ article.title }}</a></h3>
-			<p>{{ article.summary }}</p>
+			{{ article.summary }}
 		</div>	
 		{% endfor %}
 	</section>
