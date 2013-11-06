@@ -162,7 +162,7 @@
                             "speaker_bio": "<p>Juriste en droit public et droit communautaire.</p>\n<p>Attach\u00e9e \u00e0 la Direction Juridique de la Commission Nationale Informatique et Libert\u00e9s pendant 8 ans en charge des questions relatives aux relations employeurs/employ\u00e9s.</p>\n<p>Chef de service \u00e0 la Direction des Syst\u00e8mes d&#39;Information mutualis\u00e9e entre la Mairie de Toulouse et Toulouse M\u00e9tropole, en charge des questions administratives et juridiques et chef du projet Open Data.</p>"
                         }
                     ], 
-                    "title": "Pr\u00e9sentation du portail Toulouse M\u00e9tropole Data et des \u00e9volutions \u00e0 venir", 
+                    "title": "L'Open Data toulousain", 
                     "event_id": "cprtz", 
                     "space": "A001", 
                     "day": "Saturday 23rd November", 
@@ -267,7 +267,7 @@
                             "role": null, 
                             "twitter": null, 
                             "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
-                            "speaker_bio": "<p>Auteur du livre <a href=\"http://www.amazon.fr/La-face-cach%C3%A9e-web-contr%C3%B4le/dp/2896261257/ref=sr_1_1?ie=UTF8&amp;qid=1365066925&amp;sr=8-1&amp;keywords=la+face+cach%C3%A9e+du+web\" rel=\"nofollow\">&quot;La face cach\u00e9e du Web&quot;</a> et <br>\ning\u00e9nieur informaticien, je m&#39;occupe de d\u00e9velopper le p\u00f4le Open Source d&#39;une soci\u00e9t\u00e9 de services en ing\u00e9nierie informatique.</p>"
+                            "speaker_bio": "<p>Auteur du livre <a href=\"http://www.amazon.fr/La-face-cach%C3%A9e-web-contr%C3%B4le/dp/2896261257/ref=sr_1_1?ie=UTF8&amp;qid=1365066925&amp;sr=8-1&amp;keywords=la+face+cach%C3%A9e+du+web\" rel=\"nofollow\">&quot;La face cach\u00e9e du Web&quot;</a> et ing\u00e9nieur informaticien, je m&#39;occupe de d\u00e9velopper le p\u00f4le Open Source d&#39;une soci\u00e9t\u00e9 de services en ing\u00e9nierie informatique.</p>"
                         }
                     ], 
                     "title": "Cyberespionnage : tous concern\u00e9s, tous suspects.", 
@@ -302,7 +302,7 @@
                             "role": null, 
                             "twitter": null, 
                             "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
-                            "speaker_bio": ""
+                            "speaker_bio": "<p>Utilisateur de logiciels libres depuis 2000, Joris Dedieu r\u00e9oriente sa carri\u00e8re vers l&#39;informatique en 2004. Apr\u00e8s un dipl\u00f4me en informatique industriel au CNAM et diverses exp\u00e9riences, il entre en 2007 comme Administrateur Syst\u00e8me chez l&#39;h\u00e9bergeur NFrance Conseil.</p>\n<p>Il g\u00e8re au quotidien un parc de plusieurs centaines de machines sous FreeBSD, projet pour lequel il maintient quelques ports.</p>"
                         }, 
                         {
                             "bio": "", 
@@ -739,7 +739,7 @@
                             "role": "OverBlog's CTO @ eBuzzing", 
                             "twitter": "@xKobal", 
                             "image_75": "https://s3.amazonaws.com/static.lanyrd.net/cropped-profile-photos/967d867bdbe9ebf1015024bf9cfac699dc0d3d96-s75.jpeg", 
-                            "speaker_bio": ""
+                            "speaker_bio": "<p>N\u00e9 en 1980 \u00e0 Paris, Xavier HAUSHERR travaille dans le web depuis 2000. Apr\u00e8s trois ans comme chef de projet technique chez l&#39;\u00e9diteur Bestofmedia, il quitte Paris et rejoint Overblog en 2011 en tant que CTO pour mettre en place la nouvelle version de la plateforme Overblog.</p>"
                         }
                     ], 
                     "title": "Processus complet de d\u00e9veloppement du projet Overblog", 
@@ -1568,7 +1568,7 @@
                             "role": null, 
                             "twitter": null, 
                             "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
-                            "speaker_bio": ""
+                            "speaker_bio": "<p>S\u00e9bastien Dinot, expert en logiciel libre m\u00ealant travail et passion au sein du d\u00e9partement Information G\u00e9ographique et Image de la division Espace de CS SI.</p>\n<p>Contributeur au projet OpenStreetMap depuis 2009, utilisateur et promoteur du logiciel libre depuis 1998.</p>"
                         }
                     ], 
                     "title": "Contribuer \u00e0 OpenStreetMap", 

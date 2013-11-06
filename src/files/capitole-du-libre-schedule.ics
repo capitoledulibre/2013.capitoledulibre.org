@@ -26,6 +26,16 @@ GEO:43.6022973938;1.45454333439
 DESCRIPTION:La prochaine version de joomla 3.2 introduit de nouvelles fonctionnalités impressionnantes qui pourraient bien faire pencher la balance dans le marché du CMS Open Source.\n\nVous découvrirez lors de cette mini-conférence une liste non exhaustive de quelques fonctionnalités de ce qui pourrait être considéré comme majeur\, et inclus dans la future version 3.2 de Joomla. Quelques caractéristiques sont assez poussées\, et vont certainement changer notre regard sur Joomla.
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:L'Open Data toulousain
+LOCATION:A001\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrddf/
+UID:f0bb5c262ddb52d730e9fb915f45848224e14edb
+DTSTART:20131123T100000Z
+DTEND:20131123T110000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:Cet exposé abordera les thèmes suivants :\n\nLe projet Open Data toulousain\n\n* Projet\, réalisations et résultats\n* Les types de données\n* Les conditions de réutilisation des données\n\nLes conditions juridiques\n\nLe mouvement français\n\n* Genèse\n* État
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:LibreOffice\, le meilleur de la bureautique libre
 LOCATION:A002\, ENSEEIHT
 URL:http://lanyrd.com/2013/capitole-du-libre/scrdbk/
@@ -34,16 +44,6 @@ DTSTART:20131123T100000Z
 DTEND:20131123T110000Z
 GEO:43.6022973938;1.45454333439
 DESCRIPTION:LibreOffice est une suite bureautique libre et gratuite composée d'un traitement de textes\, d'un tableur\, d'un outil de présentation\, d'un outil de dessin vectoriel\, d'une base de données\, ainsi que d'un éditeur de formules mathématiques\, il permet de disposer d'une suite bureautique complète et multi-plateforme. \n\n\nDans cette conférence je présenterai dans un premier temps les différents modules du projet ainsi que leurs capacités. J'aborderai ensuite l'histoire du projet ainsi que les développements en cours.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Présentation du portail Toulouse Métropole Data et des évolutions à venir
-LOCATION:A001\, ENSEEIHT
-URL:http://lanyrd.com/2013/capitole-du-libre/scrddf/
-UID:f0bb5c262ddb52d730e9fb915f45848224e14edb
-DTSTART:20131123T100000Z
-DTEND:20131123T110000Z
-GEO:43.6022973938;1.45454333439
-DESCRIPTION:Cet exposé abordera les thèmes suivants :\n\nLe projet Open Data toulousain\n\n* Projet\, réalisations et résultats\n* Les types de données\n* Les conditions de réutilisation des données\n\nLes conditions juridiques\n\nLe mouvement français\n\n* Genèse\n* État
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bugs et opensource\, qu’en faire?
