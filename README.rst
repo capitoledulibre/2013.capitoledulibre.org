@@ -11,6 +11,7 @@ Installation
 
 1. prérequis 
 
+* curl
 * python
 * virtualenv (paquet python-virtualenv avec Ubuntu)
 * make
@@ -27,7 +28,7 @@ Installation
 
     cd pelican-sites
     source bin/activate
-    easy_install pelican icalendar curl
+    easy_install pelican icalendar
     git clone https://github.com/cozo/pelican-plugins.git src/pelican-plugins
     cd src/pelican-plugins
     git checkout working
