@@ -38,6 +38,13 @@ a:link, a:visited {
 a:hover {
   color: #E4401F;
 }
+*:target {
+    background: gold;
+    padding: 0 10px;
+}
+h2{
+
+}
 h1,
 h2,
 h3,
