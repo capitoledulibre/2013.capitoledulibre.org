@@ -73,7 +73,7 @@ UID:67c95d79195fee97b42fd9f162c3098c4da31fe6
 DTSTART:20131123T123000Z
 DTEND:20131123T133000Z
 GEO:43.6022973938;1.45454333439
-DESCRIPTION:Les grandes lignes de cette conférences sont les suivants : \n\n* ils en savent plus sur nous que nous même !\n* qui surveille les surveillants ?\n* l'enjeu n'est pas la liberté de penser mais d'opinion\n* comment le BigData\, le BigBrother et les science cognitives ont le potentiel d'arme de destruction massive des opinions\n* les pistes pour se préserver
+DESCRIPTION:Depuis le scandale PRISM révélé par Snowden\, ce dont nous nous doutions est confirmé : l'espionnage se fait à l'échelle industrielle sur Internet. Alors qu'il était à l'origine un lieu de partage décentralisé\, le Web s'est transformé en Big Brother de plus en plus envahissant. Pourtant\, beaucoup se disent peu choqués ou même concernés\, et le piège se referme.\nComment se fait-il qu'il soit si compliqué d'expliquer le danger que représente cette dérive sans sombrer dans la parano ou la théorie de la conspiration ? Est-on vraiment à l'abri des conséquences même si on est noyé dans la masse et qu'on n'a rien à se reprocher ?\nEssayons d'y voir plus clair.\n\nLes grandes lignes de cette conférences sont les suivants : \n\n* ils en savent plus sur nous que nous même !\n* qui surveille les surveillants ?\n* l'enjeu n'est pas la liberté de penser mais d'opinion\n* comment le BigData\, le BigBrother et les science cognitives ont le potentiel d'arme de destruction massive des opinions\n* les pistes pour se préserver
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Les jails FreeBSD du chroot au container
@@ -437,7 +437,7 @@ DESCRIPTION:Atelier de CAcert pour assurer les personnes le désirant.\n\nCréat
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prise en main des logiciels du Terrier et de leur éditeur d'exercices
-LOCATION:A201\, ENSEEIHT
+LOCATION:A202\, ENSEEIHT
 URL:http://lanyrd.com/2013/capitole-du-libre/scrfzr/
 UID:94225e724dc70967090d8cc53849c6ae12009d71
 DTSTART:20131124T125000Z
@@ -447,7 +447,7 @@ DESCRIPTION:Au travers de deux exemples (Mulot et Contour)\, nous présenterons 
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Utiliser les données d'OpenStreetMap
-LOCATION:A202\, ENSEEIHT
+LOCATION:A201\, ENSEEIHT
 URL:http://lanyrd.com/2013/capitole-du-libre/scrdby/
 UID:43f06b9cedde0a577f20816a30618e000cbf5c17
 DTSTART:20131124T125000Z
@@ -487,7 +487,7 @@ DESCRIPTION:* Mise en place et utilisation de PostgreSQL\n* Installation et util
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Écriture collaborative d'un épisode de roman feuilleton (placé sous CC0)
-LOCATION:A201\, ENSEEIHT
+LOCATION:A202\, ENSEEIHT
 URL:http://lanyrd.com/2013/capitole-du-libre/scrfzt/
 UID:2162f210bf5c7af7cf777804467ad0e1be844a8e
 DTSTART:20131124T143000Z
@@ -497,7 +497,7 @@ DESCRIPTION:Tous les 88 ans\, 8 NoéNautes (des humains aux pouvoirs de télépa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leaflet\, le Web mapping moderne et léger
-LOCATION:A202\, ENSEEIHT
+LOCATION:A201\, ENSEEIHT
 URL:http://lanyrd.com/2013/capitole-du-libre/scrdbz/
 UID:60b789eca4daadc698a8f8e0205dbd29a08c2f0f
 DTSTART:20131124T143000Z
