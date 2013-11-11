@@ -52,13 +52,14 @@ Kit de communication
 Ils parlent de nous
 ======================
 
-
-1. 23 et 24 Novembre - Participez au Capitole du Libre [Internet]. 2013 [cité 6 nov 2013]. Disponible sur: http://www.digitalplace.fr/fr/item/23-et-24-novembre-participez-au-capitole-du-libre
-2. Capitole du Libre 2013 - Montpel’libre [Internet]. 2013 [cité 6 nov 2013]. Disponible sur: http://montpel-libre.fr/spip.php?article1435
-3. Capitole du libre 2013 / Stand imprimante 3D Toulouse [Internet]. 2013 [cité 6 nov 2013]. Disponible sur: http://www.julienbuabent.fr/2013/10/19/capitole-du-libre-2013-imprimante-3d-toulouse/
-4. Logilab sponsor du Capitol du Libre 2013 à Toulouse (Logilab - logiciel, conseil, formation - Informatique scientifique - Web sémantique - Agilité) [Internet]. 2013 [cité 6 nov 2013]. Disponible sur: http://www.logilab.fr/blogentry/1927
-5. ctillous. Le Capitole du Libre [Internet]. 2013 [cité 6 nov 2013]. Disponible sur: http://www.solibre.fr/fr/actualites/le-capitole-du-libre.html
-6. Capitole du Libre 2013: l’appel à conférences est ouvert! | Linuxgraphic [Internet]. 2013 [cité 6 nov 2013]. Disponible sur: http://www.linuxgraphic.org/wp/capitole-du-libre-2013-lappel-a-conferences-est-ouvert/
+1. Linux Essentiel, Partenaire de « Capitole du Libre » | UNIX Garden [Internet]. 2103 [cité 8 nov 2013]. Disponible sur: http://www.unixgarden.com/index.php/linux-essentiel/linux-essentiel-partenaire-de-capitole-du-libre
+2. Saint-Aubin. Troisième édition studieuse du «Capitole libre» [Internet]. LaDépêche.fr. 2013 [cité 11 nov 2013]. Disponible sur: http://www.ladepeche.fr/article/2013/11/06/1746966-saint-aubin-troisieme-edition-studieuse-du-capitole-libre.html
+3. Capitole du Libre 2013 - Montpel’libre [Internet]. 2013 [cité 6 nov 2013]. Disponible sur: http://montpel-libre.fr/spip.php?article1435
+4. 23 et 24 Novembre - Participez au Capitole du Libre [Internet]. 2013 [cité 6 nov 2013]. Disponible sur: http://www.digitalplace.fr/fr/item/23-et-24-novembre-participez-au-capitole-du-libre
+5. Capitole du libre 2013 / Stand imprimante 3D Toulouse [Internet]. 2013 [cité 6 nov 2013]. Disponible sur: http://www.julienbuabent.fr/2013/10/19/capitole-du-libre-2013-imprimante-3d-toulouse/
+6. Logilab sponsor du Capitol du Libre 2013 à Toulouse (Logilab - logiciel, conseil, formation - Informatique scientifique - Web sémantique - Agilité) [Internet]. 2013 [cité 6 nov 2013]. Disponible sur: http://www.logilab.fr/blogentry/1927
+7. ctillous. Le Capitole du Libre [Internet]. 2013 [cité 6 nov 2013]. Disponible sur: http://www.solibre.fr/fr/actualites/le-capitole-du-libre.html
+8. Capitole du Libre 2013: l’appel à conférences est ouvert! | Linuxgraphic [Internet]. 2013 [cité 6 nov 2013]. Disponible sur: http://www.linuxgraphic.org/wp/capitole-du-libre-2013-lappel-a-conferences-est-ouvert/
 
 Voir la `revue de presse`_ de l'édition 2012.
 
