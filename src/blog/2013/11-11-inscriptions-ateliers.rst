@@ -1,6 +1,6 @@
-========================================
-Atelirs : les inscriptions sont ouvertes
-========================================
+==========================================
+Ateliers : les inscriptions sont ouvertes
+==========================================
 
 
 :category: programme
