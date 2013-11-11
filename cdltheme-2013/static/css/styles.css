@@ -145,6 +145,9 @@ img.align-right {
   clear: right;
   margin: 0 10px 10px 0;
 }
+.pull-right {
+    margin-left: 10px;
+}
 table, th, td {
   vertical-align: top;
   border: 1px solid #000;
