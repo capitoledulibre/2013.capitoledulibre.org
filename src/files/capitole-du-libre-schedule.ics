@@ -236,16 +236,6 @@ GEO:43.6022973938;1.45454333439
 DESCRIPTION:Cette conférence commence par une présentation du projet et de la fondation Krita\, pour ensuite parler des nouveautés de la dernière version\, des nouvelles des GSOC de cet été\, ainsi que des projets en cours de la version de développement. \n\nDémonstration en direct pour ce qui peut l'être\, et exemples de fichiers pour le reste.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Le droit\, le libre et l'Open Source : rétrospective et prospective
-LOCATION:A001\, ENSEEIHT
-URL:http://lanyrd.com/2013/capitole-du-libre/scrfxy/
-UID:f7f047dbe1cc2c7bebc065e23c599bef7a49b0ea
-DTSTART:20131123T160000Z
-DTEND:20131123T170000Z
-GEO:43.6022973938;1.45454333439
-DESCRIPTION:Si le droit préexiste au logiciel\, force est de constater qu'il n'est venu encadrer ce dernier que tardivement avant de s'étendre à toutes les autres sphères de la création. Néanmoins les mouvements du Libre et de l'Open Source ont très rapidement su tirer profit de ce dernier pour formaliser\, sécuriser puis organiser leur écosystème.\n\nIci il s'agirait de dresser dans un premier temps un bilan sur les évolutions juridiques associées au libre\, les enjeux et solutions qui leur furent apportés (licences\, copyright assignement et autres documents\, etc.). 30 années de construction ont donné existence à un système relativement complexe et autonome\, qui laisse une place de plus en plus importante au secteur public et au secteur industriel. Après avoir présentés ces fondements\, nous évoquerons les pistes d'évolutions\, les enjeux et chantiers de demain.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Jeux vidéos et applications interactives avec Blender
 LOCATION:A002\, ENSEEIHT
 URL:http://lanyrd.com/2013/capitole-du-libre/scrdbh/
@@ -264,6 +254,16 @@ DTSTART:20131123T160000Z
 DTEND:20131123T170000Z
 GEO:43.6022973938;1.45454333439
 DESCRIPTION:Dans un contexte de surveillance grandissante de population par des agences gouvernementales et leurs sous-traitants privés\, la concentration des données personnelles entre les mains d'un petit nombre de silos privés devient un défi grandissant à une utilisation de l'Internet telle qu'elle était imaginée par ses créateurs.\n\nDisposer d'alternatives libres au cloud propriétaire pour les données personnelles devient donc un enjeu critique pour les libertés individuelles.\nParmi ces alternatives\, Kolab a particulièrement retenu notre attention de part son histoire\, son écosystème renaissant et ses capacités techniques.\n\nDans cette présentation nous montrerons Kolab du point de vue de l'utilisateur. Nous explorerons ses fonctionnalités couvrant les cas d'usage les plus courants : email\, agenda\, tâches\, stockage de fichiers. \nNous évaluerons aussi les différentes méthodes d'accès : depuis un ordinateur de bureau\, depuis un navigateur web et depuis un téléphone. \nEnfin\, nous poserons la question fatidique de l'auto-hébergement d'un tel service pour le grand public et à défaut les choix à faire pour obtenir au moins une protection législative minimale de sa vie privée.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le droit\, le libre et l'Open Source : rétrospective et prospective
+LOCATION:A001\, ENSEEIHT
+URL:http://lanyrd.com/2013/capitole-du-libre/scrfxy/
+UID:f7f047dbe1cc2c7bebc065e23c599bef7a49b0ea
+DTSTART:20131123T160000Z
+DTEND:20131123T170000Z
+GEO:43.6022973938;1.45454333439
+DESCRIPTION:Si le droit préexiste au logiciel\, force est de constater qu'il n'est venu encadrer ce dernier que tardivement avant de s'étendre à toutes les autres sphères de la création. Néanmoins les mouvements du Libre et de l'Open Source ont très rapidement su tirer profit de ce dernier pour formaliser\, sécuriser puis organiser leur écosystème.\n\nIci il s'agirait de dresser dans un premier temps un bilan sur les évolutions juridiques associées au libre\, les enjeux et solutions qui leur furent apportés (licences\, copyright assignement et autres documents\, etc.). 30 années de construction ont donné existence à un système relativement complexe et autonome\, qui laisse une place de plus en plus importante au secteur public et au secteur industriel. Après avoir présentés ces fondements\, nous évoquerons les pistes d'évolutions\, les enjeux et chantiers de demain.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OpenPandora\, le mini PC de poche
