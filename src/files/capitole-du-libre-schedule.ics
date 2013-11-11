@@ -236,14 +236,14 @@ GEO:43.6022973938;1.45454333439
 DESCRIPTION:Cette conférence commence par une présentation du projet et de la fondation Krita\, pour ensuite parler des nouveautés de la dernière version\, des nouvelles des GSOC de cet été\, ainsi que des projets en cours de la version de développement. \n\nDémonstration en direct pour ce qui peut l'être\, et exemples de fichiers pour le reste.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Aspect juridique
+SUMMARY:Le droit\, le libre et l'Open Source : rétrospective et prospective
 LOCATION:A001\, ENSEEIHT
 URL:http://lanyrd.com/2013/capitole-du-libre/scrfxy/
 UID:f7f047dbe1cc2c7bebc065e23c599bef7a49b0ea
 DTSTART:20131123T160000Z
 DTEND:20131123T170000Z
 GEO:43.6022973938;1.45454333439
-DESCRIPTION:
+DESCRIPTION:Si le droit préexiste au logiciel\, force est de constater qu'il n'est venu encadrer ce dernier que tardivement avant de s'étendre à toutes les autres sphères de la création. Néanmoins les mouvements du Libre et de l'Open Source ont très rapidement su tirer profit de ce dernier pour formaliser\, sécuriser puis organiser leur écosystème.\n\nIci il s'agirait de dresser dans un premier temps un bilan sur les évolutions juridiques associées au libre\, les enjeux et solutions qui leur furent apportés (licences\, copyright assignement et autres documents\, etc.). 30 années de construction ont donné existence à un système relativement complexe et autonome\, qui laisse une place de plus en plus importante au secteur public et au secteur industriel. Après avoir présentés ces fondements\, nous évoquerons les pistes d'évolutions\, les enjeux et chantiers de demain.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jeux vidéos et applications interactives avec Blender

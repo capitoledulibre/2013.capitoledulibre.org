@@ -417,6 +417,17 @@
                     "end_time_epoch": 1385217000, 
                     "speakers": [
                         {
+                            "bio": "<p>Pr\u00e9sident de FDN.</p>", 
+                            "web_url": "http://lanyrd.com/profile/bayartb/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/bddb05f4473f67963bd17c45c86d48a39e88149b-s300.jpg", 
+                            "name": "Benjamin Bayart", 
+                            "elsewhere": [], 
+                            "role": "Pr\u00e9sident de FDN.", 
+                            "twitter": "@bayartb", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/bddb05f4473f67963bd17c45c86d48a39e88149b-s75.jpg", 
+                            "speaker_bio": ""
+                        }, 
+                        {
                             "bio": "<p>Free Software</p>", 
                             "web_url": "http://lanyrd.com/profile/lguerby/", 
                             "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/33ac64bb3c4583aa94c685d52de30d6329aeab6d-s300.jpg", 
@@ -893,36 +904,6 @@
                 }, 
                 {
                     "start_time": "2013-11-23 17:00:00", 
-                    "topics": [], 
-                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrfxy/", 
-                    "times": "5:00pm\u00a0-\u00a06:00pm", 
-                    "id": "scrfxy", 
-                    "types": [], 
-                    "end_time_epoch": 1385226000, 
-                    "speakers": [
-                        {
-                            "bio": "", 
-                            "web_url": null, 
-                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
-                            "name": "Benjamin Jean", 
-                            "elsewhere": [], 
-                            "role": null, 
-                            "twitter": null, 
-                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
-                            "speaker_bio": ""
-                        }
-                    ], 
-                    "title": "Aspect juridique", 
-                    "event_id": "cprtz", 
-                    "space": "A001", 
-                    "day": "Saturday 23rd November", 
-                    "end_time": "2013-11-23 18:00:00", 
-                    "other_url": null, 
-                    "start_time_epoch": 1385222400, 
-                    "abstract": ""
-                }, 
-                {
-                    "start_time": "2013-11-23 17:00:00", 
                     "topics": [
                         {
                             "name": "Blender", 
@@ -1005,6 +986,36 @@
                     "other_url": null, 
                     "start_time_epoch": 1385222400, 
                     "abstract": "<p>Dans un contexte de surveillance grandissante de population par des agences gouvernementales et leurs sous-traitants priv\u00e9s, la concentration des donn\u00e9es personnelles entre les mains d&#39;un petit nombre de silos priv\u00e9s devient un d\u00e9fi grandissant \u00e0 une utilisation de l&#39;Internet telle qu&#39;elle \u00e9tait imagin\u00e9e par ses cr\u00e9ateurs.</p>\n<p>Disposer d&#39;alternatives libres au cloud propri\u00e9taire pour les donn\u00e9es personnelles devient donc un enjeu critique pour les libert\u00e9s individuelles.<br>\nParmi ces alternatives, Kolab a particuli\u00e8rement retenu notre attention de part son histoire, son \u00e9cosyst\u00e8me renaissant et ses capacit\u00e9s techniques.</p>\n<p>Dans cette pr\u00e9sentation nous montrerons Kolab du point de vue de l&#39;utilisateur. Nous explorerons ses fonctionnalit\u00e9s couvrant les cas d&#39;usage les plus courants : email, agenda, t\u00e2ches, stockage de fichiers. <br>\nNous \u00e9valuerons aussi les diff\u00e9rentes m\u00e9thodes d&#39;acc\u00e8s : depuis un ordinateur de bureau, depuis un navigateur web et depuis un t\u00e9l\u00e9phone. <br>\nEnfin, nous poserons la question fatidique de l&#39;auto-h\u00e9bergement d&#39;un tel service pour le grand public et \u00e0 d\u00e9faut les choix \u00e0 faire pour obtenir au moins une protection l\u00e9gislative minimale de sa vie priv\u00e9e.</p>"
+                }, 
+                {
+                    "start_time": "2013-11-23 17:00:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrfxy/", 
+                    "times": "5:00pm\u00a0-\u00a06:00pm", 
+                    "id": "scrfxy", 
+                    "types": [], 
+                    "end_time_epoch": 1385226000, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": null, 
+                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
+                            "name": "Benjamin Jean", 
+                            "elsewhere": [], 
+                            "role": "Juriste sp\u00e9cialis\u00e9 en Propri\u00e9t\u00e9 Intellectuelle", 
+                            "twitter": null, 
+                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
+                            "speaker_bio": "<p>Juriste sp\u00e9cialis\u00e9 en Propri\u00e9t\u00e9 Intellectuelle (PI) actif depuis 10 ans, Benjamin Jean \u0153uvre pour la prise en compte de l\u2019innovation ouverte au sein de la gouvernance de grands acteurs publics et priv\u00e9s. Il est engag\u00e9 activement dans les communaut\u00e9s libres (Framasoft, Veni Vedi Libri).</p>\n<p>Il est par ailleurs fondateur et Pr\u00e9sident d\u2019Inno3, une soci\u00e9t\u00e9 de conseil en innovation libre (Open Source, Open Data, Open innovation), il enseigne dans plusieurs masters PI ; il est ma\u00eetre de conf\u00e9rences \u00e0 Sciences Po et consultant au sein du cabinet d\u2019avocat Gilles Vercken.</p>"
+                        }
+                    ], 
+                    "title": "Le droit, le libre et l'Open Source : r\u00e9trospective et prospective", 
+                    "event_id": "cprtz", 
+                    "space": "A001", 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 18:00:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385222400, 
+                    "abstract": "<p>Si le droit pr\u00e9existe au logiciel, force est de constater qu&#39;il n&#39;est venu encadrer ce dernier que tardivement avant de s&#39;\u00e9tendre \u00e0 toutes les autres sph\u00e8res de la cr\u00e9ation. N\u00e9anmoins les mouvements du Libre et de l&#39;Open Source ont tr\u00e8s rapidement su tirer profit de ce dernier pour formaliser, s\u00e9curiser puis organiser leur \u00e9cosyst\u00e8me.</p>\n<p>Ici il s&#39;agirait de dresser dans un premier temps un bilan sur les \u00e9volutions juridiques associ\u00e9es au libre, les enjeux et solutions qui leur furent apport\u00e9s (licences, copyright assignement et autres documents, etc.). 30 ann\u00e9es de construction ont donn\u00e9 existence \u00e0 un syst\u00e8me relativement complexe et autonome, qui laisse une place de plus en plus importante au secteur public et au secteur industriel. Apr\u00e8s avoir pr\u00e9sent\u00e9s ces fondements, nous \u00e9voquerons les pistes d&#39;\u00e9volutions, les enjeux et chantiers de demain.</p>"
                 }, 
                 {
                     "start_time": "2013-11-23 17:00:00", 
