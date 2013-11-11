@@ -16,12 +16,16 @@ function from_lanyrd_json(day, space) {
     var jqxhr = $.getJSON('/files/capitole-du-libre-schedule.json', function(data) {
     })
     .done(function(data) {
-        var template = $('#summary_tpl').html();
+        
+        var partials = { subscribe: "" };
+        
         if (day == "samedi") {
             sessions = data.sessions[0];
+            
         }
-        else {
+        else if (day == "dimanche") {
             sessions = data.sessions[1];
+            partials = { subscribe: "<a target='_blank' href='http://www.toulibre.org/capitoledulibre2013:ateliers:{{id}}' class='btn pull-right'>Je m'inscris !</a>" };
         }
 
         for (var i = 0 ; i < sessions.sessions.length ; i++) {
@@ -51,11 +55,13 @@ function from_lanyrd_json(day, space) {
             });
             sessions = {"sessions": results};
         }
+        
+        var template = $('#summary_tpl').html();
         var html = Mustache.to_html(template,sessions);
         $('#prog-summary').html(html);
 
         var template = $('#sessions_tpl').html();
-        var html = Mustache.to_html(template,sessions);
+        var html = Mustache.to_html(template,sessions,partials);
         $('#prog-details').html(html);
         
         go_to_anchor();
@@ -69,11 +75,10 @@ function from_lanyrd_list() {
     var jqxhr = $.getJSON('/files/capitole-du-libre-schedule.json', function(data) {
     })
     .done(function(data) {
-        var template = $('#summary_tpl').html();
         if (day == "samedi") {
             sessions = data.sessions[0];
         }
-        else {
+        else if (day == "dimanche") {
             sessions = data.sessions[1];
         }
         var results = $.grep(sessions.sessions, function(elem) {
@@ -81,11 +86,12 @@ function from_lanyrd_list() {
         });
         sessions = {"sessions": results};
             
-        var html = Mustache.to_html(template,sessions);
+        var template = $('#summary_tpl').html(),
+            html = Mustache.to_html(template,sessions);
         $('#prog-summary').html(html);
 
-        var template = $('#sessions_tpl').html();
-        var html = Mustache.to_html(template,sessions);
+        var template = $('#sessions_tpl').html(),
+            html = Mustache.to_html(template,sessions);
         $('#prog-details').html(html);
     }); 
 }

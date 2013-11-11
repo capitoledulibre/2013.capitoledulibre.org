@@ -13,7 +13,9 @@
 <script id="sessions_tpl" type="text/template">
     {% raw %}
     {{#sessions}}
+    <div class="sessions-details clearfix">
         <h2 id="{{id}}">{{title}} <small>{{start_time}} &minus; {{end_time}}</small></h2>
+        {{>subscribe}}
         <div class="abstract">{{{abstract}}}</div>
         <div class="speakers row-fluid">
         {{#speakers}}<div>
@@ -21,6 +23,8 @@
             <div class="biography">{{{speaker_bio}}}</div>
             </div>
         {{/speakers}}</div>
+        <a class="pull-right" href="#" alt="up"><i class="icon-arrow-up"></i></a>
+    </div>
     {{/sessions}}
     {% endraw %}
 </script>
