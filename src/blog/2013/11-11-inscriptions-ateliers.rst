@@ -17,7 +17,7 @@ Vous apprendrez également apprendre à `programmer une carte Arduino`_, avec de
 
 Contribuer au bien commun vous sera familier, notamment aux données géographiques d'OpenStreetMap. Vous pourrez découvrir une nouvelle façon de `partager vos connaissances avec wikidata`_, ou même contribuer à la `rédaction d'un chapitre d'un roman en Creative Commons`_. 
 
-Côté développement logiciel, vous serez servis avec `pylint, la bibliothèque python de qualité du code`_, vous pourrez en apprendre plus sur PostgreSQL, développer avec `Qt Quick 2`_ ou encore déployer vos serveurs avec Puppet_. Encore de la cartographie au travers de deux ateliers, lors desquels vous pourrez apprendre comment personnaliser_ puis afficher_ des cartes sur votre site internet à partir des données géographiques, avec des outils libres tels que TileMill_ et Leaflet_.
+Côté développement logiciel, vous serez servis avec `pylint, la bibliothèque python de qualité du code`_, vous pourrez en apprendre plus sur PostgreSQL_, développer avec `Qt Quick 2`_ ou encore déployer vos serveurs avec Puppet_. Encore de la cartographie au travers de deux ateliers, lors desquels vous pourrez apprendre comment personnaliser_ puis afficher_ des cartes sur votre site internet à partir des données géographiques, avec des outils libres tels que **TileMill** et **Leaflet**.
 
 
 .. _`plusieurs ateliers pratiques`: /programme/ateliers.html
@@ -30,6 +30,7 @@ Côté développement logiciel, vous serez servis avec `pylint, la bibliothèque
 .. _`rédaction d'un chapitre d'un roman en Creative Commons`: /programme/ateliers.html#
 .. _personnaliser: /programme/ateliers.html#scrdby
 .. _afficher: /programme/ateliers.html#scrdbz
+.. _PostgreSQL: /programme/ateliers.html#scrdbw
 .. _`programmer une carte Arduino`: /programme/ateliers.html#scrdbt
 
 .. _LinuxEdu: http://www.linuxedu.org/
