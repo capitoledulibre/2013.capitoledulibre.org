@@ -1,5 +1,16 @@
 // Schedule js
 
+function go_to_anchor() {
+    
+    var anchor = window.location.hash;
+
+    if ($(anchor).length > 0)
+        $('html, body').animate({
+        scrollTop: $(anchor).offset().top
+    }, 400);
+
+}
+
 function from_lanyrd_json(day, space) {
 
     var jqxhr = $.getJSON('/files/capitole-du-libre-schedule.json', function(data) {
@@ -46,6 +57,9 @@ function from_lanyrd_json(day, space) {
         var template = $('#sessions_tpl').html();
         var html = Mustache.to_html(template,sessions);
         $('#prog-details').html(html);
+        
+        go_to_anchor();
+        
     }); 
 
 }
