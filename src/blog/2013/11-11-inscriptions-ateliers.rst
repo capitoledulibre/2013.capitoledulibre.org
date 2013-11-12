@@ -25,6 +25,8 @@ Côté développement logiciel, vous serez servis avec `pylint, la bibliothèque
 Infos pratiques et inscriptions
 ===============================
 
+L'accès aux atelier est gratuit, mais nous ne fournissons pas d'ordinateurs : il est fortement conseillé de venir avec le vôtre.
+
 Pour chaque atelier un formulaire d'inscription est en ligne sur le site de Toulibre. Vous pouvez prendre votre repas du midi sur place, pour un montant de 7€ : pour estimer au mieux le nombre de repas à prévoir, merci de l'indiquer sur le formulaire.
 
 `À vous de choisir !`_
