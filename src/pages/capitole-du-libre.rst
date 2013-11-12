@@ -129,7 +129,7 @@ Les conférences sont en anglais, et requièrent une inscription sur le `site of
 Workshop **OpenStack**
 -----------------------
 
-La solution opensource de cloud. Le programme sera très prochainement en ligne.
+La solution opensource de cloud. Le programme est disponible sur le `site officiel d'OpenStack France`_
 
 .. html::
 
@@ -141,6 +141,7 @@ La solution opensource de cloud. Le programme sera très prochainement en ligne.
 .. _`Lua workshop`: http://www.lua.org/wshop13.html
 .. _`site officiel de Lua`: http://www.lua.org/wshop13.html
 .. _`site officiel de FranceJS`: http://francejs.org/conf2013.html
+.. _`site officiel d'OpenStack France`: http://openstack.fr/evenement/rencontre-openstack-fr-a-capitole-du-libre-2013-toulouse/
 .. _`Ubuntu Party`: http://ubuntu-party.org/
 
 
