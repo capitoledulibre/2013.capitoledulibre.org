@@ -6,7 +6,7 @@ Le Capitole du Libre
 particulier, et au libre en général. Il est orienté à la fois vers le
 grand public et le public spécialisé et l'entrée est libre et gratuite.
 
-Organisé notamment par l'assocation `Toulibre`_, il a lieu chaque année en novembre depuis 2011.
+Organisé par les assocations `Toulibre`_ et `Ubuntu-fr`_, avec la participation active des clubs vidéo TV-N7 et informatique Net7 de l'ENSEEIHT, il a lieu chaque année en novembre depuis 2011.
 
 L’édition 2013 du Capitole du Libre aura lieu les **23 et 24 novembre 2013**, n'hésitez pas à rejoindre la `liste de discussion capitoledulibre <http://www.toulibre.org/mailman/listinfo/capitoledulibre>`_ pour participer à son organisation.
 
@@ -148,3 +148,4 @@ La solution opensource de cloud. Le programme sera très prochainement en ligne.
 .. _l’ENSEEIHT: http://www.enseeiht.fr
 .. _`programme complet`: /programme.html
 .. _`Toulibre`: http://toulibre.org/
+.. _`Ubuntu-fr`: http://www.ubuntu-fr.org/
