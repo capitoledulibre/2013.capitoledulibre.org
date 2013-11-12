@@ -27,7 +27,9 @@ Infos pratiques et inscriptions
 
 Pour chaque atelier un formulaire d'inscription est en ligne sur le site de Toulibre. Vous pouvez prendre votre repas du midi sur place, pour un montant de 7€ : pour estimer au mieux le nombre de repas à prévoir, merci de l'indiquer sur le formulaire.
 
+`À vous de choisir !`_
 
+.. _`À vous de choisir !`: /programme/ateliers.html
 .. _`plusieurs ateliers pratiques`: /programme/ateliers.html
 .. _`dessiner avec votre ordinateur`: /programme/ateliers.html#scrkxy
 .. _`pylint, la bibliothèque python de qualité du code`: /programme/ateliers.html#scrdcb
