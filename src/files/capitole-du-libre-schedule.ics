@@ -423,7 +423,7 @@ UID:50a1f5fe043469b2248e6d3681a93bcabb223477
 DTSTART:20131124T084500Z
 DTEND:20131124T114500Z
 GEO:43.6022973938;1.45454333439
-DESCRIPTION:Blender est un logiciel aux multiples facettes\, permettant aussi bien de s'intégrer dans des flux de productions dédiés au cinéma et à la télévision\, mais aussi aux jeux vidéos et applications interactives. Nous verrons dans cette conférence le processus de création permettant de créer un jeu vidéo de A à Z avec Blender\, tirant notamment parti de son "Game Engine" et éventuellement d'autres logiciels libres.
+DESCRIPTION:Blender est un logiciel aux multiples facettes\, permettant aussi bien de s'intégrer dans des flux de productions dédiés au cinéma et à la télévision\, mais aussi aux jeux vidéos et applications interactives. \n\nNous verrons dans cette conférence le processus de création permettant de créer un jeu vidéo de A à Z avec Blender\, tirant notamment parti de son "Game Engine" et éventuellement d'autres logiciels libres.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GPG keysigning Party / CAcert signing party
@@ -463,7 +463,7 @@ UID:7fbb21ef57d0a41e7e6dcac51edafe439e72c683
 DTSTART:20131124T130000Z
 DTEND:20131124T160000Z
 GEO:43.6022973938;1.45454333439
-DESCRIPTION:Ce workshop s'adresse aux personnes qui souhaitent apprendre les bases pour utiliser Krita. L'exemple utilisé sera un dessin d'après le nouveau design de Konqi\, le dragon mascotte de KDE. Cet example permettra d'aborder plusieurs points (utilisation de référence\, croquis\, encrage\, couleur.. ) et de répondre aux questions des participants. Je conseil aux participants d'apporter leur ordinateur pour dessiner\, mais libre à tout le monde de venir sans matériel\, en observateur. Néanmoins\, une tablette graphique Wacom est fortement recommandée.
+DESCRIPTION:Ce workshop s'adresse aux personnes qui souhaitent apprendre les bases pour utiliser Krita. L'exemple utilisé sera un dessin d'après le nouveau design de Konqi\, le dragon mascotte de KDE. Cet example permettra d'aborder plusieurs points (utilisation de référence\, croquis\, encrage\, couleur.. ) et de répondre aux questions des participants. \n\nJe conseille aux participants d'apporter leur ordinateur pour dessiner\, mais libre à tout le monde de venir sans matériel\, en observateur. Néanmoins\, une tablette graphique Wacom est fortement recommandée.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Programmation d'une carte arduino

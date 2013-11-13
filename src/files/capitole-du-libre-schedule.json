@@ -1624,7 +1624,7 @@
                     "end_time": "2013-11-24 12:45:00", 
                     "other_url": null, 
                     "start_time_epoch": 1385282700, 
-                    "abstract": "<p>Blender est un logiciel aux multiples facettes, permettant aussi bien de s&#39;int\u00e9grer dans des flux de productions d\u00e9di\u00e9s au cin\u00e9ma et \u00e0 la t\u00e9l\u00e9vision, mais aussi aux jeux vid\u00e9os et applications interactives. Nous verrons dans cette conf\u00e9rence le processus de cr\u00e9ation permettant de cr\u00e9er un jeu vid\u00e9o de A \u00e0 Z avec Blender, tirant notamment parti de son &quot;Game Engine&quot; et \u00e9ventuellement d&#39;autres logiciels libres.</p>"
+                    "abstract": "<p>Blender est un logiciel aux multiples facettes, permettant aussi bien de s&#39;int\u00e9grer dans des flux de productions d\u00e9di\u00e9s au cin\u00e9ma et \u00e0 la t\u00e9l\u00e9vision, mais aussi aux jeux vid\u00e9os et applications interactives.</p>\n<p>Nous verrons dans cette conf\u00e9rence le processus de cr\u00e9ation permettant de cr\u00e9er un jeu vid\u00e9o de A \u00e0 Z avec Blender, tirant notamment parti de son &quot;Game Engine&quot; et \u00e9ventuellement d&#39;autres logiciels libres.</p>"
                 }, 
                 {
                     "start_time": "2013-11-24 11:10:00", 
@@ -1766,6 +1766,17 @@
                     "end_time_epoch": 1385308800, 
                     "speakers": [
                         {
+                            "bio": "<p>Digital painter,  illustrator, concept artist with open-source</p>", 
+                            "web_url": "http://lanyrd.com/profile/davidrevoy/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/5e28f6c87e7c321f57ccc2026055cc71c6399571-s300.jpg", 
+                            "name": "David REVOY", 
+                            "elsewhere": [], 
+                            "role": "Digital painter,  illustrator, concept artist with open-source", 
+                            "twitter": "@davidrevoy", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/5e28f6c87e7c321f57ccc2026055cc71c6399571-s75.jpg", 
+                            "speaker_bio": ""
+                        }, 
+                        {
                             "bio": "", 
                             "web_url": null, 
                             "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
@@ -1784,7 +1795,7 @@
                     "end_time": "2013-11-24 17:00:00", 
                     "other_url": null, 
                     "start_time_epoch": 1385298000, 
-                    "abstract": "<p>Ce workshop s&#39;adresse aux personnes qui souhaitent apprendre les bases pour utiliser Krita. L&#39;exemple utilis\u00e9 sera un dessin d&#39;apr\u00e8s le nouveau design de Konqi, le dragon mascotte de KDE. Cet example permettra d&#39;aborder plusieurs points (utilisation de r\u00e9f\u00e9rence, croquis, encrage, couleur.. ) et de r\u00e9pondre aux questions des participants. Je conseil aux participants d&#39;apporter leur ordinateur pour dessiner, mais libre \u00e0 tout le monde de venir sans mat\u00e9riel, en observateur. N\u00e9anmoins, une tablette graphique Wacom est fortement recommand\u00e9e.</p>"
+                    "abstract": "<p>Ce workshop s&#39;adresse aux personnes qui souhaitent apprendre les bases pour utiliser Krita. L&#39;exemple utilis\u00e9 sera un dessin d&#39;apr\u00e8s le nouveau design de Konqi, le dragon mascotte de KDE. Cet example permettra d&#39;aborder plusieurs points (utilisation de r\u00e9f\u00e9rence, croquis, encrage, couleur.. ) et de r\u00e9pondre aux questions des participants.</p>\n<p>Je conseille aux participants d&#39;apporter leur ordinateur pour dessiner, mais libre \u00e0 tout le monde de venir sans mat\u00e9riel, en observateur. N\u00e9anmoins, une tablette graphique Wacom est fortement recommand\u00e9e.</p>"
                 }, 
                 {
                     "start_time": "2013-11-24 14:00:00", 
