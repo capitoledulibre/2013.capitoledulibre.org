@@ -29,7 +29,7 @@ section, .section {
   display: block;
 }
 a:link, a:visited {
-  color: #666;
+  color: #222;
   text-decoration: underline;
 }
 #main a:link, #main a:visited {
@@ -57,6 +57,7 @@ h6 {
 p {
   font-size: 100%;
   margin-bottom: 1em;
+  line-height: 1.2em;
 }
 p small {
   font-size: 62.75%;
