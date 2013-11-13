@@ -5,6 +5,7 @@
         {{#sessions}}
             <li>{{start_time}} : <a href="#{{id}}">{{title}}</a> - 
             {{#speakers}}<em>{{name}}</em> {{/speakers}}
+            {{>subscribe}}
             </li>
         {{/sessions}}
         </ul>
@@ -14,7 +15,8 @@
     {% raw %}
     {{#sessions}}
     <div class="sessions-details clearfix">
-        <h2 id="{{id}}">{{title}} <small>{{start_time}} &minus; {{end_time}}</small></h2>
+        <h2 id="{{id}}">{{title}} <span class="label label-important">{{start_time}} &minus; {{end_time}}</span> <span class="label label-info">{{space}}</span></h2>
+        
         {{>subscribe}}
         <div class="abstract">{{{abstract}}}</div>
         <div class="speakers row-fluid">
