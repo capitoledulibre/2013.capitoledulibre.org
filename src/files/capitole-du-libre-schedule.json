@@ -1636,6 +1636,18 @@
                         {
                             "name": "PGP/GPG", 
                             "slug": "pgpgpg"
+                        }, 
+                        {
+                            "name": "s\u00e9curit\u00e9", 
+                            "slug": "securite"
+                        }, 
+                        {
+                            "name": "Security", 
+                            "slug": "security"
+                        }, 
+                        {
+                            "name": "vie priv\u00e9e", 
+                            "slug": "vie-privee"
                         }
                     ], 
                     "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrdbx/", 
@@ -1663,7 +1675,7 @@
                     "end_time": "2013-11-24 12:40:00", 
                     "other_url": null, 
                     "start_time_epoch": 1385287800, 
-                    "abstract": "<p>Atelier de CAcert pour assurer les personnes le d\u00e9sirant.</p>\n<p>Cr\u00e9ation d&#39;un web of Trust sur Toulouse au travers d&#39;une GPG key signing party.</p>"
+                    "abstract": "<p>Atelier de CAcert pour assurer les personnes le d\u00e9sirant.</p>\n<p>* Pour faciliter la vie des assureurs (pour l&#39;instant il n&#39;y a que @lhirlimann) veuillez visiter le site <a href=\"https://CAcert.org\" rel=\"nofollow\">https://CAcert.org</a> et y cr\u00e9er un compte. <br>\n*Venir avec des documents d&#39;assurances pr\u00e9-remplits. Tous les d\u00e9tails sont disponibles \u00e0 <a href=\"http://wiki.cacert.org/FAQ/AssuranceByCAP/FR\" rel=\"nofollow\">http://wiki.cacert.org/FAQ/Assur...</a></p>\n<p>Cr\u00e9ation d&#39;un web of Trust sur Toulouse au travers d&#39;une GPG key signing party.<br>\n* si vous n&#39;avez pas de clef  venir avec un ordinateur et pgp et ou gpg install\u00e9 dessus<br>\n** on cr\u00e9era des clefs et on ferra de la conf de base afin d&#39;avoir une meilleur confidentialit\u00e9.<br>\n* Si vous avez une clef merci d&#39;imprimer des  fingerprints (commande gpg --fingerprint L&#39;ID de votre clef) En pr\u00e9voir une petite trentaine \u00e7a devrait \u00eatre suffisant.</p>\n<p>Dans tous les cas vous munir d&#39;une pi\u00e8ce d&#39;identit\u00e9 en cours de validit\u00e9.</p>"
                 }, 
                 {
                     "start_time": "2013-11-24 13:50:00", 

@@ -433,7 +433,7 @@ UID:25c80b363327e6460b437c12cf9098862fc9d616
 DTSTART:20131124T101000Z
 DTEND:20131124T114000Z
 GEO:43.6022973938;1.45454333439
-DESCRIPTION:Atelier de CAcert pour assurer les personnes le désirant.\n\nCréation d'un web of Trust sur Toulouse au travers d'une GPG key signing party.
+DESCRIPTION:Atelier de CAcert pour assurer les personnes le désirant.\n\n* Pour faciliter la vie des assureurs (pour l'instant il n'y a que @lhirlimann) veuillez visiter le site https://CAcert.org et y créer un compte. \n*Venir avec des documents d'assurances pré-remplits. Tous les détails sont disponibles à http://wiki.cacert.org/FAQ/AssuranceByCAP/FR\n\nCréation d'un web of Trust sur Toulouse au travers d'une GPG key signing party.\n* si vous n'avez pas de clef  venir avec un ordinateur et pgp et ou gpg installé dessus\n** on créera des clefs et on ferra de la conf de base afin d'avoir une meilleur confidentialité.\n* Si vous avez une clef merci d'imprimer des  fingerprints (commande gpg --fingerprint L'ID de votre clef) En prévoir une petite trentaine ça devrait être suffisant.\n\nDans tous les cas vous munir d'une pièce d'identité en cours de validité.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prise en main des logiciels du Terrier et de leur éditeur d'exercices
