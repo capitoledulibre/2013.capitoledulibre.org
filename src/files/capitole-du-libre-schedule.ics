@@ -383,7 +383,7 @@ UID:10d07ad407694a59aad6c68802ec6be1b5e58291
 DTSTART:20131124T083000Z
 DTEND:20131124T113000Z
 GEO:43.6022973938;1.45454333439
-DESCRIPTION:
+DESCRIPTION:Lors de cet atelier\, vous allez découvrir Puppet\, un outil qui permet de gérer de manière centralisée et très simplement un parc de machine. Vous verrez comment installer votre serveur\, vos clients\, créer vos propres modules de configuration ou en récupérer sur Internet pour configurer vos serveurs. Puppet est notamment utilisé par Google pour gérer aussi bien son parc serveur que son parc de machines clientes.\n\nPour cet atelier\, une bonne connaissance de l'administration d'un système Linux et de la ligne de commande est recommandée. Il faut également disposer d'un PC capable de se connecter à un réseau et de lancer une machine virtuelle. Il est également recommandé d'amener une multiprise électrique.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wikidata : les données ont leur projet !

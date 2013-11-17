@@ -1457,6 +1457,17 @@
                             "bio": "", 
                             "web_url": null, 
                             "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
+                            "name": "Guillaume Espanel", 
+                            "elsewhere": [], 
+                            "role": null, 
+                            "twitter": null, 
+                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
+                            "speaker_bio": ""
+                        }, 
+                        {
+                            "bio": "", 
+                            "web_url": null, 
+                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
                             "name": "Christophe Sauthier", 
                             "elsewhere": [], 
                             "role": null, 
@@ -1472,7 +1483,7 @@
                     "end_time": "2013-11-24 12:30:00", 
                     "other_url": null, 
                     "start_time_epoch": 1385281800, 
-                    "abstract": ""
+                    "abstract": "<p>Lors de cet atelier, vous allez d\u00e9couvrir Puppet, un outil qui permet de g\u00e9rer de mani\u00e8re centralis\u00e9e et tr\u00e8s simplement un parc de machine. Vous verrez comment installer votre serveur, vos clients, cr\u00e9er vos propres modules de configuration ou en r\u00e9cup\u00e9rer sur Internet pour configurer vos serveurs. Puppet est notamment utilis\u00e9 par Google pour g\u00e9rer aussi bien son parc serveur que son parc de machines clientes.</p>\n<p>Pour cet atelier, une bonne connaissance de l&#39;administration d&#39;un syst\u00e8me Linux et de la ligne de commande est recommand\u00e9e. Il faut \u00e9galement disposer d&#39;un PC capable de se connecter \u00e0 un r\u00e9seau et de lancer une machine virtuelle. Il est \u00e9galement recommand\u00e9 d&#39;amener une multiprise \u00e9lectrique.</p>"
                 }, 
                 {
                     "start_time": "2013-11-24 09:30:00", 
