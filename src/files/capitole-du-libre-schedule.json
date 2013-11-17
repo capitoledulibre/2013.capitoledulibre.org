@@ -788,7 +788,7 @@
                             "speaker_bio": "<p>Sylvain Th\u00e9nault est directeur de l&#39;agence toulousaine de Logilab.</p>\n<p>D\u00e9veloppeur Python depuis 2001, il est l&#39;auteur et mainteneur principal de Pylint et l&#39;un des principaux architectes de la plate-forme CubicWeb.</p>\n<p>Il sera accompagn\u00e9 pour cette session de d\u00e9veloppeurs de Logilab.</p>"
                         }
                     ], 
-                    "title": "Pylint 1.0, \u00e9tats des lieux apr\u00e8s 10 ans de d\u00e9veloppement", 
+                    "title": "Pylint 1.0, \u00e9tat des lieux apr\u00e8s 10 ans de d\u00e9veloppement", 
                     "event_id": "cprtz", 
                     "space": "A201", 
                     "day": "Saturday 23rd November", 
@@ -1545,7 +1545,7 @@
                     ], 
                     "title": "Atelier Qt Quick 2", 
                     "event_id": "cprtz", 
-                    "space": "C103", 
+                    "space": "A202", 
                     "day": "Sunday 24th November", 
                     "end_time": "2013-11-24 13:00:00", 
                     "other_url": null, 
@@ -1619,7 +1619,7 @@
                     ], 
                     "title": "Jeux vid\u00e9os et applications avec Blender", 
                     "event_id": "cprtz", 
-                    "space": "A202", 
+                    "space": "C103", 
                     "day": "Sunday 24th November", 
                     "end_time": "2013-11-24 12:45:00", 
                     "other_url": null, 
@@ -1636,6 +1636,18 @@
                         {
                             "name": "PGP/GPG", 
                             "slug": "pgpgpg"
+                        }, 
+                        {
+                            "name": "s\u00e9curit\u00e9", 
+                            "slug": "securite"
+                        }, 
+                        {
+                            "name": "Security", 
+                            "slug": "security"
+                        }, 
+                        {
+                            "name": "vie priv\u00e9e", 
+                            "slug": "vie-privee"
                         }
                     ], 
                     "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrdbx/", 
@@ -1663,7 +1675,7 @@
                     "end_time": "2013-11-24 12:40:00", 
                     "other_url": null, 
                     "start_time_epoch": 1385287800, 
-                    "abstract": "<p>Atelier de CAcert pour assurer les personnes le d\u00e9sirant.</p>\n<p>Cr\u00e9ation d&#39;un web of Trust sur Toulouse au travers d&#39;une GPG key signing party.</p>"
+                    "abstract": "<p>Atelier de CAcert pour assurer les personnes le d\u00e9sirant.</p>\n<ul class=\"bullets\">\n  <li>Pour faciliter la vie des assureurs (pour l&#39;instant il n&#39;y a que @lhirlimann) veuillez visiter le site <a href=\"https://CAcert.org\" rel=\"nofollow\">https://CAcert.org</a> et y cr\u00e9er un compte. </li>\n  <li>Venir avec des documents d&#39;assurances pr\u00e9-remplis. Tous les d\u00e9tails sont disponibles \u00e0 <a href=\"http://wiki.cacert.org/FAQ/AssuranceByCAP/FR\" rel=\"nofollow\">http://wiki.cacert.org/FAQ/Assur...</a></li>\n</ul>\n<p>Cr\u00e9ation d&#39;un web of Trust sur Toulouse au travers d&#39;une GPG key signing party.</p>\n<ul class=\"bullets\">\n  <li>Si vous n&#39;avez pas de clef  venir avec un ordinateur et pgp et ou gpg install\u00e9 dessus. On cr\u00e9era des clefs et on fera de la conf de base afin d&#39;avoir une meilleur confidentialit\u00e9.</li>\n  <li>Si vous avez une clef merci d&#39;imprimer des  fingerprints (commande gpg --fingerprint L&#39;ID de votre clef) En pr\u00e9voir une petite trentaine \u00e7a devrait \u00eatre suffisant.</li>\n</ul>\n<p>Dans tous les cas vous munir d&#39;une pi\u00e8ce d&#39;identit\u00e9 en cours de validit\u00e9.</p>"
                 }, 
                 {
                     "start_time": "2013-11-24 13:50:00", 

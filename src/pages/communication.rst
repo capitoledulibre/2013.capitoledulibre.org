@@ -31,7 +31,7 @@ Nous suivre
   :class: icon
   
 .. _atom feed: http://www.capitoledulibre.org/2012/feeds/all.atom.xml
-.. _Identica: http://identi.ca/group/toulibre
+.. _Identica: http://identi.ca/toulibreorg
 .. _Twitter: https://twitter.com/toulibreorg
 .. _Google+: https://plus.google.com/b/109128243242581226442/109128243242581226442/posts
 .. _Lanyrd: http://lanyrd.com/2013/capitole-du-libre/
@@ -67,7 +67,7 @@ Voir la `revue de presse`_ de l'édition 2012.
 .. _`revue de presse`: http://2012.capitoledulibre.org/communication.html#ils-parlent-de-nous
 .. _`affiche`: 
 .. _flyer: /files/flyer-cdl2013.pdf
-.. _`bannière`: /home/numahell/Dev/pelican/capitoledulibre-site/src/files/banniere-cdl2013.png
-.. _`vignette`: /home/numahell/Dev/pelican/capitoledulibre-site/src/files/thumb-cdl2013.png
+.. _`bannière`: /files/banniere-cdl2013.png
+.. _`vignette`: /files/thumb-cdl2013.png
 .. _`source`: http://toulibre.org/pub/2013-11-23-capitole-du-libre/graphisme/bannieres-cdl2013.svg
 .. _`photos sur Flickr`: http://www.flickr.com/search/?q=capitole+du+libre&l=cc&ss=0&ct=0&mt=all&w=all&adv=1
