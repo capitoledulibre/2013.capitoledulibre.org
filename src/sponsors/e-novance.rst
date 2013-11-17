@@ -13,6 +13,8 @@ E-novance
 
 .. class:: span8
 
-`E-Novance`_
+`E-Novance`_ leader Européen des technologies de Cloud Computing Open Source, propose ses services de principalement 2 manières : intégration et administration de cloud publics ou privés et la gestion 24/7 d'applications dans les plus grands clouds publics (Cloudwatt, AWS, Google Compute Engine, etc.).
+
+eNovance fait également parti du top 10 des contributeurs à OpenStack.
 
 .. _`E-Novance`: http://www.enovance.com/
