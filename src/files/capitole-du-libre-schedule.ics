@@ -367,7 +367,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Allez plus loin dans l'assurance qualité de votre code Python avec Pylint
-LOCATION:A203\, ENSEEIHT
+LOCATION:A303\, ENSEEIHT
 URL:http://lanyrd.com/2013/capitole-du-libre/scrdcb/
 UID:dc02cd5c7c66c309c8b96ad4c3e4a207ffa0eaec
 DTSTART:20131124T083000Z
@@ -397,7 +397,7 @@ DESCRIPTION:Projet frère de l'encyclopédie Wikipédia\, Wikidata a pour but de
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atelier Qt Quick 2
-LOCATION:A202\, ENSEEIHT
+LOCATION:A302\, ENSEEIHT
 URL:http://lanyrd.com/2013/capitole-du-libre/scrkxx/
 UID:184007e3b2d020258f7a6e5a4899763f2d6ad66f
 DTSTART:20131124T084500Z
@@ -427,7 +427,7 @@ DESCRIPTION:Blender est un logiciel aux multiples facettes\, permettant aussi bi
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GPG keysigning Party / CAcert signing party
-LOCATION:A203\, ENSEEIHT
+LOCATION:A303\, ENSEEIHT
 URL:http://lanyrd.com/2013/capitole-du-libre/scrdbx/
 UID:25c80b363327e6460b437c12cf9098862fc9d616
 DTSTART:20131124T101000Z
@@ -437,7 +437,7 @@ DESCRIPTION:Atelier de CAcert pour assurer les personnes le désirant.\n\n* Pour
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prise en main des logiciels du Terrier et de leur éditeur d'exercices
-LOCATION:A202\, ENSEEIHT
+LOCATION:A302\, ENSEEIHT
 URL:http://lanyrd.com/2013/capitole-du-libre/scrfzr/
 UID:94225e724dc70967090d8cc53849c6ae12009d71
 DTSTART:20131124T125000Z
@@ -487,7 +487,7 @@ DESCRIPTION:* Mise en place et utilisation de PostgreSQL\n* Installation et util
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Écriture collaborative d'un épisode de roman feuilleton (placé sous CC0)
-LOCATION:A202\, ENSEEIHT
+LOCATION:A302\, ENSEEIHT
 URL:http://lanyrd.com/2013/capitole-du-libre/scrfzt/
 UID:2162f210bf5c7af7cf777804467ad0e1be844a8e
 DTSTART:20131124T143000Z
