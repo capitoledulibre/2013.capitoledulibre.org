@@ -467,7 +467,7 @@ DESCRIPTION:Ce workshop s'adresse aux personnes qui souhaitent apprendre les bas
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Programmation d'une carte arduino
-LOCATION:A203\, ENSEEIHT
+LOCATION:A303\, ENSEEIHT
 URL:http://lanyrd.com/2013/capitole-du-libre/scrdbt/
 UID:7e4fff213d1927b878d0211cd647baf8f8a29f0c
 DTSTART:20131124T130000Z
