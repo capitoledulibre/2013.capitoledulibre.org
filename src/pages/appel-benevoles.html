@@ -7,30 +7,7 @@
 <div class='page'>
 
 <h1>Appel &agrave; b&eacute;n&eacute;voles</h1>
-<p>Inscrivez-vous avec le formulaire ci-dessous.</p>
+<p>L'appel &agrave; b&eacute;n&eacute;voles est termin&eacute;. Merci &agrave; tous de vous &ecirc;tes inscrit-e-s !</p>
+<p>Retrouvez-nous sur le <strong>stand Toulibre</strong> samedi et dimanche si vous souhaitez contribuer ou &ecirc;tre inform&eacute;-e des projets autour du libre &agrave; Toulouse.</p>
 
-<div id="form-benevoles-call" class="daybed-form">
-</div>
-
-<script type="text/javascript" src="/theme/js/mustache-0.7.2.js"></script>
-<script type="text/javascript" src="/theme/js/jquery-1.8.2.min.js"></script>
-<script type="text/javascript" src="/theme/js/underscore-min.js"></script>
-<script type="text/javascript" src="/theme/js/backbone-min.js"></script>
-<script type="text/javascript" src="/theme/js/backbone-forms.min.js"></script>
-<script type="text/javascript" src="/theme/js/backbone-daybed.js"></script>
-<script type="text/javascript">
-
-    Daybed.SETTINGS.SERVER = "http://daybed.lolnet.org";
-    var form = Daybed.renderForm('#form-benevoles-call', {id: 'j8FMkkCKDgceG'});
-
-    form.on('created', function (record) {
-        $('#form-benevoles-call').replaceWith('<p>Merci de votre participation</p>')
-    }) 
-</script>
-</div>
 {% endblock %}
-
-
-    {% block sidebar %}
-    
-    {% endblock sidebar %}
