@@ -76,7 +76,7 @@ C'est l'occasion de découvrir ou d'approfondir des logiciels, des languages ou 
 Démonstrations, Ubuntu party, Lan Party ...
 ---------------------------------------------
 
-- une `Ubuntu Party` : des bénévoles vous aident à passer à la distribution GNU/Linux Ubuntu
+- une `Install Party`_ : des bénévoles vous aident à passer à la distribution GNU/Linux Ubuntu, Fedora, Mint ...
 - un espace de démonstration de logiciels libres, où les visiteurs pourront poser leurs questions
 - des stands associatifs
 - une LAN Party, pour découvrir les jeux libres
@@ -142,7 +142,7 @@ La solution opensource de cloud. Le programme est disponible sur le `site offici
 .. _`site officiel de Lua`: http://www.lua.org/wshop13.html
 .. _`site officiel de FranceJS`: http://francejs.org/conf2013.html
 .. _`site officiel d'OpenStack France`: http://openstack.fr/evenement/rencontre-openstack-fr-a-capitole-du-libre-2013-toulouse/
-.. _`Ubuntu Party`: http://ubuntu-party.org/
+.. _`Install Party`: /install-party.html
 
 
 .. _édition 2013 du Capitole du Libre: http://2013.capitoledulibre.org/
