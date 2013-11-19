@@ -699,38 +699,33 @@
                 }, 
                 {
                     "start_time": "2013-11-23 16:00:00", 
-                    "topics": [
-                        {
-                            "name": "Creative Commons", 
-                            "slug": "creative-commons"
-                        }
-                    ], 
-                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrczq/", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrfxy/", 
                     "times": "4:00pm\u00a0-\u00a05:00pm", 
-                    "id": "scrczq", 
+                    "id": "scrfxy", 
                     "types": [], 
                     "end_time_epoch": 1385222400, 
                     "speakers": [
                         {
-                            "bio": "<p>Auteur du Domaine Public Vivant. Geek&amp;Gay, Libre&amp;Libertin, F\u00e9ministe&amp;Framasoftien, Patalon&amp;Pansexuel.... (collection d&#39;\u00e9tiquettes en cours)</p>", 
-                            "web_url": "http://lanyrd.com/profile/pouhiou/", 
-                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/c61c8b22738a3d46f7c550d0c95faa36521e58e5-s300.jpeg", 
-                            "name": "Pouhiou", 
+                            "bio": "", 
+                            "web_url": null, 
+                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
+                            "name": "Benjamin Jean", 
                             "elsewhere": [], 
-                            "role": "Auteur du Domaine Public Vivant. Geek&Gay, Libre&Libertin, F\u00e9ministe&Framasoftien, Patalon&Pansexuel.... (collection d'\u00e9tiquettes en cours)", 
-                            "twitter": "@Pouhiou", 
-                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/c61c8b22738a3d46f7c550d0c95faa36521e58e5-s75.jpeg", 
-                            "speaker_bio": "<p>Com\u00e9dien repenti, Pouhiou a commenc\u00e9 par \u00e9crire pour le th\u00e9\u00e2tre.</p>\n<p>En 2012 il se lance dans l&#39;\u00e9criture des roman-feuilletons de no\u00e9naute.fr... Un d\u00e9fi quotidien qui le m\u00e8nera \u00e0 \u00e9lever ses oeuvres dans le domaine public vivant via la CC0 ; et \u00e0 s&#39;engager pour la culture libre apr\u00e8s de SavoirsCom1 et Framasoft.</p>\n<p>Ses deux premiers romans tir\u00e9s de noenaute.fr, #Smartarded et #MonOrchide, sont disponibles aux \u00e9ditions FramaBook.</p>"
+                            "role": "Juriste sp\u00e9cialis\u00e9 en Propri\u00e9t\u00e9 Intellectuelle", 
+                            "twitter": null, 
+                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
+                            "speaker_bio": "<p>Juriste sp\u00e9cialis\u00e9 en Propri\u00e9t\u00e9 Intellectuelle (PI) actif depuis 10 ans, Benjamin Jean \u0153uvre pour la prise en compte de l\u2019innovation ouverte au sein de la gouvernance de grands acteurs publics et priv\u00e9s. Il est engag\u00e9 activement dans les communaut\u00e9s libres (Framasoft, Veni Vedi Libri).</p>\n<p>Il est par ailleurs fondateur et Pr\u00e9sident d\u2019Inno3, une soci\u00e9t\u00e9 de conseil en innovation libre (Open Source, Open Data, Open innovation), il enseigne dans plusieurs masters PI ; il est ma\u00eetre de conf\u00e9rences \u00e0 Sciences Po et consultant au sein du cabinet d\u2019avocat Gilles Vercken.</p>"
                         }
                     ], 
-                    "title": "Pourquoi mes romans sont dans le Domaine Public Vivant ?", 
+                    "title": "Le droit, le libre et l'Open Source : r\u00e9trospective et prospective", 
                     "event_id": "cprtz", 
                     "space": "A001", 
                     "day": "Saturday 23rd November", 
                     "end_time": "2013-11-23 17:00:00", 
                     "other_url": null, 
                     "start_time_epoch": 1385218800, 
-                    "abstract": "<p>Je ne suis pas libriste. Ce sont mes histoires qui, par nature, sont libres. <br>\nMon parcours artistique m&#39;a men\u00e9 \u00e0 cette conclusion : la place naturelle de mes oeuvres est dans les biens communs, dans le domaine public. <br>\nUne conclusion traduite en un acte simple : placer tous mes \u00e9crits sous la licence CC0... Et si dans tout artiste sommeillait un libriste qui s&#39;ignore ? <br>\nRetour sur l&#39;exp\u00e9rience d&#39;\u00e9criture libre de <a href=\"http://noenaute.fr/\" rel=\"nofollow\">noenaute.fr</a></p>"
+                    "abstract": "<p>Si le droit pr\u00e9existe au logiciel, force est de constater qu&#39;il n&#39;est venu encadrer ce dernier que tardivement avant de s&#39;\u00e9tendre \u00e0 toutes les autres sph\u00e8res de la cr\u00e9ation. N\u00e9anmoins les mouvements du Libre et de l&#39;Open Source ont tr\u00e8s rapidement su tirer profit de ce dernier pour formaliser, s\u00e9curiser puis organiser leur \u00e9cosyst\u00e8me.</p>\n<p>Ici il s&#39;agirait de dresser dans un premier temps un bilan sur les \u00e9volutions juridiques associ\u00e9es au libre, les enjeux et solutions qui leur furent apport\u00e9s (licences, copyright assignement et autres documents, etc.). 30 ann\u00e9es de construction ont donn\u00e9 existence \u00e0 un syst\u00e8me relativement complexe et autonome, qui laisse une place de plus en plus importante au secteur public et au secteur industriel. Apr\u00e8s avoir pr\u00e9sent\u00e9s ces fondements, nous \u00e9voquerons les pistes d&#39;\u00e9volutions, les enjeux et chantiers de demain.</p>"
                 }, 
                 {
                     "start_time": "2013-11-23 16:00:00", 
@@ -989,36 +984,6 @@
                 }, 
                 {
                     "start_time": "2013-11-23 17:00:00", 
-                    "topics": [], 
-                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrfxy/", 
-                    "times": "5:00pm\u00a0-\u00a06:00pm", 
-                    "id": "scrfxy", 
-                    "types": [], 
-                    "end_time_epoch": 1385226000, 
-                    "speakers": [
-                        {
-                            "bio": "", 
-                            "web_url": null, 
-                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
-                            "name": "Benjamin Jean", 
-                            "elsewhere": [], 
-                            "role": "Juriste sp\u00e9cialis\u00e9 en Propri\u00e9t\u00e9 Intellectuelle", 
-                            "twitter": null, 
-                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
-                            "speaker_bio": "<p>Juriste sp\u00e9cialis\u00e9 en Propri\u00e9t\u00e9 Intellectuelle (PI) actif depuis 10 ans, Benjamin Jean \u0153uvre pour la prise en compte de l\u2019innovation ouverte au sein de la gouvernance de grands acteurs publics et priv\u00e9s. Il est engag\u00e9 activement dans les communaut\u00e9s libres (Framasoft, Veni Vedi Libri).</p>\n<p>Il est par ailleurs fondateur et Pr\u00e9sident d\u2019Inno3, une soci\u00e9t\u00e9 de conseil en innovation libre (Open Source, Open Data, Open innovation), il enseigne dans plusieurs masters PI ; il est ma\u00eetre de conf\u00e9rences \u00e0 Sciences Po et consultant au sein du cabinet d\u2019avocat Gilles Vercken.</p>"
-                        }
-                    ], 
-                    "title": "Le droit, le libre et l'Open Source : r\u00e9trospective et prospective", 
-                    "event_id": "cprtz", 
-                    "space": "A001", 
-                    "day": "Saturday 23rd November", 
-                    "end_time": "2013-11-23 18:00:00", 
-                    "other_url": null, 
-                    "start_time_epoch": 1385222400, 
-                    "abstract": "<p>Si le droit pr\u00e9existe au logiciel, force est de constater qu&#39;il n&#39;est venu encadrer ce dernier que tardivement avant de s&#39;\u00e9tendre \u00e0 toutes les autres sph\u00e8res de la cr\u00e9ation. N\u00e9anmoins les mouvements du Libre et de l&#39;Open Source ont tr\u00e8s rapidement su tirer profit de ce dernier pour formaliser, s\u00e9curiser puis organiser leur \u00e9cosyst\u00e8me.</p>\n<p>Ici il s&#39;agirait de dresser dans un premier temps un bilan sur les \u00e9volutions juridiques associ\u00e9es au libre, les enjeux et solutions qui leur furent apport\u00e9s (licences, copyright assignement et autres documents, etc.). 30 ann\u00e9es de construction ont donn\u00e9 existence \u00e0 un syst\u00e8me relativement complexe et autonome, qui laisse une place de plus en plus importante au secteur public et au secteur industriel. Apr\u00e8s avoir pr\u00e9sent\u00e9s ces fondements, nous \u00e9voquerons les pistes d&#39;\u00e9volutions, les enjeux et chantiers de demain.</p>"
-                }, 
-                {
-                    "start_time": "2013-11-23 17:00:00", 
                     "topics": [
                         {
                             "name": "OpenPandora", 
@@ -1051,6 +1016,41 @@
                     "other_url": null, 
                     "start_time_epoch": 1385222400, 
                     "abstract": "<p>Open Pandora est un mini-PC qui a \u00e9t\u00e9 con\u00e7u et financ\u00e9 par la communaut\u00e9 des utilisateurs de consoles portables hackables.</p>\n<p>Au-del\u00e0 de l&#39;aspect in\u00e9dit et unique de l&#39;appareil, c&#39;est une formidable le\u00e7on de pers\u00e9v\u00e9rance, et une preuve que la solidarit\u00e9 autour du Libre peut soulever des montagnes.</p>"
+                }, 
+                {
+                    "start_time": "2013-11-23 17:00:00", 
+                    "topics": [
+                        {
+                            "name": "Creative Commons", 
+                            "slug": "creative-commons"
+                        }
+                    ], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrczq/", 
+                    "times": "5:00pm\u00a0-\u00a06:00pm", 
+                    "id": "scrczq", 
+                    "types": [], 
+                    "end_time_epoch": 1385226000, 
+                    "speakers": [
+                        {
+                            "bio": "<p>Auteur du Domaine Public Vivant. Geek&amp;Gay, Libre&amp;Libertin, F\u00e9ministe&amp;Framasoftien, Patalon&amp;Pansexuel.... (collection d&#39;\u00e9tiquettes en cours)</p>", 
+                            "web_url": "http://lanyrd.com/profile/pouhiou/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/c61c8b22738a3d46f7c550d0c95faa36521e58e5-s300.jpeg", 
+                            "name": "Pouhiou", 
+                            "elsewhere": [], 
+                            "role": "Auteur du Domaine Public Vivant. Geek&Gay, Libre&Libertin, F\u00e9ministe&Framasoftien, Patalon&Pansexuel.... (collection d'\u00e9tiquettes en cours)", 
+                            "twitter": "@Pouhiou", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/c61c8b22738a3d46f7c550d0c95faa36521e58e5-s75.jpeg", 
+                            "speaker_bio": "<p>Com\u00e9dien repenti, Pouhiou a commenc\u00e9 par \u00e9crire pour le th\u00e9\u00e2tre.</p>\n<p>En 2012 il se lance dans l&#39;\u00e9criture des roman-feuilletons de no\u00e9naute.fr... Un d\u00e9fi quotidien qui le m\u00e8nera \u00e0 \u00e9lever ses oeuvres dans le domaine public vivant via la CC0 ; et \u00e0 s&#39;engager pour la culture libre apr\u00e8s de SavoirsCom1 et Framasoft.</p>\n<p>Ses deux premiers romans tir\u00e9s de noenaute.fr, #Smartarded et #MonOrchide, sont disponibles aux \u00e9ditions FramaBook.</p>"
+                        }
+                    ], 
+                    "title": "Pourquoi mes romans sont dans le Domaine Public Vivant ?", 
+                    "event_id": "cprtz", 
+                    "space": "A001", 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 18:00:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385222400, 
+                    "abstract": "<p>Je ne suis pas libriste. Ce sont mes histoires qui, par nature, sont libres. <br>\nMon parcours artistique m&#39;a men\u00e9 \u00e0 cette conclusion : la place naturelle de mes oeuvres est dans les biens communs, dans le domaine public. <br>\nUne conclusion traduite en un acte simple : placer tous mes \u00e9crits sous la licence CC0... Et si dans tout artiste sommeillait un libriste qui s&#39;ignore ? <br>\nRetour sur l&#39;exp\u00e9rience d&#39;\u00e9criture libre de <a href=\"http://noenaute.fr/\" rel=\"nofollow\">noenaute.fr</a></p>"
                 }, 
                 {
                     "start_time": "2013-11-23 17:00:00", 
