@@ -236,6 +236,17 @@ td.odd {
 #le-capitole-du-libre-accueille-egalement .section {
     background-color: #ffad08;
 }
+
+#samedi-23-novembre-conferences .section {
+    background-color: #DEDEDE;
+}
+#samedi-23-novembre-conferences .section > *{
+    margin: 8px;
+}
+#demonstrations-ubuntu-party-lan-party,
+#techniques {
+    margin-left: 0;
+}
 #le-capitole-du-libre-accueille-egalement .section > *{
     margin: 8px 60px 8px 8px;
 }
