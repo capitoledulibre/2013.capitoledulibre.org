@@ -65,7 +65,7 @@ Voir la `revue de presse`_ de l'édition 2012.
 
 
 .. _`revue de presse`: http://2012.capitoledulibre.org/communication.html#ils-parlent-de-nous
-.. _`affiche`: 
+.. _`affiche`: /files/affiche-cdl2013-20x30.pdf
 .. _flyer: /files/flyer-cdl2013.pdf
 .. _`bannière`: /files/banniere-cdl2013.png
 .. _`vignette`: /files/thumb-cdl2013.png
