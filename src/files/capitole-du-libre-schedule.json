@@ -450,6 +450,36 @@
                 }, 
                 {
                     "start_time": "2013-11-23 14:30:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrfxy/", 
+                    "times": "2:30pm\u00a0-\u00a03:30pm", 
+                    "id": "scrfxy", 
+                    "types": [], 
+                    "end_time_epoch": 1385217000, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": null, 
+                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
+                            "name": "Benjamin Jean", 
+                            "elsewhere": [], 
+                            "role": "Juriste sp\u00e9cialis\u00e9 en Propri\u00e9t\u00e9 Intellectuelle", 
+                            "twitter": null, 
+                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
+                            "speaker_bio": "<p>Juriste sp\u00e9cialis\u00e9 en Propri\u00e9t\u00e9 Intellectuelle (PI) actif depuis 10 ans, Benjamin Jean \u0153uvre pour la prise en compte de l\u2019innovation ouverte au sein de la gouvernance de grands acteurs publics et priv\u00e9s. Il est engag\u00e9 activement dans les communaut\u00e9s libres (Framasoft, Veni Vedi Libri).</p>\n<p>Il est par ailleurs fondateur et Pr\u00e9sident d\u2019Inno3, une soci\u00e9t\u00e9 de conseil en innovation libre (Open Source, Open Data, Open innovation), il enseigne dans plusieurs masters PI ; il est ma\u00eetre de conf\u00e9rences \u00e0 Sciences Po et consultant au sein du cabinet d\u2019avocat Gilles Vercken.</p>"
+                        }
+                    ], 
+                    "title": "Le droit, le libre et l'Open Source : r\u00e9trospective et prospective", 
+                    "event_id": "cprtz", 
+                    "space": "A001", 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 15:30:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385213400, 
+                    "abstract": "<p>Si le droit pr\u00e9existe au logiciel, force est de constater qu&#39;il n&#39;est venu encadrer ce dernier que tardivement avant de s&#39;\u00e9tendre \u00e0 toutes les autres sph\u00e8res de la cr\u00e9ation. N\u00e9anmoins les mouvements du Libre et de l&#39;Open Source ont tr\u00e8s rapidement su tirer profit de ce dernier pour formaliser, s\u00e9curiser puis organiser leur \u00e9cosyst\u00e8me.</p>\n<p>Ici il s&#39;agirait de dresser dans un premier temps un bilan sur les \u00e9volutions juridiques associ\u00e9es au libre, les enjeux et solutions qui leur furent apport\u00e9s (licences, copyright assignement et autres documents, etc.). 30 ann\u00e9es de construction ont donn\u00e9 existence \u00e0 un syst\u00e8me relativement complexe et autonome, qui laisse une place de plus en plus importante au secteur public et au secteur industriel. Apr\u00e8s avoir pr\u00e9sent\u00e9s ces fondements, nous \u00e9voquerons les pistes d&#39;\u00e9volutions, les enjeux et chantiers de demain.</p>"
+                }, 
+                {
+                    "start_time": "2013-11-23 14:30:00", 
                     "topics": [
                         {
                             "name": "Akademy-fr", 
@@ -573,53 +603,6 @@
                     "abstract": "<p>Explication sur comment chiffr\u00e9 et sign\u00e9 num\u00e9riquement un email en utilisant soit le format S/Mime, soi PGP. Explication de comment \u00e7a marche , comment mettre en \u0153uvre et comparaison des deux m\u00e9trhodes.</p>"
                 }, 
                 {
-                    "start_time": "2013-11-23 14:30:00", 
-                    "topics": [
-                        {
-                            "name": "Wikidata", 
-                            "slug": "wikidata"
-                        }, 
-                        {
-                            "name": "Wikimedia", 
-                            "slug": "wikimedia"
-                        }, 
-                        {
-                            "name": "Wikipedia", 
-                            "slug": "wikipedia"
-                        }, 
-                        {
-                            "name": "Wikivoyage", 
-                            "slug": "wikivoyage"
-                        }
-                    ], 
-                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrcmm/", 
-                    "times": "2:30pm\u00a0-\u00a03:30pm", 
-                    "id": "scrcmm", 
-                    "types": [], 
-                    "end_time_epoch": 1385217000, 
-                    "speakers": [
-                        {
-                            "bio": "", 
-                            "web_url": null, 
-                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
-                            "name": "J\u00e9r\u00e9my Perret", 
-                            "elsewhere": [], 
-                            "role": null, 
-                            "twitter": null, 
-                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
-                            "speaker_bio": "<p>\u00c9tudiant toulousain, J\u00e9r\u00e9my Perret est contributeur des projets Wikim\u00e9dia depuis 2006. Il apporte r\u00e9guli\u00e8rement sa pierre \u00e0 l&#39;\u00e9difice du libre partage de la connaissance, avec une sp\u00e9cialisation dans les petits cailloux.</p>"
-                        }
-                    ], 
-                    "title": "Wikip\u00e9dia, Wikim\u00e9dia : du nouveau dans les projets", 
-                    "event_id": "cprtz", 
-                    "space": "A001", 
-                    "day": "Saturday 23rd November", 
-                    "end_time": "2013-11-23 15:30:00", 
-                    "other_url": null, 
-                    "start_time_epoch": 1385213400, 
-                    "abstract": "<p>Les derniers mois ont vu appara\u00eetre de nombreuses nouveaut\u00e9s sur Wikip\u00e9dia et les projets de la fondation Wikimedia. Objectif : rendre le contenu plus accessible, attirer de nouveaux contributeurs et simplifier les travaux des b\u00e9n\u00e9voles.</p>\n<p>Cette conf\u00e9rence propose un tour d&#39;horizon des derni\u00e8res am\u00e9liorations port\u00e9es aux projets, parmi lesquelles :</p>\n<ul class=\"bullets\">\n  <li>l&#39;\u00e9diteur visuel : une nouvelle interface pour simplifier les contributions ; </li>\n  <li>Wikivoyage : un projet de guide de voyage h\u00e9berg\u00e9 depuis peu par la fondation Wikim\u00e9dia ; </li>\n  <li>Wikidata : un projet multilingue destin\u00e9 \u00e0 concentrer et lier les donn\u00e9es entre elles ; </li>\n  <li>Lua : un langage de programmation utilis\u00e9 pour simplifier de nombreux contenus.</li>\n</ul>\n<p>Une bonne occasion de d\u00e9couvrir les rouages de l&#39;encyclop\u00e9die en ligne et de ses projets fr\u00e8res !</p>"
-                }, 
-                {
                     "start_time": "2013-11-23 15:45:00", 
                     "topics": [
                         {
@@ -700,36 +683,6 @@
                 {
                     "start_time": "2013-11-23 16:00:00", 
                     "topics": [], 
-                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrfxy/", 
-                    "times": "4:00pm\u00a0-\u00a05:00pm", 
-                    "id": "scrfxy", 
-                    "types": [], 
-                    "end_time_epoch": 1385222400, 
-                    "speakers": [
-                        {
-                            "bio": "", 
-                            "web_url": null, 
-                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
-                            "name": "Benjamin Jean", 
-                            "elsewhere": [], 
-                            "role": "Juriste sp\u00e9cialis\u00e9 en Propri\u00e9t\u00e9 Intellectuelle", 
-                            "twitter": null, 
-                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
-                            "speaker_bio": "<p>Juriste sp\u00e9cialis\u00e9 en Propri\u00e9t\u00e9 Intellectuelle (PI) actif depuis 10 ans, Benjamin Jean \u0153uvre pour la prise en compte de l\u2019innovation ouverte au sein de la gouvernance de grands acteurs publics et priv\u00e9s. Il est engag\u00e9 activement dans les communaut\u00e9s libres (Framasoft, Veni Vedi Libri).</p>\n<p>Il est par ailleurs fondateur et Pr\u00e9sident d\u2019Inno3, une soci\u00e9t\u00e9 de conseil en innovation libre (Open Source, Open Data, Open innovation), il enseigne dans plusieurs masters PI ; il est ma\u00eetre de conf\u00e9rences \u00e0 Sciences Po et consultant au sein du cabinet d\u2019avocat Gilles Vercken.</p>"
-                        }
-                    ], 
-                    "title": "Le droit, le libre et l'Open Source : r\u00e9trospective et prospective", 
-                    "event_id": "cprtz", 
-                    "space": "A001", 
-                    "day": "Saturday 23rd November", 
-                    "end_time": "2013-11-23 17:00:00", 
-                    "other_url": null, 
-                    "start_time_epoch": 1385218800, 
-                    "abstract": "<p>Si le droit pr\u00e9existe au logiciel, force est de constater qu&#39;il n&#39;est venu encadrer ce dernier que tardivement avant de s&#39;\u00e9tendre \u00e0 toutes les autres sph\u00e8res de la cr\u00e9ation. N\u00e9anmoins les mouvements du Libre et de l&#39;Open Source ont tr\u00e8s rapidement su tirer profit de ce dernier pour formaliser, s\u00e9curiser puis organiser leur \u00e9cosyst\u00e8me.</p>\n<p>Ici il s&#39;agirait de dresser dans un premier temps un bilan sur les \u00e9volutions juridiques associ\u00e9es au libre, les enjeux et solutions qui leur furent apport\u00e9s (licences, copyright assignement et autres documents, etc.). 30 ann\u00e9es de construction ont donn\u00e9 existence \u00e0 un syst\u00e8me relativement complexe et autonome, qui laisse une place de plus en plus importante au secteur public et au secteur industriel. Apr\u00e8s avoir pr\u00e9sent\u00e9s ces fondements, nous \u00e9voquerons les pistes d&#39;\u00e9volutions, les enjeux et chantiers de demain.</p>"
-                }, 
-                {
-                    "start_time": "2013-11-23 16:00:00", 
-                    "topics": [], 
                     "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrfyf/", 
                     "times": "4:00pm\u00a0-\u00a05:00pm", 
                     "id": "scrfyf", 
@@ -791,6 +744,53 @@
                     "other_url": null, 
                     "start_time_epoch": 1385218800, 
                     "abstract": "<p>Cette mini-conf\u00e9rence fera un rapide \u00e9tats des lieux de Pylint dont la version 1.0 est sortie cette \u00e9t\u00e9 apr\u00e8s 10 ans de d\u00e9veloppement. Il y aura deux parties dans cette pr\u00e9sentation :</p>\n<ul class=\"bullets\">\n  <li>un retour d&#39;exp\u00e9rience sur les 10 ans de d\u00e9veloppement de l&#39;outil dans la communaut\u00e9 Python</li>\n  <li>un parcours rapide des fonctionnalit\u00e9s actuelles</li>\n</ul>\n<p>Un atelier est pr\u00e9vu pour couvrir les API permettant d&#39;\u00e9tendre l&#39;outil.</p>"
+                }, 
+                {
+                    "start_time": "2013-11-23 16:00:00", 
+                    "topics": [
+                        {
+                            "name": "Wikidata", 
+                            "slug": "wikidata"
+                        }, 
+                        {
+                            "name": "Wikimedia", 
+                            "slug": "wikimedia"
+                        }, 
+                        {
+                            "name": "Wikipedia", 
+                            "slug": "wikipedia"
+                        }, 
+                        {
+                            "name": "Wikivoyage", 
+                            "slug": "wikivoyage"
+                        }
+                    ], 
+                    "web_url": "http://lanyrd.com/2013/capitole-du-libre/scrcmm/", 
+                    "times": "4:00pm\u00a0-\u00a05:00pm", 
+                    "id": "scrcmm", 
+                    "types": [], 
+                    "end_time_epoch": 1385222400, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": null, 
+                            "image_300": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-300x300.aae55363.png", 
+                            "name": "J\u00e9r\u00e9my Perret", 
+                            "elsewhere": [], 
+                            "role": null, 
+                            "twitter": null, 
+                            "image_75": "https://d3brtmsfoeeao4.cloudfront.net/img/icons/flatset/person-75x75.dc1c8979.png", 
+                            "speaker_bio": "<p>\u00c9tudiant toulousain, J\u00e9r\u00e9my Perret est contributeur des projets Wikim\u00e9dia depuis 2006. Il apporte r\u00e9guli\u00e8rement sa pierre \u00e0 l&#39;\u00e9difice du libre partage de la connaissance, avec une sp\u00e9cialisation dans les petits cailloux.</p>"
+                        }
+                    ], 
+                    "title": "Wikip\u00e9dia, Wikim\u00e9dia : du nouveau dans les projets", 
+                    "event_id": "cprtz", 
+                    "space": "A001", 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 17:00:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385218800, 
+                    "abstract": "<p>Les derniers mois ont vu appara\u00eetre de nombreuses nouveaut\u00e9s sur Wikip\u00e9dia et les projets de la fondation Wikimedia. Objectif : rendre le contenu plus accessible, attirer de nouveaux contributeurs et simplifier les travaux des b\u00e9n\u00e9voles.</p>\n<p>Cette conf\u00e9rence propose un tour d&#39;horizon des derni\u00e8res am\u00e9liorations port\u00e9es aux projets, parmi lesquelles :</p>\n<ul class=\"bullets\">\n  <li>l&#39;\u00e9diteur visuel : une nouvelle interface pour simplifier les contributions ; </li>\n  <li>Wikivoyage : un projet de guide de voyage h\u00e9berg\u00e9 depuis peu par la fondation Wikim\u00e9dia ; </li>\n  <li>Wikidata : un projet multilingue destin\u00e9 \u00e0 concentrer et lier les donn\u00e9es entre elles ; </li>\n  <li>Lua : un langage de programmation utilis\u00e9 pour simplifier de nombreux contenus.</li>\n</ul>\n<p>Une bonne occasion de d\u00e9couvrir les rouages de l&#39;encyclop\u00e9die en ligne et de ses projets fr\u00e8res !</p>"
                 }, 
                 {
                     "start_time": "2013-11-23 16:10:00", 
