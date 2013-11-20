@@ -8,81 +8,13 @@
 <div class='page {{ page.slug }}'>
 <h1>{{ page.title }}</h1>
 
+    <div>
 {% if page.calendar %}
-
-{% macro eventlist(vevent) -%}
-    <li> <span class="start">{{ vevent.dtstart_time }}</span> - 
-        <span class="end">{{ vevent.dtend_time }}</span> : {{ vevent.summary }}</li>
-{%- endmacro %}
-
-
-<h2>Samedi 23 novembre : Conf&eacute;rences</h2>
-<div class="row">
-<div class="span6">
-    <h3>Grand public</h3>
-        <ul>
-        {% for vevent in  events[page.slug] if vevent.dtstart.day == vevent.dtend.day and vevent.dtstart.day == 23 and vevent.location == 'A001, ENSEEIHT' %}
-            {{ eventlist(vevent) }}
-        {% endfor %}
-        </ul>
-        <p><a href="/programme/conferences-grand-public.html">En d&eacute;tail</a></p>
-</div>
-
-<div class="span6">
-    <h3>Multimedia / bureautique</h3>
-        <ul>
-        {% for vevent in  events[page.slug] if vevent.dtstart.day == vevent.dtend.day and vevent.dtstart.day == 23 and vevent.location == 'A002, ENSEEIHT' %}
-            {{ eventlist(vevent) }}
-        {% endfor %}
-        </ul>
-        <p><a href="/programme/conferences-multimedia-bureautique.html">En d&eacute;tail</a></p>
-</div>
-</div>
-
-<div class="row">
-<div class="span6">
-    <h3>Internet Libre</h3>
-        <ul>
-        {% for vevent in  events[page.slug] if vevent.dtstart.day == vevent.dtend.day and vevent.dtstart.day == 23 and vevent.location == 'C002, ENSEEIHT' %}
-            {{ eventlist(vevent) }}
-        {% endfor %}
-        </ul>
-        <p><a href="/programme/conferences-internet-libre.html">En d&eacute;tail</a></p>
-</div>
-
-<div class="span6">
-    <h3>Technique</h3>
-        <ul>
-        {% for vevent in  events[page.slug] if vevent.dtstart.day == vevent.dtend.day and vevent.dtstart.day == 23 and vevent.location == 'A201, ENSEEIHT' %}
-            {{ eventlist(vevent) }}
-        {% endfor %}
-        </ul>
-        <p><a href="/programme/conferences-techniques.html">En d&eacute;tail</a></p>
-</div>
-
-<div class="span6">
-    <h3>Akademy-fr</h3>
-        <ul>
-        {% for vevent in  events[page.slug] if vevent.dtstart.day == vevent.dtend.day and vevent.dtstart.day == 23 and vevent.location == 'C103, ENSEEIHT' %}
-            {{ eventlist(vevent) }}
-        {% endfor %}
-        </ul>
-        <p><a href="/programme/conferences-akademy-fr.html">En d&eacute;tail</a></p>
-</div>
-
-</div>
-
-<h2>Dimanche 24 novembre : Ateliers</h2>
-        <ul>
-    {% for vevent in  events[page.slug] if vevent.dtstart.day == vevent.dtend.day and vevent.dtstart.day == 24 %}
-        {{ eventlist(vevent) }}
-    {% endfor %}
-        </ul>
-        <p><a href="/programme/ateliers.html">En d&eacute;tail</a></p>
-
-
+    {% include "inc-ical.html" %}
 {% endif %}
-    <div>{{ page.content }}</div>
+{{ page.content }}
+    
+    </div>
         
 </div>
 {% endblock %}

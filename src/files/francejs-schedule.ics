@@ -1,0 +1,162 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//lanyrd.com//Lanyrd//EN
+X-ORIGINAL-URL:http://lanyrd.com/2013/francejs/francejs-schedule.ics
+X-WR-CALNAME;CHARSET=utf-8:FranceJS.in(Toulouse) schedule
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VEVENT
+SUMMARY:Scaffolding et industrialisation d'une application JavaScript
+LOCATION:
+URL:http://lanyrd.com/2013/francejs/scrhfp/
+UID:bc599654f7795d4597b8e5f9ffbd20e298384bc7
+DTSTART:20131123T100000Z
+DTEND:20131123T105000Z
+DESCRIPTION:Nous verrons comment scaffolder une application AngularJS grâce à Yeoman \; comment gérer les dépendances des librairies côté client grâce à Bower \; comment créer un build automatisé grâce à Grunt. \n\nNous verrons également comment gérer les tests unitaires grâce au framework Jasmine et au Test Runner Karma \; comment avoir un contrôle de qualité du code grâce à JSHint \; comment avoir un code coverage de qualité avec IstanbulJS.\n\nEt enfin comment intégrer tous ces outils à un build Jenkins ou encore le coupler à Maven.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JavaScript et Internet des objets
+LOCATION:
+URL:http://lanyrd.com/2013/francejs/scrhfq/
+UID:99e3a32be9e999c81ed712b141a7ad1ceddee726
+DTSTART:20131123T105000Z
+DTEND:20131123T105500Z
+DESCRIPTION:Présentation d'un exemple pratique d'utilisation de JavaScript (NodeJS) sur RasberryPi pour contrôler des données en temps réel d'une voiture télécommandée.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tour d'horizon de Node.js
+LOCATION:
+URL:http://lanyrd.com/2013/francejs/scrhfr/
+UID:e2dda8833176428fecd001cde1ba7bb351c21dbc
+DTSTART:20131123T123000Z
+DTEND:20131123T132000Z
+DESCRIPTION:Node.js est l’une des technologies les plus en vue de ces dernières années\, des services web à la   robotique \; désormais bien industrialisé et doté d’un écosystème et d’une communauté très vifs\, Node a remis sur le devant de la scène un modèle de programmation non bloquant / asynchrone et\, surtout\, des techniques de code élégantes pour réaliser celui-ci.\n\nDans cette présentation—qui s'adresse tant à ceux qui n'ont jamais regardé Node qu'à ceux qui jouent déjà avec—Christophe Porteneuve brosse un tableau de Node.js aussi concret que possible. Il posera rapidement quelques notions fondamentales (Node\, modules\, npm\, asynchrone…) puis explorera le développement d’une application web ludique et interactive\, qui mettra conjointement en œuvre quelques-uns des usages les plus célèbres\, d’Express à Docco en passant par de l’OAuth 2\, du Redis\, des Web Sockets\, Brunch\, Mocha et Uglify.\n\nAvec même un petit bonus qui sortira du strict domaine dématérialisé du web pour se manifester physiquement.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creating a Grunt Task from Spaghetti to Rock Solid Code
+LOCATION:
+URL:http://lanyrd.com/2013/francejs/scrhft/
+UID:45bd94bdaebbeca08e44339366d973993a9ab9c9
+DTSTART:20131123T133000Z
+DTEND:20131123T135500Z
+DESCRIPTION:We have an idea\, we code it as a custom task in our `Gruntfile.js` and… *it works*!\n\nThen we sleep on it for 6 months and someone stumble on us\, revealing some software weakness we have trouble to fix **because we don't remember well** what was our state of mind at the time of writing the code.\n\n*This is not bad*. This is how it often works in the *real world*.  \nWe will learn how to make that **code beautifully speaking by itself**\, embracing a *design features* approach rather than the *code stuff tested on runtime* one.\n\nAnd if you never wrote *unit tests*\, this is definitely the trigger which **will break your fear** and share your knowledge of your code across your team.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AngularJS : 1 an après
+LOCATION:
+URL:http://lanyrd.com/2013/francejs/scrhfw/
+UID:8c4529a984d2b27b920a936884a4f1106de6ba59
+DTSTART:20131123T140000Z
+DTEND:20131123T142500Z
+DESCRIPTION:Ça fait plus d'un an que le framework AngularJS est sorti en version stable. \n\nC'est l'occasion de faire un point et de prendre du recul pour analyser le phénomène AngularJS.\n\nQuelle est son adoption\, pour quels usages ? Comment s'insère-t-il dans les architectures web applicatives\, et quel est son impact ? Comment évoluent les versions ?\n\nUne session qui laissera une grande place aux échanges et au débat.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pk t'es "strict"?
+LOCATION:
+URL:http://lanyrd.com/2013/francejs/scrhfx/
+UID:c28839dbcf34f56abb84126b45493140024e50a4
+DTSTART:20131123T142500Z
+DTEND:20131123T143000Z
+DESCRIPTION:"use strict"\;\nQu'est ce qui change? Ce qu'il ne faut plus assumer\, les exceptions générées\, le support dans les navigateurs.\nPar des exemples triviaux (snippets\, chrome devTools montrer le comportement de JS en strict mode… )
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Réaliser un jeu cross-plateformes avec WebGL et Babylon.JS
+LOCATION:
+URL:http://lanyrd.com/2013/francejs/scrhfy/
+UID:a13fca5fe3b27e9994f984d6d6386fab464d0b44
+DTSTART:20131123T150000Z
+DTEND:20131123T155000Z
+DESCRIPTION:Le GPU est en de plus en plus important pour la performance de nos applications Web. Il est depuis un moment utilisé pour vous dans certains cas comme le canvas 2D ou certaines animations CSS3\, nous en parlerons donc en introduction. Mais nous verrons ensuite comment aller encore plus loin avec WebGL. Cela sera illustré à travers un moteur 3D HTML5 que nous avons conçu en France ainsi qu’un framework de conception de jeu au-dessus. Vous verrez alors que malgré l’utilisation du GPU\, il faut continuer à être vigilant aux concepts de base de JavaScript pour la performance. Ce sera l’occasion de mettre un peu les mains dans le code\, vous verrez ce n’est pas sale !
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tester une application carto avec Mocha
+LOCATION:
+URL:http://lanyrd.com/2013/francejs/scrhfz/
+UID:e6fd8da13878a77c54c82c77d098dd8e5e83bee6
+DTSTART:20131123T155000Z
+DTEND:20131123T155500Z
+DESCRIPTION:Quelques notes sur l'utilisation de Mocha pour tester une application carto qui repose essentiellement sur des géométries et des évènements.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Introduction aux Web Components
+LOCATION:
+URL:http://lanyrd.com/2013/francejs/scrhgb/
+UID:a2b1b27050c9f178d7dd26159019dcfb052a352a
+DTSTART:20131123T160000Z
+DTEND:20131123T165000Z
+DESCRIPTION:Les "web components" vont bousculer la manière de développer les applications web. Après un bref historique de cette technologie\, dont les origines remontent à plus de 12 ans dans Gecko\, le moteur web de Mozilla\, nous verrons ce que nous promettent les futures spécifications des web components\, et l'état d'avancement des implémentations dans les navigateurs web.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Internationaliser son JS dans la joie
+LOCATION:
+URL:http://lanyrd.com/2013/francejs/scrhgd/
+UID:781b8689181b7da19a7167fa84feb03c58c7484f
+DTSTART:20131124T090000Z
+DTEND:20131124T102500Z
+DESCRIPTION:Ne négligez plus l'internationalisation. A travers quelques démos et exemples\, Christophe Porteneuve proposera des outils et services\, à commencer par les interfaces de traduction.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Building an Audio Waveform API
+LOCATION:
+URL:http://lanyrd.com/2013/francejs/scrhgg/
+UID:8a8e161daf48f2a9f0ff9262721c3113790d4be0
+DTSTART:20131124T103000Z
+DTEND:20131124T115500Z
+DESCRIPTION:The BBC has years of audio archives and six hours long programmes to display to editors and journalists.\n\nHow do you visualise an audio programme? How to provide a millisecond precision editing tool in the browser?\n\nThis is a journey in making a visually simple Canvas editing tool: the context\, the stack\, the UX process\, what we faced\, what we learned and what we open sourced.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tester son code JS dans tous les navigateurs... automatiquement
+LOCATION:
+URL:http://lanyrd.com/2013/francejs/scrhgk/
+UID:7add0cba16aa8ebb6b34a62ab755cf2274254850
+DTSTART:20131124T103000Z
+DTEND:20131124T115500Z
+DESCRIPTION:L'atelier répond à une problématique :\ncomment puis-je tester facilement et rapidement mon code JavaScript dans tous les navigateurs ?\n\nPrésentations de deux test runners :\n- Testem "A test runner that makes Javascript unit testing fun"\n- Karma "Spectacular Test Runner for JavaScript"\n\nPoints abordés :\n- mises en place\n- intégration avec Mocha\, Chai\, Jasmine\, QUnit ?\n- les + et les -\n- démo d'un Jenkins qui run les tests sur 3 browser à chaque push\n\nLe but est de donner les billes à ceux qui veulent s'y mettre et éveiller la curiosité de ceux qui n'en ont jamais entendu parler.\n\nLes participants devront apporter leur machine et une connexion internet serait souhaitable.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Single Page Applications
+LOCATION:
+URL:http://lanyrd.com/2013/francejs/scrhgp/
+UID:95b257047407b684719ab47b82a3acf26fa385b4
+DTSTART:20131124T130000Z
+DTEND:20131124T142500Z
+DESCRIPTION:Présentation rapide de Backbone et Angular (les 2 leader actuellement) et du principe de singlepage application.\n\nDans ce workshop nous allons réaliser une application de TodoList façon Trello qui fonctionnera en standalone (sans serveur).\nNous verrons les méthodes permettant de relier une telle application sur un serveur\, tout en faisant en sorte que celle-ci reste indépendante du serveur (localhost\, app mobile\, etc...).\n1. Démarrage avec les Collections et les Models.\n2. Création des views\n3. Le router\n4. Rajouter des pages à l'application\n    4.1 Best practices avec le router\n    4.2 Comment éviter les zombies et nested views\n    4.3 Une alternative pratique: Marionette\n5. Les méthodes Sync et Save\n    5.1 Ajax et CORS\n    5.2 Socket\n    5.3 LocalStorage\n6. Conseils pour la suite\n7. Bonus si il y a du temps
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Un client XMPP (ou IRC) en Node.js
+LOCATION:
+URL:http://lanyrd.com/2013/francejs/scrhgq/
+UID:bb77159b4f40d03f5f94004ef4d014078ceab053
+DTSTART:20131124T130000Z
+DTEND:20131124T142500Z
+DESCRIPTION:Le but de l'atelier est de programmer un client XMPP ou IRC (à la demande) en Node.js\n\nJe fournis les interfaces graphiques (HTML/CSS)\, et j'introduis les divers concepts et librairies afin de programmer en 90 minutes un simple client sur une seule fenêtre.\n\nLes plus acharnés pourront implémenter le multi-fenêtrage grâce à du JS côté client.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AngularJS : prenez le contrôle des directives
+LOCATION:
+URL:http://lanyrd.com/2013/francejs/scrhgr/
+UID:bf28be611bda86eaa14bd79b9c5f4c61d9f14ee7
+DTSTART:20131124T143000Z
+DTEND:20131124T155500Z
+DESCRIPTION:Les directives d'AngularJS sont au coeur du framework et ont de grandes capacités. Elles peuvent être aussi bien de simples macros pour la compilation des templates que de véritables composants de type widget.\n\nCet atelier vous fera découvrir par la pratique comment écrire vos propres directives et quelles sont les possibilités offertes aux développeurs.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coding dojo
+LOCATION:
+URL:http://lanyrd.com/2013/francejs/scrhgt/
+UID:e163aeac2042eb1e8cbb6cf50e8f9d036b19af9e
+DTSTART:20131124T143000Z
+DTEND:20131124T155500Z
+DESCRIPTION:Je propose de se réunir autour d'un écran pour résoudre ensemble un problème simple (Kata) en JavaScript. Le but est de coder\, expérimenter\, discuter et d'échanger autour de notre manière de développer en JavaScript afin de s'améliorer sans la pression de livrer notre code en production.\n\nUne seule machine sera allumée et l'audience passera tour après tour devant le clavier en binôme.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY;CHARSET=utf-8:FranceJS.in(Toulouse)
+LOCATION;CHARSET=utf-8:ENSEEIHT\, 2\, rue Charles CAMICHEL B.P. 7122 31071 TOULOUSE Cedex 7\, 31071
+URL:http://lanyrd.com/2013/francejs/
+UID:93c8e96bf814325ac7c21e427b8e1e78b544ebda
+DESCRIPTION:Première conférence FranceJS\n\nhttp://lanyrd.com/crcwd
+DTSTART;VALUE=DATE:20131123
+DTEND;VALUE=DATE:20131125
+GEO:43.6022973938;1.45454333439
+END:VEVENT
+END:VCALENDAR
