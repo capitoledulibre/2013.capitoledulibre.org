@@ -137,7 +137,7 @@ Les conférences sont en anglais, et requièrent une inscription sur le `site of
 
 .. class:: span3
 
-Workshop **OpenStack**
+`Workshop OpenStack`_
 -----------------------
 
 La solution opensource de cloud. Le programme est disponible sur le `site officiel d'OpenStack France`_
@@ -149,6 +149,7 @@ La solution opensource de cloud. Le programme est disponible sur le `site offici
 .. _`Conférences Akademy-fr`: /programme/conferences-akademy-fr.html
 .. _`Conférence Akademy-fr`: /akademy-fr.html
 .. _`Conférence FranceJS`: /francejs.html
+.. _`Workshop OpenStack`: /openstack.html
 .. _`Lua workshop`: http://www.lua.org/wshop13.html
 .. _`site officiel de Lua`: http://www.lua.org/wshop13.html
 .. _`site officiel de FranceJS`: http://francejs.org/conf2013.html
