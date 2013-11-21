@@ -41,8 +41,8 @@ Dimanche 24 novembre: Ateliers
 
 Les ateliers du dimanche débutent à 9h30 en salle A301
 
-* 09h30 - 12h30 : À la découverte du cloud libre OpenStack - *Adrien Cunin* et *Stéphane Albert*
-* 14h00 - 17h00 : Initiation à OpenStack Heat - *Pierre Freund*
+* 09h30 - 12h30 : À la découverte du cloud libre OpenStack - *Adrien Cunin* et *Stéphane Albert* - `inscription`_
+* 14h00 - 17h00 : Initiation à OpenStack Heat - *Pierre Freund* - `inscription heat`_
 
 .. html::
 
@@ -50,5 +50,7 @@ Les ateliers du dimanche débutent à 9h30 en salle A301
 
 Retrouvez le programme complet sur le `site officiel d'OpenStack France`_
 
-
 .. _`site officiel d'OpenStack France`: http://openstack.fr/evenement/rencontre-openstack-fr-a-capitole-du-libre-2013-toulouse/
+
+.. _`inscription`: http://toulibre.org/capitoledulibre2013:ateliers:openstack-intro
+.. _`inscription heat`: http://toulibre.org/capitoledulibre2013:ateliers:openstack-heat
