@@ -23,4 +23,5 @@ This event will be composed of talks, all Saturday 23rd and Sunday 24th morning.
 
 You will find on `Lua Workshop official page`_ the whole program.
 
+.. _`Lua`: http://www.framasoft.net/article3610.html
 .. _`Lua Workshop official page`: http://www.lua.org/wshop13.html
