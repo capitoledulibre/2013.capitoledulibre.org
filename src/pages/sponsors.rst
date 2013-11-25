@@ -51,6 +51,8 @@ Partenaires institutionnels
 
 .. include:: ../sponsors/mairie-toulouse.rst
 
+.. include:: ../sponsors/n7.rst
+
 
 Partenaires presse
 ==================

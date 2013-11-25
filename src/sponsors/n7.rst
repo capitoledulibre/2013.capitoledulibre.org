@@ -1,0 +1,11 @@
+.. class:: hidden-title
+
+ENSEEIHT
+-------------------
+
+.. image:: /logos/enseeiht.png
+  :alt: Mairie de Toulouse
+  :target: http://www.enseeiht.fr
+  :class: logo
+
+.. _ENSEEIHT: http://www.enseeiht.fr
