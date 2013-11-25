@@ -1,0 +1,13 @@
+=============================
+Voilà, c'est fini pour 2013 !
+=============================
+
+
+
+:category: programme
+:date: 2013-11-25
+:summary: Voilà, c'est fini pour cette année ! rendez-vous l'année prochaine, même ville, même mois, même bonne humeur !
+:author: Toulibre
+:tags: 
+:status: draft
+
