@@ -1,4 +1,4 @@
-.. class:: hidden-title
+.. class:: hidden-title span2
 
 Mairie de Toulouse
 -------------------
