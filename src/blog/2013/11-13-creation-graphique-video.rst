@@ -18,6 +18,7 @@ Le dimanche 24, vous retrouverez **Blender** et **Krita** avec deux ateliers sur
 .. class:: pull-right
 
 .. figure:: /photos/WM02screenKrita.png
+    :alt: Krita
 
     Capture d'écran Krita
     
