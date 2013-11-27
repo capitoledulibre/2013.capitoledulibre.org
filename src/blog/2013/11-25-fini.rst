@@ -9,7 +9,7 @@ Voilà, c'est fini pour 2013 !
 :tags: 
 :status: draft
 
-Donc voilà c'est la fin du week-end du Capitole du Libre ! Cette édition semble avoir été appréciée, toute l'équipe d'orga est d'ailleurs encore sur un petit nuage ! 
+C'est la fin du week-end du Capitole du Libre ! Cette édition semble avoir été appréciée, toute l'équipe d'orga est d'ailleurs encore sur un petit nuage ! 
 
 Nous commençons évidemment un travail de bilan, un certain nombre de points seront certainement à améliorer, d'autant que cette année est une année de transition au niveau de l'organisation. Mais en attendant, le kernel d'orga souhaite vivement remercier tous les participants à cette édition.
 
@@ -17,10 +17,12 @@ Tout d'abord, merci aux sponsors_ qui nous ont soutenus cette année, eNovance_,
 
 Merci à l'ENSEEIHT_ d'avoir accueilli l'événement Toulousain autour du Logiciel Libre, pour la ... 5ème fois !! Merci également à la `Mairie de Toulouse`_ qui subventionne également cet événement.
 
-Nous remercions également tous les **orateurs** des conférences et ateliers, ainsi les participants aux **stands** qui ont répondu à l'appel à conférences, et animé le Capitole du Libre cette année. Pour tous ceux qui n'ont pas pu participer cette année, nous gardons vos contacts et penserons à vous l'année prochaine !
+Nous remercions également tous les **orateurs** des conférences et ateliers, ainsi que les participants aux **stands** qui ont répondu à l'appel à conférences, et animé le Capitole du Libre cette année. Pour tous ceux qui n'ont pas pu participer à cette édition, nous gardons vos contacts et penserons à vous l'année prochaine !
 Merci à la `radio FMR`_ venue de nouveau cette année, ainsi qu'à tous ceux qui ont publié des articles pour faire la promotion de l'événements (listés en page communication_)
 
-Mais surtout, le Capitole du Libre repose uniquement sur le bénévolat : nous remercions donc les co-organisateurs des événements hébergés (`Akademy-fr`_, FranceJS_, `Lua Workshop`_ et Openstack_), et **tous les bénévoles** Toulibre / N7 / Ubuntu-fr / etc.. qui ont participé à ce week-end, bonne humeur et disponibilité au rendez-vous !! Merci également à tous les bénévoles des clubs de l'ENSEEIHT : **Net7**, **Can7** (animation), **TV-N7**, le **Foy'**, ainsi que Antoine, de **Veezual** qui a gracieusement organisé la captation vidéo des conférences et de certains ateliers. Grâce aux moyens mis à disposition et à tous les bénévoles présents, cet événement est encore une réussite.
+Mais surtout, le Capitole du Libre repose uniquement sur le bénévolat : nous remercions donc les co-organisateurs des événements hébergés (`Akademy-fr`_, FranceJS_, `Lua Workshop`_ et Openstack_), et **tous les bénévoles** Toulibre / N7 / Ubuntu-fr / etc.. qui ont participé à ce week-end, bonne humeur et disponibilité au rendez-vous !! 
+
+Merci également à tous les bénévoles de Toulibre, Ubuntu-fr, et des clubs de l'ENSEEIHT : **Net7**, **Can7** (animation), **TV-N7**, le **Foy'**, ainsi que Antoine, de **Veezual** qui a gracieusement organisé la captation vidéo des conférences et de certains ateliers. Grâce aux moyens mis à disposition et à tous les bénévoles présents, cet événement est encore une réussite.
 
 
 
