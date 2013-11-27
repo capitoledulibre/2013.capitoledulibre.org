@@ -13,7 +13,7 @@ C'est la fin du week-end du Capitole du Libre ! Cette édition semble avoir ét�
 
 Nous commençons évidemment un travail de bilan, un certain nombre de points seront certainement à améliorer, d'autant que cette année est une année de transition au niveau de l'organisation. Mais en attendant, le kernel d'orga souhaite vivement remercier tous les participants à cette édition.
 
-Tout d'abord, merci aux sponsors_ qui nous ont soutenus cette année, eNovance_, KDAB_, Logilab_, `Makina Corpus`_, `Open Pandora`_, `Sierra Wireless`_ pour les sponsors "Or",  certains soutiennent le Capitole du Libre depuis 2008, alors qu'il ne s'appelait pas encore ainsi.
+Tout d'abord, merci aux sponsors_ qui nous ont soutenus cette année, eNovance_, KDAB_, Logilab_, `Makina Corpus`_, `Open Pandora`_, `Sierra Wireless`_ pour les sponsors "Or",  certains soutiennent le Capitole du Libre depuis 2008, alors qu'il ne s'appelait pas encore ainsi. C'est grâce à votre soutien que l'entrée est et reste gratuite au public, et que les déplacement et logement des orateurs sont défrayés.
 
 Merci à l'ENSEEIHT_ d'avoir accueilli l'événement Toulousain autour du Logiciel Libre, pour la ... 5ème fois !! Merci également à la `Mairie de Toulouse`_ qui subventionne également cet événement.
 
