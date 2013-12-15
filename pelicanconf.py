@@ -12,6 +12,7 @@ PLUGIN_PATH = '../src/pelican-plugins'
 PLUGINS = ['html_rst_directive','ical']
 
 DELETE_OUTPUT_DIRECTORY = True
+WITH_FUTURE_DATES = False
 
 ARTICLE_DIR = 'blog'
 ARTICLE_EXCLUDES = ('','blog','intervenants','sponsors','liens')
