@@ -12,8 +12,13 @@
 {% if page.calendar %}
     {% include "inc-ical.html" %}
 {% endif %}
+
 {{ page.content }}
-    
+
+{% if page.space %}
+    {% include "inc-video.html" %}
+{% endif %}
+
     </div>
         
 </div>
