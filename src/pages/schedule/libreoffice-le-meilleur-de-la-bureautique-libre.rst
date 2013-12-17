@@ -2,7 +2,11 @@
 LibreOffice, le meilleur de la bureautique libre
 ================================================
 
-:space: A002
+:url: conferences/libreoffice-le-meilleur-de-la-bureautique-libre.html
+:save_as: conferences/libreoffice-le-meilleur-de-la-bureautique-libre.html
+:video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/Multimedia-bureautique
+:speakers: Arnaud Versini
+:template: conference
 
 .. html::
 

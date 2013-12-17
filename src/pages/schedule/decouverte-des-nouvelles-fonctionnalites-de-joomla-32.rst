@@ -2,7 +2,11 @@
 Découverte des nouvelles fonctionnalités de Joomla 3.2
 ======================================================
 
-:space: C002
+:url: conferences/decouverte-des-nouvelles-fonctionnalites-de-joomla-32.html
+:save_as: conferences/decouverte-des-nouvelles-fonctionnalites-de-joomla-32.html
+:video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/Internet-libre
+:speakers: Pierre Sempé
+:template: conference
 
 .. html::
 

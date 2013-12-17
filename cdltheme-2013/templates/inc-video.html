@@ -1,12 +1,5 @@
-
-{{ page.space }}
-
-
-    <div>
-        
-        <video id="example_video_1" class="video-js vjs-default-skin"
-          controls preload="auto" width="640" height="460"
-          data-setup='{"example_option":true}'>
-         <source src="{{ SITEURL }}/videos/guerby-bayart-ffdn-tetaneutral-internet-autrement.mp4" type='video/mp4' />
-        </video>
-    </div>
+<video id="example_video_1" class="video-js vjs-default-skin"
+  controls preload="auto" width="100%" height="auto">
+ <source src="{{ page.video_url }}.mp4" type='video/mp4' />
+ <source src="{{ page.video_url }}.webm" type='video/webm' />
+</video>

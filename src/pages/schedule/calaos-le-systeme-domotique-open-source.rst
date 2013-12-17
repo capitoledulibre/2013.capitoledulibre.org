@@ -2,7 +2,11 @@
 Calaos, le système domotique Open Source
 ========================================
 
-:space: A201
+:url: conferences/calaos-le-systeme-domotique-open-source.html
+:save_as: conferences/calaos-le-systeme-domotique-open-source.html
+:video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/Technique
+:speakers: Raoul Hecky, Nicolas Aguirre
+:template: conference
 
 .. html::
 

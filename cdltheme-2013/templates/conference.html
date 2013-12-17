@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% block indextitle %}{% endblock %}
+{% block title %}{{ SITENAME }} - {{ page.title }}{% endblock title %}
+{% block description %}{{ page.title }} : {{ page.summary|striptags|truncate(60) }}{% endblock description %}
+
+{% block class %}{{ page.slug }}{% endblock class %}
+{% block content %}
+<div class='page {{ page.slug }}'>
+<h1>{{ page.title }}{% if page.speakers %}<br/><small>par <em>{{ page.speakers }}</em></small>{% endif %}</h1>
+
+    <div>
+    {% if page.video_url %}
+    <div class="row">
+
+        <div class="span6">
+            {{ page.content }}
+            {% if page.slides_url %}
+            <p>Voir la <a href="{{ page.slides_url }}" target="_blank">pr&eacute;sentation</a></p>
+            {% endif %}
+        </div>
+        <div class="span6">
+            {% include "inc-video.html" %}
+        </div>
+        
+    </div>
+    {% endif %}
+
+    </div>
+        
+</div>
+{% endblock %}

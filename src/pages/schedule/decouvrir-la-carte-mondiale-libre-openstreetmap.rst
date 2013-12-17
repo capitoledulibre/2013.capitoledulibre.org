@@ -1,0 +1,14 @@
+===============================================
+Découvrir la carte mondiale libre OpenStreetMap
+===============================================
+
+:url: conferences/decouvrir-la-carte-mondiale-libre-openstreetmap.html
+:save_as: conferences/decouvrir-la-carte-mondiale-libre-openstreetmap.html
+:video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/Grand-public
+:speakers: Cyrille Giquello
+:template: conference
+
+.. html::
+
+ <p>Que diriez-vous d&#39;avoir une carte du monde dans laquelle votre rue, les arrêts de bus de votre commune, les collectes de verre de vos lieux de vacances, les chemins de vos promenades préférées seraient précisément décrits ?</p><p>Et bien cette carte existe et son cœur est le projet OpenStreetMap et toutes ses petites fourmis. Cette mini-conférence vous propose de découvrir ce projet, les usages qui en sont fait et les différentes façons d&#39;y participer.</p>
+
