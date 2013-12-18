@@ -208,6 +208,9 @@ td.odd {
 
 /* content *
   -------- */
+.page {
+    margin-bottom: 1em;
+}
 
 #content {
   padding-top: 19px;

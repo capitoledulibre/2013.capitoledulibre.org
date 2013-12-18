@@ -6,7 +6,7 @@
 {% block class %}{{ page.slug }}{% endblock class %}
 {% block content %}
 <div class='page {{ page.slug }}'>
-<h1>{{ page.title }}{% if page.speakers %}<br/><small>par <em>{{ page.speakers }}</em></small>{% endif %}</h1>
+<h1>{{ page.title }}{% if page.speakers %} <small>par <em>{{ page.speakers }}</em></small>{% endif %}</h1>
 
     <div>
     {% if page.video_url %}
