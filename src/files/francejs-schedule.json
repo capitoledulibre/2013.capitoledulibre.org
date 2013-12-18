@@ -1,0 +1,541 @@
+{
+    "timezone": "Europe/Paris", 
+    "sessions": [
+        {
+            "day": "Saturday 23rd November", 
+            "sessions": [
+                {
+                    "start_time": "2013-11-23 11:00:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/francejs/scrhfp/", 
+                    "times": "11:00am\u00a0-\u00a011:50am", 
+                    "id": "scrhfp", 
+                    "types": [], 
+                    "end_time_epoch": 1385203800, 
+                    "speakers": [
+                        {
+                            "bio": "<p>Consultant chez Valtech depuis 2011</p>", 
+                            "web_url": "http://lanyrd.com/profile/pons_thomas/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/2d2ba74c1593cffa8cfbedc8f15d151d316f3b78-s300.jpeg", 
+                            "name": "Thomas Pons", 
+                            "elsewhere": [], 
+                            "role": "Consultant Web et formateur chez Valtech", 
+                            "twitter": "@pons_thomas", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/2d2ba74c1593cffa8cfbedc8f15d151d316f3b78-s75.jpeg", 
+                            "speaker_bio": "<p>Jeune consultant web et formateur chez Valtech depuis 2 ans, Thomas Pons est passionn\u00e9 par le Javascript, de l&#39;utilisation d&#39; ExpressJS c\u00f4te serveur (NodeJS) \u00e0 la mise en place de SPA (AngularJS, BackboneJS) son expertise tiens compte des probl\u00e9matiques d&#39;industrialisation de ces nouvelles technologies.</p>\n<p>Thomas Pons est \u00e9galement contributeur du projet command.io (package NodeJS) : <a href=\"https://npmjs.org/package/command.io\" rel=\"nofollow\">https://npmjs.org/package/comman...</a></p>"
+                        }
+                    ], 
+                    "title": "Scaffolding et industrialisation d'une application JavaScript", 
+                    "event_id": "crcwd", 
+                    "space": null, 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 11:50:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385200800, 
+                    "abstract": "<p>Nous verrons comment scaffolder une application AngularJS gr\u00e2ce \u00e0 Yeoman ; comment g\u00e9rer les d\u00e9pendances des librairies c\u00f4t\u00e9 client gr\u00e2ce \u00e0 Bower ; comment cr\u00e9er un build automatis\u00e9 gr\u00e2ce \u00e0 Grunt.</p>\n<p>Nous verrons \u00e9galement comment g\u00e9rer les tests unitaires gr\u00e2ce au framework Jasmine et au Test Runner Karma ; comment avoir un contr\u00f4le de qualit\u00e9 du code gr\u00e2ce \u00e0 JSHint ; comment avoir un code coverage de qualit\u00e9 avec IstanbulJS.</p>\n<p>Et enfin comment int\u00e9grer tous ces outils \u00e0 un build Jenkins ou encore le coupler \u00e0 Maven.</p>"
+                }, 
+                {
+                    "start_time": "2013-11-23 11:50:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/francejs/scrhfq/", 
+                    "times": "11:50am\u00a0-\u00a011:55am", 
+                    "id": "scrhfq", 
+                    "types": [], 
+                    "end_time_epoch": 1385204100, 
+                    "speakers": [
+                        {
+                            "bio": "<p>Software Engineer and UI/UX lover at IntuiLab, #nodejs, #html5, #arduino, #raspberrypi, #ui, #ux</p>", 
+                            "web_url": "http://lanyrd.com/profile/younes/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/dacb3a1746109f980672c912ebf1f12ca98b8b45-5ab5c9-s300.jpeg", 
+                            "name": "Youn\u00e8s Benaomar", 
+                            "elsewhere": [
+                                {
+                                    "url": "http://www.interactive-object.com/"
+                                }
+                            ], 
+                            "role": "Software Engineer and UI/UX lover at IntuiLab", 
+                            "twitter": "@younesbenaomar", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/dacb3a1746109f980672c912ebf1f12ca98b8b45-5ab5c9-s75.jpeg", 
+                            "speaker_bio": "<p>Ing\u00e9nieur informatique et passionn\u00e9 de l\u2019\u00e9lectronique, logiciels libres et , photographie et les robots. <br>\nJe travaille comme designer interactive (UX design) au quotidien, et dans mon temps libre je cr\u00e9e des applications web, des robots avec arduino, rasberry pi et NodeJS.</p>"
+                        }
+                    ], 
+                    "title": "JavaScript et Internet des objets", 
+                    "event_id": "crcwd", 
+                    "space": null, 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 11:55:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385203800, 
+                    "abstract": "<p>Pr\u00e9sentation d&#39;un exemple pratique d&#39;utilisation de JavaScript (NodeJS) sur RasberryPi pour contr\u00f4ler des donn\u00e9es en temps r\u00e9el d&#39;une voiture t\u00e9l\u00e9command\u00e9e.</p>"
+                }, 
+                {
+                    "start_time": "2013-11-23 13:30:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/francejs/scrhfr/", 
+                    "times": "1:30pm\u00a0-\u00a02:20pm", 
+                    "id": "scrhfr", 
+                    "types": [], 
+                    "end_time_epoch": 1385212800, 
+                    "speakers": [
+                        {
+                            "bio": "<p>I make cool stuff and teach others to (Git, Rails, JS/CoffeeScript/Node/etc).</p>", 
+                            "web_url": "http://lanyrd.com/profile/porteneuve/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/420d45ba804cc710af864f114d4d43ef4e815f55-s300.jpeg", 
+                            "name": "Christophe Porteneuve", 
+                            "elsewhere": [
+                                {
+                                    "url": "http://www.linkedin.com/profile/view?id=2557784"
+                                }
+                            ], 
+                            "role": "Fondateur et directeur technique de Delicious Insights", 
+                            "twitter": "@porteneuve", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/420d45ba804cc710af864f114d4d43ef4e815f55-s75.jpeg", 
+                            "speaker_bio": "<p>Christophe Porteneuve est le fondateur et directeur technique de Delicious Insights, qui tout en travaillant sur des SaaS B2B \u00e0 venir con\u00e7oit et propose les cycles de formation Git Attitude et JS Attitude.</p>\n<p>Christophe con\u00e7oit des pages web depuis 1995. Co-cr\u00e9ateur du premier portail bas\u00e9 J2EE en Europe, en 1999, il tombe plus tard dans Ruby, Rails puis Node.</p>\n<p>Auteur du best-seller \u00ab Bien d\u00e9velopper pour le Web 2.0 \u00bb chez Eyrolles, il a \u00e9galement \u00e9crit la r\u00e9f\u00e9rence  \u00ab Prototype and script.aculo.us \u00bb chez Pragmatic Programmers, des articles dans divers magazines en ligne, et il est speaker pour plusieurs conf\u00e9rences petites et grosses.</p>\n<p>Il vit \u00e0 Paris avec sa femme \u00c9lodie.</p>"
+                        }
+                    ], 
+                    "title": "Tour d'horizon de Node.js", 
+                    "event_id": "crcwd", 
+                    "space": null, 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 14:20:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385209800, 
+                    "abstract": "<p>Node.js est l\u2019une des technologies les plus en vue de ces derni\u00e8res ann\u00e9es, des services web \u00e0 la   robotique ; d\u00e9sormais bien industrialis\u00e9 et dot\u00e9 d\u2019un \u00e9cosyst\u00e8me et d\u2019une communaut\u00e9 tr\u00e8s vifs, Node a remis sur le devant de la sc\u00e8ne un mod\u00e8le de programmation non bloquant / asynchrone et, surtout, des techniques de code \u00e9l\u00e9gantes pour r\u00e9aliser celui-ci.</p>\n<p>Dans cette pr\u00e9sentation\u2014qui s&#39;adresse tant \u00e0 ceux qui n&#39;ont jamais regard\u00e9 Node qu&#39;\u00e0 ceux qui jouent d\u00e9j\u00e0 avec\u2014Christophe Porteneuve brosse un tableau de Node.js aussi concret que possible. Il posera rapidement quelques notions fondamentales (Node, modules, npm, asynchrone\u2026) puis explorera le d\u00e9veloppement d\u2019une application web ludique et interactive, qui mettra conjointement en \u0153uvre quelques-uns des usages les plus c\u00e9l\u00e8bres, d\u2019Express \u00e0 Docco en passant par de l\u2019OAuth 2, du Redis, des Web Sockets, Brunch, Mocha et Uglify.</p>\n<p>Avec m\u00eame un petit bonus qui sortira du strict domaine d\u00e9mat\u00e9rialis\u00e9 du web pour se manifester physiquement.</p>"
+                }, 
+                {
+                    "start_time": "2013-11-23 14:30:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/francejs/scrhft/", 
+                    "times": "2:30pm\u00a0-\u00a02:55pm", 
+                    "id": "scrhft", 
+                    "types": [], 
+                    "end_time_epoch": 1385214900, 
+                    "speakers": [
+                        {
+                            "bio": "<p>Full stack #javascript engineer @ BBC R&amp;D: #nodejs, #html5, #browser apps \u2665 photography, arts, travelling, jazz, singular experiences and @sudweb curator.</p>", 
+                            "web_url": "http://lanyrd.com/profile/oncletom/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/980f9183f78992aa0668ef26ab22911e122421d2-s300.jpg", 
+                            "name": "Thomas Parisot", 
+                            "elsewhere": [
+                                {
+                                    "url": "https://oncletom.io/"
+                                }
+                            ], 
+                            "role": "Web Engineer at BBC R&D", 
+                            "twitter": "@oncletom", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/980f9183f78992aa0668ef26ab22911e122421d2-s75.jpg", 
+                            "speaker_bio": "<p>Thomas Parisot is a Web Engineer at BBC R&amp;D in London, United Kingdom. He enjoys using JavaScript to craft joyful libraries and APIs, for the frontend and the backend, developing  and sharing them in the open.  <br>\nIn the past, he worked as a freelancer, in an IT department, in a nation-wide Web agency and cofounded an online intelligence startup.</p>\n<p>He is a believer of cross-disciplines learning, simple things and chance. Of course he likes cheese. Of course he likes wine. And <a href=\"https://oncletom.io\" rel=\"nofollow\">words</a>. And <a href=\"https://oncletom.io/photos/\" rel=\"nofollow\">making pictures</a>.</p>\n<p>Aside that, he co-created the <a href=\"http://sudweb.fr\" rel=\"nofollow\">Sud Web conference</a> in France, published a book on digital communication using blogs and enjoys night courses at the <a href=\"http://www.arts.ac.uk/\" rel=\"nofollow\">University of the Arts London</a>.</p>"
+                        }
+                    ], 
+                    "title": "Creating a Grunt Task from Spaghetti to Rock Solid Code", 
+                    "event_id": "crcwd", 
+                    "space": null, 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 14:55:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385213400, 
+                    "abstract": "<p>We have an idea, we code it as a custom task in our `Gruntfile.js` and\u2026 *it works*!</p>\n<p>Then we sleep on it for 6 months and someone stumble on us, revealing some software weakness we have trouble to fix **because we don&#39;t remember well** what was our state of mind at the time of writing the code.</p>\n<p>*This is not bad*. This is how it often works in the *real world*.  <br>\nWe will learn how to make that **code beautifully speaking by itself**, embracing a *design features* approach rather than the *code stuff tested on runtime* one.</p>\n<p>And if you never wrote *unit tests*, this is definitely the trigger which **will break your fear** and share your knowledge of your code across your team.</p>"
+                }, 
+                {
+                    "start_time": "2013-11-23 15:00:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/francejs/scrhfw/", 
+                    "times": "3:00pm\u00a0-\u00a03:25pm", 
+                    "id": "scrhfw", 
+                    "types": [], 
+                    "end_time_epoch": 1385216700, 
+                    "speakers": [
+                        {
+                            "bio": "<p>Consultant en architecture logicielle, formateur AngularJS et cr\u00e9ateur du blog FrAngular : <a href=\"http://www.frangular.com/\" rel=\"nofollow\">http://www.frangular.com/</a></p>", 
+                            "web_url": "http://lanyrd.com/profile/thierrychatel/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/28f221a1e6e80178f1e8a6082cb0cdbc296a60f2-s300.jpeg", 
+                            "name": "Thierry Chatel", 
+                            "elsewhere": [], 
+                            "role": "Consultant en architecture logicielle, formateur AngularJS et cr\u00e9ateur du blog FrAngular", 
+                            "twitter": "@ThierryChatel", 
+                            "image_75": "https://s3.amazonaws.com/static.lanyrd.net/cropped-profile-photos/28f221a1e6e80178f1e8a6082cb0cdbc296a60f2-s75.jpeg", 
+                            "speaker_bio": "<p>Je suis consultant en architecture logicielle et formateur AngularJS.<br>\nPr\u00e9curseur d&#39;AngularJS en France, je n&#39;ai de cesse, depuis que j&#39;ai d\u00e9couvert ce framework \u00e0 l&#39;\u00e9poque alors encore balbutiant, de partager mon enthousiasme et mes connaissances.</p>"
+                        }
+                    ], 
+                    "title": "AngularJS : 1 an apr\u00e8s", 
+                    "event_id": "crcwd", 
+                    "space": null, 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 15:25:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385215200, 
+                    "abstract": "<p>\u00c7a fait plus d&#39;un an que le framework AngularJS est sorti en version stable.</p>\n<p>C&#39;est l&#39;occasion de faire un point et de prendre du recul pour analyser le ph\u00e9nom\u00e8ne AngularJS.</p>\n<p>Quelle est son adoption, pour quels usages ? Comment s&#39;ins\u00e8re-t-il dans les architectures web applicatives, et quel est son impact ? Comment \u00e9voluent les versions ?</p>\n<p>Une session qui laissera une grande place aux \u00e9changes et au d\u00e9bat.</p>"
+                }, 
+                {
+                    "start_time": "2013-11-23 15:25:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/francejs/scrhfx/", 
+                    "times": "3:25pm\u00a0-\u00a03:30pm", 
+                    "id": "scrhfx", 
+                    "types": [], 
+                    "end_time_epoch": 1385217000, 
+                    "speakers": [
+                        {
+                            "bio": "<p>Junior Front-End Developer \u2022 passionate about the web and how it evolves \u2022 belief in javascriptEveryWhere() \u2022 lately focussing on #OOCSS #Sass|Stylus #*.js</p>", 
+                            "web_url": "http://lanyrd.com/profile/stephcoue/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/5e475150ed8359d9a84b52c76312d71c62cee43e-s300.jpeg", 
+                            "name": "St\u00e9phane Cou\u00e9", 
+                            "elsewhere": [
+                                {
+                                    "url": "http://steph.io/"
+                                }
+                            ], 
+                            "role": "UX-Scientist chez UXRepublic", 
+                            "twitter": "@stephCoue", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/5e475150ed8359d9a84b52c76312d71c62cee43e-s75.jpeg", 
+                            "speaker_bio": "<p>D\u00e9veloppeur Front-end dont la principale fonction est la maintenance des feuilles de styles. Quand il n&#39;est pas en train de confectionner un mixin ou une fonction avec un pr\u00e9-processeur (Sass || Stylus), il aime \u00e9tudier ECMAScript et comprendre comment l&#39;interpr\u00e9teur \u00e9value le code donn\u00e9. Il se r\u00e9gale de ces &quot;Ha!  Ok\u00e9&quot; moments.</p>"
+                        }
+                    ], 
+                    "title": "Pk t'es \"strict\"?", 
+                    "event_id": "crcwd", 
+                    "space": null, 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 15:30:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385216700, 
+                    "abstract": "<p>&quot;use strict&quot;;<br>\nQu&#39;est ce qui change? Ce qu&#39;il ne faut plus assumer, les exceptions g\u00e9n\u00e9r\u00e9es, le support dans les navigateurs.<br>\nPar des exemples triviaux (snippets, chrome devTools montrer le comportement de JS en strict mode\u2026 )</p>"
+                }, 
+                {
+                    "start_time": "2013-11-23 16:00:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/francejs/scrhfy/", 
+                    "times": "4:00pm\u00a0-\u00a04:50pm", 
+                    "id": "scrhfy", 
+                    "types": [], 
+                    "end_time_epoch": 1385221800, 
+                    "speakers": [
+                        {
+                            "bio": "<p>Technical Evangelist Lead for Windows Client @Microsoft France.<br>\n#HTML5, #Windows8, #DirectX, #Kinect</p>", 
+                            "web_url": "http://lanyrd.com/profile/deltakosh/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/9f4d37b41e970ef42430de73e05631ce26c54d96-s300.jpg", 
+                            "name": "David Catuhe", 
+                            "elsewhere": [], 
+                            "role": "Responsable des \u00e9vang\u00e9listes techniques chez Microsoft France", 
+                            "twitter": "@deltakosh", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/9f4d37b41e970ef42430de73e05631ce26c54d96-s75.jpg", 
+                            "speaker_bio": "<p>David Catuhe est responsable des \u00e9vang\u00e9listes techniques en France. Il g\u00e8re une \u00e9quipe d\u2019experts sur les technologies clientes Windows (Windows 8 et Windows Phone). Il est passionn\u00e9 par de nombreux sujets parmi lesquels on peut compter XAML, C#, HTML5, CSS3 et Javascript, DirectX, et Kinect (pour lequel il a \u00e9crit un livre disponible chez Microsoft Press). David se d\u00e9finit lui-m\u00eame comme un geek. Il est notamment le cr\u00e9ateur de hand.js et surtout de babylon.js, un moteur 3D temps r\u00e9el base sur WebGL. Il \u00e9crit \u00e9galement sur un blog technique sur ses sujets favoris (Html5, 3D et JavaScript).</p>"
+                        }, 
+                        {
+                            "bio": "<p>Windows 8 &amp; HTML5 Microsoft Developer Evangelist</p>", 
+                            "web_url": "http://lanyrd.com/profile/davrous/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/7c8311fdfd5a760fabe581c9772fb78d4ef2d41d-s300.jpg", 
+                            "name": "David Rousset", 
+                            "elsewhere": [], 
+                            "role": "Evang\u00e9liste technique chez Microsoft France", 
+                            "twitter": "@davrous", 
+                            "image_75": "https://s3.amazonaws.com/static.lanyrd.net/cropped-profile-photos/7c8311fdfd5a760fabe581c9772fb78d4ef2d41d-s75.jpg", 
+                            "speaker_bio": "<p>David Rousset est \u00e9vang\u00e9liste technique chez Microsoft France. Il s\u2019occupe de suivre des projets autour des technologies HTML5 sur le Web et au sein des applications Windows 8. Il est \u00e9galement responsable du suivi technique des projets de type jeux vid\u00e9o en HTML5, Unity 3D et DirectX pour les plateformes Windows Phone 8 et Windows 8.1. Il anime fr\u00e9quemment des conf\u00e9rences sur ce sujet. Vous pouvez le suivre sur son blog : <a href=\"http://blogs.msdn.com/davrous\" rel=\"nofollow\">http://blogs.msdn.com/davrous</a> ou sur Twitter : <a href=\"http://twitter.com/davrous\" rel=\"nofollow\">http://twitter.com/davrous</a>. Ah oui, dernier point, il est juste chiant avec tout ce qui tourne autour de Star Wars.</p>"
+                        }
+                    ], 
+                    "title": "R\u00e9aliser un jeu cross-plateformes avec WebGL et Babylon.JS", 
+                    "event_id": "crcwd", 
+                    "space": null, 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 16:50:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385218800, 
+                    "abstract": "<p>Le GPU est en de plus en plus important pour la performance de nos applications Web. Il est depuis un moment utilis\u00e9 pour vous dans certains cas comme le canvas 2D ou certaines animations CSS3, nous en parlerons donc en introduction. Mais nous verrons ensuite comment aller encore plus loin avec WebGL. Cela sera illustr\u00e9 \u00e0 travers un moteur 3D HTML5 que nous avons con\u00e7u en France ainsi qu\u2019un framework de conception de jeu au-dessus. Vous verrez alors que malgr\u00e9 l\u2019utilisation du GPU, il faut continuer \u00e0 \u00eatre vigilant aux concepts de base de JavaScript pour la performance. Ce sera l\u2019occasion de mettre un peu les mains dans le code, vous verrez ce n\u2019est pas sale !</p>"
+                }, 
+                {
+                    "start_time": "2013-11-23 16:50:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/francejs/scrhfz/", 
+                    "times": "4:50pm\u00a0-\u00a04:55pm", 
+                    "id": "scrhfz", 
+                    "types": [], 
+                    "end_time_epoch": 1385222100, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": "http://lanyrd.com/profile/leplatrem/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/a534762a04551caeca501bae8bcbff8eac243fc3-s300.jpeg", 
+                            "name": "Mathieu Leplatre", 
+                            "elsewhere": [], 
+                            "role": "D\u00e9veloppeur chez Makina Corpus", 
+                            "twitter": "@leplatrem", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/a534762a04551caeca501bae8bcbff8eac243fc3-s75.jpeg", 
+                            "speaker_bio": "<p>TypeError: Cannot call method &#39;toString&#39; of undefined</p>"
+                        }
+                    ], 
+                    "title": "Tester une application carto avec Mocha", 
+                    "event_id": "crcwd", 
+                    "space": null, 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 16:55:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385221800, 
+                    "abstract": "<p>Quelques notes sur l&#39;utilisation de Mocha pour tester une application carto qui repose essentiellement sur des g\u00e9om\u00e9tries et des \u00e9v\u00e8nements.</p>"
+                }, 
+                {
+                    "start_time": "2013-11-23 17:00:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/francejs/scrhgb/", 
+                    "times": "5:00pm\u00a0-\u00a05:50pm", 
+                    "id": "scrhgb", 
+                    "types": [], 
+                    "end_time_epoch": 1385225400, 
+                    "speakers": [
+                        {
+                            "bio": "<p>Consultant Web, D\u00e9veloppeur passionn\u00e9, Contributeur Mozilla, Entrepreneur.</p>", 
+                            "web_url": "http://lanyrd.com/profile/ljouanneau-8561/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/426c969aef375bc4660e270e3dd91e3d9a9c6297-s300.jpeg", 
+                            "name": "Laurent Jouanneau", 
+                            "elsewhere": [], 
+                            "role": "Consultant Web, D\u00e9veloppeur passionn\u00e9, Contributeur Mozilla, Entrepreneur", 
+                            "twitter": null, 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/426c969aef375bc4660e270e3dd91e3d9a9c6297-s75.jpeg", 
+                            "speaker_bio": "<p>Laurent Jouanneau a d\u00e9velopp\u00e9 tout un tas de logiciels et sites web depuis 25 ans, dont sa premi\u00e8re page web en 1994. Son activit\u00e9 professionnelle tourne autour du web depuis 14 ans. En 2003, il a co-fond\u00e9 le premier site web fran\u00e7ais sur les standards, <a href=\"http://Openweb.eu.org\" rel=\"nofollow\">Openweb.eu.org</a>. Et depuis cette m\u00eame p\u00e9riode, il contribue au projet Mozilla. Il est ainsi devenu expert en XUL, XBL, JS, XPCom et d\u00e9veloppe des navigateurs bas\u00e9s sur Gecko. Il propose ses services par la soci\u00e9t\u00e9 Innophi qu&#39;il a co-fond\u00e9 en 2010.</p>"
+                        }
+                    ], 
+                    "title": "Introduction aux Web Components", 
+                    "event_id": "crcwd", 
+                    "space": null, 
+                    "day": "Saturday 23rd November", 
+                    "end_time": "2013-11-23 17:50:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385222400, 
+                    "abstract": "<p>Les &quot;web components&quot; vont bousculer la mani\u00e8re de d\u00e9velopper les applications web. Apr\u00e8s un bref historique de cette technologie, dont les origines remontent \u00e0 plus de 12 ans dans Gecko, le moteur web de Mozilla, nous verrons ce que nous promettent les futures sp\u00e9cifications des web components, et l&#39;\u00e9tat d&#39;avancement des impl\u00e9mentations dans les navigateurs web.</p>"
+                }
+            ]
+        }, 
+        {
+            "day": "Sunday 24th November", 
+            "sessions": [
+                {
+                    "start_time": "2013-11-24 10:00:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/francejs/scrhgd/", 
+                    "times": "10:00am\u00a0-\u00a011:25am", 
+                    "id": "scrhgd", 
+                    "types": [], 
+                    "end_time_epoch": 1385288700, 
+                    "speakers": [
+                        {
+                            "bio": "<p>I make cool stuff and teach others to (Git, Rails, JS/CoffeeScript/Node/etc).</p>", 
+                            "web_url": "http://lanyrd.com/profile/porteneuve/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/420d45ba804cc710af864f114d4d43ef4e815f55-s300.jpeg", 
+                            "name": "Christophe Porteneuve", 
+                            "elsewhere": [
+                                {
+                                    "url": "http://www.linkedin.com/profile/view?id=2557784"
+                                }
+                            ], 
+                            "role": "Fondateur et directeur technique de Delicious Insights", 
+                            "twitter": "@porteneuve", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/420d45ba804cc710af864f114d4d43ef4e815f55-s75.jpeg", 
+                            "speaker_bio": "<p>Christophe Porteneuve est le fondateur et directeur technique de Delicious Insights, qui tout en travaillant sur des SaaS B2B \u00e0 venir con\u00e7oit et propose les cycles de formation Git Attitude et JS Attitude.</p>\n<p>Christophe con\u00e7oit des pages web depuis 1995. Co-cr\u00e9ateur du premier portail bas\u00e9 J2EE en Europe, en 1999, il tombe plus tard dans Ruby, Rails puis Node.</p>\n<p>Auteur du best-seller \u00ab Bien d\u00e9velopper pour le Web 2.0 \u00bb chez Eyrolles, il a \u00e9galement \u00e9crit la r\u00e9f\u00e9rence  \u00ab Prototype and script.aculo.us \u00bb chez Pragmatic Programmers, des articles dans divers magazines en ligne, et il est speaker pour plusieurs conf\u00e9rences petites et grosses.</p>\n<p>Il vit \u00e0 Paris avec sa femme \u00c9lodie.</p>"
+                        }
+                    ], 
+                    "title": "Internationaliser son JS dans la joie", 
+                    "event_id": "crcwd", 
+                    "space": null, 
+                    "day": "Sunday 24th November", 
+                    "end_time": "2013-11-24 11:25:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385283600, 
+                    "abstract": "<p>Ne n\u00e9gligez plus l&#39;internationalisation. A travers quelques d\u00e9mos et exemples, Christophe Porteneuve proposera des outils et services, \u00e0 commencer par les interfaces de traduction.</p>"
+                }, 
+                {
+                    "start_time": "2013-11-24 11:30:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/francejs/scrhgg/", 
+                    "times": "11:30am\u00a0-\u00a012:55pm", 
+                    "id": "scrhgg", 
+                    "types": [], 
+                    "end_time_epoch": 1385294100, 
+                    "speakers": [
+                        {
+                            "bio": "<p>Full stack #javascript engineer @ BBC R&amp;D: #nodejs, #html5, #browser apps \u2665 photography, arts, travelling, jazz, singular experiences and @sudweb curator.</p>", 
+                            "web_url": "http://lanyrd.com/profile/oncletom/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/980f9183f78992aa0668ef26ab22911e122421d2-s300.jpg", 
+                            "name": "Thomas Parisot", 
+                            "elsewhere": [
+                                {
+                                    "url": "https://oncletom.io/"
+                                }
+                            ], 
+                            "role": "Web Engineer at BBC R&D", 
+                            "twitter": "@oncletom", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/980f9183f78992aa0668ef26ab22911e122421d2-s75.jpg", 
+                            "speaker_bio": "<p>Thomas Parisot is a Web Engineer at BBC R&amp;D in London, United Kingdom. He enjoys using JavaScript to craft joyful libraries and APIs, for the frontend and the backend, developing  and sharing them in the open.  <br>\nIn the past, he worked as a freelancer, in an IT department, in a nation-wide Web agency and cofounded an online intelligence startup.</p>\n<p>He is a believer of cross-disciplines learning, simple things and chance. Of course he likes cheese. Of course he likes wine. And <a href=\"https://oncletom.io\" rel=\"nofollow\">words</a>. And <a href=\"https://oncletom.io/photos/\" rel=\"nofollow\">making pictures</a>.</p>\n<p>Aside that, he co-created the <a href=\"http://sudweb.fr\" rel=\"nofollow\">Sud Web conference</a> in France, published a book on digital communication using blogs and enjoys night courses at the <a href=\"http://www.arts.ac.uk/\" rel=\"nofollow\">University of the Arts London</a>.</p>"
+                        }
+                    ], 
+                    "title": "Building an Audio Waveform API", 
+                    "event_id": "crcwd", 
+                    "space": null, 
+                    "day": "Sunday 24th November", 
+                    "end_time": "2013-11-24 12:55:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385289000, 
+                    "abstract": "<p>The BBC has years of audio archives and six hours long programmes to display to editors and journalists.</p>\n<p>How do you visualise an audio programme? How to provide a millisecond precision editing tool in the browser?</p>\n<p>This is a journey in making a visually simple Canvas editing tool: the context, the stack, the UX process, what we faced, what we learned and what we open sourced.</p>"
+                }, 
+                {
+                    "start_time": "2013-11-24 11:30:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/francejs/scrhgk/", 
+                    "times": "11:30am\u00a0-\u00a012:55pm", 
+                    "id": "scrhgk", 
+                    "types": [], 
+                    "end_time_epoch": 1385294100, 
+                    "speakers": [
+                        {
+                            "bio": "", 
+                            "web_url": null, 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/f08e9393f763bd5085664744a5aace9fce06fc26-s300.jpeg", 
+                            "name": "Nicolas Medda", 
+                            "elsewhere": [], 
+                            "role": "D\u00e9veloppeur chez Viareport", 
+                            "twitter": null, 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/f08e9393f763bd5085664744a5aace9fce06fc26-s75.jpeg", 
+                            "speaker_bio": "<p>Nicolas Medda est d\u00e9veloppeur au sein du groupe Viareport.</p>\n<p>Parce qu&#39;un jour, les navigateurs seront des OS et que l&#39;on pourra avoir des jolies applications qui tournent sur le web, Nicolas s&#39;est sp\u00e9cialis\u00e9 dans les technologies front-end.<br>\nEt puis, c&#39;est pas parce que le JS, c&#39;est pas un vrai langage qu&#39;on peut pas faire \u00e7a proprement, alors Nicolas essaye de r\u00e9pandre la bonne parole, de tester son JS et de le modulariser.</p>"
+                        }, 
+                        {
+                            "bio": "", 
+                            "web_url": null, 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/e506a50f044b6c29ec8dfd8f3ca55367a770758a-s300.jpeg", 
+                            "name": "Christophe Prom\u00e9", 
+                            "elsewhere": [], 
+                            "role": "D\u00e9veloppeur chez Viareport", 
+                            "twitter": null, 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/e506a50f044b6c29ec8dfd8f3ca55367a770758a-s75.jpeg", 
+                            "speaker_bio": "<p>Apr\u00e8s sa sortie de l&#39;INSA Toulouse, Christophe a pass\u00e9 5 ans \u00e0 switcher entre SSII et \u00e9diteur de logiciel.</p>\n<p>En 2012, il rejoint Viareport comme d\u00e9veloppeur o\u00f9 il d\u00e9couvre le vanilla JS \u00e9labor\u00e9 avec passion, les Gruntfile qui servent m\u00eame le caf\u00e9 et surtout une pratique journali\u00e8re du TDD.<br>\nTout ceci le pousse \u00e0 \u00e9tudier les librairies de tests JS ainsi que les outils d&#39;automatisation, qui testent son code lui laissant ainsi le temps de s&#39;am\u00e9liorer \u00e0 FIFA.</p>"
+                        }
+                    ], 
+                    "title": "Tester son code JS dans tous les navigateurs... automatiquement", 
+                    "event_id": "crcwd", 
+                    "space": null, 
+                    "day": "Sunday 24th November", 
+                    "end_time": "2013-11-24 12:55:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385289000, 
+                    "abstract": "<p>L&#39;atelier r\u00e9pond \u00e0 une probl\u00e9matique :<br>\ncomment puis-je tester facilement et rapidement mon code JavaScript dans tous les navigateurs ?</p>\n<p>Pr\u00e9sentations de deux test runners :<br>\n- Testem &quot;A test runner that makes Javascript unit testing fun&quot;<br>\n- Karma &quot;Spectacular Test Runner for JavaScript&quot;</p>\n<p>Points abord\u00e9s :<br>\n- mises en place<br>\n- int\u00e9gration avec Mocha, Chai, Jasmine, QUnit ?<br>\n- les + et les -<br>\n- d\u00e9mo d&#39;un Jenkins qui run les tests sur 3 browser \u00e0 chaque push</p>\n<p>Le but est de donner les billes \u00e0 ceux qui veulent s&#39;y mettre et \u00e9veiller la curiosit\u00e9 de ceux qui n&#39;en ont jamais entendu parler.</p>\n<p>Les participants devront apporter leur machine et une connexion internet serait souhaitable.</p>"
+                }, 
+                {
+                    "start_time": "2013-11-24 14:00:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/francejs/scrhgp/", 
+                    "times": "2:00pm\u00a0-\u00a03:25pm", 
+                    "id": "scrhgp", 
+                    "types": [], 
+                    "end_time_epoch": 1385303100, 
+                    "speakers": [
+                        {
+                            "bio": "<p>Expert JS/HTML5, Backbone dev at Waebo and Lead at Dreamirl</p>", 
+                            "web_url": "http://lanyrd.com/profile/inateno/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/5e7f12045130d1d8099dd01d826a1f7b7c375e76-s300.jpeg", 
+                            "name": "Antoine Rogliano", 
+                            "elsewhere": [], 
+                            "role": "Expert JS/HTML5 chez Waobe et Dreamirl", 
+                            "twitter": "@Inateno", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/5e7f12045130d1d8099dd01d826a1f7b7c375e76-s75.jpeg", 
+                            "speaker_bio": "<p>Surnomm\u00e9 &quot;red&quot;, je suis un d\u00e9veloppeur acharn\u00e9, je ne l\u00e2che plus JS depuis l&#39;\u00e9volution du HTML5 qui me permet aujourd&#39;hui de r\u00e9aliser toute sorte d&#39;application et de jeu rapidement et pour toute plateformes.</p>\n<p>Je suis un tantinet taquin quand il s&#39;agit de parler performances :p</p>"
+                        }
+                    ], 
+                    "title": "Single Page Applications", 
+                    "event_id": "crcwd", 
+                    "space": null, 
+                    "day": "Sunday 24th November", 
+                    "end_time": "2013-11-24 15:25:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385298000, 
+                    "abstract": "<p>Pr\u00e9sentation rapide de Backbone et Angular (les 2 leader actuellement) et du principe de singlepage application.</p>\n<p>Dans ce workshop nous allons r\u00e9aliser une application de TodoList fa\u00e7on Trello qui fonctionnera en standalone (sans serveur).<br>\nNous verrons les m\u00e9thodes permettant de relier une telle application sur un serveur, tout en faisant en sorte que celle-ci reste ind\u00e9pendante du serveur (localhost, app mobile, etc...).<br>\n1. D\u00e9marrage avec les Collections et les Models.<br>\n2. Cr\u00e9ation des views<br>\n3. Le router<br>\n4. Rajouter des pages \u00e0 l&#39;application<br>\n    4.1 Best practices avec le router<br>\n    4.2 Comment \u00e9viter les zombies et nested views<br>\n    4.3 Une alternative pratique: Marionette<br>\n5. Les m\u00e9thodes Sync et Save<br>\n    5.1 Ajax et CORS<br>\n    5.2 Socket<br>\n    5.3 LocalStorage<br>\n6. Conseils pour la suite<br>\n7. Bonus si il y a du temps</p>"
+                }, 
+                {
+                    "start_time": "2013-11-24 14:00:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/francejs/scrhgq/", 
+                    "times": "2:00pm\u00a0-\u00a03:25pm", 
+                    "id": "scrhgq", 
+                    "types": [], 
+                    "end_time_epoch": 1385303100, 
+                    "speakers": [
+                        {
+                            "bio": "<p>T\u00eate-de-Liste pour l&#39;eurocirconscription Sud-Ouest aux #Europ\u00e9ennes2014. Membre de la coordination nationale du @PartiPirate pour repr\u00e9senter le @PartiPirateMP</p>", 
+                            "web_url": "http://lanyrd.com/profile/emahuet/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/cf399a6ac3c879434946853c834ef987afa025d3-s300.jpeg", 
+                            "name": "Eric Mahuet", 
+                            "elsewhere": [], 
+                            "role": "Ing\u00e9nieur-Consultant en LL pour une grosse soci\u00e9t\u00e9 d'avioneur, mais aussi bidouilleur, trifouilleur, hacker \u00e0 ses heures perdues", 
+                            "twitter": "@EMahuet", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/cf399a6ac3c879434946853c834ef987afa025d3-s75.jpeg", 
+                            "speaker_bio": "<p>Je travaille dans l&#39;informatique depuis 12 ans, mais les unit\u00e9s centrales trainent chez moi depuis au moins 30 ans.<br>\nJe taquine le monde des internets et du web depuis le milieu des ann\u00e9es 90, JS a toujours donc gravit\u00e9 autour de moi ; je n&#39;ai pas la pr\u00e9tention de connaitre JS sur le bout des doigts, ni m\u00eame \u00e0 plus de 3%.<br>\nJ&#39;ai d\u00e9couvert que JS pouvait aussi \u00eatre \u00e9x\u00e9cut\u00e9 c\u00f4t\u00e9 serveur gr\u00e2ce \u00e0 node.js et c&#39;est pour \u00e7a que je serai l\u00e0 le 24 novembre.</p>"
+                        }
+                    ], 
+                    "title": "Un client XMPP (ou IRC) en Node.js", 
+                    "event_id": "crcwd", 
+                    "space": null, 
+                    "day": "Sunday 24th November", 
+                    "end_time": "2013-11-24 15:25:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385298000, 
+                    "abstract": "<p>Le but de l&#39;atelier est de programmer un client XMPP ou IRC (\u00e0 la demande) en Node.js</p>\n<p>Je fournis les interfaces graphiques (HTML/CSS), et j&#39;introduis les divers concepts et librairies afin de programmer en 90 minutes un simple client sur une seule fen\u00eatre.</p>\n<p>Les plus acharn\u00e9s pourront impl\u00e9menter le multi-fen\u00eatrage gr\u00e2ce \u00e0 du JS c\u00f4t\u00e9 client.</p>"
+                }, 
+                {
+                    "start_time": "2013-11-24 15:30:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/francejs/scrhgr/", 
+                    "times": "3:30pm\u00a0-\u00a04:55pm", 
+                    "id": "scrhgr", 
+                    "types": [], 
+                    "end_time_epoch": 1385308500, 
+                    "speakers": [
+                        {
+                            "bio": "<p>Consultant en architecture logicielle, formateur AngularJS et cr\u00e9ateur du blog FrAngular : <a href=\"http://www.frangular.com/\" rel=\"nofollow\">http://www.frangular.com/</a></p>", 
+                            "web_url": "http://lanyrd.com/profile/thierrychatel/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/28f221a1e6e80178f1e8a6082cb0cdbc296a60f2-s300.jpeg", 
+                            "name": "Thierry Chatel", 
+                            "elsewhere": [], 
+                            "role": "Consultant en architecture logicielle, formateur AngularJS et cr\u00e9ateur du blog FrAngular", 
+                            "twitter": "@ThierryChatel", 
+                            "image_75": "https://s3.amazonaws.com/static.lanyrd.net/cropped-profile-photos/28f221a1e6e80178f1e8a6082cb0cdbc296a60f2-s75.jpeg", 
+                            "speaker_bio": "<p>Je suis consultant en architecture logicielle et formateur AngularJS.<br>\nPr\u00e9curseur d&#39;AngularJS en France, je n&#39;ai de cesse, depuis que j&#39;ai d\u00e9couvert ce framework \u00e0 l&#39;\u00e9poque alors encore balbutiant, de partager mon enthousiasme et mes connaissances.</p>"
+                        }
+                    ], 
+                    "title": "AngularJS : prenez le contr\u00f4le des directives", 
+                    "event_id": "crcwd", 
+                    "space": null, 
+                    "day": "Sunday 24th November", 
+                    "end_time": "2013-11-24 16:55:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385303400, 
+                    "abstract": "<p>Les directives d&#39;AngularJS sont au coeur du framework et ont de grandes capacit\u00e9s. Elles peuvent \u00eatre aussi bien de simples macros pour la compilation des templates que de v\u00e9ritables composants de type widget.</p>\n<p>Cet atelier vous fera d\u00e9couvrir par la pratique comment \u00e9crire vos propres directives et quelles sont les possibilit\u00e9s offertes aux d\u00e9veloppeurs.</p>"
+                }, 
+                {
+                    "start_time": "2013-11-24 15:30:00", 
+                    "topics": [], 
+                    "web_url": "http://lanyrd.com/2013/francejs/scrhgt/", 
+                    "times": "3:30pm\u00a0-\u00a04:55pm", 
+                    "id": "scrhgt", 
+                    "types": [], 
+                    "end_time_epoch": 1385308500, 
+                    "speakers": [
+                        {
+                            "bio": "<p>Lead developer @Occitech, geek and happy father!<br>\nMy daily routine includes PHP, JS, HTML5, CakePHP &amp; Magento</p>", 
+                            "web_url": "http://lanyrd.com/profile/pierremartin/", 
+                            "image_300": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/e323a27f0636abecff278aa9b917e0b8c7f8b053-s300.jpeg", 
+                            "name": "Pierre Martin", 
+                            "elsewhere": [], 
+                            "role": "Lead developer chez Occitech", 
+                            "twitter": "@pierremartin", 
+                            "image_75": "https://d8142femxnlg1.cloudfront.net/cropped-profile-photos/e323a27f0636abecff278aa9b917e0b8c7f8b053-s75.jpeg", 
+                            "speaker_bio": "<p>Lead developer et co-g\u00e9rant d\u2019Occitech, un &quot;nerdtrepreneur&quot; souhaitant changer son monde \u00e0 coups de fonctionnalit\u00e9s. <br>\nPassionn\u00e9 de d\u00e9veloppement web depuis une dizaine d\u2019ann\u00e9es, cela ne fait que quelques mois qu&#39;il s&#39;int\u00e9resse au Javascript moderne.</p>"
+                        }
+                    ], 
+                    "title": "Coding dojo", 
+                    "event_id": "crcwd", 
+                    "space": null, 
+                    "day": "Sunday 24th November", 
+                    "end_time": "2013-11-24 16:55:00", 
+                    "other_url": null, 
+                    "start_time_epoch": 1385303400, 
+                    "abstract": "<p>Je propose de se r\u00e9unir autour d&#39;un \u00e9cran pour r\u00e9soudre ensemble un probl\u00e8me simple (Kata) en JavaScript. Le but est de coder, exp\u00e9rimenter, discuter et d&#39;\u00e9changer autour de notre mani\u00e8re de d\u00e9velopper en JavaScript afin de s&#39;am\u00e9liorer sans la pression de livrer notre code en production.</p>\n<p>Une seule machine sera allum\u00e9e et l&#39;audience passera tour apr\u00e8s tour devant le clavier en bin\u00f4me.</p>"
+                }
+            ]
+        }
+    ]
+}

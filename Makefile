@@ -52,6 +52,7 @@ update_programm:
 	curl http://lanyrd.com/2013/capitole-du-libre/capitole-du-libre-schedule.ics -o src/files/capitole-du-libre-schedule.ics
 	curl http://lanyrd.com/2013/capitole-du-libre/schedule/5a0aebc3bc14ed3d.v1.json -o src/files/capitole-du-libre-schedule.json
 	curl http://lanyrd.com/2013/francejs/francejs-schedule.ics -o src/files/francejs-schedule.ics
+	curl http://lanyrd.com/2013/francejs/schedule/b27d99f44fb061e4.v1.json -o src/files/francejs-schedule.json
 
 regenerate: clean
 	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
