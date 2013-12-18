@@ -4,7 +4,7 @@ Processus complet de développement du projet Overblog
 
 :url: conferences/internet-libre/processus-complet-de-developpement-du-projet-overblog.html
 :save_as: conferences/internet-libre/processus-complet-de-developpement-du-projet-overblog.html
-:video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/internet-libre/hausherr-processus-developpement-overblog
+:video_url: http://stream.toulibre.org/cdl2013/internet-libre/hausherr-processus-developpement-overblog
 :speakers: Xavier HAUSHERR
 :template: conference
 

@@ -4,7 +4,7 @@ Comment ne pas endormir vos invités devant le film de vos dernières vacances g
 
 :url: conferences/multimedia-bureautique/comment-ne-pas-endormir-vos-invites-devant-le-film-de-vos-dernieres-vacances-grace-a-kdenlive.html
 :save_as: conferences/multimedia-bureautique/comment-ne-pas-endormir-vos-invites-devant-le-film-de-vos-dernieres-vacances-grace-a-kdenlive.html
-:video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/multimedia-bureautique/gateau-kdenlive
+:video_url: http://stream.toulibre.org/cdl2013/multimedia-bureautique/gateau-kdenlive
 :speakers: Aurélien Gateau
 :template: conference
 

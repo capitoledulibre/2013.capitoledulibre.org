@@ -4,7 +4,7 @@ Utiliser OpenStreetMap
 
 :url: conferences/internet-libre/utiliser-openstreetmap.html
 :save_as: conferences/internet-libre/utiliser-openstreetmap.html
-:video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/internet-libre/giquello-utiliser-openstreetmap
+:video_url: http://stream.toulibre.org/cdl2013/internet-libre/giquello-utiliser-openstreetmap
 :speakers: Cyrille Giquello
 :template: conference
 

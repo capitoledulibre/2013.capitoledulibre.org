@@ -4,7 +4,7 @@ Conférence de clôture
 
 :url: conferences/conference-de-cloture.html
 :save_as: conferences/conference-de-cloture.html
-:video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/grand-public/bayart-zimmermann-cloture
+:video_url: http://stream.toulibre.org/cdl2013/grand-public/bayart-zimmermann-cloture
 :speakers: Benjamin Bayart, Jérémie Zimmermann
 :template: conference
 

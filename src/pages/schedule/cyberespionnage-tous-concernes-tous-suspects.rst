@@ -4,7 +4,7 @@ Cyberespionnage : tous concernés, tous suspects.
 
 :url: conferences/grand-public/cyberespionnage-tous-concernes-tous-suspects.html
 :save_as: conferences/grand-public/cyberespionnage-tous-concernes-tous-suspects.html
-:video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/grand-public/oriel-cyberespionnage
+:video_url: http://stream.toulibre.org/cdl2013/grand-public/oriel-cyberespionnage
 :speakers: Johann Oriel
 :template: conference
 

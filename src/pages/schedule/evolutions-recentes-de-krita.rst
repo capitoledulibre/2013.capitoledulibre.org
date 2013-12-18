@@ -4,7 +4,7 @@
 
 :url: conferences/multimedia-bureautique/evolutions-recentes-de-krita.html
 :save_as: conferences/multimedia-bureautique/evolutions-recentes-de-krita.html
-:video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/multimedia-bureautique/giet-evolutions-krita
+:video_url: http://stream.toulibre.org/cdl2013/multimedia-bureautique/giet-evolutions-krita
 :speakers: Timothée Giet
 :template: conference
 

@@ -4,7 +4,7 @@ Présentation de l'environnement de bureau Enlightenment
 
 :url: conferences/multimedia-bureautique/presentation-de-lenvironnement-de-bureau-enlightenment.html
 :save_as: conferences/multimedia-bureautique/presentation-de-lenvironnement-de-bureau-enlightenment.html
-:video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/multimedia-bureautique/bouchaud-presentation-enlightenment
+:video_url: http://stream.toulibre.org/cdl2013/multimedia-bureautique/bouchaud-presentation-enlightenment
 :speakers: Michaël Bouchaud
 :template: conference
 

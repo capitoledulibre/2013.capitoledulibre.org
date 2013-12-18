@@ -4,7 +4,7 @@ Doudou linux
 
 :url: conferences/multimedia-bureautique/doudou-linux.html
 :save_as: conferences/multimedia-bureautique/doudou-linux.html
-:video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/multimedia-bureautique/philippe-doudou-linux
+:video_url: http://stream.toulibre.org/cdl2013/multimedia-bureautique/philippe-doudou-linux
 :speakers: Jean-Michel Philippe
 :template: conference
 

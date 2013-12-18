@@ -4,7 +4,7 @@ Découvrir la carte mondiale libre OpenStreetMap
 
 :url: conferences/grand-public/decouvrir-la-carte-mondiale-libre-openstreetmap.html
 :save_as: conferences/grand-public/decouvrir-la-carte-mondiale-libre-openstreetmap.html
-:video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/grand-public/giquello-carte-mondiale-openstreetmap
+:video_url: http://stream.toulibre.org/cdl2013/grand-public/giquello-carte-mondiale-openstreetmap
 :speakers: Cyrille Giquello
 :template: conference
 

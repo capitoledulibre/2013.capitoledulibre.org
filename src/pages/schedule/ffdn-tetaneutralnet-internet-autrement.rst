@@ -4,7 +4,7 @@ FFDN / Tetaneutral.net, Internet autrement
 
 :url: conferences/internet-libre/ffdn-tetaneutralnet-internet-autrement.html
 :save_as: conferences/internet-libre/ffdn-tetaneutralnet-internet-autrement.html
-:video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/internet-libre/guerby-bayart-ffdn-tetaneutral-internet-autrement
+:video_url: http://stream.toulibre.org/cdl2013/internet-libre/guerby-bayart-ffdn-tetaneutral-internet-autrement
 :speakers: Benjamin Bayart, Laurent GUERBY
 :template: conference
 
