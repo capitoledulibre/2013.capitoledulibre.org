@@ -2,9 +2,9 @@
 Signature et chiffrement du courrier électronique
 =================================================
 
-:url: conferences/signature-et-chiffrement-du-courrier-electronique.html
-:save_as: conferences/signature-et-chiffrement-du-courrier-electronique.html
-:video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/Technique
+:url: conferences/technique/signature-et-chiffrement-du-courrier-electronique.html
+:save_as: conferences/technique/signature-et-chiffrement-du-courrier-electronique.html
+:video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/Technique/hirlimann-signature-chiffrement-courrier
 :speakers: Ludovic Hirlimann
 :template: conference
 

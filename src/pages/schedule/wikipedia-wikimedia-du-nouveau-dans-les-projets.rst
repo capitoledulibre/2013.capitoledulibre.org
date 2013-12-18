@@ -2,9 +2,9 @@
 Wikipédia, Wikimédia : du nouveau dans les projets
 ==================================================
 
-:url: conferences/wikipedia-wikimedia-du-nouveau-dans-les-projets.html
-:save_as: conferences/wikipedia-wikimedia-du-nouveau-dans-les-projets.html
-:video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/Grand-public
+:url: conferences/grand-public/wikipedia-wikimedia-du-nouveau-dans-les-projets.html
+:save_as: conferences/grand-public/wikipedia-wikimedia-du-nouveau-dans-les-projets.html
+:video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/grand-public/perret-wikipedia-wikimedia-du-nouveau
 :speakers: Jérémy Perret
 :template: conference
 

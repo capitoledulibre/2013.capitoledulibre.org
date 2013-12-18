@@ -2,9 +2,9 @@
 Présentation de C++11
 =====================
 
-:url: conferences/presentation-de-c11.html
-:save_as: conferences/presentation-de-c11.html
-:video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/Akademy-fr
+:url: conferences/akademy-fr/presentation-de-c11.html
+:save_as: conferences/akademy-fr/presentation-de-c11.html
+:video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/akademy-fr/ottens-faure-presentation-c++11
 :speakers: David Faure, Kevin Ottens
 :template: conference
 

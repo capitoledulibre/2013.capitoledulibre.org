@@ -2,9 +2,9 @@
 Akeru, Arduino a sa plate-forme interactive open-source pour l'internet des objets
 ==================================================================================
 
-:url: conferences/akeru-arduino-a-sa-plate-forme-interactive-open-source-pour-linternet-des-objets.html
-:save_as: conferences/akeru-arduino-a-sa-plate-forme-interactive-open-source-pour-linternet-des-objets.html
-:video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/Technique
+:url: conferences/technique/akeru-arduino-a-sa-plate-forme-interactive-open-source-pour-linternet-des-objets.html
+:save_as: conferences/technique/akeru-arduino-a-sa-plate-forme-interactive-open-source-pour-linternet-des-objets.html
+:video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/Technique/jourdan-akeru-arduino-internet-des-objets
 :speakers: Frédéric Jourdan
 :template: conference
 

@@ -2,9 +2,9 @@
 Tomahawk-player
 ===============
 
-:url: conferences/tomahawk-player.html
-:save_as: conferences/tomahawk-player.html
-:video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/Multimedia-bureautique
+:url: conferences/multimedia-bureautique/tomahawk-player.html
+:save_as: conferences/multimedia-bureautique/tomahawk-player.html
+:video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/multimedia-bureautique/arrecot-tomahawk-player
 :speakers: Franck Arrecot
 :template: conference
 

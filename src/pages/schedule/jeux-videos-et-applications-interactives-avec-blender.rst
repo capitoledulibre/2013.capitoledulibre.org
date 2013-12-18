@@ -2,9 +2,9 @@
 Jeux vidéos et applications interactives avec Blender
 =====================================================
 
-:url: conferences/jeux-videos-et-applications-interactives-avec-blender.html
-:save_as: conferences/jeux-videos-et-applications-interactives-avec-blender.html
-:video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/Multimedia-bureautique
+:url: conferences/multimedia-bureautique/jeux-videos-et-applications-interactives-avec-blender.html
+:save_as: conferences/multimedia-bureautique/jeux-videos-et-applications-interactives-avec-blender.html
+:video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/multimedia-bureautique/grassard-jeux-applications-interactives-blender
 :speakers: François Grassard
 :template: conference
 

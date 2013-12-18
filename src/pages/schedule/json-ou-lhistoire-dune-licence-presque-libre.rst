@@ -2,9 +2,9 @@
 Json ou l'histoire d'une licence presque libre
 ==============================================
 
-:url: conferences/json-ou-lhistoire-dune-licence-presque-libre.html
-:save_as: conferences/json-ou-lhistoire-dune-licence-presque-libre.html
-:video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/Grand-public
+:url: conferences/grand-public/json-ou-lhistoire-dune-licence-presque-libre.html
+:save_as: conferences/grand-public/json-ou-lhistoire-dune-licence-presque-libre.html
+:video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/grand-public/mouton-dusbosc-json-license-presque-libre
 :speakers: Xavier Mouton-Dubosc
 :template: conference
 

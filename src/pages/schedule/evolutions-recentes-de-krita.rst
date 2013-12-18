@@ -2,9 +2,9 @@
 Évolutions récentes de Krita
 ============================
 
-:url: conferences/evolutions-recentes-de-krita.html
-:save_as: conferences/evolutions-recentes-de-krita.html
-:video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/Multimedia-bureautique
+:url: conferences/multimedia-bureautique/evolutions-recentes-de-krita.html
+:save_as: conferences/multimedia-bureautique/evolutions-recentes-de-krita.html
+:video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/multimedia-bureautique/giet-evolutions-krita
 :speakers: Timothée Giet
 :template: conference
 

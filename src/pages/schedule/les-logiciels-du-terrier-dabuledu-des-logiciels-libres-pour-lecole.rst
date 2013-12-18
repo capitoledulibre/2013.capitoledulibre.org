@@ -2,9 +2,8 @@
 Les Logiciels du Terrier d'AbulÉdu : des logiciels libres pour l'école
 ======================================================================
 
-:url: conferences/les-logiciels-du-terrier-dabuledu-des-logiciels-libres-pour-lecole.html
-:save_as: conferences/les-logiciels-du-terrier-dabuledu-des-logiciels-libres-pour-lecole.html
-:video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/Multimedia-bureautique
+:url: conferences/multimedia-bureautique/les-logiciels-du-terrier-dabuledu-des-logiciels-libres-pour-lecole.html
+:save_as: conferences/multimedia-bureautique/les-logiciels-du-terrier-dabuledu-des-logiciels-libres-pour-lecole.html
 :speakers: Jean-Louis Frucot
 :template: conference
 

@@ -2,9 +2,9 @@
 Digikam, utilisez la puissance des logiciels libres pour gérer vos photos comme un professionnel
 ================================================================================================
 
-:url: conferences/digikam-utilisez-la-puissance-des-logiciels-libres-pour-gerer-vos-photos-comme-un-professionnel.html
-:save_as: conferences/digikam-utilisez-la-puissance-des-logiciels-libres-pour-gerer-vos-photos-comme-un-professionnel.html
-:video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/Multimedia-bureautique
+:url: conferences/multimedia-bureautique/digikam-utilisez-la-puissance-des-logiciels-libres-pour-gerer-vos-photos-comme-un-professionnel.html
+:save_as: conferences/multimedia-bureautique/digikam-utilisez-la-puissance-des-logiciels-libres-pour-gerer-vos-photos-comme-un-professionnel.html
+:video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/multimedia-bureautique/girault-digikam-gerez-photos
 :speakers: Benjamin Girault
 :template: conference
 

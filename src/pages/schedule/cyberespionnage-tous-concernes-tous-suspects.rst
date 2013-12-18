@@ -2,9 +2,9 @@
 Cyberespionnage : tous concernés, tous suspects.
 ================================================
 
-:url: conferences/cyberespionnage-tous-concernes-tous-suspects.html
-:save_as: conferences/cyberespionnage-tous-concernes-tous-suspects.html
-:video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/Grand-public
+:url: conferences/grand-public/cyberespionnage-tous-concernes-tous-suspects.html
+:save_as: conferences/grand-public/cyberespionnage-tous-concernes-tous-suspects.html
+:video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/grand-public/oriel-cyberespionnage
 :speakers: Johann Oriel
 :template: conference
 

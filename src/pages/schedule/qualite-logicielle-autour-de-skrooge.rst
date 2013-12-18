@@ -2,9 +2,9 @@
 Qualité logicielle autour de Skrooge
 ====================================
 
-:url: conferences/qualite-logicielle-autour-de-skrooge.html
-:save_as: conferences/qualite-logicielle-autour-de-skrooge.html
-:video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/Akademy-fr
+:url: conferences/akademy-fr/qualite-logicielle-autour-de-skrooge.html
+:save_as: conferences/akademy-fr/qualite-logicielle-autour-de-skrooge.html
+:video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/akademy-fr/mankowski-qualite-logicielle-skrooge
 :speakers: Stéphane Mankowski
 :template: conference
 

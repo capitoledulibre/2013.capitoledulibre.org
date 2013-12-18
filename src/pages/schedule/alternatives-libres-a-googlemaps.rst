@@ -2,9 +2,9 @@
 Alternatives libres à GoogleMaps
 ================================
 
-:url: conferences/alternatives-libres-a-googlemaps.html
-:save_as: conferences/alternatives-libres-a-googlemaps.html
-:video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/Internet-libre
+:urlconferences/internet-libre/alternatives-libres-a-googlemaps.html
+:save_asconferences/internet-libre/alternatives-libres-a-googlemaps.html
+:video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/internet-libre/leplatre-alternatives-libres-google-maps
 :speakers: Mathieu Leplatre
 :template: conference
 

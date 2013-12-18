@@ -2,9 +2,9 @@
 Bugs et opensource, qu’en faire?
 ================================
 
-:url: conferences/bugs-et-opensource-quen-faire.html
-:save_as: conferences/bugs-et-opensource-quen-faire.html
-:video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/Akademy-fr
+:url: conferences/akademy-fr/bugs-et-opensource-quen-faire.html
+:save_as: conferences/akademy-fr/bugs-et-opensource-quen-faire.html
+:video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/akademy-fr/montel-bugs-opensource-que-faire
 :speakers: Laurent Montel
 :template: conference
 

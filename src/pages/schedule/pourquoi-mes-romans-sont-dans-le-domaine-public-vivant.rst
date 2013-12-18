@@ -2,9 +2,9 @@
 Pourquoi mes romans sont dans le Domaine Public Vivant ?
 ========================================================
 
-:url: conferences/pourquoi-mes-romans-sont-dans-le-domaine-public-vivant.html
-:save_as: conferences/pourquoi-mes-romans-sont-dans-le-domaine-public-vivant.html
-:video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/Grand-public
+:url: conferences/grand-public/pourquoi-mes-romans-sont-dans-le-domaine-public-vivant.html
+:save_as: conferences/grand-public/pourquoi-mes-romans-sont-dans-le-domaine-public-vivant.html
+:video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/grand-public/pouhiou-romans-domaine-public-vivant
 :speakers: Pouhiou
 :template: conference
 
