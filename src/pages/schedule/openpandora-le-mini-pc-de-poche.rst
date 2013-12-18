@@ -4,7 +4,7 @@ OpenPandora, le mini PC de poche
 
 :url: conferences/technique/openpandora-le-mini-pc-de-poche.html
 :save_as: conferences/technique/openpandora-le-mini-pc-de-poche.html
-:video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/Technique/tournier-openpandora-mini-pc-de-poche
+:video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/technique/tournier-openpandora-mini-pc-de-poche
 :speakers: Frédéric Tournier
 :template: conference
 

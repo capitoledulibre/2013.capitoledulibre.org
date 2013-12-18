@@ -2,8 +2,8 @@
 Kolab, un groupware pour se libérer du cloud propriétaire
 =========================================================
 
-:urlconferences/internet-libre/kolab-un-groupware-pour-se-liberer-du-cloud-proprietaire.html
-:save_asconferences/internet-libre/kolab-un-groupware-pour-se-liberer-du-cloud-proprietaire.html
+:url: conferences/internet-libre/kolab-un-groupware-pour-se-liberer-du-cloud-proprietaire.html
+:save_as: conferences/internet-libre/kolab-un-groupware-pour-se-liberer-du-cloud-proprietaire.html
 :video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/internet-libre/ottens-renard-kolab-groupware-cloud
 :speakers: Sébastien Renard, Kevin Ottens
 :template: conference

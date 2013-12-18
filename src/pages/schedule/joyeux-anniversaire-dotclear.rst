@@ -2,8 +2,8 @@
 Joyeux anniversaire Dotclear
 ============================
 
-:urlconferences/internet-libre/joyeux-anniversaire-dotclear.html
-:save_asconferences/internet-libre/joyeux-anniversaire-dotclear.html
+:url: conferences/internet-libre/joyeux-anniversaire-dotclear.html
+:save_as: conferences/internet-libre/joyeux-anniversaire-dotclear.html
 :video_url: http://toulibre.org/pub/2013-11-23-capitole-du-libre/videos/internet-libre/clerc-joyeux-anniversaire-dotclear
 :speakers: Benoit Clerc
 :template: conference
