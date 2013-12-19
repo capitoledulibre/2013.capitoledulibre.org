@@ -6,6 +6,8 @@ Pourquoi mes romans sont dans le Domaine Public Vivant ?
 :save_as: conferences/grand-public/pourquoi-mes-romans-sont-dans-le-domaine-public-vivant.html
 :video_url: http://stream.toulibre.org/cdl2013/grand-public/pouhiou-romans-domaine-public-vivant
 :speakers: Pouhiou
+:licence: CC0
+:licence_url: http://creativecommons.org/publicdomain/zero/1.0/
 :template: conference
 
 .. html::

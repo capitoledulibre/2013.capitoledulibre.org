@@ -6,6 +6,8 @@ LibreOffice, le meilleur de la bureautique libre
 :save_as: conferences/multimedia-bureautique/libreoffice-le-meilleur-de-la-bureautique-libre.html
 :video_url: http://stream.toulibre.org/cdl2013/multimedia-bureautique/versini-libreoffice
 :speakers: Arnaud Versini
+:licence: CC-By 4.0
+:licence_url: http://creativecommons.org/licenses/by/4.0/
 :template: conference
 
 .. html::

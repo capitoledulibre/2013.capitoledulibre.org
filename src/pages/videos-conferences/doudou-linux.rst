@@ -6,6 +6,8 @@ Doudou linux
 :save_as: conferences/multimedia-bureautique/doudou-linux.html
 :video_url: http://stream.toulibre.org/cdl2013/multimedia-bureautique/philippe-doudou-linux
 :speakers: Jean-Michel Philippe
+:licence: CC-By 4.0
+:licence_url: http://creativecommons.org/licenses/by/4.0/
 :template: conference
 
 .. html::

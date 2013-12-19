@@ -6,6 +6,8 @@ L'Open Data toulousain
 :save_as: conferences/grand-public/lopen-data-toulousain.html
 :video_url: http://stream.toulibre.org/cdl2013/grand-public/mathon-opendata-toulousain
 :speakers: Sandrine Mathon
+:licence: CC-By 4.0
+:licence_url: http://creativecommons.org/licenses/by/4.0/
 :template: conference
 
 .. html::

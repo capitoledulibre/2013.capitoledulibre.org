@@ -6,6 +6,8 @@ Calaos, le système domotique Open Source
 :save_as: conferences/technique/calaos-le-systeme-domotique-open-source.html
 :video_url: http://stream.toulibre.org/cdl2013/technique/aguirre-hecky-calaos-domotique-open-source
 :speakers: Raoul Hecky, Nicolas Aguirre
+:licence: CC-By 4.0
+:licence_url: http://creativecommons.org/licenses/by/4.0/
 :template: conference
 
 .. html::

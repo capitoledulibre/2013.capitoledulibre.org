@@ -6,6 +6,8 @@ Utiliser OpenStreetMap
 :save_as: conferences/internet-libre/utiliser-openstreetmap.html
 :video_url: http://stream.toulibre.org/cdl2013/internet-libre/giquello-utiliser-openstreetmap
 :speakers: Cyrille Giquello
+:licence: CC-By 4.0
+:licence_url: http://creativecommons.org/licenses/by/4.0/
 :template: conference
 
 .. html::

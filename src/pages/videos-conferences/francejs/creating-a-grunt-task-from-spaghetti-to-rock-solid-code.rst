@@ -6,6 +6,8 @@ Creating a Grunt Task from Spaghetti to Rock Solid Code
 :save_as: conferences/francejs/creating-a-grunt-task-from-spaghetti-to-rock-solid-code.html
 :video_url: http://stream.toulibre.org/cdl2013/francejs/parisot-solid-grunt-code-spaghetti-beton
 :speakers: Thomas Parisot
+:licence: CC-By 4.0
+:licence_url: http://creativecommons.org/licenses/by/4.0/
 :template: conference
 
 .. html::

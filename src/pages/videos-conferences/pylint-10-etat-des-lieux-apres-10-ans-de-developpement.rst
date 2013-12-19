@@ -6,6 +6,8 @@ Pylint 1.0, état des lieux après 10 ans de développement
 :save_as: conferences/technique/pylint-10-etat-des-lieux-apres-10-ans-de-developpement.html
 :video_url: http://stream.toulibre.org/cdl2013/technique/thenault-pylint-1.0-etat-des-lieux
 :speakers: Sylvain Thénault
+:licence: CC-By 4.0
+:licence_url: http://creativecommons.org/licenses/by/4.0/
 :template: conference
 
 .. html::

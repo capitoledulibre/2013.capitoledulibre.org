@@ -6,6 +6,8 @@ Comment faire des contrôles de qualité d'une traduction ?
 :save_as: conferences/akademy-fr/comment-faire-des-controles-de-qualite-dune-traduction.html
 :video_url: http://stream.toulibre.org/cdl2013/akademy-fr/renard-controles-qualite-traduction
 :speakers: Sébastien Renard
+:licence: CC-By 4.0
+:licence_url: http://creativecommons.org/licenses/by/4.0/
 :template: conference
 
 .. html::

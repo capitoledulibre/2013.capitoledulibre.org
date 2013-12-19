@@ -3,3 +3,6 @@
  <source src="{{ page.video_url }}.mp4" type='video/mp4' />
  <source src="{{ page.video_url }}.webm" type='video/webm' />
 </video>
+{% if page.licence %}
+    <p><small>Cette vid&eacute;o est sous licence <a target="_blank" href="{{ page.licence_url }}">{{ page.licence }}</a></small></p>
+{% endif %}

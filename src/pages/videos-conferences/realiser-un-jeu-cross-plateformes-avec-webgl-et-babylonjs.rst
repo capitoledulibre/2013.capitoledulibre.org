@@ -6,6 +6,8 @@ Réaliser un jeu cross-plateformes avec WebGL et Babylon.JS
 :save_as: conferences/francejs/realiser-un-jeu-cross-plateformes-avec-webgl-et-babylonjs.html
 :video_url: http://stream.toulibre.org/cdl2013/francejs/rousset-catuhe-jeu-webgl-babylonjs
 :speakers: David Catuhe, David Rousset
+:licence: CC-By 4.0
+:licence_url: http://creativecommons.org/licenses/by/4.0/
 :template: conference
 
 .. html::

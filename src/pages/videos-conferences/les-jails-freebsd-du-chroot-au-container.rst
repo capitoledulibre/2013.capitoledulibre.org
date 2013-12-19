@@ -6,6 +6,8 @@ Les jails FreeBSD du chroot au container
 :save_as: conferences/technique/les-jails-freebsd-du-chroot-au-container.html
 :video_url: http://stream.toulibre.org/cdl2013/technique/dedieu-jails-freebsd-chroot-container
 :speakers: Joris Dedieu, David Berard
+:licence: CC-By 4.0
+:licence_url: http://creativecommons.org/licenses/by/4.0/
 :template: conference
 
 .. html::

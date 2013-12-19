@@ -6,6 +6,8 @@ Présentation de l'environnement de bureau Enlightenment
 :save_as: conferences/multimedia-bureautique/presentation-de-lenvironnement-de-bureau-enlightenment.html
 :video_url: http://stream.toulibre.org/cdl2013/multimedia-bureautique/bouchaud-presentation-enlightenment
 :speakers: Michaël Bouchaud
+:licence: CC-By 4.0
+:licence_url: http://creativecommons.org/licenses/by/4.0/
 :template: conference
 
 .. html::

@@ -6,6 +6,8 @@ Scaffolding et industrialisation d'une application JavaScript
 :save_as: conferences/francejs/scaffolding-et-industrialisation-dune-application-javascript.html
 :video_url: http://stream.toulibre.org/cdl2013/francejs/pons-scaffolding-industrialisation-appli-js
 :speakers: Thomas Pons
+:licence: CC-By 4.0
+:licence_url: http://creativecommons.org/licenses/by/4.0/
 :template: conference
 
 .. html::
