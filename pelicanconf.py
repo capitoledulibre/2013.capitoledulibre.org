@@ -88,4 +88,5 @@ VIDEO_PAGES = [{'url': 'conferences/grand-public/','title':'Grand Public'},
                     {'url': 'conferences/techniques/','title':'Technique'},
                     {'url': 'conferences/akademy-fr/','title':'Akademy-fr'},
                     {'url': 'conferences/francejs/','title':'FranceJS'},
+                    {'url': 'conferences/lua-workshop/','title':'Lua workshop'},
                     ]
