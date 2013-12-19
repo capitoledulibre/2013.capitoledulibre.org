@@ -85,7 +85,7 @@ SCHEDULE_PAGES = [{'url': 'programme/conferences-grand-public.html','title':'Gra
 VIDEO_PAGES = [{'url': 'conferences/grand-public/','title':'Grand Public'},
                     {'url': 'conferences/multimedia-bureautique/','title':'Multimedia / bureautique'},
                     {'url': 'conferences/internet-libre/','title':'Internet Libre'},
-                    {'url': 'conferences/techniques/','title':'Technique'},
+                    {'url': 'conferences/technique/','title':'Technique'},
                     {'url': 'conferences/akademy-fr/','title':'Akademy-fr'},
                     {'url': 'conferences/francejs/','title':'FranceJS'},
                     {'url': 'conferences/lua-workshop/','title':'Lua workshop'},
