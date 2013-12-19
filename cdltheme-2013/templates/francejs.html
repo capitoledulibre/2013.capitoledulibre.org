@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+{% block indextitle %}{% endblock %}
+{% block title %}{{ SITENAME }} - {{ page.title }}{% endblock title %}
+{% block description %}{{ page.title }} : {{ page.summary|striptags|truncate(60) }}{% endblock description %}
+
+{% block class %}{{ page.slug }}{% endblock class %}
+{% block content %}
+<div class='page {{ page.slug }}'>
+<h1>{{ page.title }}</h1>
+
+    <div class="contents">
+
+{{ page.content }}
+
+{% if page.calendar %}
+
+    {% macro eventlist(vevent) -%}
+        <li> <span class="start">{{ vevent.dtstart_time|replace(":","h") }}</span> - 
+            <span class="end">{{ vevent.dtend_time|replace(":","h") }} - <em>{{ vevent.location|replace(", ENSEEIHT", "") }}</em> </span> : {{ vevent.summary }}</li>
+    {%- endmacro %}
+    
+    <h2>Le programme</h2>
+    <div class="row">
+    <div class="span6">
+    <h3>Samedi 23 novembre : Conf&eacute;rences</h3>
+    <ul>
+    {% for vevent in  events[page.slug] if vevent.dtstart.day == vevent.dtend.day and vevent.dtstart.day == 23 %}
+        {{ eventlist(vevent) }}
+    {% endfor %}
+    </ul>
+    </div>
+    <div class="span6">
+    <h3>Dimanche 24 novembre : Ateliers</h3>
+    <ul>
+    {% for vevent in  events[page.slug] if vevent.dtstart.day == vevent.dtend.day and vevent.dtstart.day == 24 %}
+        {{ eventlist(vevent) }}
+    {% endfor %}
+    </ul>
+    <p><a href="http://lanyrd.com/2013/francejs/nov-24/" target="_blank">En d&eacute;tail</a></p>
+    </div>
+
+{% endif %}
+
+    </div>
+        
+</div>
+{% endblock %}

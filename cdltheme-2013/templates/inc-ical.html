@@ -79,26 +79,4 @@
         {% endfor %}
             </ul>
             <p><a href="/programme/ateliers.html">En d&eacute;tail</a></p>
-
-{% elif page.slug == "francejs" %}
-    <p><a href="http://francejs.org" class="reference external">La communauté FranceJS</a> organise sa première conférence à l'occasion du <a href="http://2013.capitoledulibre.org/" class="reference external">Capitole du Libre</a>, les 23 et 24 novembre 2013 à Toulouse.</p>
-    <div class="row">
-    <div class="span8">
-    <h2>Le programme</h2>
-    <h3>Samedi 23 novembre : Conf&eacute;rences</h3>
-    <ul>
-    {% for vevent in  events[page.slug] if vevent.dtstart.day == vevent.dtend.day and vevent.dtstart.day == 23 %}
-        {{ eventlist(vevent) }}
-    {% endfor %}
-    </ul>
-    <p><a href="http://lanyrd.com/2013/francejs/nov-23/" target="_blank">En d&eacute;tail</a></p>
-
-    <h3>Dimanche 24 novembre : Ateliers</h3>
-    <ul>
-    {% for vevent in  events[page.slug] if vevent.dtstart.day == vevent.dtend.day and vevent.dtstart.day == 24 %}
-        {{ eventlist(vevent) }}
-    {% endfor %}
-    </ul>
-    <p><a href="http://lanyrd.com/2013/francejs/nov-24/" target="_blank">En d&eacute;tail</a></p>
-    </div>
 {% endif %}

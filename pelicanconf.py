@@ -82,3 +82,11 @@ SCHEDULE_PAGES = [{'url': 'programme/conferences-grand-public.html','title':'Gra
                     {'url': 'programme/conferences-internet-libre.html','title':'Internet Libre : C002'},
                     {'url': 'programme/conferences-techniques.html','title':'Technique : A201'},
                     {'url': 'programme/conferences-akademy-fr.html','title':'Akademy-fr : C103'},]
+
+VIDEO_PAGES = [{'url': 'conferences/grand-public/','title':'Grand Public'},
+                    {'url': 'conferences/multimedia-bureautique/','title':'Multimedia / bureautique'},
+                    {'url': 'conferences/internet-libre/','title':'Internet Libre'},
+                    {'url': 'conferences/techniques/','title':'Technique'},
+                    {'url': 'conferences/akademy-fr/','title':'Akademy-fr'},
+                    {'url': 'conferences/francejs/','title':'FranceJS'},
+                    ]

@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block indextitle %}{% endblock %}
+{% block title %}{{ SITENAME }} - {{ page.title }}{% endblock title %}
+{% block description %}{{ page.title }} : {{ page.summary|striptags|truncate(60) }}{% endblock description %}
+
+{% block class %}{{ page.slug }}{% endblock class %}
+{% block content %}
+<div class='page {{ page.slug }}'>
+<h1>{{ page.title }}</h1>
+
+<nav class="pull-right well">
+    <h3>Vid&eacute;os des conf&eacute;rences</h3>
+    <ul class="nav" id="shedule-nav">
+        {% for p in VIDEO_PAGES %}
+        <li{% if p.url == page %} class="active"{% endif %}>
+        <a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</nav>
+
+    <div class="contents">
+
+{{ page.content }}
+
+    </div>
+        
+</div>
+{% endblock %}
