@@ -6,6 +6,8 @@ Fusion de Razor-qt et LXDE
 :save_as: conferences/akademy-fr/fusion-de-razor-qt-et-lxde.html
 :video_url: http://stream.toulibre.org/cdl2013/akademy-fr/leclanche-lavergne-fusion-razor-qt-et-lxde
 :speakers: Julien Lavergne, Jérôme Leclanche
+:licence: CC-By 4.0
+:licence_url: http://creativecommons.org/licenses/by/4.0/
 :template: conference
 
 .. html::

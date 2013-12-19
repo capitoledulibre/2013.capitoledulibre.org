@@ -6,6 +6,8 @@ CFM: A Console File Manager for POSIX
 :save_as: conferences/lua-dimanche/cfm-a-console-file-manager-for-posix.html
 :video_url: http://stream.toulibre.org/cdl2013/lua-dimanche/manning-cfm-console-file-manager-for-posix
 :speakers: Joseph Manning
+:licence: CC-By 4.0
+:licence_url: http://creativecommons.org/licenses/by/4.0/
 :template: conference
 
 .. html::

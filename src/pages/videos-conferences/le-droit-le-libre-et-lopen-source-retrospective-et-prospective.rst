@@ -6,6 +6,8 @@ Le droit, le libre et l'Open Source : rétrospective et prospective
 :save_as: conferences/grand-public/le-droit-le-libre-et-lopen-source-retrospective-et-prospective.html
 :video_url: http://stream.toulibre.org/cdl2013/grand-public/jean-droit-libre-opensource
 :speakers: Benjamin Jean
+:licence: CC-By 4.0
+:licence_url: http://creativecommons.org/licenses/by/4.0/
 :template: conference
 
 .. html::

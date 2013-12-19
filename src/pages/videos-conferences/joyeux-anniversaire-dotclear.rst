@@ -6,6 +6,8 @@ Joyeux anniversaire Dotclear
 :save_as: conferences/internet-libre/joyeux-anniversaire-dotclear.html
 :video_url: http://stream.toulibre.org/cdl2013/internet-libre/clerc-joyeux-anniversaire-dotclear
 :speakers: Benoit Clerc
+:licence: CC-By 4.0
+:licence_url: http://creativecommons.org/licenses/by/4.0/
 :template: conference
 
 .. html::

@@ -6,6 +6,8 @@ Tour d'horizon de Node.js
 :save_as: conferences/francejs/tour-dhorizon-de-nodejs.html
 :video_url: http://stream.toulibre.org/cdl2013/francejs/porteneuve-tour-horizon-de-nodejs
 :speakers: Christophe Porteneuve
+:licence: CC-By 4.0
+:licence_url: http://creativecommons.org/licenses/by/4.0/
 :template: conference
 
 .. html::

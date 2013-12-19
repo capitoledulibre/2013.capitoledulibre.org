@@ -6,6 +6,8 @@ Integrating Lua in a commercial product - Experiences made and decisions taken
 :save_as: conferences/lua-dimanche/integrating-lua-in-a-commercial-product.html
 :video_url: http://stream.toulibre.org/cdl2013/lua-dimanche/balmer-integrating-lua-in-a-commercial-product
 :speakers: Marc Balmer
+:licence: CC-By 4.0
+:licence_url: http://creativecommons.org/licenses/by/4.0/
 :template: conference
 
 .. html::

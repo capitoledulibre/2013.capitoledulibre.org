@@ -6,6 +6,8 @@ Using Lua for BACnet OEM solutions in building automation
 :save_as: conferences/lua-dimanche/using-lua-for-bacnet-oem-solutions-in-building-automation.html
 :video_url: http://stream.toulibre.org/cdl2013/lua-dimanche/schlephorst-using-lua-for-bacnet
 :speakers: Robert Schlephorst
+:licence: CC-By 4.0
+:licence_url: http://creativecommons.org/licenses/by/4.0/
 :template: conference
 
 .. html::

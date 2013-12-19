@@ -6,6 +6,8 @@ Introduction aux Web Components
 :save_as: conferences/francejs/introduction-aux-web-components.html
 :video_url: http://stream.toulibre.org/cdl2013/francejs/jouanneau-intro-webcomponents
 :speakers: Laurent Jouanneau
+:licence: CC-By 4.0
+:licence_url: http://creativecommons.org/licenses/by/4.0/
 :template: conference
 
 .. html::

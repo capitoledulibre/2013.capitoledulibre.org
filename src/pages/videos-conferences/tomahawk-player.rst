@@ -6,6 +6,8 @@ Tomahawk-player
 :save_as: conferences/multimedia-bureautique/tomahawk-player.html
 :video_url: http://stream.toulibre.org/cdl2013/multimedia-bureautique/arrecot-tomahawk-player
 :speakers: Franck Arrecot
+:licence: CC-By 4.0
+:licence_url: http://creativecommons.org/licenses/by/4.0/
 :template: conference
 
 .. html::

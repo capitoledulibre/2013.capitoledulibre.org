@@ -6,6 +6,8 @@ AngularJS : 1 an après
 :save_as: conferences/francejs/angularjs-1-an-apres.html
 :video_url: http://stream.toulibre.org/cdl2013/francejs/chatel-angularjs-un-an-apres
 :speakers: Thierry Chatel
+:licence: CC-By 4.0
+:licence_url: http://creativecommons.org/licenses/by/4.0/
 :template: conference
 
 .. html::

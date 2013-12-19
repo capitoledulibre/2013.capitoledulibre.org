@@ -6,6 +6,8 @@ Wikipédia, Wikimédia : du nouveau dans les projets
 :save_as: conferences/grand-public/wikipedia-wikimedia-du-nouveau-dans-les-projets.html
 :video_url: http://stream.toulibre.org/cdl2013/grand-public/perret-wikipedia-wikimedia-du-nouveau
 :speakers: Jérémy Perret
+:licence: CC-By 4.0
+:licence_url: http://creativecommons.org/licenses/by/4.0/
 :template: conference
 
 .. html::

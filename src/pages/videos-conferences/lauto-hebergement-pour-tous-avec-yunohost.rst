@@ -6,6 +6,8 @@ L'auto-hébergement pour tous avec Yunohost
 :save_as: conferences/internet-libre/lauto-hebergement-pour-tous-avec-yunohost.html
 :video_url: http://stream.toulibre.org/cdl2013/internet-libre/beudin-auto-hebergement-yunohost
 :speakers: Adrien Beudin
+:licence: CC-By 4.0
+:licence_url: http://creativecommons.org/licenses/by/4.0/
 :template: conference
 
 .. html::

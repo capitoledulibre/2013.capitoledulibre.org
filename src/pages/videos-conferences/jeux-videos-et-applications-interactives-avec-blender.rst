@@ -6,6 +6,8 @@ Jeux vidéos et applications interactives avec Blender
 :save_as: conferences/multimedia-bureautique/jeux-videos-et-applications-interactives-avec-blender.html
 :video_url: http://stream.toulibre.org/cdl2013/multimedia-bureautique/grassard-jeux-applications-interactives-blender
 :speakers: François Grassard
+:licence: CC-By 4.0
+:licence_url: http://creativecommons.org/licenses/by/4.0/
 :template: conference
 
 .. html::

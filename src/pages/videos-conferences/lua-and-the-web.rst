@@ -6,6 +6,8 @@ Lua and the Web
 :save_as: conferences/lua-dimanche/lua-and-the-web.html
 :video_url: http://stream.toulibre.org/cdl2013/lua-dimanche/cuthbertson-lua-and-the-web
 :speakers: Paul Cuthbertson
+:licence: CC-By 4.0
+:licence_url: http://creativecommons.org/licenses/by/4.0/
 :template: conference
 
 .. html::
