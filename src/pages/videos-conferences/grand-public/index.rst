@@ -15,4 +15,4 @@ Retrouvez les vidéos des conférences.
 * `Pourquoi mes romans sont dans le Domaine Public Vivant ? </conferences/grand-public/pourquoi-mes-romans-sont-dans-le-domaine-public-vivant.html>`_ - par Pouhiou
 * `Json ou l'histoire d'une licence presque libre </conferences/grand-public/json-ou-lhistoire-dune-licence-presque-libre.html>`_ - par Xavier Mouton-Dubosc
 * `Découvrir la carte mondiale libre OpenStreetMap </conferences/grand-public/decouvrir-la-carte-mondiale-libre-openstreetmap.html>`_ - par Cyrille Giquello
-* `Conférence de clôture </conferences/grand-public/conference-de-cloture.html>`_ - par Benjamin Bayart, Jérémie Zimmermann
+* `Conférence de clôture </conferences/conference-de-cloture.html>`_ - par Benjamin Bayart, Jérémie Zimmermann
