@@ -3,10 +3,8 @@
 {% block content %}
 
     {% for page in pages %}
-    {% if page.title == "Le Capitole du Libre" %}
     <h1>{{ page.title }}</h1>
     <div>{{page.content}}</div>
-    {% endif %}
     {% endfor %}
     
 	<section id="actus">

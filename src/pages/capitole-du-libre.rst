@@ -2,12 +2,16 @@
 Le Capitole du Libre
 =========================
 
+:url: 
+:save_as: index.html
+
 **Le Capitole du Libre** est un événement consacré au ..Logiciel Libre.. en
 particulier, et au libre en général. Il est orienté à la fois vers le
 grand public et le public spécialisé et l'entrée est libre et gratuite.
 
-Organisé par les assocations `Toulibre`_ et `Ubuntu-fr`_, avec la participation active des clubs vidéo TV-N7 et informatique Net7 de l'ENSEEIHT, il a lieu chaque année en novembre depuis 2011. 
-L’édition 2013 aura lieu les **23 et 24 novembre 2013**.
+Organisé par les assocations `Toulibre`_ et `Ubuntu-fr`_, avec la participation active des clubs vidéo TVn7 et informatique Net7 de l'ENSEEIHT, il a lieu chaque année en novembre depuis 2011. 
+
+L’édition 2013 a eu lieu les **23 et 24 novembre 2013**. Les `vidéos des conférences`_ sont disponibles !
 
 Le Capitole du Libre c'est…
 ===========================
@@ -162,3 +166,5 @@ La solution opensource de cloud. Le programme est disponible sur le `site offici
 .. _`programme complet`: /programme.html
 .. _`Toulibre`: http://toulibre.org/
 .. _`Ubuntu-fr`: http://www.ubuntu-fr.org/
+
+.. _`vidéos des conférences`: /conferences
