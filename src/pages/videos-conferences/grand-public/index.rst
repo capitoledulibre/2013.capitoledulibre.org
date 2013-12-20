@@ -1,5 +1,5 @@
 ========================
-Conférences grand-public
+Conférences grand public
 ========================
 
 :url: conferences/grand-public/
