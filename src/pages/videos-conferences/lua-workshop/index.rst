@@ -1,5 +1,5 @@
 ==========================
-Lua Workshop
+Lua Workshop videos
 ==========================
 
 :url: conferences/lua-workshop/
