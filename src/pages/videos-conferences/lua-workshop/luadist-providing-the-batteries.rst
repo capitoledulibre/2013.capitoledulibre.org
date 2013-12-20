@@ -2,8 +2,8 @@
 LuaDist: providing the batteries
 ==============================================================================
 
-:url: conferences/lua-samedi/luadist-providing-the-batteries.html
-:save_as: conferences/lua-samedi/luadist-providing-the-batteries.html
+:url: conferences/lua-workshop/luadist-providing-the-batteries.html
+:save_as: conferences/lua-workshop/luadist-providing-the-batteries.html
 :video_url: http://stream.toulibre.org/cdl2013/lua-samedi/drahos-luadist-providing-the-batteries
 :speakers: Peter Drahos
 :licence: CC-By 4.0

@@ -2,8 +2,8 @@
 LuaRocks - past, present and future
 ==============================================================================
 
-:url: conferences/lua-samedi/luarocks-past-present-future.html
-:save_as: conferences/lua-samedi/luarocks-past-present-future.html
+:url: conferences/lua-workshop/luarocks-past-present-future.html
+:save_as: conferences/lua-workshop/luarocks-past-present-future.html
 :video_url: http://stream.toulibre.org/cdl2013/lua-samedi/muhammad-luarocks-past-present-future
 :speakers: Hisham Muhammad
 :licence: CC-By 4.0

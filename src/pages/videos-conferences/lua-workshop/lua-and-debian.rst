@@ -2,8 +2,8 @@
 Lua and Debian
 ==============================================================================
 
-:url: conferences/lua-samedi/lua-and-debian.html
-:save_as: conferences/lua-samedi/lua-and-debian.html
+:url: conferences/lua-workshop/lua-and-debian.html
+:save_as: conferences/lua-workshop/lua-and-debian.html
 :video_url: http://stream.toulibre.org/cdl2013/lua-samedi/tassi-lua-and-debian
 :speakers: Enrico Tassi
 :licence: CC-By 4.0

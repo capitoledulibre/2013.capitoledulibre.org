@@ -2,8 +2,8 @@
 Using Lua for Responsive Programming of iOS apps
 ==============================================================================
 
-:url: conferences/lua-dimanche/using-lua-for-responsive-programming-of-ios-apps.html
-:save_as: conferences/lua-dimanche/using-lua-for-responsive-programming-of-ios-apps.html
+:url: conferences/lua-workshop/using-lua-for-responsive-programming-of-ios-apps.html
+:save_as: conferences/lua-workshop/using-lua-for-responsive-programming-of-ios-apps.html
 :video_url: http://stream.toulibre.org/cdl2013/lua-dimanche/jumpertz-lua-responsive-programming-ios
 :speakers: Jean-Luc Jumpertz
 :licence: CC-By 4.0

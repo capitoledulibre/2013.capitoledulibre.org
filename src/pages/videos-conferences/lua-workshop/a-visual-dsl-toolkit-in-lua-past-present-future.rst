@@ -2,8 +2,8 @@
 A visual DSL toolkit in Lua: past, present and future
 ==============================================================================
 
-:url: conferences/lua-samedi/a-visual-dsl-toolkit-in-lua-past-present-future.html
-:save_as: conferences/lua-samedi/a-visual-dsl-toolkit-in-lua-past-present-future.html
+:url: conferences/lua-workshop/a-visual-dsl-toolkit-in-lua-past-present-future.html
+:save_as: conferences/lua-workshop/a-visual-dsl-toolkit-in-lua-past-present-future.html
 :video_url: http://stream.toulibre.org/cdl2013/lua-samedi/gladysh-visual-dsl-toolkit-in-lua
 :speakers: Alexander Gladysh
 :licence: CC-By 4.0

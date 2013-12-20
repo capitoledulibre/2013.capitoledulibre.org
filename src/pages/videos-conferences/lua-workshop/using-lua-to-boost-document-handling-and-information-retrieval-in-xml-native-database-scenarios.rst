@@ -2,8 +2,8 @@
 Using Lua to boost document handling and information retrieval in XML Native Database scenarios
 =================================================================================================
 
-:url: conferences/grand-public/using-lua-to-boost-document-handling-and-information-retrieval-in-xml-native-database-scenarios.html
-:save_as: conferences/grand-public/using-lua-to-boost-document-handling-and-information-retrieval-in-xml-native-database-scenarios.html
+:url: conferences/lua-workshop/using-lua-to-boost-document-handling-and-information-retrieval-in-xml-native-database-scenarios.html
+:save_as: conferences/lua-workshop/using-lua-to-boost-document-handling-and-information-retrieval-in-xml-native-database-scenarios.html
 :video_url: http://stream.toulibre.org/cdl2013/lua-samedi/capoccia-tirabassi-lua-boost-document-handling
 :speakers: Valerio Capoccia and Roberto Tirabassi
 :licence: CC0

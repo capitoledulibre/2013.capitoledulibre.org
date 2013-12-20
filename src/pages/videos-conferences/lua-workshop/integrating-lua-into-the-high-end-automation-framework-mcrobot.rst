@@ -2,8 +2,8 @@
 Integrating Lua into the high-end automation framework McRobot
 ==============================================================================
 
-:url: conferences/lua-samedi/integrating-lua-into-the-high-end-automation-framework-mcrobot.html
-:save_as: conferences/lua-samedi/integrating-lua-into-the-high-end-automation-framework-mcrobot.html
+:url: conferences/lua-workshop/integrating-lua-into-the-high-end-automation-framework-mcrobot.html
+:save_as: conferences/lua-workshop/integrating-lua-into-the-high-end-automation-framework-mcrobot.html
 :video_url: http://stream.toulibre.org/cdl2013/lua-samedi/jericke-integrating-lua-into-mcrobot
 :speakers: Thomas Jericke 
 :licence: CC-By 4.0

@@ -2,8 +2,8 @@
 Lua integration in NetBSD
 ==============================================================================
 
-:url: conferences/lua-dimanche/lua-integration-in-netbsd.html
-:save_as: conferences/lua-dimanche/lua-integration-in-netbsd.html
+:url: conferences/lua-workshop/lua-integration-in-netbsd.html
+:save_as: conferences/lua-workshop/lua-integration-in-netbsd.html
 :video_url: http://stream.toulibre.org/cdl2013/lua-dimanche/balmer-lua-integration-in-netbsd
 :speakers: Marc Balmer
 :licence: CC-By 4.0

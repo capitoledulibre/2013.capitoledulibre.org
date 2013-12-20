@@ -2,8 +2,8 @@
 Towards a Lua scripted operating system
 ==============================================================================
 
-:url: conferences/lua-dimanche/towards-a-lua-scripted-operating-system.html
-:save_as: conferences/lua-dimanche/towards-a-lua-scripted-operating-system.html
+:url: conferences/lua-workshop/towards-a-lua-scripted-operating-system.html
+:save_as: conferences/lua-workshop/towards-a-lua-scripted-operating-system.html
 :video_url: http://stream.toulibre.org/cdl2013/lua-dimanche/cormack-lua-scripted-operating-system
 :speakers: Justin Cormack
 :licence: CC-By 4.0

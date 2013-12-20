@@ -1,5 +1,5 @@
 ==========================
-Conférences internet-libre
+Conférences Internet Libre
 ==========================
 
 :url: conferences/internet-libre/

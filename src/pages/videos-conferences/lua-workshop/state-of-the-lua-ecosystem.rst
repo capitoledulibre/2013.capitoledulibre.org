@@ -2,8 +2,8 @@
 State of the Lua ecosystem
 ==============================================================================
 
-:url: conferences/lua-samedi/state-of-the-lua-ecosystem.html
-:save_as: conferences/lua-samedi/state-of-the-lua-ecosystem.html
+:url: conferences/lua-workshop/state-of-the-lua-ecosystem.html
+:save_as: conferences/lua-workshop/state-of-the-lua-ecosystem.html
 :video_url: http://stream.toulibre.org/cdl2013/lua-samedi/chapuis-state-of-the-lua-ecosystem
 :speakers: Pierre Chapuis
 :licence: CC-By 4.0

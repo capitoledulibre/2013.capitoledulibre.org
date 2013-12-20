@@ -2,8 +2,8 @@
 Towards practical type-checking for Lua
 ==============================================================================
 
-:url: conferences/lua-dimanche/towards-practical-type-checking-for-lua.html
-:save_as: conferences/lua-dimanche/towards-practical-type-checking-for-lua.html
+:url: conferences/lua-workshop/towards-practical-type-checking-for-lua.html
+:save_as: conferences/lua-workshop/towards-practical-type-checking-for-lua.html
 :video_url: http://stream.toulibre.org/cdl2013/lua-dimanche/fleutot-practical-type-checking-for-lua
 :speakers: Fabien Fleutot
 :licence: CC-By 4.0

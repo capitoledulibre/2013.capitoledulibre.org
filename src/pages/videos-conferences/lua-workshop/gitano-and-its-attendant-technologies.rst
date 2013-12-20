@@ -2,8 +2,8 @@
 Gitano and its attendant technologies
 ==============================================================================
 
-:url: conferences/lua-samedi/gitano-and-its-attendant-technologies.html
-:save_as: conferences/lua-samedi/gitano-and-its-attendant-technologies.html
+:url: conferences/lua-workshop/gitano-and-its-attendant-technologies.html
+:save_as: conferences/lua-workshop/gitano-and-its-attendant-technologies.html
 :video_url: http://stream.toulibre.org/cdl2013/lua-samedi/silverstone-gitano-and-attendant-technologies
 :speakers: Daniel Silverstone 
 :licence: CC-By 4.0
