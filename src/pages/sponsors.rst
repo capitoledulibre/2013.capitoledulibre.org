@@ -61,6 +61,57 @@ Partenaires presse
 
 .. include:: ../sponsors/toulouse-metropole.rst
 
+Partenaires organisation, réseau et vidéo
+==========================================
+
+Les bénévoles des clubs étudiants de l'ENSEEIHT participent chaque année à l'organisation du Capitole du Libre.
+
+.. class:: span3
+
+Moyens informatiques et réseau
+--------------------------------
+
+.. image:: /logos/logo_net7.png
+  :width: 80px
+  :alt: Net7
+  :target: Net7_
+  :class: logo
+
+.. class:: span8
+
+Réalisation des vidéos
+----------------------
+
+.. image:: /logos/logo_tvn7.png
+  :height: 50px
+  :alt: TVn7
+  :target: TVn7_
+  :class: logo
+
+.. image:: /logos/can7.png
+  :height: 50px
+  :alt: CAn7
+  :target: CAn7_
+  :class: logo
+
+.. image:: /logos/veezual.png
+  :height: 50px
+  :alt: Veezual
+  :target: Veezual_
+  :class: logo
+
+
+.. image:: /logos/vigisys.png
+  :height: 50px
+  :alt: Vigisys
+  :target: Vigisys_
+  :class: logo
+
+.. _Net7: http://www.bde.enseeiht.fr/clubs/net7/
+.. _CAn7: http://www.bde.enseeiht.fr/clubs/animation/
+.. _TVn7: http://www.tvn7.fr
+.. _Veezual: http://veezual.fr/
+.. _Vigisys: http://vigisys.fr/
 
 Pourquoi devenir sponsor
 =========================
