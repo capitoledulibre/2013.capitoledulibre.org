@@ -83,13 +83,13 @@ Réalisation des vidéos
 ----------------------
 
 .. image:: /logos/logo_tvn7.png
-  :height: 50px
+  :height: 80px
   :alt: TVn7
   :target: TVn7_
   :class: logo
 
-.. image:: /logos/can7.png
-  :height: 50px
+.. image:: /logos/logo_can7.png
+  :height: 80px
   :alt: CAn7
   :target: CAn7_
   :class: logo
